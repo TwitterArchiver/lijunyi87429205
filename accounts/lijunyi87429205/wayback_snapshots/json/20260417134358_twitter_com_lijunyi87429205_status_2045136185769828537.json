@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2045113376032854504",
+    "created_at": "2026-04-17T13:43:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:43:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045136185769828537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045136185769828537",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045113376032854504",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 民主不仅是通过一次选举就把所有权利交给执政者，而是公民一次次的参与政治的社会共识"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2045113376032854504",
+        "created_at": "2026-04-17T13:43:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:43:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045136185769828537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045136185769828537",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045113376032854504",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 民主不仅是通过一次选举就把所有权利交给执政者，而是公民一次次的参与政治的社会共识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1535701819812462600",
+        "conversation_id": "2045113376032854504",
+        "created_at": "2026-04-17T12:13:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045113376032854504"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tz_2022/status…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Tz_2022/status/2043585821526171910",
+              "start": 146,
+              "url": "https://t.co/FoHY77GEtV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045113376032854504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1359,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043585821526171910",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个科普图解释得很好。一般大众对“选举式威权政体”、“不自由的民主”和“民主倒退”这类专业术语缺乏了解，但是喜欢空谈民主。\n\n在无知无识的一般大众眼中，民主仿佛就是一劳永逸的。\n\n除了对民主只知道点儿皮毛之外，普通人对政治也只知道点儿皮毛。这样的人不适合开口闭口讲一些自己驾驭不了的大词汇。 https://t.co/FoHY77GEtV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 387,
+          "like_count": 61088,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1545
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2044836436659073291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51617,
+          "following_count": 431,
+          "like_count": 54933,
+          "listed_count": 253,
+          "media_count": 11512,
+          "tweet_count": 17698
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}
