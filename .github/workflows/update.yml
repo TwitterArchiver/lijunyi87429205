@@ -83,11 +83,11 @@ jobs:
           cd accounts/${{ steps.info.outputs.username }}
           python3 /tmp/archive.py retry --avatar-failed || true
 
-      - name: clean-html（增量，自动跳过已清洗的）
+      - name: clean-html --force（更新新下载的媒体路径）
         if: steps.check.outputs.skip == 'false'
         run: |
           cd accounts/${{ steps.info.outputs.username }}
-          python3 /tmp/archive.py clean-html || true
+          python3 /tmp/archive.py clean-html --force || true
 
       - name: build-index
         if: steps.check.outputs.skip == 'false'

@@ -112,12 +112,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh api repos/${{ github.repository }}/pages \
-            --method POST \
-            -f '{"source":{"branch":"main","path":"/"}}' 2>/dev/null || \
-          gh api repos/${{ github.repository }}/pages \
-            --method PUT \
-            -f '{"source":{"branch":"main","path":"/"}}' || true
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages \
+            --method POST --input - 2>/dev/null || \
+          echo '{"source":{"branch":"main","path":"/"}}' | \
+            gh api repos/${{ github.repository }}/pages \
+            --method PUT --input - || true
 
       - name: 设置仓库 Homepage
         env:
