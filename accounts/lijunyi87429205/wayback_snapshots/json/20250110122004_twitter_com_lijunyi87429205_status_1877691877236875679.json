@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1877689448391221643",
+    "created_at": "2025-01-10T12:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T13:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877691877236875679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877691877236875679",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877689448391221643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_7 是的，贬损他人来合理化自己糟糕的行为，某些人真的很需要让自己感觉好一点。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1877689448391221643",
+        "created_at": "2025-01-10T12:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T13:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877691877236875679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877691877236875679",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877689448391221643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_7 是的，贬损他人来合理化自己糟糕的行为，某些人真的很需要让自己感觉好一点。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "1877689448391221643",
+        "created_at": "2025-01-10T12:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T13:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877689448391221643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877689448391221643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩推这么久，我有点厌恶了，他们出现的时候总是一副“我是冲着你的灵魂来的身体是次要原因”。走的时候，是一副“我就是冲着你的身体来的”并反咬“你不就是冲着钱来的吗”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 273,
+          "like_count": 17845,
+          "listed_count": 42,
+          "media_count": 2,
+          "tweet_count": 454
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "前世@VoiceMemoNo_4｜理神分身@Lucifers6x｜你所见的只是我的一部分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "VoiceMemoNo_4"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "location": "88/388/666/3999",
+        "name": "理江",
+        "pinned_tweet_id": "1876620939972264306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22729,
+          "following_count": 175,
+          "like_count": 5556,
+          "listed_count": 67,
+          "media_count": 33,
+          "tweet_count": 2250
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

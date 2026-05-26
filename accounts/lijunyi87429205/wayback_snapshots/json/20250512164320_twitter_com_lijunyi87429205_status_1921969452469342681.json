@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921593556080455680"
+      ],
+      "media_source_tweet_id": [
+        "1921593739488698607"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1921969452469342681",
+    "created_at": "2025-05-12T16:43:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T17:43:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921969452469342681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1042070984663162880",
+          "start": 3,
+          "username": "tw111111111111"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFiCg7Ep3A",
+          "end": 52,
+          "expanded_url": "https://x.com/tw111111111111/status/1921593739488698607/photo/1",
+          "media_key": "3_1921593556080455680",
+          "start": 29,
+          "url": "https://t.co/gFiCg7Ep3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921969452469342681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921593739488698607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tw111111111111: 牠用完牠的生命了 https://t.co/gFiCg7Ep3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1173,
+        "media_key": "3_1921593556080455680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqrfKIDa8AA4k16.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921593556080455680"
+          ],
+          "media_source_tweet_id": [
+            "1921593739488698607"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921969452469342681",
+        "created_at": "2025-05-12T16:43:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T17:43:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921969452469342681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1042070984663162880",
+              "start": 3,
+              "username": "tw111111111111"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFiCg7Ep3A",
+              "end": 52,
+              "expanded_url": "https://x.com/tw111111111111/status/1921593739488698607/photo/1",
+              "media_key": "3_1921593556080455680",
+              "start": 29,
+              "url": "https://t.co/gFiCg7Ep3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921969452469342681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921593739488698607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tw111111111111: 牠用完牠的生命了 https://t.co/gFiCg7Ep3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921593556080455680"
+          ]
+        },
+        "author_id": "1042070984663162880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1921593739488698607",
+        "created_at": "2025-05-11T15:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T16:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921593739488698607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFiCg7Ep3A",
+              "end": 32,
+              "expanded_url": "https://x.com/tw111111111111/status/1921593739488698607/photo/1",
+              "media_key": "3_1921593556080455680",
+              "start": 9,
+              "url": "https://t.co/gFiCg7Ep3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921593739488698607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 55615,
+          "like_count": 1172,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "牠用完牠的生命了 https://t.co/gFiCg7Ep3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 278,
+          "like_count": 22311,
+          "listed_count": 8,
+          "media_count": 2,
+          "tweet_count": 473
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T15:20:58.000Z",
+        "description": "贈送防災包清單的活動因憂鬱症發作而中止，還望海涵。\n\n諸位自求多福。\n\n0407防災包清單：\nhttps://t.co/nRW7026r3a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "reurl.cc/zqQMap",
+                "end": 70,
+                "expanded_url": "https://reurl.cc/zqQMap",
+                "start": 47,
+                "url": "https://t.co/nRW7026r3a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "metro.tokyo.lg.jp/chinese/guide/…",
+                "end": 23,
+                "expanded_url": "https://www.metro.tokyo.lg.jp/chinese/guide/bosai/index.html",
+                "start": 0,
+                "url": "https://t.co/B9RVaAX6ka"
+              }
+            ]
+          }
+        },
+        "id": "1042070984663162880",
+        "location": "台灣國彰化縣",
+        "name": "🌑",
+        "pinned_tweet_id": "1866626794574712967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918908787911757824/qivl3ByI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15342,
+          "following_count": 965,
+          "like_count": 243988,
+          "listed_count": 57,
+          "media_count": 40184,
+          "tweet_count": 104951
+        },
+        "url": "https://t.co/B9RVaAX6ka",
+        "username": "tw111111111111",
+        "verified": false
+      }
+    ]
+  }
+}

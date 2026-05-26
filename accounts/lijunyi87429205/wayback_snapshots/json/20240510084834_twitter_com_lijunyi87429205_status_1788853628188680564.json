@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1788753071906128121",
+    "created_at": "2024-05-10T08:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T09:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788853628188680564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "VoiceMemoNo_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788853628188680564",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788852653663150294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_9 有所追求就好，就我看来你好像是有的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1788753071906128121",
+        "created_at": "2024-05-10T08:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788853628188680564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "VoiceMemoNo_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788853628188680564",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788852653663150294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_9 有所追求就好，就我看来你好像是有的。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "conversation_id": "1788753071906128121",
+        "created_at": "2024-05-10T08:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788852653663150294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788852653663150294",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788852231514767625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 那我可能是比较懒，我真的不喜欢看书，但又不爱过分的娱乐，不算上进也不算摆烂的普通基因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 212,
+          "like_count": 7042,
+          "listed_count": 46,
+          "tweet_count": 192
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "厌人厌世厌男厌女厌屌厌逼喜欢猎奇gore害怕慎关",
+        "id": "1787086493636521984",
+        "name": "okfine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788597068636057600/Uc9YKDrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "VoiceMemoNo_9",
+        "verified": false
+      }
+    ]
+  }
+}

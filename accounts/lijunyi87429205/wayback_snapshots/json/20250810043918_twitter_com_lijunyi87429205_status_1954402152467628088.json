@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1954063207439433929",
+    "created_at": "2025-08-10T04:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-10T05:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954402152467628088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1889161829743779840",
+          "start": 0,
+          "username": "WZhenfeng68303"
+        },
+        {
+          "end": 29,
+          "id": "2772757234",
+          "start": 16,
+          "username": "rainbow78521"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954402152467628088",
+    "in_reply_to_user_id": "1889161829743779840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954386686546522570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WZhenfeng68303 @rainbow78521 目前乌克兰的条件是乌克兰暂时搁置领土索求，国际社会不承认任何被俄罗斯占领的领土。停火后乌克兰立即加入北约以及欧盟。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1954063207439433929",
+        "created_at": "2025-08-10T04:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T05:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954402152467628088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1889161829743779840",
+              "start": 0,
+              "username": "WZhenfeng68303"
+            },
+            {
+              "end": 29,
+              "id": "2772757234",
+              "start": 16,
+              "username": "rainbow78521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954402152467628088",
+        "in_reply_to_user_id": "1889161829743779840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954386686546522570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WZhenfeng68303 @rainbow78521 目前乌克兰的条件是乌克兰暂时搁置领土索求，国际社会不承认任何被俄罗斯占领的领土。停火后乌克兰立即加入北约以及欧盟。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889161829743779840",
+        "conversation_id": "1954063207439433929",
+        "created_at": "2025-08-10T03:37:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-10T04:37:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954386686546522570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2772757234",
+              "start": 0,
+              "username": "rainbow78521"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954386686546522570",
+        "in_reply_to_user_id": "2772757234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954063207439433929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainbow78521 他的正真的解决方案是什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 315,
+          "like_count": 30434,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 560
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T03:58:36.000Z",
+        "description": "",
+        "id": "1889161829743779840",
+        "name": "sleep sue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889162856442265600/zJX2iHay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 6,
+          "like_count": 96,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1009
+        },
+        "username": "WZhenfeng68303",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-16T21:40:26.000Z",
+        "description": "Hope is a life, and life is a hope",
+        "id": "2772757234",
+        "name": "rainbow7852",
+        "pinned_tweet_id": "1787793638304420127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085067996387835904/cig0kMNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24244,
+          "following_count": 2088,
+          "like_count": 68488,
+          "listed_count": 165,
+          "media_count": 12973,
+          "tweet_count": 48800
+        },
+        "username": "rainbow78521",
+        "verified": true
+      }
+    ]
+  }
+}

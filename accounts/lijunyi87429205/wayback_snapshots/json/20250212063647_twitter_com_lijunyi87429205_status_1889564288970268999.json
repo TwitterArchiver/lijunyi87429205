@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1889223578710888692",
+    "created_at": "2025-02-12T06:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T07:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889564288970268999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837444574996058112",
+          "start": 0,
+          "username": "Traveller_Luo"
+        },
+        {
+          "end": 29,
+          "id": "1776452300816719872",
+          "start": 15,
+          "username": "VoiceMemoNo_7"
+        },
+        {
+          "end": 43,
+          "id": "1580121151359320065",
+          "start": 30,
+          "username": "Kuronekoqwq2"
+        },
+        {
+          "end": 58,
+          "id": "1815649539057201152",
+          "start": 44,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889564288970268999",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889562843722178599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Traveller_Luo @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 至于上面所提的“理性是否属于灵魂的一部分”灵魂本就是非常感性的一个概念，意志和理想结合在一起会没那么违和，两者的调和才能让创作更加优越，就好像精确还原人体解剖结构的大理石塑是理性的成就，英雄人物的传奇故事与天使背上的翅膀就是感性的产物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1889223578710888692",
+        "created_at": "2025-02-12T06:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889564288970268999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837444574996058112",
+              "start": 0,
+              "username": "Traveller_Luo"
+            },
+            {
+              "end": 29,
+              "id": "1776452300816719872",
+              "start": 15,
+              "username": "VoiceMemoNo_7"
+            },
+            {
+              "end": 43,
+              "id": "1580121151359320065",
+              "start": 30,
+              "username": "Kuronekoqwq2"
+            },
+            {
+              "end": 58,
+              "id": "1815649539057201152",
+              "start": 44,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889564288970268999",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889562843722178599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Traveller_Luo @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 至于上面所提的“理性是否属于灵魂的一部分”灵魂本就是非常感性的一个概念，意志和理想结合在一起会没那么违和，两者的调和才能让创作更加优越，就好像精确还原人体解剖结构的大理石塑是理性的成就，英雄人物的传奇故事与天使背上的翅膀就是感性的产物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1889223578710888692",
+        "created_at": "2025-02-12T06:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T07:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889562843722178599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837444574996058112",
+              "start": 0,
+              "username": "Traveller_Luo"
+            },
+            {
+              "end": 29,
+              "id": "1776452300816719872",
+              "start": 15,
+              "username": "VoiceMemoNo_7"
+            },
+            {
+              "end": 43,
+              "id": "1580121151359320065",
+              "start": 30,
+              "username": "Kuronekoqwq2"
+            },
+            {
+              "end": 58,
+              "id": "1815649539057201152",
+              "start": 44,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889562843722178599",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889561829614981415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Traveller_Luo @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 程序工程师当然可以倾注感情去完成自己的代码，但在程序的显性表达上，比如一款游戏，一个软件，总是需要依赖其他艺术形式来感染或者传递一些东西，代码更像是基本的框架，如果单靠代码来贴合灵魂，这灵魂可能对大部分人都是难懂的，至少现阶段的ai还不具备这样的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 283,
+          "like_count": 18437,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 456
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T10:51:47.000Z",
+        "description": "喜欢色色，或者说是无法脱离欲望的束缚。\n平时可能会有一点点的变态。偶尔也会正经一下（亦或者是发癫）。",
+        "id": "1837444574996058112",
+        "location": "潮州",
+        "name": "星空中的旅者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846247961937731584/1hLzYGjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 665,
+          "like_count": 334,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 657
+        },
+        "username": "Traveller_Luo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "｜ 理神的精神世界👉@Lucifers6x｜吉伊型人格｜小奶发育中…｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江",
+        "pinned_tweet_id": "1884914288193872260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23120,
+          "following_count": 196,
+          "like_count": 5889,
+          "listed_count": 71,
+          "media_count": 33,
+          "tweet_count": 2042
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T09:00:23.000Z",
+        "description": "思考过后还是活着好",
+        "id": "1580121151359320065",
+        "location": "Neverland",
+        "name": "廖雨时",
+        "pinned_tweet_id": "1809031319168635024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772987094090358784/Q_cROAQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 294,
+          "like_count": 7355,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1512
+        },
+        "username": "Kuronekoqwq2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 930,
+          "following_count": 926,
+          "like_count": 10951,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 5036
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

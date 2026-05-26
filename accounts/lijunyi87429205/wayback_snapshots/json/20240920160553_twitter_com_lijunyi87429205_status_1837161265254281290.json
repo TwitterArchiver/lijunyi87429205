@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1837161265254281290",
+    "created_at": "2024-09-20T16:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-20T17:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837161265254281290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1837161265254281290",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837138036708041134",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: 中日关系并不是一来就是死对头，而是经历过将近20年的黄金时代，从那以后中日关系从江泽民时代开始恶化，但是长期裂痕跟中共无事生非挑起斗争寻求机会的做法有直接关系：你倒是赢麻了，两国关系就成了牺牲品。不论是在具体谈判中，还是在煽动极端民族主…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1837161265254281290",
+        "created_at": "2024-09-20T16:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T17:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837161265254281290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837161265254281290",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837138036708041134",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: 中日关系并不是一来就是死对头，而是经历过将近20年的黄金时代，从那以后中日关系从江泽民时代开始恶化，但是长期裂痕跟中共无事生非挑起斗争寻求机会的做法有直接关系：你倒是赢麻了，两国关系就成了牺牲品。不论是在具体谈判中，还是在煽动极端民族主…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509939466101825542",
+        "conversation_id": "1837138036708041134",
+        "created_at": "2024-09-20T14:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-20T15:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837138036708041134"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1837121169025106076",
+              "start": 143,
+              "url": "https://t.co/M2vaW74Xsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837138036708041134",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3369,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837121169025106076",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中日关系并不是一来就是死对头，而是经历过将近20年的黄金时代，从那以后中日关系从江泽民时代开始恶化，但是长期裂痕跟中共无事生非挑起斗争寻求机会的做法有直接关系：你倒是赢麻了，两国关系就成了牺牲品。不论是在具体谈判中，还是在煽动极端民族主义问题上，中共始终有一种破坏性极强的毛泽东式斗… https://t.co/M2vaW74Xsi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 276,
+          "like_count": 13746,
+          "listed_count": 43,
+          "tweet_count": 413
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. 本推订阅服务（点击右上角👆）会分享一些国际关系前沿学术著作、社会科学科普著作、深度社会评论、文学艺术评论、哲学笔记以及Substack专栏文章精彩内容等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1832466968101974289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72016,
+          "following_count": 432,
+          "like_count": 82161,
+          "listed_count": 446,
+          "tweet_count": 20960
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

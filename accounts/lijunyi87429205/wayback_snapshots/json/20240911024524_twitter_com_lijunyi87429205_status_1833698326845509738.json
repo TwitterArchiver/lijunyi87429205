@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1833667444356890948",
+    "created_at": "2024-09-11T02:45:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T03:45:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833698326845509738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1612381098809634816",
+          "start": 0,
+          "username": "a_free_cat00"
+        },
+        {
+          "end": 30,
+          "id": "1249525383797456898",
+          "start": 14,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833698326845509738",
+    "in_reply_to_user_id": "1612381098809634816",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833670052329263480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_free_cat00 @jakobsonradical 老婆孩子？牛马贱奴！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1833667444356890948",
+        "created_at": "2024-09-11T02:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T03:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833698326845509738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1612381098809634816",
+              "start": 0,
+              "username": "a_free_cat00"
+            },
+            {
+              "end": 30,
+              "id": "1249525383797456898",
+              "start": 14,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833698326845509738",
+        "in_reply_to_user_id": "1612381098809634816",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833670052329263480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_free_cat00 @jakobsonradical 老婆孩子？牛马贱奴！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1612381098809634816",
+        "conversation_id": "1833667444356890948",
+        "created_at": "2024-09-11T00:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T01:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833670052329263480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833670052329263480",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 166,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833667444356890948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 本质区别：\n一个赚别人钱让自家老婆孩子过上好日子；\n一个骗自己老婆孩子钱让别人过上好日子。。🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 274,
+          "like_count": 13346,
+          "listed_count": 43,
+          "tweet_count": 390
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T09:29:52.000Z",
+        "description": "已翻墙逃出的一只自由散漫的野猫。 追求自由民主，喜欢反讽专政。 家里圈养的粉红猫、无脑猫、脑残猫、嘴喷芬芳猫、乱发广告猫，请自觉绕道。与世无争，懒得与粉红争论，见一个屏蔽一个。@a_free_cat20为备用号。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "a_free_cat20"
+              }
+            ]
+          }
+        },
+        "id": "1612381098809634816",
+        "location": "東京",
+        "name": "自由散漫喵",
+        "pinned_tweet_id": "1777509990678548720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1612381601757036545/1L-2e7ro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 263,
+          "like_count": 15748,
+          "listed_count": 10,
+          "tweet_count": 6380
+        },
+        "username": "a_free_cat00",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210198,
+          "following_count": 1519,
+          "like_count": 43844,
+          "listed_count": 877,
+          "tweet_count": 22897
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

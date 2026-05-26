@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2023688830172492216",
+    "created_at": "2026-02-17T11:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T12:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023715916551516189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934711316608102400",
+          "start": 0,
+          "username": "D13D1N2019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023715916551516189",
+    "in_reply_to_user_id": "1934711316608102400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023688830172492216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D13D1N2019 水熊就是好孩子🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2023688830172492216",
+        "created_at": "2026-02-17T11:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023715916551516189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934711316608102400",
+              "start": 0,
+              "username": "D13D1N2019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023715916551516189",
+        "in_reply_to_user_id": "1934711316608102400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023688830172492216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D13D1N2019 水熊就是好孩子🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934711316608102400",
+        "conversation_id": "2023688830172492216",
+        "created_at": "2026-02-17T09:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T10:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023688830172492216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023688830172492216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我做的好差劲啊，但还是想从谁口中听到“好孩子”这句话。我一直都在追求“好孩子”这个评价，多夸夸我吧，尽管我做得很差劲……\n诱拐小孩的妖狐啊，为什么没把我耶拐走？是因为我不再是孩子了吗，于是连被诱拐的机会都不再有？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 374,
+          "like_count": 52954,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1068
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T20:35:16.000Z",
+        "description": "18↑/中文/不定时上线/  \n可悲的无形扭曲之物  无人注视的幽灵/会发布药物相关与我的负面情绪/本账号为逃生舱/大号@Kumamushi2021",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 60,
+                "username": "Kumamushi2021"
+              }
+            ]
+          }
+        },
+        "id": "1934711316608102400",
+        "location": "hell",
+        "name": "🐟",
+        "pinned_tweet_id": "1975506058627195373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934715028281884672/Ne-xoL5e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 12,
+          "like_count": 146,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 212
+        },
+        "username": "D13D1N2019",
+        "verified": false
+      }
+    ]
+  }
+}

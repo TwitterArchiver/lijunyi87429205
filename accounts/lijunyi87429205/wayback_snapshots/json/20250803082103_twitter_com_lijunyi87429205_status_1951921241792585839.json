@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1951562903422906864",
+    "created_at": "2025-08-03T08:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T09:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951921241792585839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663074160657195008",
+          "start": 0,
+          "username": "O__O___X__X"
+        },
+        {
+          "end": 24,
+          "id": "1535701819812462600",
+          "start": 13,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951921241792585839",
+    "in_reply_to_user_id": "1663074160657195008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951810187792417217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O__O___X__X @Kenntnis22 俄罗斯连维持伊拉克控制都难了，有必要担心它插手伊朗吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1951562903422906864",
+        "created_at": "2025-08-03T08:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T09:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951921241792585839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663074160657195008",
+              "start": 0,
+              "username": "O__O___X__X"
+            },
+            {
+              "end": 24,
+              "id": "1535701819812462600",
+              "start": 13,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951921241792585839",
+        "in_reply_to_user_id": "1663074160657195008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951810187792417217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O__O___X__X @Kenntnis22 俄罗斯连维持伊拉克控制都难了，有必要担心它插手伊朗吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663074160657195008",
+        "conversation_id": "1951562903422906864",
+        "created_at": "2025-08-03T00:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T01:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951810187792417217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951810187792417217",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951562903422906864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 以前的绥靖政策大概率为了换取不干涉伊朗，现在伊朗已经搞定了，图穷匕见。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 305,
+          "like_count": 29734,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 521
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:46:03.000Z",
+        "description": "Momo",
+        "id": "1663074160657195008",
+        "location": "Hong Kong",
+        "name": "MOMO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886988829732823041/u_A6dqwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 355,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 428
+        },
+        "username": "O__O___X__X",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1951566770457727394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35706,
+          "following_count": 329,
+          "like_count": 29599,
+          "listed_count": 168,
+          "media_count": 5914,
+          "tweet_count": 9382
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

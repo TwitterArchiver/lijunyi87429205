@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1979200180726497730",
+    "created_at": "2025-10-17T16:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T17:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979220976488583547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682735551072423936",
+          "start": 0,
+          "username": "china_action"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979220976488583547",
+    "in_reply_to_user_id": "1682735551072423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979200180726497730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_action 我想因为非常不巧的网络原因，我只能用文字发言，我想说的比较现实主义的部分，比如关于墙内仍然存在的大量“基本盘”，已经有几位很好的总结了。大部分国人因受到的教育，活在一个由意识形态主导的“平行世界”中。一概的宣传反共极容易，被当局引导为“反华”的证明。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1979200180726497730",
+        "created_at": "2025-10-17T16:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T17:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979220976488583547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682735551072423936",
+              "start": 0,
+              "username": "china_action"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979220976488583547",
+        "in_reply_to_user_id": "1682735551072423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979200180726497730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_action 我想因为非常不巧的网络原因，我只能用文字发言，我想说的比较现实主义的部分，比如关于墙内仍然存在的大量“基本盘”，已经有几位很好的总结了。大部分国人因受到的教育，活在一个由意识形态主导的“平行世界”中。一概的宣传反共极容易，被当局引导为“反华”的证明。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682735551072423936",
+        "conversation_id": "1979200180726497730",
+        "created_at": "2025-10-17T14:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T15:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979200180726497730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "China Action’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MnGn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MnGnPzPzooxO",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1978851318119706625/v6Em5B0J?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978851318119706625/v6Em5B0J?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Scheduled: 真理部吹哨者频出，维稳长城不稳？",
+              "unwound_url": "https://twitter.com/i/spaces/1MnGnPzPzooxO/peek",
+              "url": "https://t.co/EtKs6nKoxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979200180726497730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 436,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EtKs6nKoxl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 368,
+          "like_count": 37437,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 730
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T12:53:44.000Z",
+        "description": "“中国行动”是由现代政治文明倡导者发起成立的一个非盈利组织，目的在于终结中国数千年之专制制度，建立一个自由民主文明的、真正的新中国。为达成这一目标，它携手全球华人，致力于推动在约定的共同时间统一举行抗议、罢工、罢课，开展大规模非暴力不合作运动，推翻独裁专制、开启民主转型之路。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaaction.org",
+                "end": 23,
+                "expanded_url": "https://chinaaction.org/",
+                "start": 0,
+                "url": "https://t.co/NPgtDrHamQ"
+              }
+            ]
+          }
+        },
+        "id": "1682735551072423936",
+        "name": "China Action",
+        "pinned_tweet_id": "1978851316555268413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281655083700224/saaphaEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17872,
+          "following_count": 2165,
+          "like_count": 5610,
+          "listed_count": 61,
+          "media_count": 625,
+          "tweet_count": 6769
+        },
+        "url": "https://t.co/NPgtDrHamQ",
+        "username": "china_action",
+        "verified": true
+      }
+    ]
+  }
+}

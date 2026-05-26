@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1830861815812853760"
+      ],
+      "media_source_tweet_id": [
+        "1830861947149189439"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1831288780126650821",
+    "created_at": "2024-09-04T11:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T12:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831288780126650821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1235837260869713922",
+          "start": 3,
+          "username": "1034_MIRACLE"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j4miqaja4y",
+          "end": 55,
+          "expanded_url": "https://twitter.com/1034_MIRACLE/status/1830861947149189439/photo/1",
+          "media_key": "3_1830861815812853760",
+          "start": 32,
+          "url": "https://t.co/j4mIqaJa4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831288780126650821",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830861947149189439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1034_MIRACLE: 校领导：谁画的这图？开除了 https://t.co/j4mIqaJa4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1504,
+        "media_key": "3_1830861815812853760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWiHHwRaEAAT9Z0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830861815812853760"
+          ],
+          "media_source_tweet_id": [
+            "1830861947149189439"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1831288780126650821",
+        "created_at": "2024-09-04T11:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T12:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831288780126650821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1235837260869713922",
+              "start": 3,
+              "username": "1034_MIRACLE"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4miqaja4y",
+              "end": 55,
+              "expanded_url": "https://twitter.com/1034_MIRACLE/status/1830861947149189439/photo/1",
+              "media_key": "3_1830861815812853760",
+              "start": 32,
+              "url": "https://t.co/j4mIqaJa4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831288780126650821",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830861947149189439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1034_MIRACLE: 校领导：谁画的这图？开除了 https://t.co/j4mIqaJa4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1830861815812853760"
+          ]
+        },
+        "author_id": "1235837260869713922",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1830861947149189439",
+        "created_at": "2024-09-03T06:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T07:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830861947149189439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j4miqaja4y",
+              "end": 37,
+              "expanded_url": "https://twitter.com/1034_MIRACLE/status/1830861947149189439/photo/1",
+              "media_key": "3_1830861815812853760",
+              "start": 14,
+              "url": "https://t.co/j4mIqaJa4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830861947149189439",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 318229,
+          "like_count": 5730,
+          "quote_count": 17,
+          "reply_count": 58,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "校领导：谁画的这图？开除了 https://t.co/j4mIqaJa4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 268,
+          "like_count": 13029,
+          "listed_count": 43,
+          "tweet_count": 377
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T07:59:13.000Z",
+        "description": "好好休息，好好吃饭，好好锻炼，大部分时候正能量get，月球人玩家(≧∇≦)/，咸鱼社畜一枚，愿大家每天元气满满，看心情互fo（实话）请适度且合理地键政，请勿轻易透过ID来随意批判他人！B站偶尔投稿用户，😋🤤🌟🍉转生移至@MIRACLE91490649",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 109,
+                "username": "MIRACLE91490649"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/44358881",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/44358881",
+                "start": 0,
+                "url": "https://t.co/jLKOoDkHQ6"
+              }
+            ]
+          }
+        },
+        "id": "1235837260869713922",
+        "location": "上海",
+        "name": "东少DのMiracle(教我画画）",
+        "pinned_tweet_id": "1829911257534906512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790429901729984513/bmLQbH2D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 5084,
+          "like_count": 139932,
+          "listed_count": 24,
+          "tweet_count": 59238
+        },
+        "url": "https://t.co/jLKOoDkHQ6",
+        "username": "1034_MIRACLE",
+        "verified": false
+      }
+    ]
+  }
+}

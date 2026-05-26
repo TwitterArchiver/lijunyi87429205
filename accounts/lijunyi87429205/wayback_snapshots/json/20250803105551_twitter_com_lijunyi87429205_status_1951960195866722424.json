@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1951757309388177833",
+    "created_at": "2025-08-03T10:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T11:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951960195866722424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1497184178147774472",
+          "start": 0,
+          "username": "WeineawskiEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951960195866722424",
+    "in_reply_to_user_id": "1497184178147774472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951757309388177833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeineawskiEX 你在浪费时间，我也是。他显然缺乏对周遭世界变化的相应能力。除了自己脑中预有的谈论模式以外缺乏沟通的兴趣。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1951757309388177833",
+        "created_at": "2025-08-03T10:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T11:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951960195866722424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1497184178147774472",
+              "start": 0,
+              "username": "WeineawskiEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951960195866722424",
+        "in_reply_to_user_id": "1497184178147774472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951757309388177833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeineawskiEX 你在浪费时间，我也是。他显然缺乏对周遭世界变化的相应能力。除了自己脑中预有的谈论模式以外缺乏沟通的兴趣。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497184178147774472",
+        "conversation_id": "1951757309388177833",
+        "created_at": "2025-08-02T21:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T22:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951757309388177833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cat_the_Guru/s…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Cat_the_Guru/status/1951754906777637121",
+              "start": 34,
+              "url": "https://t.co/jQBkjNyMmQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951757309388177833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 700,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951754906777637121",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完了，这货真变成没了靖国神社四个字就不会说话的弱智儿了，我有罪啊😭 https://t.co/jQBkjNyMmQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 307,
+          "like_count": 29754,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 524
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T12:20:17.000Z",
+        "description": "Defend our way of life/\n每日播报俄乌战争新闻/\n锁推的关注我一律block/\n孝子们别找了亚速钢铁厂的大鱼就是我/\n粉蛆、绿白、蓝脑、DS份子勿扰/每两周更新一次架空世界作品 #子夜之后 停止对线",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 100,
+                "tag": "子夜之后"
+              }
+            ]
+          }
+        },
+        "id": "1497184178147774472",
+        "location": "2077红军村遗迹",
+        "name": "埃里克奥尔森上将归来，笑看鹅孝子土崩瓦解，黄/皇鹅被送上绞刑架之日即将到来👊🇺🇸🔥",
+        "pinned_tweet_id": "1650429439053025282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269169947594752/tvkHAqr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4830,
+          "following_count": 3587,
+          "like_count": 137335,
+          "listed_count": 38,
+          "media_count": 3251,
+          "tweet_count": 56780
+        },
+        "username": "WeineawskiEX",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1931961508310724609"
+      ],
+      "media_source_tweet_id": [
+        "1935366898520387952"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1942583967955443763",
+    "created_at": "2025-07-08T13:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T14:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942583967955443763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1509113641483837444",
+          "start": 3,
+          "username": "memeslich"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KdgWOXSRiq",
+          "end": 45,
+          "expanded_url": "https://x.com/mask_bastard/status/1935366898520387952/video/1",
+          "media_key": "7_1931961508310724609",
+          "start": 22,
+          "url": "https://t.co/KdgWOXSRiq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942583967955443763",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5672
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942204498471973012",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @memeslich: [crow] https://t.co/KdgWOXSRiq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12032,
+        "height": 720,
+        "media_key": "7_1931961508310724609",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1931961508310724609/pu/img/AT8c356W2rL2E89O.jpg",
+        "public_metrics": {
+          "view_count": 338399
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931961508310724609/pu/vid/avc1/320x320/JNWV6Ia7xg5C5Qc-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931961508310724609/pu/vid/avc1/540x540/ywg4gXGu1rpkw2WF.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1931961508310724609/pu/vid/avc1/720x720/xfCW3S24qJcZObh3.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1931961508310724609/pu/pl/SySTTtMPPMw3eM2c.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931961508310724609"
+          ],
+          "media_source_tweet_id": [
+            "1935366898520387952"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1942583967955443763",
+        "created_at": "2025-07-08T13:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T14:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942583967955443763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1509113641483837444",
+              "start": 3,
+              "username": "memeslich"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdgWOXSRiq",
+              "end": 45,
+              "expanded_url": "https://x.com/mask_bastard/status/1935366898520387952/video/1",
+              "media_key": "7_1931961508310724609",
+              "start": 22,
+              "url": "https://t.co/KdgWOXSRiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942583967955443763",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5672
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942204498471973012",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @memeslich: [crow] https://t.co/KdgWOXSRiq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1931961508310724609"
+          ],
+          "media_source_tweet_id": [
+            "1935366898520387952"
+          ]
+        },
+        "author_id": "1509113641483837444",
+        "conversation_id": "1942204498471973012",
+        "created_at": "2025-07-07T12:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T13:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942204498471973012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KdgWOXSRiq",
+              "end": 30,
+              "expanded_url": "https://x.com/mask_bastard/status/1935366898520387952/video/1",
+              "media_key": "7_1931961508310724609",
+              "start": 7,
+              "url": "https://t.co/KdgWOXSRiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942204498471973012",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6018,
+          "impression_count": 609338,
+          "like_count": 44215,
+          "quote_count": 111,
+          "reply_count": 67,
+          "retweet_count": 5672
+        },
+        "reply_settings": "everyone",
+        "text": "[crow] https://t.co/KdgWOXSRiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 309,
+          "like_count": 27120,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 480
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-30T10:22:05.000Z",
+        "description": "influencer type DM 💀 Dungeons & Dragons, RPG, lord of the rings, tabletop, & fantasy memes every day! Evil but authentic dungeon master💀Writer for @meatcanyon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 147,
+                "username": "meatcanyon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/FHUVBgpyq4",
+                "end": 23,
+                "expanded_url": "https://discord.gg/FHUVBgpyq4",
+                "start": 0,
+                "url": "https://t.co/rZJy1oXI97"
+              }
+            ]
+          }
+        },
+        "id": "1509113641483837444",
+        "location": "Join The Boneyard discord 👇👇",
+        "name": "memeslich 💀 dnd memes",
+        "pinned_tweet_id": "1934399271413088549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927696523296391168/M5LoJIsO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25641,
+          "following_count": 353,
+          "like_count": 23414,
+          "listed_count": 103,
+          "media_count": 29957,
+          "tweet_count": 54253
+        },
+        "url": "https://t.co/rZJy1oXI97",
+        "username": "memeslich",
+        "verified": true
+      }
+    ]
+  }
+}

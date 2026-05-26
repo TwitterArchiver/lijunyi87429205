@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1948747152068673838",
+    "created_at": "2025-07-25T17:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948793595458453971"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164688189673463808",
+          "start": 0,
+          "username": "Hina_Tokugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948793595458453971",
+    "in_reply_to_user_id": "1164688189673463808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948747152068673838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hina_Tokugawa 针对和历史问题无关的个人的这种攻击就只是一种民粹主义或者种族主义而已，别太在意他们。只是和你生活的更近的国产红脖子而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1948747152068673838",
+        "created_at": "2025-07-25T17:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948793595458453971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164688189673463808",
+              "start": 0,
+              "username": "Hina_Tokugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948793595458453971",
+        "in_reply_to_user_id": "1164688189673463808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948747152068673838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hina_Tokugawa 针对和历史问题无关的个人的这种攻击就只是一种民粹主义或者种族主义而已，别太在意他们。只是和你生活的更近的国产红脖子而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164688189673463808",
+        "conversation_id": "1948747152068673838",
+        "created_at": "2025-07-25T14:08:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T15:08:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948747152068673838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948747152068673838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 216,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说到鞑子。突然想起来一个事儿。好多人觉得我提这个是自诩比别人好。倒也不是。人生中感觉青少年阶段跟别的汉族除了身份证没有区别，但是等长大了正赶上杀鞑子说流行，都不知道怎么办。trans至少表面上看起来可以选，你少民这个身份没法选啊。本来没啥事，倒是搞得我跟异物一样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 313,
+          "like_count": 28932,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 511
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T23:58:06.000Z",
+        "description": "Transgender Female. HRT now, already looks like femboy (kinda)\n跨性别女性。MTF（激素治疗中），人生目标就是成为女仆。",
+        "id": "1164688189673463808",
+        "location": "China",
+        "name": "苏Nya Supports BLM",
+        "pinned_tweet_id": "1497177131566047232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164688280375316481/aIKqjv9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 700,
+          "like_count": 36534,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 13632
+        },
+        "username": "Hina_Tokugawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1944311560220148022",
+    "created_at": "2025-07-14T02:39:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T03:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944587562770997716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944587562770997716",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944311560220148022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 国内教育者能有“做一天和尚撞一天钟”的意识都已经不错了。无论政治还是教育都寻不到那么多圣人贤人来顶。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1944311550874914816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvuVDdqWkAA5i6D.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1944311560220148022",
+        "created_at": "2025-07-14T02:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T03:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944587562770997716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944587562770997716",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944311560220148022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 国内教育者能有“做一天和尚撞一天钟”的意识都已经不错了。无论政治还是教育都寻不到那么多圣人贤人来顶。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944311550874914816"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1944311560220148022",
+        "created_at": "2025-07-13T08:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T09:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944311560220148022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sfexG5ty4L",
+              "end": 86,
+              "expanded_url": "https://x.com/Kenntnis22/status/1944311560220148022/photo/1",
+              "media_key": "3_1944311550874914816",
+              "start": 63,
+              "url": "https://t.co/sfexG5ty4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944311560220148022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2270,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“教育者就应该有‘地狱不空我不成佛’的意志。”\n\n学校不应该把人往绝路上逼。网络暴力宣泄情绪不负责任，学校不能这样不负责任。 https://t.co/sfexG5ty4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 314,
+          "like_count": 27801,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 490
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1941067140859384127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34473,
+          "following_count": 323,
+          "like_count": 28245,
+          "listed_count": 160,
+          "media_count": 5611,
+          "tweet_count": 8890
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

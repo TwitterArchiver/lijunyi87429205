@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1960763541163794635",
+    "created_at": "2025-08-27T18:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T19:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960769692068667413"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoicememoNo_11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960769692068667413",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960768117891584368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoicememoNo_11 酒精会让人放松，但如果你本能的感觉“这里不安全，这个人不可靠”饮酒会变成一种可怕的折磨。就像酒桌应酬一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1960763541163794635",
+        "created_at": "2025-08-27T18:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960769692068667413"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoicememoNo_11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960769692068667413",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960768117891584368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoicememoNo_11 酒精会让人放松，但如果你本能的感觉“这里不安全，这个人不可靠”饮酒会变成一种可怕的折磨。就像酒桌应酬一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "1960763541163794635",
+        "created_at": "2025-08-27T18:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T19:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960768117891584368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960768117891584368",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960767103499116579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 好想去喝酒，好想学会如何进行一次闲聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 338,
+          "like_count": 32424,
+          "listed_count": 8,
+          "media_count": 14,
+          "tweet_count": 598
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "小理俳句✍｜CPTSD躯体化｜看到我的皮囊也请看到我的内脏｜死于话多的反派｜请和我互动｜内脏罐@Lucifers6x｜给我钱可以帮助我成为更好的我🚪88.好友位/666 .我会以建立朋友关系的方式对待你，甚至是成为实名朋友建立现实世界的羁绊⁽¯꒳¯⁾.！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "江理",
+        "pinned_tweet_id": "1958483248348291348",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947702789519589376/O59acdfO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27217,
+          "following_count": 171,
+          "like_count": 6898,
+          "listed_count": 6,
+          "media_count": 27,
+          "tweet_count": 2579
+        },
+        "username": "VoicememoNo_11",
+        "verified": false
+      }
+    ]
+  }
+}

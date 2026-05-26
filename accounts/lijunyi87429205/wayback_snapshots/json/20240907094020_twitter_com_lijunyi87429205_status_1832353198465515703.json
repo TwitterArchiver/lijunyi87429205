@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1831895935036624896"
+      ],
+      "media_source_tweet_id": [
+        "1831896137877664167"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1832353198465515703",
+    "created_at": "2024-09-07T09:40:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-07T10:40:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832353198465515703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "51904755",
+          "start": 3,
+          "username": "Morris_LT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vymmamv8n3",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Morris_LT/status/1831896137877664167/photo/1",
+          "media_key": "3_1831895935036624896",
+          "start": 59,
+          "url": "https://t.co/VymmaMV8n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832353198465515703",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831896137877664167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Morris_LT: 穷可以让人卑微到什么程度？为了获得低息贷款，巴西总统访华的时候说，经常看中国足球比赛。 https://t.co/VymmaMV8n3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1257,
+        "media_key": "3_1831895935036624896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWwzpalXEAARWPf.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831895935036624896"
+          ],
+          "media_source_tweet_id": [
+            "1831896137877664167"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1832353198465515703",
+        "created_at": "2024-09-07T09:40:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-07T10:40:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832353198465515703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "51904755",
+              "start": 3,
+              "username": "Morris_LT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vymmamv8n3",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Morris_LT/status/1831896137877664167/photo/1",
+              "media_key": "3_1831895935036624896",
+              "start": 59,
+              "url": "https://t.co/VymmaMV8n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832353198465515703",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831896137877664167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Morris_LT: 穷可以让人卑微到什么程度？为了获得低息贷款，巴西总统访华的时候说，经常看中国足球比赛。 https://t.co/VymmaMV8n3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1831895935036624896"
+          ]
+        },
+        "author_id": "51904755",
+        "conversation_id": "1831896137877664167",
+        "created_at": "2024-09-06T03:24:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T04:24:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1831896137877664167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vymmamv8n3",
+              "end": 67,
+              "expanded_url": "https://twitter.com/Morris_LT/status/1831896137877664167/photo/1",
+              "media_key": "3_1831895935036624896",
+              "start": 44,
+              "url": "https://t.co/VymmaMV8n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831896137877664167",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 577892,
+          "like_count": 2331,
+          "quote_count": 32,
+          "reply_count": 293,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "穷可以让人卑微到什么程度？为了获得低息贷款，巴西总统访华的时候说，经常看中国足球比赛。 https://t.co/VymmaMV8n3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 269,
+          "like_count": 13132,
+          "listed_count": 43,
+          "tweet_count": 379
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！ \n#Bitcoin #Đogecoin",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 36,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Đogecoin"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "name": "Morris",
+        "pinned_tweet_id": "1832352099390173652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89948,
+          "following_count": 357,
+          "like_count": 43427,
+          "listed_count": 578,
+          "tweet_count": 62296
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

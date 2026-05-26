@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1994674635720544594",
+    "created_at": "2025-11-29T14:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T15:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994775574230045177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728464821501489152",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994775574230045177",
+    "in_reply_to_user_id": "1728464821501489152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994774866273472835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 嗯...那最好有一位可信的人监护吧。多嘴一句，我不愿意死去的理由恰恰相反，恐惧着虚无，无论死后会去地狱还是什么地方对我来说都是好的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1994674635720544594",
+        "created_at": "2025-11-29T14:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994775574230045177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728464821501489152",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994775574230045177",
+        "in_reply_to_user_id": "1728464821501489152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994774866273472835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 嗯...那最好有一位可信的人监护吧。多嘴一句，我不愿意死去的理由恰恰相反，恐惧着虚无，无论死后会去地狱还是什么地方对我来说都是好的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728464821501489152",
+        "conversation_id": "1994674635720544594",
+        "created_at": "2025-11-29T14:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T15:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994774866273472835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994774866273472835",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994773738647322715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 当然我还是怕死的，如果说能体验一下濒死感，然后过段时间就会自己醒来那就最好了。\n主要是我是真的怕有地狱存在，我害怕死后的位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 410,
+          "like_count": 43026,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 850
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "或许我会死去，或许吧。只是我一点办法都没了。",
+        "id": "1728464821501489152",
+        "location": "ABYSS OF DESPAIR",
+        "name": "Albert with Lilith Tsubakiyama【#NYCTOPHILIA】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229,
+          "following_count": 210,
+          "like_count": 629,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 269
+        },
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

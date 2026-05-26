@@ -1,0 +1,366 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+          "id": "1143968237232644097",
+          "name": "Japanese Social Security"
+        }
+      }
+    ],
+    "conversation_id": "1793019752031342756",
+    "created_at": "2024-05-22T11:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T12:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793244575454425570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1240786985322598402",
+          "start": 0,
+          "username": "hytaae"
+        },
+        {
+          "end": 22,
+          "id": "1778985848618602496",
+          "start": 8,
+          "username": "Tonyliu395995"
+        },
+        {
+          "end": 33,
+          "id": "28940967",
+          "start": 23,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793244575454425570",
+    "in_reply_to_user_id": "1240786985322598402",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793241802130219407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hytaae @Tonyliu395995 @lidangzzz 虽然我相信他们能无耻到到把养老金体系和各种社会保障都作废，考虑到其中的政治风险，他们也只能用切香肠战术。然后他们该怎么处理现有的庞大老年群体？过剩生产力？技术全面落后，越来越萎靡的生育率和来自外国的战略威胁？朝鲜能够抱大腿，中共抱谁？俄罗斯？越南？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to social security in Japan. 日本の社会保障制度に関する会話",
+              "id": "1143968237232644097",
+              "name": "Japanese Social Security"
+            }
+          }
+        ],
+        "conversation_id": "1793019752031342756",
+        "created_at": "2024-05-22T11:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T12:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793244575454425570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1240786985322598402",
+              "start": 0,
+              "username": "hytaae"
+            },
+            {
+              "end": 22,
+              "id": "1778985848618602496",
+              "start": 8,
+              "username": "Tonyliu395995"
+            },
+            {
+              "end": 33,
+              "id": "28940967",
+              "start": 23,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793244575454425570",
+        "in_reply_to_user_id": "1240786985322598402",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793241802130219407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hytaae @Tonyliu395995 @lidangzzz 虽然我相信他们能无耻到到把养老金体系和各种社会保障都作废，考虑到其中的政治风险，他们也只能用切香肠战术。然后他们该怎么处理现有的庞大老年群体？过剩生产力？技术全面落后，越来越萎靡的生育率和来自外国的战略威胁？朝鲜能够抱大腿，中共抱谁？俄罗斯？越南？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1240786985322598402",
+        "conversation_id": "1793019752031342756",
+        "created_at": "2024-05-22T11:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T12:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793241802130219407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            },
+            {
+              "end": 31,
+              "id": "1778985848618602496",
+              "start": 17,
+              "username": "Tonyliu395995"
+            },
+            {
+              "end": 42,
+              "id": "28940967",
+              "start": 32,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793241802130219407",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793132522970505664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 @Tonyliu395995 @lidangzzz 韭菜更多 喂饱没问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 232,
+          "like_count": 8452,
+          "listed_count": 46,
+          "tweet_count": 260
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-19T23:47:34.000Z",
+        "description": "",
+        "id": "1240786985322598402",
+        "location": "東京 台東区",
+        "name": "hytaae",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1743179026238455808/Teojt8Ag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 28,
+          "like_count": 3,
+          "listed_count": 0,
+          "tweet_count": 43
+        },
+        "username": "hytaae",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T03:17:57.000Z",
+        "description": "不同的认知会有不同的行为，导致天差地别的结果。人无远虑必有近忧，当今世界无疑正在步入逆全球化过程，与我们此前30年的认知及经验相去甚远，如何在过程中趋利避害，不仅关乎我们自己的前景，更关系到子孙后代之福祉。必须认真思考，容不得丝毫懈怠。",
+        "id": "1778985848618602496",
+        "location": "brisbane",
+        "name": "洼地老刘（互fo）",
+        "pinned_tweet_id": "1788416738193010703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778986080643190784/MIKY_jEg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1314,
+          "following_count": 1330,
+          "like_count": 3255,
+          "listed_count": 12,
+          "tweet_count": 3399
+        },
+        "username": "Tonyliu395995",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n\n提问前请阅读highlights和往期推文，个人建议请访问 https://t.co/u4mX2Aq4Uk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openask.me/lidangzzz",
+                "end": 94,
+                "expanded_url": "https://openask.me/lidangzzz",
+                "start": 71,
+                "url": "https://t.co/u4mX2Aq4Uk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机、劝人投美股SP500/纳斯达克100第一人）",
+        "pinned_tweet_id": "1640459631809171456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1394299,
+          "following_count": 2586,
+          "like_count": 22111,
+          "listed_count": 3376,
+          "tweet_count": 30757
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": false
+      }
+    ]
+  }
+}

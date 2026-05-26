@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1978364190843654581",
+    "created_at": "2025-10-15T07:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T08:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978364190843654581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1094420453261746176",
+          "start": 3,
+          "username": "shadowKrysztal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978364190843654581",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977808878894219270",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shadowKrysztal: 我思，但我 ADHD，故我断断续续在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1978364190843654581",
+        "created_at": "2025-10-15T07:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T08:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978364190843654581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1094420453261746176",
+              "start": 3,
+              "username": "shadowKrysztal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978364190843654581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977808878894219270",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shadowKrysztal: 我思，但我 ADHD，故我断断续续在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1094420453261746176",
+        "conversation_id": "1977808878894219270",
+        "created_at": "2025-10-13T18:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T19:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977808878894219270"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977808878894219270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7550,
+          "like_count": 242,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "我思，但我 ADHD，故我断断续续在"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 364,
+          "like_count": 37199,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 722
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T02:19:04.000Z",
+        "description": "Perfer et obdura, dolor hic tibi proderit olim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.krysztal.dev",
+                "end": 23,
+                "expanded_url": "https://blog.krysztal.dev",
+                "start": 0,
+                "url": "https://t.co/GyAtCswa2d"
+              }
+            ]
+          }
+        },
+        "id": "1094420453261746176",
+        "location": "Beside you.",
+        "name": "krysztal.rs",
+        "pinned_tweet_id": "1953739786805817614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929851681300459520/i81W2PNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1754,
+          "following_count": 985,
+          "like_count": 16962,
+          "listed_count": 2,
+          "media_count": 1806,
+          "tweet_count": 31321
+        },
+        "url": "https://t.co/GyAtCswa2d",
+        "username": "shadowKrysztal",
+        "verified": false
+      }
+    ]
+  }
+}

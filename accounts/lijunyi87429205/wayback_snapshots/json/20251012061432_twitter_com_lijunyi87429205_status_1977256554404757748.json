@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1977254063747047686",
+    "created_at": "2025-10-12T06:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T07:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977256554404757748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977256554404757748",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977254063747047686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 就像一种过敏...被荆棘扎过后人对花有了恐惧，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977254049792557056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CeFRSWgAAB9oB.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977254049817784320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CeFRYXcAAGvUO.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977254049809309696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CeFRWWIAA3eQf.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1977254063747047686",
+        "created_at": "2025-10-12T06:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977256554404757748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977256554404757748",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977254063747047686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 就像一种过敏...被荆棘扎过后人对花有了恐惧，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977254049792557056",
+            "3_1977254049817784320",
+            "3_1977254049809309696"
+          ]
+        },
+        "author_id": "1787086493636521984",
+        "conversation_id": "1977254063747047686",
+        "created_at": "2025-10-12T06:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T07:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977254063747047686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cMLUvAv9LN",
+              "end": 59,
+              "expanded_url": "https://x.com/Lucifers6x/status/1977254063747047686/photo/1",
+              "media_key": "3_1977254049792557056",
+              "start": 36,
+              "url": "https://t.co/cMLUvAv9LN"
+            },
+            {
+              "display_url": "pic.x.com/cMLUvAv9LN",
+              "end": 59,
+              "expanded_url": "https://x.com/Lucifers6x/status/1977254063747047686/photo/1",
+              "media_key": "3_1977254049817784320",
+              "start": 36,
+              "url": "https://t.co/cMLUvAv9LN"
+            },
+            {
+              "display_url": "pic.x.com/cMLUvAv9LN",
+              "end": 59,
+              "expanded_url": "https://x.com/Lucifers6x/status/1977254063747047686/photo/1",
+              "media_key": "3_1977254049809309696",
+              "start": 36,
+              "url": "https://t.co/cMLUvAv9LN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977254063747047686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉被AI说哭了这样的我一定看起来特别蠢..但那又怎样呢，人是立体的，， https://t.co/cMLUvAv9LN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 358,
+          "like_count": 36964,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 707
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜一个拥有神性的不明生物正在学习成为人类的路上｜",
+        "id": "1787086493636521984",
+        "location": "under ur skin",
+        "name": "文静7803",
+        "pinned_tweet_id": "1961471159628951752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941563908235395072/yxW678I__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2467,
+          "following_count": 178,
+          "like_count": 3956,
+          "listed_count": 5,
+          "media_count": 119,
+          "tweet_count": 1794
+        },
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

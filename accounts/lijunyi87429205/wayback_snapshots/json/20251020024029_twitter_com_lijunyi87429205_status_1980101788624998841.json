@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1980073038520488341",
+    "created_at": "2025-10-20T02:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T03:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980101788624998841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "822428769491165184",
+          "start": 0,
+          "username": "Roy_Zhao24"
+        },
+        {
+          "end": 23,
+          "id": "1535701819812462600",
+          "start": 12,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980101788624998841",
+    "in_reply_to_user_id": "822428769491165184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980088927269876079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Roy_Zhao24 @Kenntnis22 我一个南方人也不知道这些.还挺喜欢竹子的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1980073038520488341",
+        "created_at": "2025-10-20T02:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T03:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980101788624998841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "822428769491165184",
+              "start": 0,
+              "username": "Roy_Zhao24"
+            },
+            {
+              "end": 23,
+              "id": "1535701819812462600",
+              "start": 12,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980101788624998841",
+        "in_reply_to_user_id": "822428769491165184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980088927269876079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Roy_Zhao24 @Kenntnis22 我一个南方人也不知道这些.还挺喜欢竹子的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822428769491165184",
+        "conversation_id": "1980073038520488341",
+        "created_at": "2025-10-20T01:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T02:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980088927269876079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980088927269876079",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 413,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980073038520488341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 很多北方人對竹子的印象還停留在古詩裏的那些正面形象。實際上竹子是一種侵略性很強的植物，不僅繁殖快，還會導致土壤酸化，讓其他動植物不能在此地棲息。在鄉村周圍由於農藥濫用，食竹的昆蟲種類減少，竹子越發沒有制約野蠻生長，若沒有人工干預，竹子對土壤的破壞比遠遠超過損失綠化帶來的影響。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 369,
+          "like_count": 37593,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 736
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T13:01:13.000Z",
+        "description": "願法治公正，人人平等。",
+        "id": "822428769491165184",
+        "location": "山東",
+        "name": "趙洛伊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880806587713171456/CjbdtgNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 862,
+          "like_count": 2547,
+          "listed_count": 6,
+          "media_count": 232,
+          "tweet_count": 842
+        },
+        "username": "Roy_Zhao24",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1978882697821909325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40688,
+          "following_count": 338,
+          "like_count": 33022,
+          "listed_count": 193,
+          "media_count": 6817,
+          "tweet_count": 10732
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

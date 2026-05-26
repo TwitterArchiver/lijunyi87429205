@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1993892647635923184",
+    "created_at": "2025-11-27T04:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T05:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993892647635923184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1223938335535554560",
+          "start": 3,
+          "username": "iamai_eth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993892647635923184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993673081068650626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iamai_eth: 无数纵向研究发现：童年家庭社会经济地位越低，长大后眶额皮层、vmPFC、海马体体积越小，情绪调节能力和延迟满足能力越差。\n\n这就是为什么穷人家的孩子更容易冲动消费、借网贷、戒不掉烟酒，这不是“意志力差”，是大脑负责“刹车”和“长远奖励计算”的硬件被…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1993892647635923184",
+        "created_at": "2025-11-27T04:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T05:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993892647635923184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1223938335535554560",
+              "start": 3,
+              "username": "iamai_eth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993892647635923184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993673081068650626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iamai_eth: 无数纵向研究发现：童年家庭社会经济地位越低，长大后眶额皮层、vmPFC、海马体体积越小，情绪调节能力和延迟满足能力越差。\n\n这就是为什么穷人家的孩子更容易冲动消费、借网贷、戒不掉烟酒，这不是“意志力差”，是大脑负责“刹车”和“长远奖励计算”的硬件被…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223938335535554560",
+        "conversation_id": "1993673081068650626",
+        "created_at": "2025-11-26T13:27:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T14:27:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993673081068650626"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993673081068650626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 156,
+          "impression_count": 31435,
+          "like_count": 402,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "无数纵向研究发现：童年家庭社会经济地位越低，长大后眶额皮层、vmPFC、海马体体积越小，情绪调节能力和延迟满足能力越差。\n\n这就是为什么穷人家的孩子更容易冲动消费、借网贷、戒不掉烟酒，这不是“意志力差”，是大脑负责“刹车”和“长远奖励计算”的硬件被慢性压力削弱了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 408,
+          "like_count": 42748,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 846
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-02T11:56:59.000Z",
+        "description": "Post-AGI | 复杂系统 | BTC & NVDA holder | 未来主义者 | 立足于稀缺现实的乐观主义",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "iamai0.substack.com",
+                "end": 23,
+                "expanded_url": "https://iamai0.substack.com",
+                "start": 0,
+                "url": "https://t.co/k1jcMqipfI"
+              }
+            ]
+          }
+        },
+        "id": "1223938335535554560",
+        "name": "✧ 𝕀𝔸𝕄𝔸𝕀 ✧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475384716715261959/5I__0f9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12188,
+          "following_count": 1671,
+          "like_count": 17599,
+          "listed_count": 199,
+          "media_count": 399,
+          "tweet_count": 5380
+        },
+        "url": "https://t.co/k1jcMqipfI",
+        "username": "iamai_eth",
+        "verified": true
+      }
+    ]
+  }
+}

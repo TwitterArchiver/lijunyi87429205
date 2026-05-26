@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1832927446016139264"
+      ],
+      "media_source_tweet_id": [
+        "1832927448872501551"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1832965890385805658",
+    "created_at": "2024-09-09T02:14:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T03:14:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832965890385805658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1249525383797456898",
+          "start": 3,
+          "username": "jakobsonradical"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozwifz8ij1",
+          "end": 61,
+          "expanded_url": "https://twitter.com/jakobsonradical/status/1832927448872501551/photo/1",
+          "media_key": "3_1832927446016139264",
+          "start": 38,
+          "url": "https://t.co/oZWiFZ8iJ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832965890385805658",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832927448872501551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jakobsonradical: 这不正好证明了某些部门的成功吗？ https://t.co/oZWiFZ8iJ1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1660,
+        "media_key": "3_1832927446016139264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GW_dzQbbIAAKeqL.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832927446016139264"
+          ],
+          "media_source_tweet_id": [
+            "1832927448872501551"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1832965890385805658",
+        "created_at": "2024-09-09T02:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T03:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832965890385805658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1249525383797456898",
+              "start": 3,
+              "username": "jakobsonradical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozwifz8ij1",
+              "end": 61,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1832927448872501551/photo/1",
+              "media_key": "3_1832927446016139264",
+              "start": 38,
+              "url": "https://t.co/oZWiFZ8iJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832965890385805658",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832927448872501551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jakobsonradical: 这不正好证明了某些部门的成功吗？ https://t.co/oZWiFZ8iJ1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1832927446016139264"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1832927448872501551",
+        "created_at": "2024-09-08T23:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T00:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832927448872501551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozwifz8ij1",
+              "end": 40,
+              "expanded_url": "https://twitter.com/jakobsonradical/status/1832927448872501551/photo/1",
+              "media_key": "3_1832927446016139264",
+              "start": 17,
+              "url": "https://t.co/oZWiFZ8iJ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832927448872501551",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4898,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "这不正好证明了某些部门的成功吗？ https://t.co/oZWiFZ8iJ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 272,
+          "like_count": 13189,
+          "listed_count": 43,
+          "tweet_count": 382
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209853,
+          "following_count": 1520,
+          "like_count": 43846,
+          "listed_count": 875,
+          "tweet_count": 22864
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

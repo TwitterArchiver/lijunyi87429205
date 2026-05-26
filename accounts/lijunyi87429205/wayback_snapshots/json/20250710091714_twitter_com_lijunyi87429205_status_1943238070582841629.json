@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1943238070582841629",
+    "created_at": "2025-07-10T09:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T10:17:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943238070582841629"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1943238070582841629",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在国内聚焦女性生活困境的影视作品变多了，这很好。但为什么男性主角的作品仍然是一大堆精神飞机杯？成就这个，实现那个。为什么没有抛下社会价值去描述一个具体的男性的生命的作品？（路边野餐-凯里蓝调算一个。）甚至不一定要是刻板的社会指派性别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1943238070582841629",
+        "created_at": "2025-07-10T09:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T10:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943238070582841629"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943238070582841629",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在国内聚焦女性生活困境的影视作品变多了，这很好。但为什么男性主角的作品仍然是一大堆精神飞机杯？成就这个，实现那个。为什么没有抛下社会价值去描述一个具体的男性的生命的作品？（路边野餐-凯里蓝调算一个。）甚至不一定要是刻板的社会指派性别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 312,
+          "like_count": 27303,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 483
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1792012353246290185",
+    "created_at": "2024-05-19T02:00:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T03:00:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792012353246290185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1588829429333037056",
+          "start": 3,
+          "username": "435hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792012353246290185",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791999348332794302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @435hz: 功利催产无聊，玩耍孕育有趣。\n赚钱能养活身体但会重创灵魂；\n无用只浪费时间却能拯救心灵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1792012353246290185",
+        "created_at": "2024-05-19T02:00:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T03:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792012353246290185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1588829429333037056",
+              "start": 3,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792012353246290185",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791999348332794302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @435hz: 功利催产无聊，玩耍孕育有趣。\n赚钱能养活身体但会重创灵魂；\n无用只浪费时间却能拯救心灵。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1588829429333037056",
+        "conversation_id": "1791999348332794302",
+        "created_at": "2024-05-19T01:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T02:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1791999348332794302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1791999348332794302",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2068,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "功利催产无聊，玩耍孕育有趣。\n赚钱能养活身体但会重创灵魂；\n无用只浪费时间却能拯救心灵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 226,
+          "like_count": 8068,
+          "listed_count": 46,
+          "tweet_count": 243
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。",
+        "id": "1588829429333037056",
+        "name": "章工",
+        "pinned_tweet_id": "1791637577893847455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83911,
+          "following_count": 57,
+          "like_count": 800,
+          "listed_count": 517,
+          "tweet_count": 9699
+        },
+        "username": "435hz",
+        "verified": false
+      }
+    ]
+  }
+}

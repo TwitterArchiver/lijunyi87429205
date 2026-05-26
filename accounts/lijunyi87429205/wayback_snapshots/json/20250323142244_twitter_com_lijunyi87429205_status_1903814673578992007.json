@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1903374214620729362",
+    "created_at": "2025-03-23T14:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T15:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903814673578992007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1265266433665138690",
+          "start": 0,
+          "username": "geleilaoshi"
+        },
+        {
+          "end": 28,
+          "id": "1260553941714186241",
+          "start": 13,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903814673578992007",
+    "in_reply_to_user_id": "1265266433665138690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903471225994703246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@geleilaoshi @whyyoutouzhele 一点也不，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1903374214620729362",
+        "created_at": "2025-03-23T14:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T15:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903814673578992007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1265266433665138690",
+              "start": 0,
+              "username": "geleilaoshi"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903814673578992007",
+        "in_reply_to_user_id": "1265266433665138690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903471225994703246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@geleilaoshi @whyyoutouzhele 一点也不，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265266433665138690",
+        "conversation_id": "1903374214620729362",
+        "created_at": "2025-03-22T15:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903471225994703246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903471225994703246",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11122,
+          "like_count": 231,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903374214620729362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 因为这样的国家才让在中国长大的人感到舒适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 279,
+          "like_count": 19374,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 468
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-26T13:00:11.000Z",
+        "description": "Ukulele player banned in China. Music that frees minds. Berklee graduate. IRL music teacher. 被共產黨封殺的烏克麗麗手。用音樂開啓思想大門。伯克利音樂學院畢業的。音樂老師。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/geleilaoshi",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/geleilaoshi",
+                "start": 0,
+                "url": "https://t.co/h448Hb4W80"
+              }
+            ]
+          }
+        },
+        "id": "1265266433665138690",
+        "location": "波士顿 Boston",
+        "name": "格雷老師 Teacher Grey",
+        "pinned_tweet_id": "1863933465416049011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620885318269378562/ozwm4Rfr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39529,
+          "following_count": 464,
+          "like_count": 7041,
+          "listed_count": 115,
+          "media_count": 126,
+          "tweet_count": 2071
+        },
+        "url": "https://t.co/h448Hb4W80",
+        "username": "geleilaoshi",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963644,
+          "following_count": 943,
+          "like_count": 5986,
+          "listed_count": 8069,
+          "media_count": 25239,
+          "tweet_count": 31627
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

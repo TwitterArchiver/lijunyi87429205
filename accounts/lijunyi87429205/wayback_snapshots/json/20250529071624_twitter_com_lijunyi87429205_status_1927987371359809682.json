@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1927732975744987490",
+    "created_at": "2025-05-29T07:16:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T08:16:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927987371359809682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1312073094773710848",
+          "start": 0,
+          "username": "jp105zd106"
+        },
+        {
+          "end": 21,
+          "id": "1458004030580346887",
+          "start": 12,
+          "username": "NTTaimai"
+        },
+        {
+          "end": 30,
+          "id": "1433678976564662273",
+          "start": 22,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927987371359809682",
+    "in_reply_to_user_id": "1312073094773710848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927942171891749126",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jp105zd106 @NTTaimai @hsn8086 愿意费事可以移植核心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1927732975744987490",
+        "created_at": "2025-05-29T07:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T08:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927987371359809682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1312073094773710848",
+              "start": 0,
+              "username": "jp105zd106"
+            },
+            {
+              "end": 21,
+              "id": "1458004030580346887",
+              "start": 12,
+              "username": "NTTaimai"
+            },
+            {
+              "end": 30,
+              "id": "1433678976564662273",
+              "start": 22,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927987371359809682",
+        "in_reply_to_user_id": "1312073094773710848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927942171891749126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jp105zd106 @NTTaimai @hsn8086 愿意费事可以移植核心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312073094773710848",
+        "conversation_id": "1927732975744987490",
+        "created_at": "2025-05-29T04:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T05:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927942171891749126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1458004030580346887",
+              "start": 0,
+              "username": "NTTaimai"
+            },
+            {
+              "end": 18,
+              "id": "1433678976564662273",
+              "start": 10,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927942171891749126",
+        "in_reply_to_user_id": "1458004030580346887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927903094844920177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NTTaimai @hsn8086 裂了，没救"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 290,
+          "like_count": 23919,
+          "listed_count": 8,
+          "media_count": 2,
+          "tweet_count": 479
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T16:53:08.000Z",
+        "description": "DEPORT ALL COMMUNISTS 成份☝️一般暴论鉴政，迷因，🔞百合豚，🇹🇼🇺🇦🇮🇱，友跨",
+        "id": "1312073094773710848",
+        "location": "下北沢",
+        "name": "☭⃠侯國見玉🌹🇺🇦",
+        "pinned_tweet_id": "1783158558672232748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787327771037106176/HyOGsEx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 5703,
+          "like_count": 88484,
+          "listed_count": 11,
+          "media_count": 270,
+          "tweet_count": 12934
+        },
+        "username": "jp105zd106",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-09T09:30:45.000Z",
+        "description": "日本語、油絵と作曲を勉強しています",
+        "id": "1458004030580346887",
+        "location": "京都",
+        "name": "Taimai",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764679619570212864/92hABbx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 1426,
+          "like_count": 65941,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 10837
+        },
+        "username": "NTTaimai",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1909591657043144887",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881530651159179264/61qPk38t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73432,
+          "following_count": 968,
+          "like_count": 40406,
+          "listed_count": 158,
+          "media_count": 11685,
+          "tweet_count": 18064
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

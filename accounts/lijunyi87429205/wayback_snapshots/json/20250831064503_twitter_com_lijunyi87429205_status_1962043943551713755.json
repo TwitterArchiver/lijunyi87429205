@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1961893625765241132",
+    "created_at": "2025-08-31T06:45:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962043943551713755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4781194693",
+          "start": 0,
+          "username": "DavidPatton0516"
+        },
+        {
+          "end": 29,
+          "id": "1237891169822146560",
+          "start": 17,
+          "username": "xumouren_yt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962043943551713755",
+    "in_reply_to_user_id": "4781194693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961985881449148825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidPatton0516 @xumouren_yt 勇者不需要自杀来进一步佐证自己的无畏，懦夫不必要逞口舌之快来掩饰自己的卑怯。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1961893625765241132",
+        "created_at": "2025-08-31T06:45:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962043943551713755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4781194693",
+              "start": 0,
+              "username": "DavidPatton0516"
+            },
+            {
+              "end": 29,
+              "id": "1237891169822146560",
+              "start": 17,
+              "username": "xumouren_yt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962043943551713755",
+        "in_reply_to_user_id": "4781194693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961985881449148825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidPatton0516 @xumouren_yt 勇者不需要自杀来进一步佐证自己的无畏，懦夫不必要逞口舌之快来掩饰自己的卑怯。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4781194693",
+        "conversation_id": "1961893625765241132",
+        "created_at": "2025-08-31T02:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961985881449148825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1237891169822146560",
+              "start": 0,
+              "username": "xumouren_yt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961985881449148825",
+        "in_reply_to_user_id": "1237891169822146560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961893625765241132",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xumouren_yt 勇敢的话 回大陆来做节目，看看还能勇敢吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 340,
+          "like_count": 32871,
+          "listed_count": 9,
+          "media_count": 16,
+          "tweet_count": 607
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-19T03:26:48.000Z",
+        "description": "喜歡製作模型，喜歡帶太太一起去旅行，喜歡家裡的兩隻貓貓。",
+        "id": "4781194693",
+        "name": "DavidPatton",
+        "pinned_tweet_id": "1553630435644559360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504366202931474433/0GXEfEOt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 553,
+          "like_count": 3500,
+          "listed_count": 3,
+          "media_count": 173,
+          "tweet_count": 1402
+        },
+        "username": "DavidPatton0516",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-12T00:00:34.000Z",
+        "description": "YouTube: 说真话的徐某人 互动三原则：1万fo以下不回复，不露脸不回复，无私交不回复; 此外，影响阅读体验者，随时会遭封锁/静音。推特是我丢垃圾话的平台\n军事主频道：https://t.co/V4EZ0gwVww\n户外旅行频道：https://t.co/OaWjLPODve",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xumouren",
+                "end": 110,
+                "expanded_url": "http://youtube.com/@xumouren",
+                "start": 87,
+                "url": "https://t.co/V4EZ0gwVww"
+              },
+              {
+                "display_url": "youtube.com/@mountaintalk",
+                "end": 141,
+                "expanded_url": "http://youtube.com/@mountaintalk",
+                "start": 118,
+                "url": "https://t.co/OaWjLPODve"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@xumouren",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@xumouren",
+                "start": 0,
+                "url": "https://t.co/QrMZMyno7O"
+              }
+            ]
+          }
+        },
+        "id": "1237891169822146560",
+        "name": "说真话的徐某人",
+        "pinned_tweet_id": "1959572838819442988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1569332262935691264/Azk9Y8CE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140176,
+          "following_count": 157,
+          "like_count": 10524,
+          "listed_count": 426,
+          "media_count": 2889,
+          "tweet_count": 14079
+        },
+        "url": "https://t.co/QrMZMyno7O",
+        "username": "xumouren_yt",
+        "verified": true
+      }
+    ]
+  }
+}

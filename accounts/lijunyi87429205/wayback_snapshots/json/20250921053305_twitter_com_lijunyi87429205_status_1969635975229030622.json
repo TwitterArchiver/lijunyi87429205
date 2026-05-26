@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1969541308743332237",
+    "created_at": "2025-09-21T05:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T06:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969635975229030622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "380881119",
+          "start": 0,
+          "username": "Seraph1020"
+        },
+        {
+          "end": 28,
+          "id": "1247627907062591488",
+          "start": 12,
+          "username": "x68YWgJAsj7D343"
+        },
+        {
+          "end": 45,
+          "id": "1500470972817633280",
+          "start": 29,
+          "username": "Jetchen_s150237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969635975229030622",
+    "in_reply_to_user_id": "380881119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969628950499639597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seraph1020 @x68YWgJAsj7D343 @Jetchen_s150237 如果没有国军残部，台湾在当年可能抵挡共军的进攻吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1969541308743332237",
+        "created_at": "2025-09-21T05:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969635975229030622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "380881119",
+              "start": 0,
+              "username": "Seraph1020"
+            },
+            {
+              "end": 28,
+              "id": "1247627907062591488",
+              "start": 12,
+              "username": "x68YWgJAsj7D343"
+            },
+            {
+              "end": 45,
+              "id": "1500470972817633280",
+              "start": 29,
+              "username": "Jetchen_s150237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969635975229030622",
+        "in_reply_to_user_id": "380881119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969628950499639597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seraph1020 @x68YWgJAsj7D343 @Jetchen_s150237 如果没有国军残部，台湾在当年可能抵挡共军的进攻吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "380881119",
+        "conversation_id": "1969541308743332237",
+        "created_at": "2025-09-21T05:05:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T06:05:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969628950499639597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1247627907062591488",
+              "start": 0,
+              "username": "x68YWgJAsj7D343"
+            },
+            {
+              "end": 33,
+              "id": "1500470972817633280",
+              "start": 17,
+              "username": "Jetchen_s150237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969628950499639597",
+        "in_reply_to_user_id": "1247627907062591488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969628193448738884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@x68YWgJAsj7D343 @Jetchen_s150237 一開始他們不侵佔台灣就屁事沒有了，託管變成霸佔，搞到台灣現在整天被中國吃豆腐，基本人權都被打壓，遑論国冥党對台灣造成的人命損失與思想改造，国冥党就是中国，就是台灣的仇敵。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 352,
+          "like_count": 35141,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 655
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-27T11:45:48.000Z",
+        "description": "台灣人。 此生不悔辱華夏，來世還反中国人😃",
+        "id": "380881119",
+        "name": "夜神伊織",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950516727571521536/XJoyndf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 879,
+          "like_count": 9075,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 4685
+        },
+        "username": "Seraph1020",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-07T20:51:01.000Z",
+        "description": "野生NAFO 大鹅冷吗？社区送温暖",
+        "id": "1247627907062591488",
+        "name": "咸鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889141738054545408/qVOSRaJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 25,
+          "like_count": 696,
+          "listed_count": 14,
+          "media_count": 331,
+          "tweet_count": 32271
+        },
+        "username": "x68YWgJAsj7D343",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T13:59:10.000Z",
+        "description": "愛喝咖啡☕️ ，但不是咖啡廳老闆喔😎整整三年乖乖地待在台灣沒有出國 ✈️年底選舉結束 開始安排出國旅遊旅🇯🇵🇨🇦🇮🇹🇱🇹🇦🇺",
+        "id": "1500470972817633280",
+        "name": "Jet 🚵🏻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753725505176842241/08iG4hNF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6404,
+          "following_count": 754,
+          "like_count": 101473,
+          "listed_count": 16,
+          "media_count": 5722,
+          "tweet_count": 36684
+        },
+        "username": "Jetchen_s150237",
+        "verified": false
+      }
+    ]
+  }
+}

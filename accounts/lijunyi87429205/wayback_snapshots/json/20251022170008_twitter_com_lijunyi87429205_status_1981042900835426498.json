@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1980961720534503595",
+    "created_at": "2025-10-22T17:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T18:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981042900835426498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981042900835426498",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980961720534503595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sanx0n 中国大陆九成以上的精神病院都属于维稳机构...把自己关家里吃吃喝喝打游戏的治疗效果都比住精神病院好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1980961720534503595",
+        "created_at": "2025-10-22T17:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T18:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981042900835426498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981042900835426498",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980961720534503595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sanx0n 中国大陆九成以上的精神病院都属于维稳机构...把自己关家里吃吃喝喝打游戏的治疗效果都比住精神病院好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "1980961720534503595",
+        "created_at": "2025-10-22T11:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980961720534503595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980961720534503595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3360,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被关精神病院真的能治精神病吗，我怎么感觉越住院越被关出精神病来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 369,
+          "like_count": 37886,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 750
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "14岁初二休学",
+        "id": "1552918719440924672",
+        "name": "Lumi & 猫卷 Co.",
+        "pinned_tweet_id": "1979225533306278000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980941542949810176/4utILqCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 738,
+          "like_count": 506,
+          "listed_count": 2,
+          "media_count": 77,
+          "tweet_count": 1251
+        },
+        "username": "Sanx0n",
+        "verified": false
+      }
+    ]
+  }
+}

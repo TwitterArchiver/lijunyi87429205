@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1953844887939682518",
+    "created_at": "2025-08-09T00:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T01:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953979410446782884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563463171699970049",
+          "start": 0,
+          "username": "Akimi_Lyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953979410446782884",
+    "in_reply_to_user_id": "1563463171699970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953844887939682518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akimi_Lyan 其他成员的仇恨，自尊，欲望，都战胜了他们的人性与共情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1953844887939682518",
+        "created_at": "2025-08-09T00:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T01:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953979410446782884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563463171699970049",
+              "start": 0,
+              "username": "Akimi_Lyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953979410446782884",
+        "in_reply_to_user_id": "1563463171699970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953844887939682518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akimi_Lyan 其他成员的仇恨，自尊，欲望，都战胜了他们的人性与共情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563463171699970049",
+        "conversation_id": "1953844887939682518",
+        "created_at": "2025-08-08T15:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T16:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953844887939682518"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953844887939682518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "作者：\n我个人认为，是因为他们缺乏爱。在我这部小说里，人们会看到，那个长猪尾巴的奥雷里亚诺是布恩迪亚家族在整整一个世纪里唯一因爱情孕育出的后代，布恩迪亚家族的人不懂爱情，不通人道，这就是他们孤独和受挫的秘密。我认为，孤独的反义词是团结。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 313,
+          "like_count": 30281,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 558
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T09:47:57.000Z",
+        "description": "Escritor 约稿请 私信/tg｜花冠女神：@idi88888",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "idi88888"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Miyano_Akemi",
+                "end": 23,
+                "expanded_url": "https://t.me/Miyano_Akemi",
+                "start": 0,
+                "url": "https://t.co/kJ1vHkwEqg"
+              }
+            ]
+          }
+        },
+        "id": "1563463171699970049",
+        "location": "Macondo",
+        "name": "Lyan梨安🏳️‍⚧️",
+        "pinned_tweet_id": "1953833705501348048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950405910016512001/u4dRUov5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 107,
+          "like_count": 8512,
+          "listed_count": 2,
+          "media_count": 758,
+          "tweet_count": 4027
+        },
+        "url": "https://t.co/kJ1vHkwEqg",
+        "username": "Akimi_Lyan",
+        "verified": false
+      }
+    ]
+  }
+}

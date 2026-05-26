@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2007822464827732392",
+    "created_at": "2026-01-04T14:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T15:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007823252262166808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1437034228768595977",
+          "start": 0,
+          "username": "Kumamushi2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007823252262166808",
+    "in_reply_to_user_id": "1437034228768595977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007822464827732392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kumamushi2021 可爱毛茸茸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2007822458213306368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G90340nbEAABYQl.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007822461174497280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9034_pbQAAjX9u.jpg",
+        "width": 1796
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2007822461489078272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9035A0bYAAsZLo.jpg",
+        "width": 1870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2007822464827732392",
+        "created_at": "2026-01-04T14:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007823252262166808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1437034228768595977",
+              "start": 0,
+              "username": "Kumamushi2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007823252262166808",
+        "in_reply_to_user_id": "1437034228768595977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007822464827732392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kumamushi2021 可爱毛茸茸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007822458213306368",
+            "3_2007822461174497280",
+            "3_2007822461489078272"
+          ]
+        },
+        "author_id": "1437034228768595977",
+        "conversation_id": "2007822464827732392",
+        "created_at": "2026-01-04T14:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T15:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007822464827732392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xi430o0fwE",
+              "end": 25,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2007822464827732392/photo/1",
+              "media_key": "3_2007822458213306368",
+              "start": 2,
+              "url": "https://t.co/xi430o0fwE"
+            },
+            {
+              "display_url": "pic.x.com/xi430o0fwE",
+              "end": 25,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2007822464827732392/photo/1",
+              "media_key": "3_2007822461174497280",
+              "start": 2,
+              "url": "https://t.co/xi430o0fwE"
+            },
+            {
+              "display_url": "pic.x.com/xi430o0fwE",
+              "end": 25,
+              "expanded_url": "https://x.com/Kumamushi2021/status/2007822464827732392/photo/1",
+              "media_key": "3_2007822461489078272",
+              "start": 2,
+              "url": "https://t.co/xi430o0fwE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007822464827732392",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "… https://t.co/xi430o0fwE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 402,
+          "like_count": 48797,
+          "listed_count": 8,
+          "media_count": 27,
+          "tweet_count": 928
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-12T12:43:59.000Z",
+        "description": "欲望与忧郁的幽灵，无止尽地悲叹着。雪、昏暗光线、玻璃水雾、虹彩、幽灵、猫、生命与死。|18↑/中文/可以叫我水熊蟲或水熊/患有双相注意避雷/废话很多",
+        "id": "1437034228768595977",
+        "location": "你的身旁",
+        "name": "🥛💤",
+        "pinned_tweet_id": "1839611665257824656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004502982227054592/tsjcfrWN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 95,
+          "like_count": 3004,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 1432
+        },
+        "username": "Kumamushi2021",
+        "verified": false
+      }
+    ]
+  }
+}

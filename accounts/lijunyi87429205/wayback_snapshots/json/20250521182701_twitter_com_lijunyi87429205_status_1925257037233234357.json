@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925257023807258624"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1925257037233234357",
+    "created_at": "2025-05-21T18:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T19:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925257037233234357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QigKuKAbmU",
+          "end": 42,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1925257037233234357/photo/1",
+          "media_key": "3_1925257023807258624",
+          "start": 19,
+          "url": "https://t.co/QigKuKAbmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925257037233234357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像没什么进步的一年，（腰略微细了点 https://t.co/QigKuKAbmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925257023807258624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrfjEA1bgAAYUCK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925257023807258624"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1925257037233234357",
+        "created_at": "2025-05-21T18:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T19:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925257037233234357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QigKuKAbmU",
+              "end": 42,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1925257037233234357/photo/1",
+              "media_key": "3_1925257023807258624",
+              "start": 19,
+              "url": "https://t.co/QigKuKAbmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925257037233234357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像没什么进步的一年，（腰略微细了点 https://t.co/QigKuKAbmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 285,
+          "like_count": 23205,
+          "listed_count": 8,
+          "media_count": 3,
+          "tweet_count": 475
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

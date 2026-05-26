@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1889223578710888692",
+    "created_at": "2025-02-12T15:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T16:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889702243126878658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837444574996058112",
+          "start": 0,
+          "username": "Traveller_Luo"
+        },
+        {
+          "end": 29,
+          "id": "1776452300816719872",
+          "start": 15,
+          "username": "VoiceMemoNo_7"
+        },
+        {
+          "end": 43,
+          "id": "1580121151359320065",
+          "start": 30,
+          "username": "Kuronekoqwq2"
+        },
+        {
+          "end": 58,
+          "id": "1815649539057201152",
+          "start": 44,
+          "username": "NankyuSeiichi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889702243126878658",
+    "in_reply_to_user_id": "1837444574996058112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889698693550346404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Traveller_Luo @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 啊，当然代码当然可以作为一种语言，承载思想。我在这里更多是从艺术与ai的讨论上出发的，如果要用计算机语言去完成艺术创作肯定也很有前卫性，但恐怕大部分人不接受足够的讲解肯定是无法理解的。人类天生就更擅长去识别图像，声音，理解图形语言对大部分人来说要简单很多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1889223578710888692",
+        "created_at": "2025-02-12T15:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889702243126878658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837444574996058112",
+              "start": 0,
+              "username": "Traveller_Luo"
+            },
+            {
+              "end": 29,
+              "id": "1776452300816719872",
+              "start": 15,
+              "username": "VoiceMemoNo_7"
+            },
+            {
+              "end": 43,
+              "id": "1580121151359320065",
+              "start": 30,
+              "username": "Kuronekoqwq2"
+            },
+            {
+              "end": 58,
+              "id": "1815649539057201152",
+              "start": 44,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889702243126878658",
+        "in_reply_to_user_id": "1837444574996058112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889698693550346404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Traveller_Luo @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 啊，当然代码当然可以作为一种语言，承载思想。我在这里更多是从艺术与ai的讨论上出发的，如果要用计算机语言去完成艺术创作肯定也很有前卫性，但恐怕大部分人不接受足够的讲解肯定是无法理解的。人类天生就更擅长去识别图像，声音，理解图形语言对大部分人来说要简单很多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837444574996058112",
+        "conversation_id": "1889223578710888692",
+        "created_at": "2025-02-12T15:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T16:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889698693550346404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            },
+            {
+              "end": 31,
+              "id": "1776452300816719872",
+              "start": 17,
+              "username": "VoiceMemoNo_7"
+            },
+            {
+              "end": 45,
+              "id": "1580121151359320065",
+              "start": 32,
+              "username": "Kuronekoqwq2"
+            },
+            {
+              "end": 60,
+              "id": "1815649539057201152",
+              "start": 46,
+              "username": "NankyuSeiichi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889698693550346404",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889561829614981415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 @VoiceMemoNo_7 @Kuronekoqwq2 @NankyuSeiichi 我本来想说的是，同样作为表达人类思想的工具，其实都是一样的。绘画是借助画作去记录下来，而代码不也是一种表达以及记录个人想法的一种工具。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 284,
+          "like_count": 18477,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 458
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T10:51:47.000Z",
+        "description": "喜欢色色，或者说是无法脱离欲望的束缚。\n平时可能会有一点点的变态。偶尔也会正经一下（亦或者是发癫）。",
+        "id": "1837444574996058112",
+        "location": "潮州",
+        "name": "星空中的旅者",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846247961937731584/1hLzYGjg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 668,
+          "like_count": 337,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 659
+        },
+        "username": "Traveller_Luo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "｜ 理神的精神世界👉@Lucifers6x｜吉伊型人格｜小奶发育中…｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Lucifers6x"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "name": "理江",
+        "pinned_tweet_id": "1884914288193872260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23127,
+          "following_count": 196,
+          "like_count": 5893,
+          "listed_count": 71,
+          "media_count": 33,
+          "tweet_count": 2043
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T09:00:23.000Z",
+        "description": "思考过后还是活着好",
+        "id": "1580121151359320065",
+        "location": "Neverland",
+        "name": "廖雨时",
+        "pinned_tweet_id": "1809031319168635024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772987094090358784/Q_cROAQN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 294,
+          "like_count": 7356,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1513
+        },
+        "username": "Kuronekoqwq2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙、历史进程、自然边界、为时不晚",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 926,
+          "like_count": 10979,
+          "listed_count": 2,
+          "media_count": 429,
+          "tweet_count": 5044
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

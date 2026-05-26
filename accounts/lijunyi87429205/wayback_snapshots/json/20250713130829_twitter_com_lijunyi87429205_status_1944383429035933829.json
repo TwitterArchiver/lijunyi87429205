@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944383414003511296",
+        "3_1944383414041276416"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1944383429035933829",
+    "created_at": "2025-07-13T13:08:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T14:08:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944383429035933829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ncmggnMgzs",
+          "end": 34,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1944383429035933829/photo/1",
+          "media_key": "3_1944383414003511296",
+          "start": 11,
+          "url": "https://t.co/ncmggnMgzs"
+        },
+        {
+          "display_url": "pic.x.com/ncmggnMgzs",
+          "end": 34,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1944383429035933829/photo/1",
+          "media_key": "3_1944383414041276416",
+          "start": 11,
+          "url": "https://t.co/ncmggnMgzs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944383429035933829",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一位端庄知性的女士。 https://t.co/ncmggnMgzs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1738,
+        "media_key": "3_1944383414003511296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvvWacrXMAAiGTZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1586,
+        "media_key": "3_1944383414041276416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvvWac0XcAA2Ddp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944383414003511296",
+            "3_1944383414041276416"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1944383429035933829",
+        "created_at": "2025-07-13T13:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T14:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944383429035933829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ncmggnMgzs",
+              "end": 34,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1944383429035933829/photo/1",
+              "media_key": "3_1944383414003511296",
+              "start": 11,
+              "url": "https://t.co/ncmggnMgzs"
+            },
+            {
+              "display_url": "pic.x.com/ncmggnMgzs",
+              "end": 34,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1944383429035933829/photo/1",
+              "media_key": "3_1944383414041276416",
+              "start": 11,
+              "url": "https://t.co/ncmggnMgzs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944383429035933829",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一位端庄知性的女士。 https://t.co/ncmggnMgzs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 313,
+          "like_count": 27720,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 489
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

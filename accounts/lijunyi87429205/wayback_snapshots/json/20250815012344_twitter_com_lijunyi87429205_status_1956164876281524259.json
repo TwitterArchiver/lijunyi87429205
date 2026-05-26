@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1955751215947448499",
+    "created_at": "2025-08-15T01:23:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-15T02:23:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956164876281524259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1186651487155322880",
+          "start": 0,
+          "username": "RonaldSimmonsUS"
+        },
+        {
+          "end": 32,
+          "id": "1260553941714186241",
+          "start": 17,
+          "username": "whyyoutouzhele"
+        },
+        {
+          "end": 47,
+          "id": "1629058457222656001",
+          "start": 33,
+          "username": "nursenika1840"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956164876281524259",
+    "in_reply_to_user_id": "1186651487155322880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955759558082928666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RonaldSimmonsUS @whyyoutouzhele @nursenika1840 年轻人少有回流乡下的，他们多数宁愿挤在县城也不会回去。而且这是生育补贴，真的是杯水车薪。我生活在赤贫中过，这正是他们不愿接受自己烂在乡土里的原因。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1955751215947448499",
+        "created_at": "2025-08-15T01:23:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-15T02:23:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956164876281524259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1186651487155322880",
+              "start": 0,
+              "username": "RonaldSimmonsUS"
+            },
+            {
+              "end": 32,
+              "id": "1260553941714186241",
+              "start": 17,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 47,
+              "id": "1629058457222656001",
+              "start": 33,
+              "username": "nursenika1840"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956164876281524259",
+        "in_reply_to_user_id": "1186651487155322880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955759558082928666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RonaldSimmonsUS @whyyoutouzhele @nursenika1840 年轻人少有回流乡下的，他们多数宁愿挤在县城也不会回去。而且这是生育补贴，真的是杯水车薪。我生活在赤贫中过，这正是他们不愿接受自己烂在乡土里的原因。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186651487155322880",
+        "conversation_id": "1955751215947448499",
+        "created_at": "2025-08-13T22:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T23:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955759558082928666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            },
+            {
+              "end": 54,
+              "id": "1629058457222656001",
+              "start": 40,
+              "username": "nursenika1840"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/RonaldSimmonsU…",
+              "end": 180,
+              "expanded_url": "https://x.com/RonaldSimmonsUS/status/1955758548794925539",
+              "start": 157,
+              "url": "https://t.co/lECOD44mUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955759558082928666",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3977,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955758548794925539",
+            "type": "quoted"
+          },
+          {
+            "id": "1955751215947448499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 另外，个人感觉，推特最了解CCP基本盘的人应该是@nursenika1840 ，他是真的从贫穷农村凭一己之力翻身走出贫困的。像他这种人，在中共国的农村，恐怕1000个人里也出不了一个。\n其它推友主要是中产出身，没真正体验过贫困农村的那种生活，自然会从中产的角度看待CCP的基本盘。\nhttps://t.co/lECOD44mUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 315,
+          "like_count": 30840,
+          "listed_count": 8,
+          "media_count": 13,
+          "tweet_count": 571
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T14:32:26.000Z",
+        "description": "American, Christian, patriot(Republican), journalist, Julian Assange supporter.\nGod bless America!\n🇺🇸🤝🇮🇱\n#MadeInUSA\n#1A\n#2A\n#FollowBack 100%\n#IFBAP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "MadeInUSA"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "1A"
+              },
+              {
+                "end": 123,
+                "start": 120,
+                "tag": "2A"
+              },
+              {
+                "end": 135,
+                "start": 124,
+                "tag": "FollowBack"
+              },
+              {
+                "end": 147,
+                "start": 141,
+                "tag": "IFBAP"
+              }
+            ]
+          }
+        },
+        "id": "1186651487155322880",
+        "location": "Washington, DC",
+        "name": "Ronald Simmons🇺🇸🦅✝️",
+        "pinned_tweet_id": "1869860983642173565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1343476573706485760/y4nITVko_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60221,
+          "following_count": 50405,
+          "like_count": 183629,
+          "listed_count": 110,
+          "media_count": 25270,
+          "tweet_count": 162191
+        },
+        "username": "RonaldSimmonsUS",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2079171,
+          "following_count": 984,
+          "like_count": 7913,
+          "listed_count": 8269,
+          "media_count": 33415,
+          "tweet_count": 40162
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-24T09:59:45.000Z",
+        "description": "如有移民问题可以私信，只能力所能及回答。",
+        "id": "1629058457222656001",
+        "name": "澳洲护士卡子弟",
+        "pinned_tweet_id": "1791700234860740900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648533563825082369/SW0QqoYh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50709,
+          "following_count": 358,
+          "like_count": 5946,
+          "listed_count": 193,
+          "media_count": 640,
+          "tweet_count": 11998
+        },
+        "username": "nursenika1840",
+        "verified": true
+      }
+    ]
+  }
+}

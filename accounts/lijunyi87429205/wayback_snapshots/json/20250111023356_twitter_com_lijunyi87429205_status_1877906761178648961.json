@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877274995233042432"
+      ],
+      "media_source_tweet_id": [
+        "1877274998001274920"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1877906761178648961",
+    "created_at": "2025-01-11T02:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T03:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877906761178648961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "123309184",
+          "start": 3,
+          "username": "artfanszone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJqZ2ykTt6",
+          "end": 40,
+          "expanded_url": "https://x.com/artfanszone/status/1877274998001274920/photo/1",
+          "media_key": "3_1877274995233042432",
+          "start": 17,
+          "url": "https://t.co/jJqZ2ykTt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877906761178648961",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877274998001274920",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artfanszone: https://t.co/jJqZ2ykTt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 977,
+        "media_key": "3_1877274995233042432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg1rqXSWsAAnv_P.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877274995233042432"
+          ],
+          "media_source_tweet_id": [
+            "1877274998001274920"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1877906761178648961",
+        "created_at": "2025-01-11T02:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T03:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877906761178648961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "123309184",
+              "start": 3,
+              "username": "artfanszone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJqZ2ykTt6",
+              "end": 40,
+              "expanded_url": "https://x.com/artfanszone/status/1877274998001274920/photo/1",
+              "media_key": "3_1877274995233042432",
+              "start": 17,
+              "url": "https://t.co/jJqZ2ykTt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877906761178648961",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877274998001274920",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artfanszone: https://t.co/jJqZ2ykTt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877274995233042432"
+          ]
+        },
+        "author_id": "123309184",
+        "conversation_id": "1877274998001274920",
+        "created_at": "2025-01-09T08:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T09:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877274998001274920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJqZ2ykTt6",
+              "end": 23,
+              "expanded_url": "https://x.com/artfanszone/status/1877274998001274920/photo/1",
+              "media_key": "3_1877274995233042432",
+              "start": 0,
+              "url": "https://t.co/jJqZ2ykTt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877274998001274920",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 49850,
+          "like_count": 3550,
+          "quote_count": 14,
+          "reply_count": 9,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jJqZ2ykTt6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 275,
+          "like_count": 17887,
+          "listed_count": 42,
+          "media_count": 2,
+          "tweet_count": 455
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2010-03-15T17:43:47.000Z",
+        "description": "Best art collections",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@artfanszone",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@artfanszone",
+                "start": 0,
+                "url": "https://t.co/Ji4038Fyjp"
+              }
+            ]
+          }
+        },
+        "id": "123309184",
+        "name": "Art Fans Zone",
+        "pinned_tweet_id": "1877274998001274920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591860712221151232/BuvPD_Ls_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56328,
+          "following_count": 2905,
+          "like_count": 23502,
+          "listed_count": 484,
+          "media_count": 7174,
+          "tweet_count": 12681
+        },
+        "url": "https://t.co/Ji4038Fyjp",
+        "username": "artfanszone",
+        "verified": true
+      }
+    ]
+  }
+}

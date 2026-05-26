@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1952301845684142420",
+    "created_at": "2025-08-04T09:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T10:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952302856658411983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764182789732347904",
+          "start": 0,
+          "username": "V_brigade_Eric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952302856658411983",
+    "in_reply_to_user_id": "1764182789732347904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952301845684142420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@V_brigade_Eric 如果习惯克制地去审视或询问，可以避免大部分的误解。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1145,
+        "media_key": "3_1952301831826046976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxf4LBxWAAA6CdO.jpg",
+        "width": 1064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1952301845684142420",
+        "created_at": "2025-08-04T09:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952302856658411983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764182789732347904",
+              "start": 0,
+              "username": "V_brigade_Eric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952302856658411983",
+        "in_reply_to_user_id": "1764182789732347904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952301845684142420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@V_brigade_Eric 如果习惯克制地去审视或询问，可以避免大部分的误解。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1952301831826046976"
+          ]
+        },
+        "author_id": "1764182789732347904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1952301845684142420",
+        "created_at": "2025-08-04T09:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T10:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952301845684142420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T83JNVhPGQ",
+              "end": 164,
+              "expanded_url": "https://x.com/V_brigade_Eric/status/1952301845684142420/photo/1",
+              "media_key": "3_1952301831826046976",
+              "start": 141,
+              "url": "https://t.co/T83JNVhPGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952301845684142420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中推果真各种X。盛雪单挑张淑凤、伍雷舌战众金刚、十二热狗酿惨案……一圈下来，每个人都义正严辞甚至义愤填膺，且对立双方的情绪都不像装的。对各位看官来说，我推荐你们一部电影：《罗生门》。真相的绝对与相对、主观与客观、以至真相与沟通的关系，都可在电影中触发些许思考。我也有经历过因沟通导致的关系破裂，深知沟通极易误解，误解又常被错当真相。\n\n在《罗生门》中，一起凶杀案的目击者和相关人物——强盗、武士的妻子、武士的灵魂以及樵夫——各自提供了截然不同的故事版本。每个人的讲述都受到主观与客观因素的双重影响和限制。\n\n主观上，每个人都有自己的立场和动机——自保、羞耻、荣耀或其它……而客观上，每个人在同一事件中所处的不同位置、角度、时间线……也会影响他们看到或听到的“真相”。主客观叠加，不同的人就会选择不同的叙述方式，导致说出的真相无法一致甚至截然对立。真相究竟是什么？若没有能令公众作出一致判断的确凿证据，仅靠口头陈述，有时似乎无人能给出确凿答案。\n\n这种现象在日常沟通中同样常见：每个人都带着自己的背景、情感和意图去解读和表达信息，结果导致同样一句话，在不同人耳中变成不同的版本。\n\n比如你的领导或同事，对你说一句：“你这方面可以做得更好”，在不同人耳中可能引发截然不同的反应：有人高兴觉得是鼓励，有人却愤恨认为是批评。每个人对语言的理解都带有强烈的个人色彩，也受到环境乃至参与沟通者本身身份等不同因素的影响。\n\n朋友之间也是如此，每个人成长环境不同，心理的雷区、戒备程度不同，沟通时的心情也不同……同样一句话，对不同的人说，在不同的时间说，可能都会触发不同的观感，甚至被认为含有恶意。\n\n我曾在一次沟通中，因为等待时间太长，又不好直接说，便用半开玩笑的方式调侃，结果直接导致关系炸膛。事后回顾，应该是踩到了雷区，让对方觉得形象被那句话描述得很不堪。虽然我根本没那意思，但没有考虑到对方这方面的禁忌，被炸也只能认了。这种时候，即便你平常把对方看得很重，哪怕愿意为其炸了地球，也救不回来了。\n\n无论是在线聊天时的一个标点，还是线下面谈时的一个眉头，都会被不同的交流者作出不同解读……这实际上揭示了一个常见现象——信息在传递过程中极易失真。\n\n这种失真，除了上面说的，受到不同立场、动机、情绪、认知……以及不同位置、角度、时间线等因素的影响外，还有一些其它容易被忽视的因素。\n\n比如科学研究表明，人的记忆在各种复杂因素影响下，可能会发生无意识的篡改或错位，而这种改变并不是当事人有意为之，他/她并未意识到记忆已发生偏差，故而会坚定不移的认为，自己凭记忆讲述的过去才是真相。\n\n所以，我们在追寻真相过程中，既不轻口供，也不能盲信口供，而更应以证据为准绳，当证言与证据冲突时，以证据为准。\n\n当然，在这个立场先行撕逼满天的环境里，你就算拿出证据，很多人也会无视。比如我自己的故事，任何有正常智商和常识的人都能作出正确判断，还不是一样有人恶意诋毁，还要定期定时来辱骂🤣……我都不知该怎么劝了，只能用玄学善意提醒：算命大师说了，我是新政权缔造者之一，所以别白费心机了，还是当心你们自己吧～\n\n总之，《罗生门》不仅可以归纳为一种现象，也可以概括成一种效应，它揭示了真相的绝对与相对、主观与客观……的高度复杂的二元性；它提醒我们，真相往往不是单一的，而是由多重视角交织而成，而陈述各自视角的信息，又会在传递过程中因加工与过滤而失真。有时，不沟通就没有真相，但一沟通，也可能立刻就踏入了“罗生门”的迷雾。\n\n尽管过程充满挑战，但我们仍要努力沟通并追寻真相。无论是对朋友还是敌人，还是对第三方，有时不妨停下来问问自己：我是否真的理解了对方的意思？对方是否也理解了我的心意？\n\n或许，这正是走出“罗生门”的第一步。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推果真各种X。盛雪单挑张淑凤、伍雷舌战众金刚、十二热狗酿惨案……一圈下来，每个人都义正严辞甚至义愤填膺，且对立双方的情绪都不像装的。对各位看官来说，我推荐你们一部电影：《罗生门》。真相的绝对与相对、主观与客观、以至真相与沟通的关系，都可在电影中触发些许思考。我也有经历过因沟通导 https://t.co/T83JNVhPGQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 310,
+          "like_count": 29844,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 536
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T06:58:54.000Z",
+        "description": "V，Eric.V。前中美双面特工，V字旅创建者。V字旅X账号：@v_brigade",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "v_brigade"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@V-Brigade-Eric",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@V-Brigade-Eric",
+                "start": 0,
+                "url": "https://t.co/xdQij8mvUM"
+              }
+            ]
+          }
+        },
+        "id": "1764182789732347904",
+        "name": "Eric.V 前特工/V字旅创建者",
+        "pinned_tweet_id": "1917050044609663331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792870675167985664/YVBnv2vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8679,
+          "following_count": 1054,
+          "like_count": 7137,
+          "listed_count": 39,
+          "media_count": 310,
+          "tweet_count": 3540
+        },
+        "url": "https://t.co/xdQij8mvUM",
+        "username": "V_brigade_Eric",
+        "verified": true
+      }
+    ]
+  }
+}

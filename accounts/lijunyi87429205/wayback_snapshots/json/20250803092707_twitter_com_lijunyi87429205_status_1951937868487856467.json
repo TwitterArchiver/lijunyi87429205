@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A movie genre like Action",
+          "id": "87",
+          "name": "Movie Genre"
+        },
+        "entity": {
+          "id": "1290284517027012611",
+          "name": "Historical films"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Movies",
+          "id": "1072936713134071808",
+          "name": "Movies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1290284517027012611",
+          "name": "Historical films"
+        }
+      }
+    ],
+    "conversation_id": "1951724036368859228",
+    "created_at": "2025-08-03T09:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T10:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951937868487856467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "938022308026908673",
+          "start": 0,
+          "username": "Cat_the_Guru"
+        },
+        {
+          "end": 27,
+          "id": "1497184178147774472",
+          "start": 14,
+          "username": "WeineawskiEX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951937868487856467",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951936705109393900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cat_the_Guru @WeineawskiEX 其次，中国人当然有权利拍历史相关的电影，我个人主张文艺作品创作自由。但问题是，中国大陆除了主路线，主旋律作品，都是不被允许存在的。我相信大部分对此不满的人有很大程度出自这个原因。最后，日本主要教育体系确实有所回避这段历史，并未细讲。但否认主要来自右翼。大部分日本人持“不关心”态度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Movies",
+              "id": "1072936713134071808",
+              "name": "Movies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1290284517027012611",
+              "name": "Historical films"
+            }
+          }
+        ],
+        "conversation_id": "1951724036368859228",
+        "created_at": "2025-08-03T09:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951937868487856467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "938022308026908673",
+              "start": 0,
+              "username": "Cat_the_Guru"
+            },
+            {
+              "end": 27,
+              "id": "1497184178147774472",
+              "start": 14,
+              "username": "WeineawskiEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951937868487856467",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951936705109393900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cat_the_Guru @WeineawskiEX 其次，中国人当然有权利拍历史相关的电影，我个人主张文艺作品创作自由。但问题是，中国大陆除了主路线，主旋律作品，都是不被允许存在的。我相信大部分对此不满的人有很大程度出自这个原因。最后，日本主要教育体系确实有所回避这段历史，并未细讲。但否认主要来自右翼。大部分日本人持“不关心”态度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1951724036368859228",
+        "created_at": "2025-08-03T09:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T10:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951936705109393900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "938022308026908673",
+              "start": 0,
+              "username": "Cat_the_Guru"
+            },
+            {
+              "end": 27,
+              "id": "1497184178147774472",
+              "start": 14,
+              "username": "WeineawskiEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951936705109393900",
+        "in_reply_to_user_id": "938022308026908673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951725030611505520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cat_the_Guru @WeineawskiEX 首先，不该，靖国神社（招魂社，护国社）是早于二战就存在的日本历史纪念品。如果要考虑从对日本历史罪行的角度进行正义纠偏，应当做的是把它变成博物馆性质的存在。而不是继续作为祭拜场所，至少应该移除二战中的日本军事相关的人物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 307,
+          "like_count": 29752,
+          "listed_count": 8,
+          "media_count": 10,
+          "tweet_count": 523
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:28:40.000Z",
+        "description": "",
+        "id": "938022308026908673",
+        "location": "Philadelphia, PA",
+        "name": "Cat the Guru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803800301792591872/JXt8cpIf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 46,
+          "like_count": 1883,
+          "listed_count": 4,
+          "media_count": 202,
+          "tweet_count": 2648
+        },
+        "username": "Cat_the_Guru",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-25T12:20:17.000Z",
+        "description": "Defend our way of life/\n每日播报俄乌战争新闻/\n锁推的关注我一律block/\n孝子们别找了亚速钢铁厂的大鱼就是我/\n粉蛆、绿白、蓝脑、DS份子勿扰/每两周更新一次架空世界作品 #子夜之后 停止对线",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 100,
+                "tag": "子夜之后"
+              }
+            ]
+          }
+        },
+        "id": "1497184178147774472",
+        "location": "2077红军村遗迹",
+        "name": "埃里克奥尔森上将归来，笑看鹅孝子土崩瓦解，黄/皇鹅被送上绞刑架之日即将到来👊🇺🇸🔥",
+        "pinned_tweet_id": "1650429439053025282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772269169947594752/tvkHAqr-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 3586,
+          "like_count": 137313,
+          "listed_count": 38,
+          "media_count": 3250,
+          "tweet_count": 56773
+        },
+        "username": "WeineawskiEX",
+        "verified": false
+      }
+    ]
+  }
+}

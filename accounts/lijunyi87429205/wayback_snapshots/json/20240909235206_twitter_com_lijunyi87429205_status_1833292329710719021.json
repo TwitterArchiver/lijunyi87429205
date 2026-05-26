@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1833246996775477248"
+      ],
+      "media_source_tweet_id": [
+        "1833247039926460423"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1833292329710719021",
+    "created_at": "2024-09-09T23:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-10T00:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833292329710719021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghnditnyrj",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xiaojingcanxue/status/1833247039926460423/photo/1",
+          "media_key": "3_1833246996775477248",
+          "start": 33,
+          "url": "https://t.co/GHNDItNyrJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833292329710719021",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833247039926460423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 简中辩论赛之中美贸易战。 https://t.co/GHNDItNyrJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2122,
+        "media_key": "3_1833246996775477248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXEAbjxaoAArcSG.jpg",
+        "width": 1212
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833246996775477248"
+          ],
+          "media_source_tweet_id": [
+            "1833247039926460423"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1833292329710719021",
+        "created_at": "2024-09-09T23:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-10T00:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833292329710719021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghnditnyrj",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1833247039926460423/photo/1",
+              "media_key": "3_1833246996775477248",
+              "start": 33,
+              "url": "https://t.co/GHNDItNyrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833292329710719021",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833247039926460423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 简中辩论赛之中美贸易战。 https://t.co/GHNDItNyrJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1833246996775477248"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "1833247039926460423",
+        "created_at": "2024-09-09T20:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T21:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833247039926460423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghnditnyrj",
+              "end": 36,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1833247039926460423/photo/1",
+              "media_key": "3_1833246996775477248",
+              "start": 13,
+              "url": "https://t.co/GHNDItNyrJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833247039926460423",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 9152,
+          "like_count": 56,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "简中辩论赛之中美贸易战。 https://t.co/GHNDItNyrJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 273,
+          "like_count": 13266,
+          "listed_count": 43,
+          "tweet_count": 383
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208381,
+          "following_count": 1853,
+          "like_count": 183,
+          "listed_count": 1147,
+          "tweet_count": 26441
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

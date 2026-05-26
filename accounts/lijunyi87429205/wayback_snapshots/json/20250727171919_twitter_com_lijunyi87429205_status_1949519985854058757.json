@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1949519985854058757",
+    "created_at": "2025-07-27T17:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T18:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1949519985854058757"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1949519985854058757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "夜晚。最无力的夜晚，前一个白昼挣扎着不愿意死去，而凌晨的亡魂只是无计可施的飘荡。一切寄托，期望，荒废的那些时间，都在这时向软弱的意志复仇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1949519985854058757",
+        "created_at": "2025-07-27T17:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T18:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949519985854058757"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1949519985854058757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "夜晚。最无力的夜晚，前一个白昼挣扎着不愿意死去，而凌晨的亡魂只是无计可施的飘荡。一切寄托，期望，荒废的那些时间，都在这时向软弱的意志复仇。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 317,
+          "like_count": 29204,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 508
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

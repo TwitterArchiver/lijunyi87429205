@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1944633730636583010",
+    "created_at": "2025-07-14T05:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T06:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944633730636583010"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pukekoku/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/pukekoku/status/1944540863662882980",
+          "start": 4,
+          "url": "https://t.co/fcW1jMibOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944633730636583010",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944540863662882980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "me. https://t.co/fcW1jMibOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1944540857232744448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvxlm2aXYAA98wb.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1944633730636583010",
+        "created_at": "2025-07-14T05:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T06:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944633730636583010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pukekoku/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/pukekoku/status/1944540863662882980",
+              "start": 4,
+              "url": "https://t.co/fcW1jMibOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944633730636583010",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944540863662882980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "me. https://t.co/fcW1jMibOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944540857232744448"
+          ]
+        },
+        "author_id": "1057799036160360448",
+        "conversation_id": "1944540863662882980",
+        "created_at": "2025-07-13T23:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T00:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944540863662882980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cLjP9ZHPLV",
+              "end": 28,
+              "expanded_url": "https://x.com/pukekoku/status/1944540863662882980/photo/1",
+              "media_key": "3_1944540857232744448",
+              "start": 5,
+              "url": "https://t.co/cLjP9ZHPLV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944540863662882980",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1545,
+          "impression_count": 337462,
+          "like_count": 22538,
+          "quote_count": 189,
+          "reply_count": 61,
+          "retweet_count": 2540
+        },
+        "reply_settings": "everyone",
+        "text": "you. https://t.co/cLjP9ZHPLV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 313,
+          "like_count": 27831,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 491
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-01T00:58:37.000Z",
+        "description": "3 or 4 pukeko under a trench coat that posts birds and other miscellaneous things god forbid a bird have social media presence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pukekocoverland.straw.page",
+                "end": 23,
+                "expanded_url": "https://pukekocoverland.straw.page/",
+                "start": 0,
+                "url": "https://t.co/ZRqATgK138"
+              }
+            ]
+          }
+        },
+        "id": "1057799036160360448",
+        "location": " bird account",
+        "name": "pukeko",
+        "pinned_tweet_id": "1869960134736445526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923845882908217344/nJK03oIb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12617,
+          "following_count": 1524,
+          "like_count": 36072,
+          "listed_count": 13,
+          "media_count": 3291,
+          "tweet_count": 14335
+        },
+        "url": "https://t.co/ZRqATgK138",
+        "username": "pukekoku",
+        "verified": false
+      }
+    ]
+  }
+}

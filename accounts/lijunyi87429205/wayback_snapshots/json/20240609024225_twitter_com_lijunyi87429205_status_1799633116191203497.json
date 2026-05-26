@@ -1,0 +1,175 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1799377761259425927",
+    "created_at": "2024-06-09T02:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T03:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799633116191203497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1776452300816719872",
+          "start": 0,
+          "username": "VoiceMemoNo_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799633116191203497",
+    "in_reply_to_user_id": "1776452300816719872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799377761259425927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_7 语言能力就是通过练习获得的，没有人天生就是演说家或者文学家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1799377761259425927",
+        "created_at": "2024-06-09T02:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T03:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799633116191203497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776452300816719872",
+              "start": 0,
+              "username": "VoiceMemoNo_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799633116191203497",
+        "in_reply_to_user_id": "1776452300816719872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799377761259425927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_7 语言能力就是通过练习获得的，没有人天生就是演说家或者文学家"
+      },
+      {
+        "attachments": {},
+        "author_id": "1776452300816719872",
+        "conversation_id": "1799377761259425927",
+        "created_at": "2024-06-08T09:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T10:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799377761259425927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799377761259425927",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1027,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好恨我的表达能力我有好多话好多感悟但是发现写出来有时候前言不搭后语肯定会有人笑我我很难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 239,
+          "like_count": 9710,
+          "listed_count": 46,
+          "tweet_count": 341
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T03:30:17.000Z",
+        "description": "前世@VoiceMemoNo_4｜神の陨落｜抽象的脚推｜极端平等主义者｜因为是人类 所以要去码头整点薯条｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "VoiceMemoNo_4"
+              }
+            ]
+          }
+        },
+        "id": "1776452300816719872",
+        "location": "88\\388\\520",
+        "name": "理江2.0（互联网阳痿版）",
+        "pinned_tweet_id": "1786678040141172874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785944409064058880/eI9-8yzn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5502,
+          "following_count": 114,
+          "like_count": 3578,
+          "listed_count": 7,
+          "tweet_count": 1477
+        },
+        "username": "VoiceMemoNo_7",
+        "verified": false
+      }
+    ]
+  }
+}

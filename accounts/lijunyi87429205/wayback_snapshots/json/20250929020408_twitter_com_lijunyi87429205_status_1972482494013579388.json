@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1972252039087604014",
+    "created_at": "2025-09-29T02:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T03:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972482494013579388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1485869533147459585",
+          "start": 0,
+          "username": "arvin000_"
+        },
+        {
+          "end": 22,
+          "id": "1652991780873175040",
+          "start": 11,
+          "username": "xrn1666827"
+        },
+        {
+          "end": 36,
+          "id": "1585942498253238273",
+          "start": 23,
+          "username": "AliceEslight"
+        },
+        {
+          "end": 44,
+          "id": "1613079089879076864",
+          "start": 37,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972482494013579388",
+    "in_reply_to_user_id": "1485869533147459585",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972375044971278605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@arvin000_ @xrn1666827 @AliceEslight @Cldeop 有，阿伊努人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1972252039087604014",
+        "created_at": "2025-09-29T02:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972482494013579388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1485869533147459585",
+              "start": 0,
+              "username": "arvin000_"
+            },
+            {
+              "end": 22,
+              "id": "1652991780873175040",
+              "start": 11,
+              "username": "xrn1666827"
+            },
+            {
+              "end": 36,
+              "id": "1585942498253238273",
+              "start": 23,
+              "username": "AliceEslight"
+            },
+            {
+              "end": 44,
+              "id": "1613079089879076864",
+              "start": 37,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972482494013579388",
+        "in_reply_to_user_id": "1485869533147459585",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972375044971278605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@arvin000_ @xrn1666827 @AliceEslight @Cldeop 有，阿伊努人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1485869533147459585",
+        "conversation_id": "1972252039087604014",
+        "created_at": "2025-09-28T18:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T19:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972375044971278605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652991780873175040",
+              "start": 0,
+              "username": "xrn1666827"
+            },
+            {
+              "end": 25,
+              "id": "1585942498253238273",
+              "start": 12,
+              "username": "AliceEslight"
+            },
+            {
+              "end": 33,
+              "id": "1613079089879076864",
+              "start": 26,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972375044971278605",
+        "in_reply_to_user_id": "1652991780873175040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 237,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972296684953817508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xrn1666827 @AliceEslight @Cldeop 西周日本那地方有没有人都是个问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 352,
+          "like_count": 35928,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 681
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-25T06:58:12.000Z",
+        "description": "只有政治历史白痴，才会幻想出一个完美的政府，并将其寄托于外国、苏联或过去。",
+        "id": "1485869533147459585",
+        "name": "arvin000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572981586660065281/Kxc7WwpF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 1578,
+          "like_count": 20164,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 2053
+        },
+        "username": "arvin000_",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-01T11:02:46.000Z",
+        "description": "人民万岁！",
+        "id": "1652991780873175040",
+        "location": "Fukuoka-shi Hakata-ku, Fukuoka",
+        "name": "勿妄言〔互fo版〕",
+        "pinned_tweet_id": "1777523335787577764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905955580444811264/jEzZ0lqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 448,
+          "like_count": 66350,
+          "listed_count": 14,
+          "media_count": 176,
+          "tweet_count": 12509
+        },
+        "username": "xrn1666827",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "于睡梦中……",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aliceeslight1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aliceeslight1",
+                "start": 0,
+                "url": "https://t.co/y3f6U9JOiT"
+              }
+            ]
+          }
+        },
+        "id": "1585942498253238273",
+        "location": "不可思议",
+        "name": "Alice",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 77,
+          "like_count": 27012,
+          "listed_count": 4,
+          "media_count": 422,
+          "tweet_count": 9650
+        },
+        "url": "https://t.co/y3f6U9JOiT",
+        "username": "AliceEslight",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886005781809762304/i2xju6zt_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81138,
+          "following_count": 641,
+          "like_count": 30659,
+          "listed_count": 255,
+          "media_count": 12472,
+          "tweet_count": 17666
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

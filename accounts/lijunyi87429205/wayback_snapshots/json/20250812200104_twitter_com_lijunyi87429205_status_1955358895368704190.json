@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1955358895368704190",
+    "created_at": "2025-08-12T20:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T21:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955358895368704190"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1955358895368704190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所以他理所当然有一个不那么糟糕的早晨，就算已经知道自己已经醒来，也可以装作世界已然停止，一切都在虚幻的恩惠里洋溢着幸福，光荣会到来，天堂也不只是体面疯人的妄想。   出自《战争英雄巴布斯先生》作者：我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1955358895368704190",
+        "created_at": "2025-08-12T20:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T21:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955358895368704190"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955358895368704190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以他理所当然有一个不那么糟糕的早晨，就算已经知道自己已经醒来，也可以装作世界已然停止，一切都在虚幻的恩惠里洋溢着幸福，光荣会到来，天堂也不只是体面疯人的妄想。   出自《战争英雄巴布斯先生》作者：我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 314,
+          "like_count": 30622,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 570
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

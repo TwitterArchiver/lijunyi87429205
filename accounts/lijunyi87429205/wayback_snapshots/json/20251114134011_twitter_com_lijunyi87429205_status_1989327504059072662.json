@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1989306382596649365",
+    "created_at": "2025-11-14T13:40:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T14:40:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989327504059072662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1903418323939016704",
+          "start": 0,
+          "username": "sinodog8964"
+        },
+        {
+          "end": 27,
+          "id": "2689170356",
+          "start": 13,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989327504059072662",
+    "in_reply_to_user_id": "1903418323939016704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989317818790085103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sinodog8964 @Hoshikawa_ran 无非就是无原则的标新立异和另类指鹿为马的服从性测试罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1989306382596649365",
+        "created_at": "2025-11-14T13:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989327504059072662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1903418323939016704",
+              "start": 0,
+              "username": "sinodog8964"
+            },
+            {
+              "end": 27,
+              "id": "2689170356",
+              "start": 13,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989327504059072662",
+        "in_reply_to_user_id": "1903418323939016704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989317818790085103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sinodog8964 @Hoshikawa_ran 无非就是无原则的标新立异和另类指鹿为马的服从性测试罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903418323939016704",
+        "conversation_id": "1989306382596649365",
+        "created_at": "2025-11-14T13:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T14:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989317818790085103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2689170356",
+              "start": 0,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989317818790085103",
+        "in_reply_to_user_id": "2689170356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989306382596649365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshikawa_ran 腊肉也有股古早贴吧吧友那味，爱抬高被骂的，贬低被夸的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 386,
+          "like_count": 40386,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 798
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-22T12:11:21.000Z",
+        "description": "现任中国共产党中央委员会总书记，中共中央军事委员会主席，中华人民共和国主席，中华人民共和国中央军事委员会主席。\n曾任第十七届中央政治局委员，重庆市委书记。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/X74OnkgyxY"
+              }
+            ]
+          }
+        },
+        "id": "1903418323939016704",
+        "location": "山西省富平县",
+        "name": "包包熙来",
+        "pinned_tweet_id": "1987220712059285828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975828570942451712/1ZWxcqi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 16,
+          "like_count": 3550,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/X74OnkgyxY",
+        "username": "sinodog8964",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15019,
+          "following_count": 397,
+          "like_count": 152021,
+          "listed_count": 69,
+          "media_count": 2595,
+          "tweet_count": 25917
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1949444247981334748",
+    "created_at": "2025-07-27T13:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T14:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949467216270987627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563463171699970049",
+          "start": 0,
+          "username": "Akimi_Lyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949467216270987627",
+    "in_reply_to_user_id": "1563463171699970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949444247981334748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akimi_Lyan 我也抽银钗👆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949444244655243264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3RNkAbAAALlP4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1949444247981334748",
+        "created_at": "2025-07-27T13:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949467216270987627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563463171699970049",
+              "start": 0,
+              "username": "Akimi_Lyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949467216270987627",
+        "in_reply_to_user_id": "1563463171699970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949444247981334748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akimi_Lyan 我也抽银钗👆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949444244655243264"
+          ]
+        },
+        "author_id": "1563463171699970049",
+        "conversation_id": "1949444247981334748",
+        "created_at": "2025-07-27T12:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T13:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949444247981334748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuQPqYkUYf",
+              "end": 98,
+              "expanded_url": "https://x.com/Akimi_Lyan/status/1949444247981334748/photo/1",
+              "media_key": "3_1949444244655243264",
+              "start": 75,
+              "url": "https://t.co/NuQPqYkUYf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949444247981334748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚在万达门口遇到一个抽烟的小姐姐，我陪她在她边上做了一会儿，给了她一支银钗，走的时候 她给了我一瓶这个喝的‘小美女，这个送给你，我要走啦’ \n开心 https://t.co/NuQPqYkUYf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 317,
+          "like_count": 29185,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 507
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T09:47:57.000Z",
+        "description": "🚪1 Peso 50 centavos",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Miyano_Akemi",
+                "end": 23,
+                "expanded_url": "https://t.me/Miyano_Akemi",
+                "start": 0,
+                "url": "https://t.co/kJ1vHkwEqg"
+              }
+            ]
+          }
+        },
+        "id": "1563463171699970049",
+        "location": "Macondo",
+        "name": "Lyan梨安🏳️‍⚧️",
+        "pinned_tweet_id": "1923310904348733618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949327895077199872/c4iSdu4c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 178,
+          "like_count": 9088,
+          "listed_count": 2,
+          "media_count": 720,
+          "tweet_count": 3922
+        },
+        "url": "https://t.co/kJ1vHkwEqg",
+        "username": "Akimi_Lyan",
+        "verified": false
+      }
+    ]
+  }
+}

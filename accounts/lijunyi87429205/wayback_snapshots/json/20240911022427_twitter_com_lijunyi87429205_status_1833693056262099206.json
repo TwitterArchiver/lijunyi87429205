@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1833693056262099206",
+    "created_at": "2024-09-11T02:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-11T03:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833693056262099206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "569860610",
+          "start": 3,
+          "username": "EricLiu_USA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833693056262099206",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833644417774993858",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EricLiu_USA: 工具的普及不会直接打败极权，互联网只是增加了一个现代性的机遇或难题。\n要是没有互联网，审查员照样在地下室抠书拆信，警察照样追踪打字机，不感说话的还是不敢说话。但起码互联网赋能了很多没法写书排版用打字机的人，他们中也有敢说话的，那社会上敢说话的人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1833693056262099206",
+        "created_at": "2024-09-11T02:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T03:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833693056262099206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "569860610",
+              "start": 3,
+              "username": "EricLiu_USA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833693056262099206",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833644417774993858",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EricLiu_USA: 工具的普及不会直接打败极权，互联网只是增加了一个现代性的机遇或难题。\n要是没有互联网，审查员照样在地下室抠书拆信，警察照样追踪打字机，不感说话的还是不敢说话。但起码互联网赋能了很多没法写书排版用打字机的人，他们中也有敢说话的，那社会上敢说话的人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "569860610",
+        "conversation_id": "1833644417774993858",
+        "created_at": "2024-09-10T23:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-11T00:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833644417774993858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MianMaoKu/stat…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/MianMaoKu/status/1833641792300061015",
+              "start": 137,
+              "url": "https://t.co/KdigE84DcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833644417774993858",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8480,
+          "like_count": 67,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833641792300061015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "工具的普及不会直接打败极权，互联网只是增加了一个现代性的机遇或难题。\n要是没有互联网，审查员照样在地下室抠书拆信，警察照样追踪打字机，不感说话的还是不敢说话。但起码互联网赋能了很多没法写书排版用打字机的人，他们中也有敢说话的，那社会上敢说话的人还是多了。\n打败极权的是人。 https://t.co/KdigE84DcT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 273,
+          "like_count": 13333,
+          "listed_count": 43,
+          "tweet_count": 385
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2012-05-03T10:25:01.000Z",
+        "description": "曾荣获“谷学大学习”先进荣誉个人",
+        "id": "569860610",
+        "name": "Eric Liu 刘力朋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831492166750748672/KVKgt6qC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68736,
+          "following_count": 1539,
+          "like_count": 23361,
+          "listed_count": 298,
+          "tweet_count": 21916
+        },
+        "username": "EricLiu_USA",
+        "verified": false
+      }
+    ]
+  }
+}

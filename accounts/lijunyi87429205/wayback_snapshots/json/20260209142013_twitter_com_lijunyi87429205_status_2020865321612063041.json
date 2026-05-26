@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020403483296624640"
+      ],
+      "media_source_tweet_id": [
+        "2020528047456243974"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2020865321612063041",
+    "created_at": "2026-02-09T14:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T15:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020865321612063041"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "Buster",
+          "probability": 0.7207,
+          "start": 49,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1510275127065337861",
+          "start": 3,
+          "username": "Noirchick1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BAIHkBxsci",
+          "end": 89,
+          "expanded_url": "https://x.com/Noirchick1/status/2020528047456243974/video/1",
+          "media_key": "13_2020403483296624640",
+          "start": 66,
+          "url": "https://t.co/BAIHkBxsci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020865321612063041",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 547
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020528047456243974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Noirchick1: When a look says it all.... poor Buster.......... https://t.co/BAIHkBxsci"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18333,
+        "height": 960,
+        "media_key": "13_2020403483296624640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020403483296624640/img/OriZdCRKjaaAZHAD.jpg",
+        "public_metrics": {
+          "view_count": 385156
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020403483296624640/vid/avc1/320x568/INZfoBVjILaNZcxV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020403483296624640/vid/avc1/480x852/sUZXlePRTesFDXBJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020403483296624640/vid/avc1/540x960/MJ7b0TwJz40NRMfx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020403483296624640/pl/XrVGpD2hLLdF7CE-.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020403483296624640"
+          ],
+          "media_source_tweet_id": [
+            "2020528047456243974"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2020865321612063041",
+        "created_at": "2026-02-09T14:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T15:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020865321612063041"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Buster",
+              "probability": 0.7207,
+              "start": 49,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1510275127065337861",
+              "start": 3,
+              "username": "Noirchick1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAIHkBxsci",
+              "end": 89,
+              "expanded_url": "https://x.com/Noirchick1/status/2020528047456243974/video/1",
+              "media_key": "13_2020403483296624640",
+              "start": 66,
+              "url": "https://t.co/BAIHkBxsci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020865321612063041",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 547
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020528047456243974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Noirchick1: When a look says it all.... poor Buster.......... https://t.co/BAIHkBxsci"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020403483296624640"
+          ]
+        },
+        "author_id": "1510275127065337861",
+        "conversation_id": "2020528047456243974",
+        "created_at": "2026-02-08T16:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020528047456243974"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Buster",
+              "probability": 0.6992,
+              "start": 33,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BAIHkBxsci",
+              "end": 73,
+              "expanded_url": "https://x.com/Noirchick1/status/2020528047456243974/video/1",
+              "media_key": "13_2020403483296624640",
+              "start": 50,
+              "url": "https://t.co/BAIHkBxsci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020528047456243974",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1157,
+          "impression_count": 823911,
+          "like_count": 6880,
+          "quote_count": 118,
+          "reply_count": 79,
+          "retweet_count": 547
+        },
+        "reply_settings": "everyone",
+        "text": "When a look says it all.... poor Buster.......... https://t.co/BAIHkBxsci"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 390,
+          "like_count": 52309,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1047
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-02T15:17:17.000Z",
+        "description": "Old Hollywood-Vintage & Glamour Photos.Backstories. Noir/Pre-Code/Silent/Classic Film. Cocktails & sass with a dash of sarcasm by an elegant, quirky, kind soul.",
+        "id": "1510275127065337861",
+        "location": "Sunset Boulevard",
+        "name": "Noirchick In Old Hollywood",
+        "pinned_tweet_id": "1874482716084953311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617023471111864323/wXXIUJEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153312,
+          "following_count": 4636,
+          "like_count": 61342,
+          "listed_count": 797,
+          "media_count": 17954,
+          "tweet_count": 34247
+        },
+        "username": "Noirchick1",
+        "verified": true
+      }
+    ]
+  }
+}

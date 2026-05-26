@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1975725614410969426",
+    "created_at": "2025-10-09T04:12:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T05:12:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976138629228708026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1656108194912145408",
+          "start": 0,
+          "username": "jxzdmzw"
+        },
+        {
+          "end": 19,
+          "id": "51904755",
+          "start": 9,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976138629228708026",
+    "in_reply_to_user_id": "1656108194912145408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975933202494820738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jxzdmzw @Morris_LT 多可怕的认知偏差"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1975725614410969426",
+        "created_at": "2025-10-09T04:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T05:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976138629228708026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1656108194912145408",
+              "start": 0,
+              "username": "jxzdmzw"
+            },
+            {
+              "end": 19,
+              "id": "51904755",
+              "start": 9,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976138629228708026",
+        "in_reply_to_user_id": "1656108194912145408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975933202494820738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jxzdmzw @Morris_LT 多可怕的认知偏差"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656108194912145408",
+        "conversation_id": "1975725614410969426",
+        "created_at": "2025-10-08T14:36:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T15:36:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975933202494820738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "51904755",
+              "start": 0,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975933202494820738",
+        "in_reply_to_user_id": "51904755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 13149,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975725614410969426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morris_LT 仅仅摔了一个碗不至于，多半是叛逆孩子顶了硬嘴。我弟弟曾跟我说，咱爸真狠，当年我只是去游戏厅玩了一下，就被打个半死。我说你记不全，当年你是偷了钱还逃课去游戏厅，被老师找上门了。人的记忆总是选择性保留，忘了那些自己理亏的细节，放大那些自己委屈的细节。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 356,
+          "like_count": 36708,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 700
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-10T01:25:45.000Z",
+        "description": "闲来瞎扯，偶尔键政",
+        "id": "1656108194912145408",
+        "name": "侥幸长大没长歪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892952917168082945/s4QXS2wt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 238,
+          "like_count": 1552,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 12241
+        },
+        "username": "jxzdmzw",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。《旷野之心》作者，私信开放订购：https://t.co/W2fM1ccAiv",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/Morris_LT/stat…",
+                "end": 106,
+                "expanded_url": "https://x.com/Morris_LT/status/1912318899540095446",
+                "start": 83,
+                "url": "https://t.co/W2fM1ccAiv"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160108,
+          "following_count": 410,
+          "like_count": 50606,
+          "listed_count": 926,
+          "media_count": 6983,
+          "tweet_count": 69154
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1807812021230191047",
+    "created_at": "2024-07-02T04:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T05:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807988109696721402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "threnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807988109696721402",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807812021230191047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@threnote 我会加入"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1807812021230191047",
+        "created_at": "2024-07-02T04:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T05:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807988109696721402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "threnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807988109696721402",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807812021230191047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@threnote 我会加入"
+      },
+      {
+        "attachments": {},
+        "author_id": "1714659505320140800",
+        "conversation_id": "1807812021230191047",
+        "created_at": "2024-07-01T16:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T17:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807812021230191047"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807812021230191047",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想搞个 TG 群，或者之类的东西，但想想应该没人会来，暂时算了。先试着多提升一下自身知识水平，并且多交点朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 245,
+          "like_count": 10100,
+          "listed_count": 46,
+          "tweet_count": 351
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "(批量 block 使用过,误b勿介意)\nfollowing not equals to Endorsement\nDM welcome\n沉睡于冰封之地\n副账号  @Chionli\nTelegram: https://t.co/MRjAMc1XKp\n字数不够放不下的放 https://t.co/iTS5ZSycYK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "Chionli"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Chionli",
+                "end": 123,
+                "expanded_url": "http://t.me/Chionli",
+                "start": 100,
+                "url": "https://t.co/MRjAMc1XKp"
+              },
+              {
+                "display_url": "t.me/+mDe3LwErz18xM…",
+                "end": 157,
+                "expanded_url": "https://t.me/+mDe3LwErz18xMmI1",
+                "start": 134,
+                "url": "https://t.co/iTS5ZSycYK"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "距你-1km",
+        "name": "Kai-aad (closing",
+        "pinned_tweet_id": "1792621884313375052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780915119876460544/9PHml8dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 818,
+          "like_count": 7788,
+          "listed_count": 1,
+          "tweet_count": 2500
+        },
+        "username": "threnote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1970091126662353062",
+    "created_at": "2025-09-23T04:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970347578903667152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970347578903667152",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970091126662353062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 听说曾有大洋土著模仿美军操练…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18433,
+        "height": 1920,
+        "media_key": "13_1970091034647711745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1970091034647711745/img/k1dVeP_L7D-Jt9LV.jpg",
+        "public_metrics": {
+          "view_count": 46167
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1970091034647711745/pl/y6IrZjUUu5lUB3Bd.m3u8?v=b5e"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970091034647711745/vid/avc1/720x1556/oHBBLbeaLa1KQ3FJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970091034647711745/vid/avc1/480x1036/mvzh4d1Gz8g-D5G7.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970091034647711745/vid/avc1/888x1920/5o8yXz6XF1UuWZXP.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1970091034647711745/vid/avc1/320x690/CHCgJY772oNICqSr.mp4"
+          }
+        ],
+        "width": 888
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1970091126662353062",
+        "created_at": "2025-09-23T04:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970347578903667152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970347578903667152",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970091126662353062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 听说曾有大洋土著模仿美军操练…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1970091034647711745"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "conversation_id": "1970091126662353062",
+        "created_at": "2025-09-22T11:41:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:41:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970091126662353062"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6ZANQuYcc",
+              "end": 37,
+              "expanded_url": "https://x.com/cuichenghao7/status/1970091126662353062/video/1",
+              "media_key": "13_1970091034647711745",
+              "start": 14,
+              "url": "https://t.co/I6ZANQuYcc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970091126662353062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 89866,
+          "like_count": 464,
+          "quote_count": 13,
+          "reply_count": 110,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "九三阅兵后遗症患者方阵来了 https://t.co/I6ZANQuYcc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 351,
+          "like_count": 35278,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 661
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48144,
+          "following_count": 262,
+          "like_count": 1090,
+          "listed_count": 148,
+          "media_count": 613,
+          "tweet_count": 688
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

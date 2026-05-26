@@ -1,0 +1,164 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1790688218243039485",
+    "created_at": "2024-05-15T12:14:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T13:14:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790717388738187758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565847750989971457",
+          "start": 0,
+          "username": "mybluerose00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790717388738187758",
+    "in_reply_to_user_id": "1565847750989971457",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790688218243039485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mybluerose00 如果对你来说你的重要性在于一些物质或者原子什么的，你确实可以用这个说辞来自我安慰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1790688218243039485",
+        "created_at": "2024-05-15T12:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T13:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790717388738187758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565847750989971457",
+              "start": 0,
+              "username": "mybluerose00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790717388738187758",
+        "in_reply_to_user_id": "1565847750989971457",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790688218243039485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mybluerose00 如果对你来说你的重要性在于一些物质或者原子什么的，你确实可以用这个说辞来自我安慰"
+      },
+      {
+        "attachments": {},
+        "author_id": "1565847750989971457",
+        "conversation_id": "1790688218243039485",
+        "created_at": "2024-05-15T10:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T11:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790688218243039485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790688218243039485",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 291,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记得我很小的时候第一次知道什么是死亡的时候是很恐惧的，但很快我又给自己找到了个安慰：既然人死后会被埋在土里，而土上又会长出很多花草树木，就相当于我死后变成了那些花草树木，所以我并没有真的死去。这么想之后我就很久不再被死亡这个主题所困扰了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 220,
+          "like_count": 7647,
+          "listed_count": 46,
+          "tweet_count": 227
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T23:42:59.000Z",
+        "description": "一个爱欲着思考着创造着并且肩负着伦理责任的主体，除此之外，我什么都不是。",
+        "id": "1565847750989971457",
+        "location": "巴黎",
+        "name": "女无",
+        "pinned_tweet_id": "1766029969103401050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735154474891816960/aWbFBfLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 821,
+          "like_count": 61819,
+          "listed_count": 8,
+          "tweet_count": 11603
+        },
+        "username": "mybluerose00",
+        "verified": false
+      }
+    ]
+  }
+}

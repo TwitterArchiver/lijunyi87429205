@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1943726922338295947",
+    "created_at": "2025-07-11T17:45:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:45:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943728461010636950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1886287595401011200",
+          "start": 0,
+          "username": "bishny44552"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943728461010636950",
+    "in_reply_to_user_id": "1886287595401011200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943726922338295947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bishny44552 我 也 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1943726922338295947",
+        "created_at": "2025-07-11T17:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943728461010636950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1886287595401011200",
+              "start": 0,
+              "username": "bishny44552"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943728461010636950",
+        "in_reply_to_user_id": "1886287595401011200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943726922338295947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bishny44552 我 也 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886287595401011200",
+        "conversation_id": "1943726922338295947",
+        "created_at": "2025-07-11T17:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943726922338295947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1943726922338295947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "绝赞失眠中 快来和我聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 316,
+          "like_count": 27495,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 486
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:36:33.000Z",
+        "description": "菅芒花开遍的田野 是否有你在向我招手\n\n                                               憧憬成为互联网大天使 友一切（大概）infp 泛性恋 喜欢蓝色，绿色，晚霞，冰淇淋，菅芒花，和你",
+        "id": "1886287595401011200",
+        "location": "天国",
+        "name": "★许愿天使★白山羽★",
+        "pinned_tweet_id": "1919388147713999241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886593725083811840/pIhqELMp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 137,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 361
+        },
+        "username": "bishny44552",
+        "verified": false
+      }
+    ]
+  }
+}

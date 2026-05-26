@@ -1,0 +1,242 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1788972507556397126",
+    "created_at": "2024-05-10T23:16:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-11T00:16:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1789072127750185053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557605684531052544",
+          "start": 0,
+          "username": "DarkFan25777342"
+        },
+        {
+          "end": 33,
+          "id": "1509939466101825542",
+          "start": 17,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1789072127750185053",
+    "in_reply_to_user_id": "1557605684531052544",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788985281078821154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DarkFan25777342 @22HomoPoliticus 重症不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1788972507556397126",
+        "created_at": "2024-05-10T23:16:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-11T00:16:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789072127750185053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557605684531052544",
+              "start": 0,
+              "username": "DarkFan25777342"
+            },
+            {
+              "end": 33,
+              "id": "1509939466101825542",
+              "start": 17,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789072127750185053",
+        "in_reply_to_user_id": "1557605684531052544",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788985281078821154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DarkFan25777342 @22HomoPoliticus 重症不行"
+      },
+      {
+        "attachments": {},
+        "author_id": "1557605684531052544",
+        "conversation_id": "1788972507556397126",
+        "created_at": "2024-05-10T17:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T18:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788985281078821154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788985281078821154",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788972507556397126",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 不至于吧，一本经济学入门书就能救过来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 212,
+          "like_count": 7087,
+          "listed_count": 46,
+          "tweet_count": 196
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T05:52:03.000Z",
+        "description": "自由主义｜Cheems如是说道：“可以为所欲为！” 这并非是解脱的欢呼，而是酸楚的确认。",
+        "id": "1557605684531052544",
+        "location": "中南海的彼岸",
+        "name": "🪜Cheems🪜",
+        "pinned_tweet_id": "1769757469243494632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1611939198772318209/bknikxuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 440,
+          "like_count": 11899,
+          "listed_count": 2,
+          "tweet_count": 1006
+        },
+        "username": "DarkFan25777342",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. \nSubstack：https://t.co/zG8pZcVpL1…\nMatters：https://t.co/PzQZoHVHXn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 71,
+                "expanded_url": "http://substack.com/@ignatiusdhlee",
+                "start": 48,
+                "url": "https://t.co/zG8pZcVpL1"
+              },
+              {
+                "display_url": "matters.town/@Godiol2022",
+                "end": 104,
+                "expanded_url": "http://matters.town/@Godiol2022",
+                "start": 81,
+                "url": "https://t.co/PzQZoHVHXn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee?utm_source=user-menu",
+                "start": 0,
+                "url": "https://t.co/rkC8EYKHjO"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee 🚁🌋☭⃠",
+        "pinned_tweet_id": "1785452177940766945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40406,
+          "following_count": 393,
+          "like_count": 66806,
+          "listed_count": 242,
+          "tweet_count": 18738
+        },
+        "url": "https://t.co/rkC8EYKHjO",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

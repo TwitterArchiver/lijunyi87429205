@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2020169523706622322",
+    "created_at": "2026-02-07T17:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T18:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020186501943120185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1949505260260593664",
+          "start": 0,
+          "username": "X10N_Lee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020186501943120185",
+    "in_reply_to_user_id": "1949505260260593664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020184358100074576",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@X10N_Lee 是的，想回到那时候咬自己一口"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2020169523706622322",
+        "created_at": "2026-02-07T17:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020186501943120185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1949505260260593664",
+              "start": 0,
+              "username": "X10N_Lee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020186501943120185",
+        "in_reply_to_user_id": "1949505260260593664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020184358100074576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@X10N_Lee 是的，想回到那时候咬自己一口"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949505260260593664",
+        "conversation_id": "2020169523706622322",
+        "created_at": "2026-02-07T17:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T18:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020184358100074576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020184358100074576",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020169523706622322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 好粉嫩（（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 391,
+          "like_count": 52052,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1034
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T16:21:02.000Z",
+        "description": "我听说地球曾下过一百万年雨 。 ｜4i1i 会简单的绳缚｜https://t.co/jZ54us9M6O⬅️这里素我的提问箱！有什么想说的都可以告诉我哦！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/raven_n",
+                "end": 52,
+                "expanded_url": "https://ngl.link/raven_n",
+                "start": 29,
+                "url": "https://t.co/jZ54us9M6O"
+              }
+            ]
+          }
+        },
+        "id": "1949505260260593664",
+        "name": "#22",
+        "pinned_tweet_id": "2008857183749120254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992158472490926080/Pq2rC4YR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 231,
+          "like_count": 6095,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 2071
+        },
+        "username": "X10N_Lee",
+        "verified": false
+      }
+    ]
+  }
+}

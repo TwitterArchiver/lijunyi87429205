@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1943525657230582085",
+    "created_at": "2025-07-11T17:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T18:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943722220519346588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2159263090",
+          "start": 0,
+          "username": "winesmithing"
+        },
+        {
+          "end": 28,
+          "id": "177101260",
+          "start": 14,
+          "username": "Rainmaker1973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943722220519346588",
+    "in_reply_to_user_id": "2159263090",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943562410553676156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winesmithing @Rainmaker1973 you need take off your Swimming trunks，Human‘s sense of smell not sharp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1943525657230582085",
+        "created_at": "2025-07-11T17:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T18:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943722220519346588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2159263090",
+              "start": 0,
+              "username": "winesmithing"
+            },
+            {
+              "end": 28,
+              "id": "177101260",
+              "start": 14,
+              "username": "Rainmaker1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943722220519346588",
+        "in_reply_to_user_id": "2159263090",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943562410553676156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winesmithing @Rainmaker1973 you need take off your Swimming trunks，Human‘s sense of smell not sharp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2159263090",
+        "conversation_id": "1943525657230582085",
+        "created_at": "2025-07-11T06:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T07:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943562410553676156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "177101260",
+              "start": 0,
+              "username": "Rainmaker1973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943562410553676156",
+        "in_reply_to_user_id": "177101260",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 245,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943525657230582085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainmaker1973 I don't get it, I do this all the time at the public pool yet the women don't seem to pick up the correct social cues."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 316,
+          "like_count": 27486,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 485
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-29T22:23:59.000Z",
+        "description": "Live perspicaciously.",
+        "id": "2159263090",
+        "location": "America",
+        "name": "SRS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928348464477245440/nqAzLQGg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 657,
+          "like_count": 50716,
+          "listed_count": 1,
+          "media_count": 2414,
+          "tweet_count": 10922
+        },
+        "username": "winesmithing",
+        "verified": true
+      },
+      {
+        "created_at": "2010-08-11T07:13:13.000Z",
+        "description": "Engineer. Selecting and curating pictures and videos trying to awaken your sense of wonder. Science, tech, art, weather, space, the unusual around us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Rainmaker1973",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Rainmaker1973",
+                "start": 0,
+                "url": "https://t.co/gbBU9j08Hh"
+              }
+            ]
+          }
+        },
+        "id": "177101260",
+        "location": "Italy, North by Northwest",
+        "name": "Massimo",
+        "pinned_tweet_id": "1738536254818443453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/914888589670043654/KVvwjcWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2782768,
+          "following_count": 150,
+          "like_count": 9420,
+          "listed_count": 16402,
+          "media_count": 198066,
+          "tweet_count": 362968
+        },
+        "url": "https://t.co/gbBU9j08Hh",
+        "username": "Rainmaker1973",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1792993237218517262",
+    "created_at": "2024-05-22T09:36:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T10:36:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793214434292429183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793214434292429183",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792993237218517262",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 他说他喜欢爱伦坡那一段，正巧我也是。丽该雅在死亡前无有一点让步，肉体可能毁灭，意志绝不屈服，从而让自己永恒。可这位一边向虚无低头，主动投入自己的意志。他混乱的思想没有整合，无法让自己精神从俗世中超脱，他的才华略微有些可惜，可对那一段的错误理解让我无法同情他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1792993237218517262",
+        "created_at": "2024-05-22T09:36:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T10:36:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793214434292429183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793214434292429183",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792993237218517262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 他说他喜欢爱伦坡那一段，正巧我也是。丽该雅在死亡前无有一点让步，肉体可能毁灭，意志绝不屈服，从而让自己永恒。可这位一边向虚无低头，主动投入自己的意志。他混乱的思想没有整合，无法让自己精神从俗世中超脱，他的才华略微有些可惜，可对那一段的错误理解让我无法同情他"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792993086705963008",
+            "3_1792993095975309312",
+            "3_1792993124551184384",
+            "3_1792993145665314816"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1792993237218517262",
+        "created_at": "2024-05-21T18:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T19:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792993237218517262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/9IpWNT018n",
+              "end": 119,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1792993237218517262/photo/1",
+              "media_key": "3_1792993086705963008",
+              "start": 96,
+              "url": "https://t.co/9IpWNT018n"
+            },
+            {
+              "display_url": "pic.twitter.com/9IpWNT018n",
+              "end": 119,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1792993237218517262/photo/1",
+              "media_key": "3_1792993095975309312",
+              "start": 96,
+              "url": "https://t.co/9IpWNT018n"
+            },
+            {
+              "display_url": "pic.twitter.com/9IpWNT018n",
+              "end": 119,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1792993237218517262/photo/1",
+              "media_key": "3_1792993124551184384",
+              "start": 96,
+              "url": "https://t.co/9IpWNT018n"
+            },
+            {
+              "display_url": "pic.twitter.com/9IpWNT018n",
+              "end": 119,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1792993237218517262/photo/1",
+              "media_key": "3_1792993145665314816",
+              "start": 96,
+              "url": "https://t.co/9IpWNT018n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792993237218517262",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 324,
+          "impression_count": 409827,
+          "like_count": 1498,
+          "quote_count": 35,
+          "reply_count": 292,
+          "retweet_count": 206
+        },
+        "reply_settings": "everyone",
+        "text": "5月20日早晨8：10分左右，北京交通大学南门一栋16层高的一名学生跳楼自杀。\n学校工作人员发现后迅速清理现场。之后当天有该学生的同学前来献花，但都被工作人员迅速清理掉，学校也全力压制此事。 https://t.co/9IpWNT018n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 232,
+          "like_count": 8446,
+          "listed_count": 46,
+          "tweet_count": 258
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信或邮箱 lilaoshitougao@gmail.com  \n（一定不要用国内邮箱投稿）\n欢迎赞助，帮助这个账户继续运营下去：\nhttps://t.co/Xo5MOTwp38",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "paypal.com/donate/?hosted…",
+                "end": 92,
+                "expanded_url": "https://www.paypal.com/donate/?hosted_button_id=8M8DW3Z72UMDW",
+                "start": 69,
+                "url": "https://t.co/Xo5MOTwp38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lilaoshibushinilaoshi.com",
+                "end": 23,
+                "expanded_url": "http://lilaoshibushinilaoshi.com",
+                "start": 0,
+                "url": "https://t.co/ryhwhzHyYp"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1757195077619691725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501620,
+          "following_count": 896,
+          "like_count": 4832,
+          "listed_count": 7327,
+          "tweet_count": 18701
+        },
+        "url": "https://t.co/ryhwhzHyYp",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

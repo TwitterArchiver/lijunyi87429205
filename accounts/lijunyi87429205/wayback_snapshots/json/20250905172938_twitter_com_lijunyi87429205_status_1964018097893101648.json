@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1963979312677212505",
+    "created_at": "2025-09-05T17:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964018097893101648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682735551072423936",
+          "start": 0,
+          "username": "china_action"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964018097893101648",
+    "in_reply_to_user_id": "1682735551072423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963979312677212505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_action 看来我被归纳到中共水军里了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1963979312677212505",
+        "created_at": "2025-09-05T17:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964018097893101648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682735551072423936",
+              "start": 0,
+              "username": "china_action"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964018097893101648",
+        "in_reply_to_user_id": "1682735551072423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963979312677212505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_action 看来我被归纳到中共水军里了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682735551072423936",
+        "conversation_id": "1963979312677212505",
+        "created_at": "2025-09-05T14:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T15:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963979312677212505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "China Action’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1yNGa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1yNGabzjNejJj",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1963332577022070784/s4ax5iMM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963332577022070784/s4ax5iMM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Scheduled: 大阅兵之后：从戚洪投屏看全民反抗技术",
+              "unwound_url": "https://twitter.com/i/spaces/1yNGabzjNejJj/peek",
+              "url": "https://t.co/BbN37O8jcw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963979312677212505",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 11071,
+          "like_count": 22,
+          "quote_count": 5,
+          "reply_count": 102,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/BbN37O8jcw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 342,
+          "like_count": 33416,
+          "listed_count": 9,
+          "media_count": 16,
+          "tweet_count": 613
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T12:53:44.000Z",
+        "description": "“中国行动”是由现代政治文明倡导者发起成立的一个非盈利组织，目的在于终结中国数千年之专制制度，建立一个自由民主文明的、真正的新中国。为达成这一目标，它携手全球华人，致力于推动在约定的共同时间统一举行抗议、罢工、罢课，开展大规模非暴力不合作运动，推翻独裁专制、开启民主转型之路。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaaction.org",
+                "end": 23,
+                "expanded_url": "https://chinaaction.org/",
+                "start": 0,
+                "url": "https://t.co/NPgtDrHamQ"
+              }
+            ]
+          }
+        },
+        "id": "1682735551072423936",
+        "name": "China Action",
+        "pinned_tweet_id": "1963365118911332410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281655083700224/saaphaEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16910,
+          "following_count": 2841,
+          "like_count": 5104,
+          "listed_count": 60,
+          "media_count": 559,
+          "tweet_count": 6556
+        },
+        "url": "https://t.co/NPgtDrHamQ",
+        "username": "china_action",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1813654674265845760"
+      ],
+      "media_source_tweet_id": [
+        "1813654799348559961"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1814104957748203925",
+    "created_at": "2024-07-19T01:08:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-19T02:08:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814104957748203925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1351852441067782145",
+          "start": 3,
+          "username": "godiva_ghoul"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/gzAJXg3P39",
+          "end": 41,
+          "expanded_url": "https://twitter.com/godiva_ghoul/status/1813654799348559961/photo/1",
+          "media_key": "3_1813654674265845760",
+          "start": 18,
+          "url": "https://t.co/gzAJXg3P39"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1814104957748203925",
+    "lang": "zxx",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2491
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813654799348559961",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @godiva_ghoul: https://t.co/gzAJXg3P39"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1814104957748203925].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1814104957748203925",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1814104957748203925"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1813654674265845760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GStlUSzXsAA1Ca3.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813654674265845760"
+          ]
+        },
+        "author_id": "1351852441067782145",
+        "conversation_id": "1813654799348559961",
+        "created_at": "2024-07-17T19:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-17T20:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813654799348559961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/gzAJXg3P39",
+              "end": 23,
+              "expanded_url": "https://twitter.com/godiva_ghoul/status/1813654799348559961/photo/1",
+              "media_key": "3_1813654674265845760",
+              "start": 0,
+              "url": "https://t.co/gzAJXg3P39"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813654799348559961",
+        "lang": "zxx",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3125,
+          "impression_count": 214257,
+          "like_count": 24714,
+          "quote_count": 24,
+          "reply_count": 60,
+          "retweet_count": 2491
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/gzAJXg3P39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 257,
+          "like_count": 11056,
+          "listed_count": 46,
+          "tweet_count": 366
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-20T11:24:14.000Z",
+        "description": "she/her 🏳️‍🌈 🇮🇹 🍉\n◆🔞NSFW🔞\n◆Goth Baroque Erotica\n◆My Art Prints⬇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Godiva_Ghoul",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Godiva_Ghoul",
+                "start": 0,
+                "url": "https://t.co/DPmphxmM63"
+              }
+            ]
+          }
+        },
+        "id": "1351852441067782145",
+        "location": "Heck",
+        "name": "𝕲𝖔𝖉𝖎𝖛𝖆 𝕲𝖍𝖔𝖚𝖑",
+        "pinned_tweet_id": "1768612700068683965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810763445685661697/Nn6PtjOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175173,
+          "following_count": 1954,
+          "like_count": 24791,
+          "listed_count": 1392,
+          "tweet_count": 8154
+        },
+        "url": "https://t.co/DPmphxmM63",
+        "username": "godiva_ghoul",
+        "verified": false
+      }
+    ]
+  }
+}

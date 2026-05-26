@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1826891861367124467",
+    "created_at": "2024-08-23T11:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T12:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826939641771266184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "threnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826939641771266184",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826891861367124467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@threnote 有些人把这作为自己“权力”的体现吧，一种古老的变态"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1826891861367124467",
+        "created_at": "2024-08-23T11:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T12:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826939641771266184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "threnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826939641771266184",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826891861367124467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@threnote 有些人把这作为自己“权力”的体现吧，一种古老的变态"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714659505320140800",
+        "conversation_id": "1826891861367124467",
+        "created_at": "2024-08-23T07:58:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T08:58:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826891861367124467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826891861367124467",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没有意义地去折磨人。\n没有人获得好处，哪怕对于折磨人的人。\n那为什么还要这样？真的不理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 262,
+          "like_count": 12509,
+          "listed_count": 44,
+          "tweet_count": 376
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "沉睡于冰封之地，同志仍需努力。\n身份特质未定义(including gender)\nI love you all\n(No tag to determine)\nTelegram: https://t.co/MRjAMc1XKp\ntg 群链接在右下方",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Chionli",
+                "end": 112,
+                "expanded_url": "http://t.me/Chionli",
+                "start": 89,
+                "url": "https://t.co/MRjAMc1XKp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+kZRRif5xnzc0N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+kZRRif5xnzc0NGZl",
+                "start": 0,
+                "url": "https://t.co/asKCPpaGMv"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "-1m away from you ",
+        "name": "Cie-aph",
+        "pinned_tweet_id": "1808133070777995274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780915119876460544/9PHml8dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 898,
+          "like_count": 10630,
+          "listed_count": 1,
+          "tweet_count": 4201
+        },
+        "url": "https://t.co/asKCPpaGMv",
+        "username": "threnote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1984130456980484516",
+    "created_at": "2025-10-31T05:33:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T06:33:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984131701241737422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1400775999768326149",
+          "start": 0,
+          "username": "ONe9dkd5fXych2J"
+        },
+        {
+          "end": 28,
+          "id": "1535701819812462600",
+          "start": 17,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984131701241737422",
+    "in_reply_to_user_id": "1400775999768326149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984131023484133748",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ONe9dkd5fXych2J @Kenntnis22 稀土是现代技术的关键材料，美国只可能寻求替代来源，不可能停止使用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1984130456980484516",
+        "created_at": "2025-10-31T05:33:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:33:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984131701241737422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1400775999768326149",
+              "start": 0,
+              "username": "ONe9dkd5fXych2J"
+            },
+            {
+              "end": 28,
+              "id": "1535701819812462600",
+              "start": 17,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984131701241737422",
+        "in_reply_to_user_id": "1400775999768326149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984131023484133748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ONe9dkd5fXych2J @Kenntnis22 稀土是现代技术的关键材料，美国只可能寻求替代来源，不可能停止使用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400775999768326149",
+        "conversation_id": "1984130456980484516",
+        "created_at": "2025-10-31T05:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T06:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984131023484133748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984131023484133748",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984130456980484516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 你们这是奉旨发帖吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 375,
+          "like_count": 38815,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 765
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-04T11:26:51.000Z",
+        "description": "黑科技软件创业分享！抖音，快手，小红书，微博，知乎涨粉，评论，播放量，直播间人气！拼多多秒砍！一切业务\n自助涨粉站:https://t.co/1SCQ6eYwF7\n网创资源:https://t.co/zhHTfi07zB\nQq:2893438121\n电报群:https://t.co/ikafiGtmNY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "shuadan.hjhj188.com",
+                "end": 81,
+                "expanded_url": "http://shuadan.hjhj188.com",
+                "start": 58,
+                "url": "https://t.co/1SCQ6eYwF7"
+              },
+              {
+                "display_url": "soo.run/u03kh",
+                "end": 110,
+                "expanded_url": "https://soo.run/u03kh",
+                "start": 87,
+                "url": "https://t.co/zhHTfi07zB"
+              },
+              {
+                "display_url": "t.me/+9QeQOXp",
+                "end": 152,
+                "expanded_url": "https://t.me/+9QeQOXp",
+                "start": 129,
+                "url": "https://t.co/ikafiGtmNY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soo.run/u03kh",
+                "end": 23,
+                "expanded_url": "https://soo.run/u03kh",
+                "start": 0,
+                "url": "https://t.co/zhHTfi07zB"
+              }
+            ]
+          }
+        },
+        "id": "1400775999768326149",
+        "name": "黑科技软件创业分享",
+        "pinned_tweet_id": "1752329370642133421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638831912964988928/Lu-B0Pm1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 1204,
+          "like_count": 133,
+          "listed_count": 13,
+          "media_count": 1809,
+          "tweet_count": 4783
+        },
+        "url": "https://t.co/zhHTfi07zB",
+        "username": "ONe9dkd5fXych2J",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1983357341383688350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41477,
+          "following_count": 341,
+          "like_count": 33759,
+          "listed_count": 201,
+          "media_count": 6979,
+          "tweet_count": 10956
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

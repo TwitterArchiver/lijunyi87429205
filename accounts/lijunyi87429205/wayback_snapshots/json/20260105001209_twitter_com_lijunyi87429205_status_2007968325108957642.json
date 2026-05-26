@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2007740857928360345",
+    "created_at": "2026-01-05T00:12:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T01:12:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007968325108957642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686381355398266883",
+          "start": 0,
+          "username": "wasabi_pingkak"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007968325108957642",
+    "in_reply_to_user_id": "1686381355398266883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007740857928360345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wasabi_pingkak 当然是委内瑞拉魔法少女（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2189,
+        "media_key": "3_2007740854690349056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9ztq3zbgAALwMJ.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2007740857928360345",
+        "created_at": "2026-01-05T00:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007968325108957642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686381355398266883",
+              "start": 0,
+              "username": "wasabi_pingkak"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007968325108957642",
+        "in_reply_to_user_id": "1686381355398266883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007740857928360345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wasabi_pingkak 当然是委内瑞拉魔法少女（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007740854690349056"
+          ]
+        },
+        "author_id": "1686381355398266883",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2007740857928360345",
+        "created_at": "2026-01-04T09:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007740857928360345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5nxjX3YBn",
+              "end": 42,
+              "expanded_url": "https://x.com/wasabi_pingkak/status/2007740857928360345/photo/1",
+              "media_key": "3_2007740854690349056",
+              "start": 19,
+              "url": "https://t.co/u5nxjX3YBn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007740857928360345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 117,
+          "impression_count": 31666,
+          "like_count": 816,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "現在才知道這個神作是委內瑞拉人做的😨 https://t.co/u5nxjX3YBn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 402,
+          "like_count": 48834,
+          "listed_count": 8,
+          "media_count": 27,
+          "tweet_count": 930
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T14:20:57.000Z",
+        "description": "台灣個人勢 Vtuber | 技能樹點在後端的軟體工程師，工作之餘還想著把自己壓成另一個型態擠出更多價值 | 💻程式 - C/C++、rust | 🗺️GeoGuessr | 🎧音遊 - IIDX | 🎨 @saltcan69210 | 🏗️ @LeeAnZelo |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "saltcan69210"
+              },
+              {
+                "end": 132,
+                "start": 122,
+                "username": "LeeAnZelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wasabipingkak.github.io/Pingkak-Site/",
+                "end": 23,
+                "expanded_url": "https://wasabipingkak.github.io/Pingkak-Site/",
+                "start": 0,
+                "url": "https://t.co/91dzkfF3bP"
+              }
+            ]
+          }
+        },
+        "id": "1686381355398266883",
+        "name": "山葵冰角🧊PingKak ➤_ 台灣 Vtuber",
+        "pinned_tweet_id": "1986042969863123025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820461666317864960/9uo3pJIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 713,
+          "like_count": 22089,
+          "listed_count": 9,
+          "media_count": 1009,
+          "tweet_count": 5255
+        },
+        "url": "https://t.co/91dzkfF3bP",
+        "username": "wasabi_pingkak",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1996927272809562533",
+    "created_at": "2025-12-08T10:03:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T11:03:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997970196892647515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511020407213621253",
+          "start": 0,
+          "username": "JCLZJ1892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997970196892647515",
+    "in_reply_to_user_id": "1511020407213621253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997911180225212662",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCLZJ1892 咕，谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1996927272809562533",
+        "created_at": "2025-12-08T10:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T11:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997970196892647515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511020407213621253",
+              "start": 0,
+              "username": "JCLZJ1892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997970196892647515",
+        "in_reply_to_user_id": "1511020407213621253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997911180225212662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCLZJ1892 咕，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511020407213621253",
+        "conversation_id": "1996927272809562533",
+        "created_at": "2025-12-08T06:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T07:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997911180225212662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997911180225212662",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996927272809562533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 感觉到这种不适就表示不会被同化啦，毕竟抱团的傻逼还是很排外的，你们就像磁铁的同极一样放到一起会弹开的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 409,
+          "like_count": 44815,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 871
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-04T16:38:43.000Z",
+        "description": "安乐遂显得丑陋，痛苦显得轻浮。",
+        "id": "1511020407213621253",
+        "name": "威士忌浊米酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823173361108652032/6cEShRoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 288,
+          "like_count": 2109,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 45
+        },
+        "username": "JCLZJ1892",
+        "verified": false
+      }
+    ]
+  }
+}

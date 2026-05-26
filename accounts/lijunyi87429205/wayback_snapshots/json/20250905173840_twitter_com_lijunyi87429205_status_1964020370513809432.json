@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1964016426639049018",
+    "created_at": "2025-09-05T17:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T18:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964020370513809432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2344358742",
+          "start": 0,
+          "username": "0zmnds"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964020370513809432",
+    "in_reply_to_user_id": "2344358742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964016426639049018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0zmnds 我最爱的画家之一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_1963110545151909888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5eo8qaYAAxzws.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1964016426639049018",
+        "created_at": "2025-09-05T17:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964020370513809432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2344358742",
+              "start": 0,
+              "username": "0zmnds"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964020370513809432",
+        "in_reply_to_user_id": "2344358742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964016426639049018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0zmnds 我最爱的画家之一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963110545151909888"
+          ]
+        },
+        "author_id": "2344358742",
+        "conversation_id": "1964016426639049018",
+        "created_at": "2025-09-05T17:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T18:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964016426639049018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sPewIyUho1",
+              "end": 42,
+              "expanded_url": "https://x.com/0zmnds/status/1964016426639049018/photo/1",
+              "media_key": "3_1963110545151909888",
+              "start": 19,
+              "url": "https://t.co/sPewIyUho1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964016426639049018",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2077,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "John Austen\nHamlet https://t.co/sPewIyUho1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 342,
+          "like_count": 33417,
+          "listed_count": 9,
+          "media_count": 16,
+          "tweet_count": 614
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-15T01:26:53.000Z",
+        "description": "Curator Own none of the images posted",
+        "id": "2344358742",
+        "location": "Montségur",
+        "name": "Ozymandias𓆏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451237715588964355/XQO75YIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236901,
+          "following_count": 971,
+          "like_count": 81583,
+          "listed_count": 1661,
+          "media_count": 57982,
+          "tweet_count": 60017
+        },
+        "username": "0zmnds",
+        "verified": true
+      }
+    ]
+  }
+}

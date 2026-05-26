@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976678258864459776"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1976678351546015762",
+    "created_at": "2025-10-10T15:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976678351546015762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MjvoQ8seEK",
+          "end": 43,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1976678351546015762/photo/1",
+          "media_key": "3_1976678258864459776",
+          "start": 20,
+          "url": "https://t.co/MjvoQ8seEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976678351546015762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "人类和驴子的区别，是会主动给自己挂萝卜 https://t.co/MjvoQ8seEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 478,
+        "media_key": "3_1976678258864459776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26SZ07akAAvLql.png",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976678258864459776"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1976678351546015762",
+        "created_at": "2025-10-10T15:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976678351546015762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MjvoQ8seEK",
+              "end": 43,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1976678351546015762/photo/1",
+              "media_key": "3_1976678258864459776",
+              "start": 20,
+              "url": "https://t.co/MjvoQ8seEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976678351546015762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人类和驴子的区别，是会主动给自己挂萝卜 https://t.co/MjvoQ8seEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 357,
+          "like_count": 36778,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 705
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

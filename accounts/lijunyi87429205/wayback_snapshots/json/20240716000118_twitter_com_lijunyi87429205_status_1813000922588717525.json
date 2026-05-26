@@ -1,0 +1,190 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1813000922588717525",
+    "created_at": "2024-07-16T00:01:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T01:01:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813000922588717525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813000922588717525",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812873047042314353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: 张维迎说，语言腐败是指出于经济的、政治的、意识形态的目的，随意改变词汇的含义，甚至赋予它们与原来的意思完全不同的含义，忽悠民众，操纵人心。语言腐败的典型形式是冠恶行以美名，或冠善行以恶名。\n\n比如“打黑除恶”，“黑恶”之名可以扣在当权者…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1813000922588717525",
+        "created_at": "2024-07-16T00:01:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T01:01:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813000922588717525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813000922588717525",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812873047042314353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: 张维迎说，语言腐败是指出于经济的、政治的、意识形态的目的，随意改变词汇的含义，甚至赋予它们与原来的意思完全不同的含义，忽悠民众，操纵人心。语言腐败的典型形式是冠恶行以美名，或冠善行以恶名。\n\n比如“打黑除恶”，“黑恶”之名可以扣在当权者…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1812872872928350208"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1812873047042314353",
+        "created_at": "2024-07-15T15:33:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T16:33:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1812873047042314353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/jWGvcQ2y5X",
+              "end": 167,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1812873047042314353/video/1",
+              "media_key": "13_1812872872928350208",
+              "start": 144,
+              "url": "https://t.co/jWGvcQ2y5X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812873047042314353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 6868,
+          "like_count": 131,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "张维迎说，语言腐败是指出于经济的、政治的、意识形态的目的，随意改变词汇的含义，甚至赋予它们与原来的意思完全不同的含义，忽悠民众，操纵人心。语言腐败的典型形式是冠恶行以美名，或冠善行以恶名。\n\n比如“打黑除恶”，“黑恶”之名可以扣在当权者不喜欢的任何人和企业头上，造成字面与实际含义颠倒。 https://t.co/jWGvcQ2y5X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 254,
+          "like_count": 10982,
+          "listed_count": 46,
+          "tweet_count": 365
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. 本推订阅服务（点击右上角👆）会分享一些国际关系前沿学术著作、社会科学科普著作、深度社会评论、文学艺术评论、哲学笔记以及Substack专栏文章精彩内容等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1811268693642399795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53593,
+          "following_count": 416,
+          "like_count": 74905,
+          "listed_count": 328,
+          "tweet_count": 20687
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

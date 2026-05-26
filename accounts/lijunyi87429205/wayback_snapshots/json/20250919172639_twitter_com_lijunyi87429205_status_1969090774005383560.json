@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1968703400570216817",
+    "created_at": "2025-09-19T17:26:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T18:26:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969090774005383560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682735551072423936",
+          "start": 0,
+          "username": "china_action"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969090774005383560",
+    "in_reply_to_user_id": "1682735551072423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968703400570216817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@china_action 看来我的笔记只能下一次用了.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1968703400570216817",
+        "created_at": "2025-09-19T17:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T18:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969090774005383560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682735551072423936",
+              "start": 0,
+              "username": "china_action"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969090774005383560",
+        "in_reply_to_user_id": "1682735551072423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968703400570216817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@china_action 看来我的笔记只能下一次用了.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682735551072423936",
+        "conversation_id": "1968703400570216817",
+        "created_at": "2025-09-18T15:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T16:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968703400570216817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "China Action’s Space · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1nAKE…",
+              "end": 148,
+              "expanded_url": "https://x.com/i/spaces/1nAKEElrBMRKL",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968703402310852608/Ubhnc2p_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968703402310852608/Ubhnc2p_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Scheduled: 尼泊尔VS我们，Z世代怎样发动革命？",
+              "unwound_url": "https://twitter.com/i/spaces/1nAKEElrBMRKL/peek",
+              "url": "https://t.co/AugeGVnJww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968703400570216817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 33249,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "【 尼泊尔VS我们，Z世代怎样发动革命？】中国行动 推特空间 第0036期\n\n嘉    宾：周锋锁、游飞翥、王涵、纽约反贼\n主持人：邱家军、Alice\n\n时间：2025年9月19日 美东上午11点（周五）\n\n欢迎点击链接 ，参与讨论和收听录音 👍\n\nhttps://t.co/AugeGVnJww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 349,
+          "like_count": 34940,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 641
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T12:53:44.000Z",
+        "description": "“中国行动”是由现代政治文明倡导者发起成立的一个非盈利组织，目的在于终结中国数千年之专制制度，建立一个自由民主文明的、真正的新中国。为达成这一目标，它携手全球华人，致力于推动在约定的共同时间统一举行抗议、罢工、罢课，开展大规模非暴力不合作运动，推翻独裁专制、开启民主转型之路。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinaaction.org",
+                "end": 23,
+                "expanded_url": "https://chinaaction.org/",
+                "start": 0,
+                "url": "https://t.co/NPgtDrHamQ"
+              }
+            ]
+          }
+        },
+        "id": "1682735551072423936",
+        "name": "China Action",
+        "pinned_tweet_id": "1968703400570216817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955281655083700224/saaphaEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17310,
+          "following_count": 2680,
+          "like_count": 5265,
+          "listed_count": 62,
+          "media_count": 578,
+          "tweet_count": 6608
+        },
+        "url": "https://t.co/NPgtDrHamQ",
+        "username": "china_action",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1969406603255337160",
+    "created_at": "2025-09-21T02:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T03:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969590738087526710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969590738087526710",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969406603255337160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 等等，这片土地是指莆田还是新疆？这有很大区别"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1969406598243045376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S83eKWUAA27DS.jpg",
+        "width": 720
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1969406598255669248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S83eNW8AAn4vw.jpg",
+        "width": 834
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1969406598226268160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1S83eGWUAAvnSq.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1969406603255337160",
+        "created_at": "2025-09-21T02:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T03:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969590738087526710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969590738087526710",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969406603255337160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 等等，这片土地是指莆田还是新疆？这有很大区别"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969406598243045376",
+            "3_1969406598255669248",
+            "3_1969406598226268160"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1969406603255337160",
+        "created_at": "2025-09-20T14:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T15:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969406603255337160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xlMY878xdV",
+              "end": 71,
+              "expanded_url": "https://x.com/Kenntnis22/status/1969406603255337160/photo/1",
+              "media_key": "3_1969406598243045376",
+              "start": 48,
+              "url": "https://t.co/xlMY878xdV"
+            },
+            {
+              "display_url": "pic.x.com/xlMY878xdV",
+              "end": 71,
+              "expanded_url": "https://x.com/Kenntnis22/status/1969406603255337160/photo/1",
+              "media_key": "3_1969406598255669248",
+              "start": 48,
+              "url": "https://t.co/xlMY878xdV"
+            },
+            {
+              "display_url": "pic.x.com/xlMY878xdV",
+              "end": 71,
+              "expanded_url": "https://x.com/Kenntnis22/status/1969406603255337160/photo/1",
+              "media_key": "3_1969406598226268160",
+              "start": 48,
+              "url": "https://t.co/xlMY878xdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969406603255337160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3979,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我们关注这位维族义士，他在微信群用维语表达对当局的不满，我们为他接下来可能遭遇的镇压感到担忧😔 https://t.co/xlMY878xdV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 352,
+          "like_count": 35084,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 653
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1965363983680241695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38557,
+          "following_count": 340,
+          "like_count": 31890,
+          "listed_count": 181,
+          "media_count": 6395,
+          "tweet_count": 10195
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

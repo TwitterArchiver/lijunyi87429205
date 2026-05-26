@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1969712262450729256",
+    "created_at": "2025-09-21T17:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T18:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969813160967418261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1381528438826131457",
+          "start": 0,
+          "username": "ZedongWinine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969813160967418261",
+    "in_reply_to_user_id": "1381528438826131457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969712262450729256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZedongWinine 痛苦的社会制造作家和诗人，极端的暴政操死作家和诗人：中国大陆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1276,
+        "media_key": "3_1969712233497415680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XS1yNa0AAZA8L.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1969712262450729256",
+        "created_at": "2025-09-21T17:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969813160967418261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381528438826131457",
+              "start": 0,
+              "username": "ZedongWinine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969813160967418261",
+        "in_reply_to_user_id": "1381528438826131457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969712262450729256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZedongWinine 痛苦的社会制造作家和诗人，极端的暴政操死作家和诗人：中国大陆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969712233497415680"
+          ]
+        },
+        "author_id": "1381528438826131457",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1201944708823433218",
+              "name": "Demon Slayer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201944708823433218",
+              "name": "Demon Slayer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "categorical; should not ship as a topic",
+              "id": "1490809261881888769",
+              "name": "Animated works"
+            }
+          }
+        ],
+        "conversation_id": "1969712262450729256",
+        "created_at": "2025-09-21T10:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969712262450729256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyp3Y0DpIw",
+              "end": 89,
+              "expanded_url": "https://x.com/ZedongWinine/status/1969712262450729256/photo/1",
+              "media_key": "3_1969712233497415680",
+              "start": 66,
+              "url": "https://t.co/eyp3Y0DpIw"
+            },
+            {
+              "display_url": "x.com/Inumura_Aru/st…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/Inumura_Aru/status/1969426434973487182",
+              "start": 90,
+              "url": "https://t.co/3qmfEEofUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969712262450729256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1689,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969426434973487182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我們台灣繁體中文世界的歷史YTber實在太貧瘠，同時社會也太自由了，以至於一個作品質量給安州牧提鞋都不配的能到處指點江山激昂文字。 https://t.co/eyp3Y0DpIw https://t.co/3qmfEEofUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 352,
+          "like_count": 35173,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 657
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-12T08:43:58.000Z",
+        "description": "井上尚弥🥊big bang Zhang🥊do bronx🥋白井智之😱",
+        "id": "1381528438826131457",
+        "location": "Henan",
+        "name": "川和.豆沙維尼🇹🇼 橘貓愛好份子",
+        "pinned_tweet_id": "1949456105492615579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866301036597813248/Z3aKQMtg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9318,
+          "following_count": 5959,
+          "like_count": 216323,
+          "listed_count": 87,
+          "media_count": 7873,
+          "tweet_count": 73478
+        },
+        "username": "ZedongWinine",
+        "verified": false
+      }
+    ]
+  }
+}

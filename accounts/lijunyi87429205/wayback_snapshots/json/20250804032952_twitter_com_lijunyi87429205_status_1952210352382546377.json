@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939551636420018177"
+      ],
+      "media_source_tweet_id": [
+        "1949077248260129016"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1952210352382546377",
+    "created_at": "2025-08-04T03:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-04T04:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952210352382546377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1546254685794885635",
+          "start": 3,
+          "username": "JucikaDaily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uxX6sw6yUn",
+          "end": 40,
+          "expanded_url": "https://x.com/JucikaDaily/status/1949077248260129016/photo/1",
+          "media_key": "3_1939551636420018177",
+          "start": 17,
+          "url": "https://t.co/uxX6sw6yUn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952210352382546377",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949077248260129016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JucikaDaily: https://t.co/uxX6sw6yUn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_1939551636420018177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guqr7-hXwAE2yET.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939551636420018177"
+          ],
+          "media_source_tweet_id": [
+            "1949077248260129016"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1952210352382546377",
+        "created_at": "2025-08-04T03:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-04T04:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952210352382546377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1546254685794885635",
+              "start": 3,
+              "username": "JucikaDaily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxX6sw6yUn",
+              "end": 40,
+              "expanded_url": "https://x.com/JucikaDaily/status/1949077248260129016/photo/1",
+              "media_key": "3_1939551636420018177",
+              "start": 17,
+              "url": "https://t.co/uxX6sw6yUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952210352382546377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949077248260129016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JucikaDaily: https://t.co/uxX6sw6yUn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939551636420018177"
+          ]
+        },
+        "author_id": "1546254685794885635",
+        "conversation_id": "1949077248260129016",
+        "created_at": "2025-07-26T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949077248260129016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uxX6sw6yUn",
+              "end": 23,
+              "expanded_url": "https://x.com/JucikaDaily/status/1949077248260129016/photo/1",
+              "media_key": "3_1939551636420018177",
+              "start": 0,
+              "url": "https://t.co/uxX6sw6yUn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949077248260129016",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 20454,
+          "like_count": 1457,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uxX6sw6yUn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 310,
+          "like_count": 29822,
+          "listed_count": 8,
+          "media_count": 11,
+          "tweet_count": 536
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T22:07:17.000Z",
+        "description": "Daily Jucika Comic Strips \n||||||||||||                            \nユツィカの日常漫画 || Ежедневный комикс для Джусики || 유치커의일일 만화 || 尤西卡的每日漫画 ||",
+        "id": "1546254685794885635",
+        "location": "Budapest, Hungary",
+        "name": "Jucika",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781111955589111808/-h15nFPp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52905,
+          "following_count": 0,
+          "like_count": 14,
+          "listed_count": 109,
+          "media_count": 513,
+          "tweet_count": 679
+        },
+        "username": "JucikaDaily",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2032122623635718534",
+    "created_at": "2026-03-12T16:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032130078679904319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509939466101825542",
+          "start": 0,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032130078679904319",
+    "in_reply_to_user_id": "1509939466101825542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032122623635718534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22HomoPoliticus 私人恩怨和个人好恶绝对不能牵扯进政治……但是践踏道德必须考虑其带来的社会隐性后果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2032122623635718534",
+        "created_at": "2026-03-12T16:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032130078679904319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032130078679904319",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032122623635718534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 私人恩怨和个人好恶绝对不能牵扯进政治……但是践踏道德必须考虑其带来的社会隐性后果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509939466101825542",
+        "conversation_id": "2032122623635718534",
+        "created_at": "2026-03-12T15:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:24:59.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032115647056916629",
+          "2032122623635718534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/22HomoPoliticu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/2032113861587882360",
+              "start": 141,
+              "url": "https://t.co/nD56jNiKIf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032122623635718534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于中国的反对派群体来说，结盟这种政治艺术也是需要摈弃私人恩怨和政治短视的。这也是为什么我一再鼓吹培养我们自己的反对派政治家：因为政治家懂得计算和合作，而不是一味斤斤计较、睚眦必报。政治家跟普通人相比最大优势就在于政治家手段不但更强硬也更柔韧和灵活；普通人的拒绝就是拒绝，不存在调和和折衷空间，其结果就是强硬也不够强硬、灵活也不够灵活，这样的情况完全不能应对反抗极权国家的政治风险。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 934,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032113861587882360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于中国的反对派群体来说，结盟这种政治艺术也是需要摈弃私人恩怨和政治短视的。这也是为什么我一再鼓吹培养我们自己的反对派政治家：因为政治家懂得计算和合作，而不是一味斤斤计较、睚眦必报。政治家跟普通人相比最大优势就在于政治家手段不但更强硬也更柔韧和灵活；普通人的拒绝就是拒绝，不存在调 https://t.co/nD56jNiKIf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 373,
+          "like_count": 55526,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1186
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. https://t.co/XJymduij5y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiuslee?r…",
+                "end": 102,
+                "expanded_url": "https://substack.com/@ignatiuslee?r=2i7su8&utm_medium=ios&utm_source=profile",
+                "start": 79,
+                "url": "https://t.co/XJymduij5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 0,
+                "url": "https://t.co/UidYD998VN"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "2032113861587882360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84046,
+          "following_count": 499,
+          "like_count": 112183,
+          "listed_count": 540,
+          "media_count": 7894,
+          "tweet_count": 24480
+        },
+        "url": "https://t.co/UidYD998VN",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

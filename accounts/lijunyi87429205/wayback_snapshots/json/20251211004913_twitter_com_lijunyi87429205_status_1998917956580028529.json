@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1998730061994684926",
+    "created_at": "2025-12-11T00:49:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T01:49:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998917956580028529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1123744980370120705",
+          "start": 0,
+          "username": "LeeAramis"
+        },
+        {
+          "end": 27,
+          "id": "1854083873279545344",
+          "start": 11,
+          "username": "mV2bFqgbHU32249"
+        },
+        {
+          "end": 37,
+          "id": "869768913709481986",
+          "start": 28,
+          "username": "yibingsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998917956580028529",
+    "in_reply_to_user_id": "1123744980370120705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998898664023134686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeeAramis @mV2bFqgbHU32249 @yibingsg 肉价太高，小养殖户增产，价格趋于平衡，囤积本身就有风险，就算继续投入成本冷冻之类的，肉价仍然会降低市场认同价值。这是个风险投资，如果强行并购其他养殖系统，有触发反垄断风险。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1998730061994684926",
+        "created_at": "2025-12-11T00:49:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T01:49:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998917956580028529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1123744980370120705",
+              "start": 0,
+              "username": "LeeAramis"
+            },
+            {
+              "end": 27,
+              "id": "1854083873279545344",
+              "start": 11,
+              "username": "mV2bFqgbHU32249"
+            },
+            {
+              "end": 37,
+              "id": "869768913709481986",
+              "start": 28,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998917956580028529",
+        "in_reply_to_user_id": "1123744980370120705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998898664023134686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeeAramis @mV2bFqgbHU32249 @yibingsg 肉价太高，小养殖户增产，价格趋于平衡，囤积本身就有风险，就算继续投入成本冷冻之类的，肉价仍然会降低市场认同价值。这是个风险投资，如果强行并购其他养殖系统，有触发反垄断风险。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1123744980370120705",
+        "conversation_id": "1998730061994684926",
+        "created_at": "2025-12-10T23:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T00:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998898664023134686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1854083873279545344",
+              "start": 0,
+              "username": "mV2bFqgbHU32249"
+            },
+            {
+              "end": 26,
+              "id": "869768913709481986",
+              "start": 17,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998898664023134686",
+        "in_reply_to_user_id": "1854083873279545344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998837518339649866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mV2bFqgbHU32249 @yibingsg 有钱的先收购99斤，然后十倍价格卖出去。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 408,
+          "like_count": 45152,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 877
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-02T00:24:16.000Z",
+        "description": "",
+        "id": "1123744980370120705",
+        "name": "Aramis Lee",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 17,
+          "like_count": 213,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 3091
+        },
+        "username": "LeeAramis",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T08:50:33.000Z",
+        "description": "",
+        "id": "1854083873279545344",
+        "name": "玉山骞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854083944255557632/LpYqyGag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 43,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "mV2bFqgbHU32249",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T04:14:03.000Z",
+        "description": "艺术人生，政经人生，休闲人生，玫瑰人生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smartlypickit.com",
+                "end": 23,
+                "expanded_url": "https://www.smartlypickit.com",
+                "start": 0,
+                "url": "https://t.co/3JS6ZdpC93"
+              }
+            ]
+          }
+        },
+        "id": "869768913709481986",
+        "name": "Fairice",
+        "pinned_tweet_id": "1997509559049662973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152583025672110083/bn1B7p-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42620,
+          "following_count": 19071,
+          "like_count": 14167,
+          "listed_count": 134,
+          "media_count": 18491,
+          "tweet_count": 29719
+        },
+        "url": "https://t.co/3JS6ZdpC93",
+        "username": "yibingsg",
+        "verified": true
+      }
+    ]
+  }
+}

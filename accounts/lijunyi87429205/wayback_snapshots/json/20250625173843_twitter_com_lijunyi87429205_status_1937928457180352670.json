@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1937462704220045462",
+    "created_at": "2025-06-25T17:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T18:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937928457180352670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1497013790755467268",
+          "start": 0,
+          "username": "saintjavelin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937928457180352670",
+    "in_reply_to_user_id": "1497013790755467268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937462704220045462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saintjavelin 有消息称他只是受伤，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1937462694870761472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuNADk1XwAAxHLP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1937462704220045462",
+        "created_at": "2025-06-25T17:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T18:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937928457180352670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1497013790755467268",
+              "start": 0,
+              "username": "saintjavelin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937928457180352670",
+        "in_reply_to_user_id": "1497013790755467268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937462704220045462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saintjavelin 有消息称他只是受伤，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937462694870761472"
+          ]
+        },
+        "author_id": "1497013790755467268",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094401794473984",
+              "name": "Russian political issues"
+            }
+          }
+        ],
+        "conversation_id": "1937462704220045462",
+        "created_at": "2025-06-24T10:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T11:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937462704220045462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Oleg Zubkov",
+              "probability": 0.9626,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "Russia",
+              "probability": 0.9706,
+              "start": 62,
+              "type": "Place"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Crimea",
+              "probability": 0.9729,
+              "start": 99,
+              "type": "Place"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Taigan Safari Park",
+              "probability": 0.8051,
+              "start": 149,
+              "type": "Place"
+            },
+            {
+              "end": 193,
+              "normalized_text": "Crimea",
+              "probability": 0.9453,
+              "start": 188,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r8AdluiPv1",
+              "end": 219,
+              "expanded_url": "https://x.com/saintjavelin/status/1937462704220045462/photo/1",
+              "media_key": "3_1937462694870761472",
+              "start": 196,
+              "url": "https://t.co/r8AdluiPv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937462704220045462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 167664,
+          "like_count": 8218,
+          "quote_count": 50,
+          "reply_count": 334,
+          "retweet_count": 735
+        },
+        "reply_settings": "everyone",
+        "text": "Oleg Zubkov, a former Ukrainian citizen who openly sided with Russia during the 2014 occupation of Crimea, was reportedly killed by two lions at his Taigan Safari Park in Russian-occupied Crimea. https://t.co/r8AdluiPv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 302,
+          "like_count": 26447,
+          "listed_count": 8,
+          "media_count": 5,
+          "tweet_count": 468
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T01:03:42.000Z",
+        "description": "We started with one sticker and have now contributed over $2M to Ukraine's war effort since February 2022. DISCOVER OUR NEW COLLECTION 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkpop.com/saintjavelin",
+                "end": 23,
+                "expanded_url": "http://linkpop.com/saintjavelin",
+                "start": 0,
+                "url": "https://t.co/j7Lx8m8Tgx"
+              }
+            ]
+          }
+        },
+        "id": "1497013790755467268",
+        "location": "Kyiv, Ukraine",
+        "name": "Saint Javelin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1511875712243929093/MCooyR-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224136,
+          "following_count": 468,
+          "like_count": 12581,
+          "listed_count": 2089,
+          "media_count": 5133,
+          "tweet_count": 11699
+        },
+        "url": "https://t.co/j7Lx8m8Tgx",
+        "username": "saintjavelin",
+        "verified": true
+      }
+    ]
+  }
+}

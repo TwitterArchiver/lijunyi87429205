@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1988833218691268828",
+    "created_at": "2025-11-13T12:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T13:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988942834951749780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728464821501489152",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988942834951749780",
+    "in_reply_to_user_id": "1728464821501489152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988833218691268828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 对自己在意的人造成了影响，反而能证明关系的亲密吧，能理解一点的样子，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 476,
+        "media_key": "3_1988833212794363904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nBRQ4bYAA2ice.jpg",
+        "width": 1080
+      },
+      {
+        "height": 971,
+        "media_key": "3_1988833212517502976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nBRP2a0AAuc7r.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1492,
+        "media_key": "3_1988833215235416064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nBRZ-a4AA895Y.jpg",
+        "width": 1066
+      },
+      {
+        "height": 1705,
+        "media_key": "3_1988833215289933824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5nBRaLawAAEL4X.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1988833218691268828",
+        "created_at": "2025-11-13T12:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T13:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988942834951749780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728464821501489152",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988942834951749780",
+        "in_reply_to_user_id": "1728464821501489152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988833218691268828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 对自己在意的人造成了影响，反而能证明关系的亲密吧，能理解一点的样子，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988833212794363904",
+            "3_1988833212517502976",
+            "3_1988833215235416064",
+            "3_1988833215289933824"
+          ]
+        },
+        "author_id": "1728464821501489152",
+        "conversation_id": "1988833218691268828",
+        "created_at": "2025-11-13T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988833218691268828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RDVk7ZJD1C",
+              "end": 153,
+              "expanded_url": "https://x.com/theLostCypress/status/1988833218691268828/photo/1",
+              "media_key": "3_1988833212794363904",
+              "start": 130,
+              "url": "https://t.co/RDVk7ZJD1C"
+            },
+            {
+              "display_url": "pic.x.com/RDVk7ZJD1C",
+              "end": 153,
+              "expanded_url": "https://x.com/theLostCypress/status/1988833218691268828/photo/1",
+              "media_key": "3_1988833212517502976",
+              "start": 130,
+              "url": "https://t.co/RDVk7ZJD1C"
+            },
+            {
+              "display_url": "pic.x.com/RDVk7ZJD1C",
+              "end": 153,
+              "expanded_url": "https://x.com/theLostCypress/status/1988833218691268828/photo/1",
+              "media_key": "3_1988833215235416064",
+              "start": 130,
+              "url": "https://t.co/RDVk7ZJD1C"
+            },
+            {
+              "display_url": "pic.x.com/RDVk7ZJD1C",
+              "end": 153,
+              "expanded_url": "https://x.com/theLostCypress/status/1988833218691268828/photo/1",
+              "media_key": "3_1988833215289933824",
+              "start": 130,
+              "url": "https://t.co/RDVk7ZJD1C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988833218691268828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 190,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我跟我妈感情很好的，\n虽然我承认我有点变态心理，我把我妈的脸放到聊天界面上但是我真的就……，\n我也确实是抓我妈，然后把她逗生气，然后让她用方言骂我打我两下子，然后我拍视频会产生诡异的心理快感，但是除此之外如果她太生气或者她因为别的事情生我气我一样要内疚的…… https://t.co/RDVk7ZJD1C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 387,
+          "like_count": 40241,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 791
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "这里充斥着红色的血和黑色的血。吸血鬼|幽灵|面具杀人狂|冷血|反社会|偏执|腹黑|记仇|伪装|嗜血|自残|贪婪|懒惰|无任何裸露内容。",
+        "id": "1728464821501489152",
+        "location": "ABYSS OF DESPAIR",
+        "name": "Albert with Lilith Tsubakiyama【#NYCTOPHILIA】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 197,
+          "like_count": 571,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 254
+        },
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

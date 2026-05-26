@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979450849739915264"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1979450870501904539",
+    "created_at": "2025-10-18T07:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T08:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979450870501904539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjnFqYq1ff",
+          "end": 51,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1979450870501904539/photo/1",
+          "media_key": "3_1979450849739915264",
+          "start": 28,
+          "url": "https://t.co/cjnFqYq1ff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979450870501904539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想许多市政工人都以一种得过且过的态度对待他们的工作. https://t.co/cjnFqYq1ff"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979450849739915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3hsD20XwAA0Cmx.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979450849739915264"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1979450870501904539",
+        "created_at": "2025-10-18T07:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T08:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979450870501904539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjnFqYq1ff",
+              "end": 51,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1979450870501904539/photo/1",
+              "media_key": "3_1979450849739915264",
+              "start": 28,
+              "url": "https://t.co/cjnFqYq1ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979450870501904539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想许多市政工人都以一种得过且过的态度对待他们的工作. https://t.co/cjnFqYq1ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 369,
+          "like_count": 37463,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 731
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

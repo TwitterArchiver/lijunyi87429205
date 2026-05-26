@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2020169990880784871",
+    "created_at": "2026-02-07T16:18:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T17:18:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020170194627538977"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020170194627538977",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020169990880784871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "（完全忽视了被晶的风险吗，杂种，为了在头发被剪掉之前最后嚣张一下。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020169982026608642",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkV5TSacAIi0qh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020169982026657792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAkV5TSbMAAtF0-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2020169990880784871",
+        "created_at": "2026-02-07T16:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020170194627538977"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020170194627538977",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020169990880784871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "（完全忽视了被晶的风险吗，杂种，为了在头发被剪掉之前最后嚣张一下。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020169982026608642",
+            "3_2020169982026657792"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2020169990880784871",
+        "created_at": "2026-02-07T16:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T17:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020169990880784871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PKgOAmOvgp",
+              "end": 46,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2020169990880784871/photo/1",
+              "media_key": "3_2020169982026608642",
+              "start": 23,
+              "url": "https://t.co/PKgOAmOvgp"
+            },
+            {
+              "display_url": "pic.x.com/PKgOAmOvgp",
+              "end": 46,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2020169990880784871/photo/1",
+              "media_key": "3_2020169982026657792",
+              "start": 23,
+              "url": "https://t.co/PKgOAmOvgp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020169990880784871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "但因为面部纵深大，从侧面看会顺眼一些（🤓☝️ https://t.co/PKgOAmOvgp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 391,
+          "like_count": 52020,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1030
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

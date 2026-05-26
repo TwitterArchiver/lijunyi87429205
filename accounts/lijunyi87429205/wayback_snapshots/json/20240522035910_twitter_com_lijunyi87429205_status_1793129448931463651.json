@@ -1,0 +1,179 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1792712609009180706",
+    "created_at": "2024-05-22T03:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T04:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793129448931463651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1502457747283001347",
+          "start": 0,
+          "username": "amongus1818"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793129448931463651",
+    "in_reply_to_user_id": "1502457747283001347",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792712609009180706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amongus1818 任何社会都需要管理，但不是以滥权无法的方式，正是中国的恶劣社会文化和政治环境导致了中国人的混乱和恶习，而不是反过来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1792712609009180706",
+        "created_at": "2024-05-22T03:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T04:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793129448931463651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1502457747283001347",
+              "start": 0,
+              "username": "amongus1818"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793129448931463651",
+        "in_reply_to_user_id": "1502457747283001347",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792712609009180706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amongus1818 任何社会都需要管理，但不是以滥权无法的方式，正是中国的恶劣社会文化和政治环境导致了中国人的混乱和恶习，而不是反过来。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1502457747283001347",
+        "conversation_id": "1792712609009180706",
+        "created_at": "2024-05-21T00:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T01:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792712609009180706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/supercali2023/…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/supercali2023/status/1792698669214347460",
+              "start": 142,
+              "url": "https://t.co/AqBicJkZpa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792712609009180706",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 11914,
+          "like_count": 102,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792698669214347460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实如此！ 你可以不喜欢老共，但不得不承认，他就是中国最终的答案，是历史的答案。\n历史没有如果，也不在乎你们爱中的人的脆弱玻璃心，历史就是如今的现实！\n也只有共产党。能在一群老b中里面站稳脚跟，并在这种国民性的人民的基础上组织恢复生产、建立秩序。 人不狠站不稳，对中国人，就是要管！ https://t.co/AqBicJkZpa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 230,
+          "like_count": 8371,
+          "listed_count": 46,
+          "tweet_count": 252
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T01:34:08.000Z",
+        "description": "否定民族性与否定制度并不矛盾。既否定中国文化，也否定共产党。“中国人”是个文化群体概念，而不是一种生物属性。中国文化是专制和暴君的温床。    文化支黑并不是种族主义，因为：1.民族性、文化都是“后天因素”，是可以通过学习、反省和提升认知来调节和改变的。2.种族主义看重的则完全是不可改变的“先天因素”，如肤色和人种。",
+        "id": "1502457747283001347",
+        "name": "叶文洁",
+        "pinned_tweet_id": "1767047011218460948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754534211510267905/_4wEQ15H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 764,
+          "like_count": 27458,
+          "listed_count": 20,
+          "tweet_count": 10592
+        },
+        "username": "amongus1818",
+        "verified": false
+      }
+    ]
+  }
+}

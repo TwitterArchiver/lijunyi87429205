@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1788753071906128121",
+    "created_at": "2024-05-10T08:38:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T09:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788851203025309830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "VoiceMemoNo_9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788851203025309830",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788850937043513445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VoiceMemoNo_9 有些杰出的灵魂会自己寻找出路，网络就是最廉价的知识渠道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1788753071906128121",
+        "created_at": "2024-05-10T08:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788851203025309830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "VoiceMemoNo_9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788851203025309830",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788850937043513445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VoiceMemoNo_9 有些杰出的灵魂会自己寻找出路，网络就是最廉价的知识渠道"
+      },
+      {
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1788753071906128121",
+        "created_at": "2024-05-10T08:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T09:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788850937043513445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788850937043513445",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788843237626782175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 父母没怎么受过教育小孩大概率不会聪明到哪里去，学校的教育太有限了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 212,
+          "like_count": 7040,
+          "listed_count": 46,
+          "tweet_count": 187
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "厌人厌世厌男厌女厌屌厌逼喜欢猎奇gore害怕慎关",
+        "id": "1787086493636521984",
+        "name": "okfine",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788597068636057600/Uc9YKDrD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 2,
+          "like_count": 12,
+          "listed_count": 0,
+          "tweet_count": 14
+        },
+        "username": "VoiceMemoNo_9",
+        "verified": false
+      }
+    ]
+  }
+}

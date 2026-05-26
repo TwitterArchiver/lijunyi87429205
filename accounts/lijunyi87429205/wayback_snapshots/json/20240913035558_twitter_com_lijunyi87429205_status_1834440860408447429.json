@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1834373678647164928"
+      ],
+      "media_source_tweet_id": [
+        "1834373748960485419"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1834440860408447429",
+    "created_at": "2024-09-13T03:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T04:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834440860408447429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rxjnhkjqa7",
+          "end": 68,
+          "expanded_url": "https://twitter.com/22HomoPoliticus/status/1834373748960485419/video/1",
+          "media_key": "13_1834373678647164928",
+          "start": 45,
+          "url": "https://t.co/RxJNhKJQa7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834440860408447429",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834373748960485419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: 俄罗斯人拍自黑短片（拍摄时间为2021年以前） https://t.co/RxJNhKJQa7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51675,
+        "height": 720,
+        "media_key": "13_1834373678647164928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1834373678647164928/img/a0ul2pTKMtfwqnof.jpg",
+        "public_metrics": {
+          "view_count": 1977
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1834373678647164928/vid/avc1/480x270/AhwUHNq1t-jQ5lR-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1834373678647164928/vid/avc1/640x360/Eybcng_6aKjapaAD.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1834373678647164928/vid/avc1/1280x720/v4RZf0LKYs6MWoy8.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1834373678647164928/pl/XkPOCSCRuaee5kOB.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1834373678647164928"
+          ],
+          "media_source_tweet_id": [
+            "1834373748960485419"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1834440860408447429",
+        "created_at": "2024-09-13T03:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T04:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834440860408447429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxjnhkjqa7",
+              "end": 68,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1834373748960485419/video/1",
+              "media_key": "13_1834373678647164928",
+              "start": 45,
+              "url": "https://t.co/RxJNhKJQa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834440860408447429",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834373748960485419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: 俄罗斯人拍自黑短片（拍摄时间为2021年以前） https://t.co/RxJNhKJQa7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1834373678647164928"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1834373748960485419",
+        "created_at": "2024-09-12T23:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T00:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834373748960485419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rxjnhkjqa7",
+              "end": 47,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1834373748960485419/video/1",
+              "media_key": "13_1834373678647164928",
+              "start": 24,
+              "url": "https://t.co/RxJNhKJQa7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834373748960485419",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4081,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "俄罗斯人拍自黑短片（拍摄时间为2021年以前） https://t.co/RxJNhKJQa7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 275,
+          "like_count": 13463,
+          "listed_count": 43,
+          "tweet_count": 400
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. 本推订阅服务（点击右上角👆）会分享一些国际关系前沿学术著作、社会科学科普著作、深度社会评论、文学艺术评论、哲学笔记以及Substack专栏文章精彩内容等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1832466968101974289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70821,
+          "following_count": 427,
+          "like_count": 80956,
+          "listed_count": 442,
+          "tweet_count": 20787
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

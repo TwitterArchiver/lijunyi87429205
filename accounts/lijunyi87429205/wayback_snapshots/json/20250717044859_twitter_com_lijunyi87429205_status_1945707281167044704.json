@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1945707281167044704",
+    "created_at": "2025-07-17T04:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T05:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945707281167044704"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945707281167044704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "改革开放四十年了，突然意识到有名的布雷顿森林也只持续了不到三十年。因为政治风险，无论是社会还是政府都没有动力与意识去考虑革新。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1945707281167044704",
+        "created_at": "2025-07-17T04:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T05:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945707281167044704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945707281167044704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "改革开放四十年了，突然意识到有名的布雷顿森林也只持续了不到三十年。因为政治风险，无论是社会还是政府都没有动力与意识去考虑革新。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 314,
+          "like_count": 28082,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 496
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

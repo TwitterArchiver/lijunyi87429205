@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1807129223112675699",
+    "created_at": "2024-06-30T02:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T03:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807240555480707567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "threnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807240555480707567",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807240355399782889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@threnote 我有些困惑，你能解释一下吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1807129223112675699",
+        "created_at": "2024-06-30T02:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807240555480707567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "threnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807240555480707567",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807240355399782889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@threnote 我有些困惑，你能解释一下吗？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1807129223112675699",
+        "created_at": "2024-06-30T02:30:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T03:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807240355399782889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "threnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807240355399782889",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807129223112675699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@threnote 人身依附？给他人提供精神或性满足？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 243,
+          "like_count": 10062,
+          "listed_count": 46,
+          "tweet_count": 349
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "(批量 block 使用过,误b勿介意)\nfollowing not equals to Endorsement\nDM welcome\n沉睡于冰封之地\n副账号  @Chionli\nTelegram: https://t.co/MRjAMc1XKp\n字数不够放不下的放 https://t.co/iTS5ZSycYK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 81,
+                "username": "Chionli"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Chionli",
+                "end": 123,
+                "expanded_url": "http://t.me/Chionli",
+                "start": 100,
+                "url": "https://t.co/MRjAMc1XKp"
+              },
+              {
+                "display_url": "t.me/+mDe3LwErz18xM…",
+                "end": 157,
+                "expanded_url": "https://t.me/+mDe3LwErz18xMmI1",
+                "start": 134,
+                "url": "https://t.co/iTS5ZSycYK"
+              }
+            ]
+          }
+        },
+        "id": "1714659505320140800",
+        "location": "距你-1km",
+        "name": "Kai-aad (closing",
+        "pinned_tweet_id": "1792621884313375052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780915119876460544/9PHml8dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 815,
+          "like_count": 7683,
+          "listed_count": 1,
+          "tweet_count": 2464
+        },
+        "username": "threnote",
+        "verified": false
+      }
+    ]
+  }
+}

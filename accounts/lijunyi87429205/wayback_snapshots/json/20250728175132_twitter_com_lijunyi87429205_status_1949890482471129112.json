@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1949880594512347594",
+    "created_at": "2025-07-28T17:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-28T18:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949890482471129112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949890482471129112",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949880594512347594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 很多支黑的攻击性，不分黑白看起来真的很像中共破坏公民联结性的水军。（就算不是水军，我相信社会教育也起了作用。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 67105,
+        "height": 1920,
+        "media_key": "13_1949880487515709440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1949880487515709440/img/0nvPf0S1VErW7t5S.jpg",
+        "public_metrics": {
+          "view_count": 5726
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949880487515709440/vid/avc1/720x1280/4Jq1oBZ_Vt2ei8k0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949880487515709440/vid/avc1/480x852/3wzaUenYaVnp-d58.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1949880487515709440/pl/Y4K6OrmuGrJswnkR.m3u8?v=eac"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949880487515709440/vid/avc1/320x568/_ro4cebv5b2nx_SL.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1949880487515709440/vid/avc1/1080x1920/1gHh3EMS1oJesMO1.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1949880594512347594",
+        "created_at": "2025-07-28T17:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949890482471129112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949890482471129112",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949880594512347594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 很多支黑的攻击性，不分黑白看起来真的很像中共破坏公民联结性的水军。（就算不是水军，我相信社会教育也起了作用。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1949880487515709440"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1949880594512347594",
+        "created_at": "2025-07-28T17:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-28T18:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949880594512347594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TaLMN93QyM",
+              "end": 89,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1949880594512347594/video/1",
+              "media_key": "13_1949880487515709440",
+              "start": 66,
+              "url": "https://t.co/TaLMN93QyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949880594512347594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 11680,
+          "like_count": 63,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "7月28日，一名北京，怀柔区，孙胡沟村村民求救。\n村民哭诉他们村还有三百三十多人没有出来，还有重病患者没有专业，急需救援人员救助。 https://t.co/TaLMN93QyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 316,
+          "like_count": 29341,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 512
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045408,
+          "following_count": 980,
+          "like_count": 7732,
+          "listed_count": 8215,
+          "media_count": 32397,
+          "tweet_count": 39069
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2010786614906433910",
+    "created_at": "2026-01-12T18:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T19:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010786614906433910"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2010786614906433910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的弟弟，十二岁，有轻微的自杀倾向，而他的父母都不知道，想起他时自然会对比我的经历，会出现，“啊，如果他所经历的有我的一半，大概已经自杀了吧。”这样的想法但这是不健康的，就像失去一支手指的人在哭泣，而失去一条手臂的人却暗自嘲笑一样。我对这个孩子的情感很复杂，我不是圣人。无法只是爱他"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2010786614906433910",
+        "created_at": "2026-01-12T18:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T19:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010786614906433910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010786614906433910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的弟弟，十二岁，有轻微的自杀倾向，而他的父母都不知道，想起他时自然会对比我的经历，会出现，“啊，如果他所经历的有我的一半，大概已经自杀了吧。”这样的想法但这是不健康的，就像失去一支手指的人在哭泣，而失去一条手臂的人却暗自嘲笑一样。我对这个孩子的情感很复杂，我不是圣人。无法只是爱他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 397,
+          "like_count": 50177,
+          "listed_count": 8,
+          "media_count": 26,
+          "tweet_count": 953
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

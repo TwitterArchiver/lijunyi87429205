@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1841127783524717028",
+    "created_at": "2024-10-03T02:57:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T03:57:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841673873051591066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1224698574610608129",
+          "start": 0,
+          "username": "mrseaox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841673873051591066",
+    "in_reply_to_user_id": "1224698574610608129",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841127783524717028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrseaox 压迫越狠，反抗越剧烈，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1841127783524717028",
+        "created_at": "2024-10-03T02:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T03:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841673873051591066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1224698574610608129",
+              "start": 0,
+              "username": "mrseaox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841673873051591066",
+        "in_reply_to_user_id": "1224698574610608129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841127783524717028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrseaox 压迫越狠，反抗越剧烈，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224698574610608129",
+        "conversation_id": "1841127783524717028",
+        "created_at": "2024-10-01T14:47:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T15:47:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841127783524717028"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841127783524717028",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 100,
+          "impression_count": 388933,
+          "like_count": 700,
+          "quote_count": 7,
+          "reply_count": 74,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "湖南财政厅长被讨工程欠款的扔下楼，湖南邵阳公安局长被民警开枪打。\n湖南人还挺有意思的，感觉好像最反体制闹革命的，和最支持体制支持维稳的人，都在湖南。\n\n我以前有个湖南娄底室友，他告诉我说不是，湖北人才是骨子里反贼，因为他们楚人都说“老子就是不服周”，但现在以武汉为代表的已被完成驯化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 280,
+          "like_count": 14377,
+          "listed_count": 43,
+          "tweet_count": 425
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T14:17:56.000Z",
+        "description": "人傻嘴贱，体肥器小，中年普信，一无是处。\n曾经是一只大海牛，后来大海牛灭绝了。",
+        "id": "1224698574610608129",
+        "location": "Ontario",
+        "name": "小海牛 🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386449210057363456/YZJ3Ixo4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19126,
+          "following_count": 1026,
+          "like_count": 398,
+          "listed_count": 98,
+          "tweet_count": 3968
+        },
+        "username": "mrseaox",
+        "verified": false
+      }
+    ]
+  }
+}

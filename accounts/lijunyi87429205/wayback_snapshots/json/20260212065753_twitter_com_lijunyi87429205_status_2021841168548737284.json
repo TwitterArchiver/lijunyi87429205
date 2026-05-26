@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1959851847394705408"
+      ],
+      "media_source_tweet_id": [
+        "1959852169219444760"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2021841168548737284",
+    "created_at": "2026-02-12T06:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021841168548737284"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 93,
+          "normalized_text": "SFX",
+          "probability": 0.5269,
+          "start": 91,
+          "type": "Other"
+        },
+        {
+          "end": 109,
+          "normalized_text": "turronturron",
+          "probability": 0.8376,
+          "start": 98,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1228694758681272320",
+          "start": 3,
+          "username": "3GoldBalls"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IUqCN05drN",
+          "end": 134,
+          "expanded_url": "https://x.com/3GoldBalls/status/1959852169219444760/video/1",
+          "media_key": "13_1959851847394705408",
+          "start": 111,
+          "url": "https://t.co/IUqCN05drN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021841168548737284",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3388
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959852169219444760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3GoldBalls: There’s always the admirers…and then there’s the admirer of the admirers.\n\nSFX by turronturron https://t.co/IUqCN05drN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34066,
+        "height": 2160,
+        "media_key": "13_1959851847394705408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1959851847394705408/img/QMFCA7jzteVSDszN.jpg",
+        "public_metrics": {
+          "view_count": 198837
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959851847394705408/vid/avc1/320x320/6afwRMIDt3JYgFDm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959851847394705408/vid/avc1/540x540/JPteeHg4tlRVNpvX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1959851847394705408/vid/avc1/720x720/4SZCWVAXmn7LHywH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1959851847394705408/pl/sVwwOcvD6VjXTNtC.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959851847394705408"
+          ],
+          "media_source_tweet_id": [
+            "1959852169219444760"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2021841168548737284",
+        "created_at": "2026-02-12T06:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021841168548737284"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 93,
+              "normalized_text": "SFX",
+              "probability": 0.5269,
+              "start": 91,
+              "type": "Other"
+            },
+            {
+              "end": 109,
+              "normalized_text": "turronturron",
+              "probability": 0.8376,
+              "start": 98,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1228694758681272320",
+              "start": 3,
+              "username": "3GoldBalls"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUqCN05drN",
+              "end": 134,
+              "expanded_url": "https://x.com/3GoldBalls/status/1959852169219444760/video/1",
+              "media_key": "13_1959851847394705408",
+              "start": 111,
+              "url": "https://t.co/IUqCN05drN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021841168548737284",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3388
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959852169219444760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3GoldBalls: There’s always the admirers…and then there’s the admirer of the admirers.\n\nSFX by turronturron https://t.co/IUqCN05drN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1959851847394705408"
+          ]
+        },
+        "author_id": "1228694758681272320",
+        "conversation_id": "1959852169219444760",
+        "created_at": "2025-08-25T05:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959852169219444760"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 77,
+              "normalized_text": "SFX",
+              "probability": 0.5807,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "turronturron",
+              "probability": 0.84,
+              "start": 82,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IUqCN05drN",
+              "end": 118,
+              "expanded_url": "https://x.com/3GoldBalls/status/1959852169219444760/video/1",
+              "media_key": "13_1959851847394705408",
+              "start": 95,
+              "url": "https://t.co/IUqCN05drN"
+            },
+            {
+              "display_url": "x.com/KiwisBurntToas…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/KiwisBurntToast/status/1959798772411818432",
+              "start": 119,
+              "url": "https://t.co/g6LZTOmYVq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959852169219444760",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6184,
+          "impression_count": 614604,
+          "like_count": 28485,
+          "quote_count": 29,
+          "reply_count": 42,
+          "retweet_count": 3388
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959798772411818432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "There’s always the admirers…and then there’s the admirer of the admirers.\n\nSFX by turronturron https://t.co/IUqCN05drN https://t.co/g6LZTOmYVq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 389,
+          "like_count": 52583,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 1051
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-15T14:57:20.000Z",
+        "description": "Big Movie, Restoration, Animation Buff. A Cool Host of Reanimation: @BHBReanimated, @WODReanimate, @TCCReanimated, and @ReflushedCollab PFP by @SquidtasticOWO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 68,
+                "username": "BHBReanimated"
+              },
+              {
+                "end": 97,
+                "start": 84,
+                "username": "WODReanimate"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "TCCReanimated"
+              },
+              {
+                "end": 135,
+                "start": 119,
+                "username": "ReflushedCollab"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "SquidtasticOWO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.youtube.com/channel/UCZlEh…",
+                "end": 23,
+                "expanded_url": "https://m.youtube.com/channel/UCZlEhlO_JbU4OWqI3n4Xajw",
+                "start": 0,
+                "url": "https://t.co/SXybXkGesz"
+              }
+            ]
+          }
+        },
+        "id": "1228694758681272320",
+        "location": "The Golden City",
+        "name": "3GoldBalls",
+        "pinned_tweet_id": "2001427058627613127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631335298436321280/2Y6vXg00_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 5060,
+          "like_count": 175372,
+          "listed_count": 11,
+          "media_count": 3172,
+          "tweet_count": 46985
+        },
+        "url": "https://t.co/SXybXkGesz",
+        "username": "3GoldBalls",
+        "verified": false
+      }
+    ]
+  }
+}

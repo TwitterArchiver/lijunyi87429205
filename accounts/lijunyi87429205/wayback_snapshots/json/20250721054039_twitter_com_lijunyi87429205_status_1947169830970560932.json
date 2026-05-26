@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1947169830970560932",
+    "created_at": "2025-07-21T05:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947169830970560932"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947169830970560932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "埃德加-爱伦-坡，他的短篇小说我几乎都读过两遍，我喜欢他怪诞不羁又跌宕起伏的行文风格，有时他可以把小人物的愤怒与复仇，用巧思表现的淋漓尽致，像《跳蛙》或《一桶白葡萄酒》他开创了侦探小说的先河，又能写出许多神秘诱人的，巡弋与生命与死亡之间的故事。类似《与一具木乃伊的谈话》。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1947169830970560932",
+        "created_at": "2025-07-21T05:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947169830970560932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947169830970560932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "埃德加-爱伦-坡，他的短篇小说我几乎都读过两遍，我喜欢他怪诞不羁又跌宕起伏的行文风格，有时他可以把小人物的愤怒与复仇，用巧思表现的淋漓尽致，像《跳蛙》或《一桶白葡萄酒》他开创了侦探小说的先河，又能写出许多神秘诱人的，巡弋与生命与死亡之间的故事。类似《与一具木乃伊的谈话》。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 323,
+          "like_count": 28477,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 498
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

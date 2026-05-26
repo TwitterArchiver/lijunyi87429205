@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1947170351005544674",
+    "created_at": "2025-07-21T05:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T06:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1947170351005544674"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1947170351005544674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“被误解是作者的宿命”在这个浮躁的时代，我认为在我现在这个声名不显的状态，有人原因试着去理解已经是一种殊荣了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1947170351005544674",
+        "created_at": "2025-07-21T05:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T06:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1947170351005544674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947170351005544674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“被误解是作者的宿命”在这个浮躁的时代，我认为在我现在这个声名不显的状态，有人原因试着去理解已经是一种殊荣了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 323,
+          "like_count": 28478,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 500
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

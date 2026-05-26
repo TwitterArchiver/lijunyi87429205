@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1976246265412550785",
+    "created_at": "2025-10-09T11:25:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T12:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976247749403430957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563463171699970049",
+          "start": 0,
+          "username": "Akimi_Lyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976247749403430957",
+    "in_reply_to_user_id": "1563463171699970049",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976246265412550785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akimi_Lyan 撒旦探戈？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1976246265412550785",
+        "created_at": "2025-10-09T11:25:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976247749403430957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563463171699970049",
+              "start": 0,
+              "username": "Akimi_Lyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976247749403430957",
+        "in_reply_to_user_id": "1563463171699970049",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976246265412550785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akimi_Lyan 撒旦探戈？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563463171699970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136223258141839360",
+              "name": "Franz Kafka"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136223258141839360",
+              "name": "Franz Kafka"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1352676864007958528",
+              "name": "Nobel Prize"
+            }
+          }
+        ],
+        "conversation_id": "1976246265412550785",
+        "created_at": "2025-10-09T11:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976246265412550785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NobelPrize/sta…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/NobelPrize/status/1976241671785665022",
+              "start": 51,
+              "url": "https://t.co/1WOiua0NHj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976246265412550785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976241671785665022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么小说能拍成7个小时的电影？没有人能逃出书中描绘泥泞的世界，直至死亡\n\n强推 撒旦探戈 的改编电影 https://t.co/1WOiua0NHj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 356,
+          "like_count": 36729,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 702
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T09:47:57.000Z",
+        "description": "la prometida de idi",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Miyano_Akemi",
+                "end": 23,
+                "expanded_url": "https://t.me/Miyano_Akemi",
+                "start": 0,
+                "url": "https://t.co/kJ1vHkwEqg"
+              }
+            ]
+          }
+        },
+        "id": "1563463171699970049",
+        "location": "Macondo",
+        "name": "Li'An安",
+        "pinned_tweet_id": "1923310904348733618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960594171414372352/eP0LfeV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 79,
+          "like_count": 8833,
+          "listed_count": 2,
+          "media_count": 813,
+          "tweet_count": 4220
+        },
+        "url": "https://t.co/kJ1vHkwEqg",
+        "username": "Akimi_Lyan",
+        "verified": false
+      }
+    ]
+  }
+}

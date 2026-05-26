@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1835122272035561754",
+    "created_at": "2024-09-15T09:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T10:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835254149757477211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835254149757477211",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835122272035561754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 麻木悲惨的人民"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1835122272035561754",
+        "created_at": "2024-09-15T09:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T10:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835254149757477211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835254149757477211",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835122272035561754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 麻木悲惨的人民"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835122196215164928"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1835122272035561754",
+        "created_at": "2024-09-15T01:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T02:03:22.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1835122201407656201",
+          "1835122272035561754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dru82dz5o7",
+              "end": 33,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/1835122272035561754/photo/1",
+              "media_key": "3_1835122196215164928",
+              "start": 10,
+              "url": "https://t.co/dRU82DZ5O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835122272035561754",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 81714,
+          "like_count": 634,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "无耻而且野蛮的国家 https://t.co/dRU82DZ5O7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 274,
+          "like_count": 13550,
+          "listed_count": 43,
+          "tweet_count": 404
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1834540924287807773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16957,
+          "following_count": 228,
+          "like_count": 10873,
+          "listed_count": 71,
+          "tweet_count": 3566
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

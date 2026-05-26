@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1797029303458144256"
+      ],
+      "media_source_tweet_id": [
+        "1797031461515669707"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1797049631169503669",
+    "created_at": "2024-06-01T23:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T00:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797049631169503669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1453753269151481864",
+          "start": 3,
+          "username": "emmpyfour"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/uJ9gMdqqwG",
+          "end": 61,
+          "expanded_url": "https://twitter.com/emmpyfour/status/1797031461515669707/video/1",
+          "media_key": "7_1797029303458144256",
+          "start": 38,
+          "url": "https://t.co/uJ9gMdqqwG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797049631169503669",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 225
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797031461515669707",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @emmpyfour: average banana enjoyer https://t.co/uJ9gMdqqwG"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1797049631169503669].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1797049631169503669",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1797049631169503669"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15208,
+        "height": 1080,
+        "media_key": "7_1797029303458144256",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797029303458144256/pu/img/_ggd6LmvxfrufYsN.jpg",
+        "public_metrics": {
+          "view_count": 10685
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797029303458144256/pu/vid/avc1/480x270/4pvX7O_JV4rrygrG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797029303458144256/pu/vid/avc1/640x360/aqRanrINUT48s2Jx.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797029303458144256/pu/vid/avc1/1280x720/Znlhgd5R1XmjW1-c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797029303458144256/pu/pl/KfKpdXShvA_dKyGr.m3u8?tag=12"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1797029303458144256"
+          ]
+        },
+        "author_id": "1453753269151481864",
+        "conversation_id": "1797031461515669707",
+        "created_at": "2024-06-01T22:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T23:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797031461515669707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uJ9gMdqqwG",
+              "end": 46,
+              "expanded_url": "https://twitter.com/emmpyfour/status/1797031461515669707/video/1",
+              "media_key": "7_1797029303458144256",
+              "start": 23,
+              "url": "https://t.co/uJ9gMdqqwG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797031461515669707",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 575,
+          "impression_count": 17120,
+          "like_count": 2501,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 225
+        },
+        "reply_settings": "everyone",
+        "text": "average banana enjoyer https://t.co/uJ9gMdqqwG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 241,
+          "like_count": 9481,
+          "listed_count": 46,
+          "tweet_count": 328
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T15:59:30.000Z",
+        "description": "i animate, its what i do. 18+ but no nudity. unless...? \n\n- https://t.co/dCeTClIbxJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/emmpyfour",
+                "end": 83,
+                "expanded_url": "http://youtube.com/c/emmpyfour",
+                "start": 60,
+                "url": "https://t.co/dCeTClIbxJ"
+              }
+            ]
+          }
+        },
+        "id": "1453753269151481864",
+        "name": "emmpy",
+        "pinned_tweet_id": "1570581446397693953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1453753495065137152/xgzPCWxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309177,
+          "following_count": 296,
+          "like_count": 1450,
+          "listed_count": 730,
+          "tweet_count": 296
+        },
+        "username": "emmpyfour",
+        "verified": true
+      }
+    ]
+  }
+}

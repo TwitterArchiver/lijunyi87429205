@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1946169477319815261",
+    "created_at": "2025-07-18T12:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T13:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946188724422713509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1714659505320140800",
+          "start": 0,
+          "username": "cotiten"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946188724422713509",
+    "in_reply_to_user_id": "1714659505320140800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946169477319815261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cotiten 可能是一种地域文化差异导致的？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1946169477319815261].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1946169477319815261",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1946169477319815261"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1946169477319815261",
+        "created_at": "2025-07-18T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946188724422713509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1714659505320140800",
+              "start": 0,
+              "username": "cotiten"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946188724422713509",
+        "in_reply_to_user_id": "1714659505320140800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946169477319815261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cotiten 可能是一种地域文化差异导致的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 315,
+          "like_count": 28194,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 496
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-18T15:07:43.000Z",
+        "description": "",
+        "id": "1714659505320140800",
+        "name": "Choite",
+        "pinned_tweet_id": "1939319298104979682",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879175939755847680/NGFZ44M6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 989,
+          "like_count": 14479,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 3472
+        },
+        "username": "cotiten",
+        "verified": false
+      }
+    ]
+  }
+}

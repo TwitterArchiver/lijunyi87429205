@@ -1,0 +1,259 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1798665885818986496"
+      ],
+      "media_source_tweet_id": [
+        "1798666208398704998"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1798705228910576061",
+    "created_at": "2024-06-06T13:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T14:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798705228910576061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "42911875",
+          "start": 3,
+          "username": "otagoth"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/pIRMd8mKv5",
+          "end": 66,
+          "expanded_url": "https://twitter.com/otagoth/status/1798666208398704998/video/1",
+          "media_key": "7_1798665885818986496",
+          "start": 43,
+          "url": "https://t.co/pIRMd8mKv5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798705228910576061",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798666208398704998",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @otagoth: Why you should start copying. https://t.co/pIRMd8mKv5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59002,
+        "height": 3840,
+        "media_key": "7_1798665885818986496",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1798665885818986496/pu/img/ho1_gU59Am3Nda9l.jpg",
+        "public_metrics": {
+          "view_count": 2633
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798665885818986496/pu/vid/avc1/320x568/i4PWO9gx3QekW0N2.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798665885818986496/pu/vid/avc1/480x852/7m3m4_vi48-ePzq1.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1798665885818986496/pu/vid/avc1/720x1280/HTGzbisRN5vr-ouE.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1798665885818986496/pu/pl/eEkzrV-rRL_aEwgW.m3u8?tag=12"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798665885818986496"
+          ],
+          "media_source_tweet_id": [
+            "1798666208398704998"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1798705228910576061",
+        "created_at": "2024-06-06T13:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T14:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798705228910576061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "42911875",
+              "start": 3,
+              "username": "otagoth"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pIRMd8mKv5",
+              "end": 66,
+              "expanded_url": "https://twitter.com/otagoth/status/1798666208398704998/video/1",
+              "media_key": "7_1798665885818986496",
+              "start": 43,
+              "url": "https://t.co/pIRMd8mKv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798705228910576061",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798666208398704998",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @otagoth: Why you should start copying. https://t.co/pIRMd8mKv5"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1798665885818986496"
+          ]
+        },
+        "author_id": "42911875",
+        "conversation_id": "1798666208398704998",
+        "created_at": "2024-06-06T10:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T11:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798666208398704998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/pIRMd8mKv5",
+              "end": 53,
+              "expanded_url": "https://twitter.com/otagoth/status/1798666208398704998/video/1",
+              "media_key": "7_1798665885818986496",
+              "start": 30,
+              "url": "https://t.co/pIRMd8mKv5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798666208398704998",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 5072,
+          "like_count": 245,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Why you should start copying. https://t.co/pIRMd8mKv5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 238,
+          "like_count": 9642,
+          "listed_count": 46,
+          "tweet_count": 336
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-27T16:00:14.000Z",
+        "description": "Have you checked out my streams yet? Check the twitch link down below!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/philtomato",
+                "end": 23,
+                "expanded_url": "http://www.twitch.tv/philtomato",
+                "start": 0,
+                "url": "https://t.co/CVzCTjewV8"
+              }
+            ]
+          }
+        },
+        "id": "42911875",
+        "location": "Cebu, Philippines",
+        "name": "Philtomato 🍅",
+        "pinned_tweet_id": "1778448191798784086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345483895001600000/o0MgI8J0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218802,
+          "following_count": 611,
+          "like_count": 2372,
+          "listed_count": 974,
+          "tweet_count": 6210
+        },
+        "url": "https://t.co/CVzCTjewV8",
+        "username": "otagoth",
+        "verified": true
+      }
+    ]
+  }
+}

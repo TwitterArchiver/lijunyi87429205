@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1975200946675470336"
+      ],
+      "media_source_tweet_id": [
+        "1975200953705111951"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1975410582544396724",
+    "created_at": "2025-10-07T03:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T04:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975410582544396724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1801260546156789761",
+          "start": 3,
+          "username": "br3ak_go"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfgzgwae7P",
+          "end": 37,
+          "expanded_url": "https://x.com/br3ak_go/status/1975200953705111951/photo/1",
+          "media_key": "3_1975200946675470336",
+          "start": 14,
+          "url": "https://t.co/zfgzgwae7P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975410582544396724",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3867
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975200953705111951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @br3ak_go: https://t.co/zfgzgwae7P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1975200946675470336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lSy8KbUAAzYaG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975200946675470336"
+          ],
+          "media_source_tweet_id": [
+            "1975200953705111951"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1975410582544396724",
+        "created_at": "2025-10-07T03:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T04:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975410582544396724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1801260546156789761",
+              "start": 3,
+              "username": "br3ak_go"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfgzgwae7P",
+              "end": 37,
+              "expanded_url": "https://x.com/br3ak_go/status/1975200953705111951/photo/1",
+              "media_key": "3_1975200946675470336",
+              "start": 14,
+              "url": "https://t.co/zfgzgwae7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975410582544396724",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3867
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975200953705111951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @br3ak_go: https://t.co/zfgzgwae7P"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975200946675470336"
+          ]
+        },
+        "author_id": "1801260546156789761",
+        "conversation_id": "1975200953705111951",
+        "created_at": "2025-10-06T14:06:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:06:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975200953705111951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfgzgwae7P",
+              "end": 23,
+              "expanded_url": "https://x.com/br3ak_go/status/1975200953705111951/photo/1",
+              "media_key": "3_1975200946675470336",
+              "start": 0,
+              "url": "https://t.co/zfgzgwae7P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975200953705111951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4627,
+          "impression_count": 392952,
+          "like_count": 35604,
+          "quote_count": 81,
+          "reply_count": 9,
+          "retweet_count": 3867
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zfgzgwae7P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 355,
+          "like_count": 36549,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 695
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-13T14:29:23.000Z",
+        "description": "アレグロ・アジテート",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Bekind.rewind",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Bekind.rewind",
+                "start": 0,
+                "url": "https://t.co/0FQJ5pF96b"
+              }
+            ]
+          }
+        },
+        "id": "1801260546156789761",
+        "name": "Bingi",
+        "pinned_tweet_id": "1909946139161567538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897335171143360514/rIm9M2NW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24739,
+          "following_count": 51,
+          "like_count": 209,
+          "listed_count": 103,
+          "media_count": 42,
+          "tweet_count": 65
+        },
+        "url": "https://t.co/0FQJ5pF96b",
+        "username": "br3ak_go",
+        "verified": false
+      }
+    ]
+  }
+}

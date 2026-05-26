@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1810956841016512654",
+    "created_at": "2024-07-10T08:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-10T09:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810961151368515886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768782263515275264",
+          "start": 0,
+          "username": "tinfoilheadr18g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810961151368515886",
+    "in_reply_to_user_id": "1768782263515275264",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810956841016512654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinfoilheadr18g take your time ，artist"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1810956841016512654",
+        "created_at": "2024-07-10T08:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T09:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810961151368515886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768782263515275264",
+              "start": 0,
+              "username": "tinfoilheadr18g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810961151368515886",
+        "in_reply_to_user_id": "1768782263515275264",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810956841016512654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinfoilheadr18g take your time ，artist"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1810956585939972097"
+          ]
+        },
+        "author_id": "1768782263515275264",
+        "conversation_id": "1810956841016512654",
+        "created_at": "2024-07-10T08:38:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T09:38:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1810956841016512654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tTxfoAFqKb",
+              "end": 93,
+              "expanded_url": "https://twitter.com/tinfoilheadr18g/status/1810956841016512654/photo/1",
+              "media_key": "3_1810956585939972097",
+              "start": 70,
+              "url": "https://t.co/tTxfoAFqKb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810956841016512654",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 135,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Please grant me a bit more time dear comrades, I'm so sorry for late. https://t.co/tTxfoAFqKb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 252,
+          "like_count": 10546,
+          "listed_count": 46,
+          "tweet_count": 363
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T23:32:24.000Z",
+        "description": "Earthling, Bipolar Disorder, Passive Loner\n\nI create only joyful, cute, beautiful, and lovable things.\nWe shall all be lovely and happy in hell ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinfoilhead.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://tinfoilhead.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/eCTXUyh6Tm"
+              }
+            ]
+          }
+        },
+        "id": "1768782263515275264",
+        "location": "Hell",
+        "name": "TINFOILHEAD666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770588859547734016/7daUZQiG_x96.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2164,
+          "following_count": 199,
+          "like_count": 125,
+          "listed_count": 6,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/eCTXUyh6Tm",
+        "username": "tinfoilheadr18g",
+        "verified": false
+      }
+    ]
+  }
+}

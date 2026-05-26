@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948471337951150080"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1948471365884874867",
+    "created_at": "2025-07-24T19:52:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T20:52:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948471365884874867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PXVTgyYzZQ",
+          "end": 23,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1948471365884874867/photo/1",
+          "media_key": "3_1948471337951150080",
+          "start": 0,
+          "url": "https://t.co/PXVTgyYzZQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948471365884874867",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/PXVTgyYzZQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 632,
+        "media_key": "3_1948471337951150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwpcW8GbwAAPsuX.png",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948471337951150080"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1948471365884874867",
+        "created_at": "2025-07-24T19:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T20:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948471365884874867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PXVTgyYzZQ",
+              "end": 23,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1948471365884874867/photo/1",
+              "media_key": "3_1948471337951150080",
+              "start": 0,
+              "url": "https://t.co/PXVTgyYzZQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948471365884874867",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PXVTgyYzZQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 311,
+          "like_count": 28792,
+          "listed_count": 8,
+          "media_count": 8,
+          "tweet_count": 507
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

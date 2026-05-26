@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1937717029030756674",
+    "created_at": "2025-06-25T18:48:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T19:48:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937945891551449573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1240967112660848641",
+          "start": 0,
+          "username": "ilovecatlovecar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937945891551449573",
+    "in_reply_to_user_id": "1240967112660848641",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937717029030756674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilovecatlovecar 真的不考虑用来发电吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18993,
+        "height": 1280,
+        "media_key": "7_1937716984940232706",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1937716984940232706/pu/img/9vrRSO-IAFT85pFx.jpg",
+        "public_metrics": {
+          "view_count": 19369
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937716984940232706/pu/vid/avc1/320x568/uPkoontQbOAhAxhE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937716984940232706/pu/vid/avc1/480x852/ZF0a5vzbrL5n4J_Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1937716984940232706/pu/vid/avc1/720x1280/DDi_tmwmaKMWau0l.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1937716984940232706/pu/pl/U7kIHdzPjEyJ6MkX.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1937717029030756674",
+        "created_at": "2025-06-25T18:48:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T19:48:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937945891551449573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1240967112660848641",
+              "start": 0,
+              "username": "ilovecatlovecar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937945891551449573",
+        "in_reply_to_user_id": "1240967112660848641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937717029030756674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilovecatlovecar 真的不考虑用来发电吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1937716984940232706"
+          ]
+        },
+        "author_id": "1240967112660848641",
+        "conversation_id": "1937717029030756674",
+        "created_at": "2025-06-25T03:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T04:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937717029030756674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YQisSODVXG",
+              "end": 34,
+              "expanded_url": "https://x.com/ilovecatlovecar/status/1937717029030756674/video/1",
+              "media_key": "7_1937716984940232706",
+              "start": 11,
+              "url": "https://t.co/YQisSODVXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937717029030756674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 40035,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "只有强者才配活下来🥹 https://t.co/YQisSODVXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 302,
+          "like_count": 26458,
+          "listed_count": 8,
+          "media_count": 5,
+          "tweet_count": 469
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-20T11:43:24.000Z",
+        "description": "幸福生活的奥秘，养只猫😼。\n我是中年油腻大叔。80%的推文是猫.车，和乱七八糟。三教施主。只有猫咪才能拯救世界😼🫶",
+        "id": "1240967112660848641",
+        "location": " 大凉山",
+        "name": "阿米爱猫咪",
+        "pinned_tweet_id": "1936064358309670924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812072310062354432/7plaUVX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14520,
+          "following_count": 698,
+          "like_count": 136820,
+          "listed_count": 50,
+          "media_count": 6288,
+          "tweet_count": 33838
+        },
+        "username": "ilovecatlovecar",
+        "verified": false
+      }
+    ]
+  }
+}

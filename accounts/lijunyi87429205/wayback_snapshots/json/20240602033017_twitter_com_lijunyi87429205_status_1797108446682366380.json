@@ -1,0 +1,234 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796938350915686400"
+      ],
+      "media_source_tweet_id": [
+        "1796938396222517677"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1797108446682366380",
+    "created_at": "2024-06-02T03:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T04:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797108446682366380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1589742402004086784",
+          "start": 3,
+          "username": "Prasetyoadii22"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/tlbdClxXhU",
+          "end": 43,
+          "expanded_url": "https://twitter.com/Prasetyoadii22/status/1796938396222517677/photo/1",
+          "media_key": "3_1796938350915686400",
+          "start": 20,
+          "url": "https://t.co/tlbdClxXhU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797108446682366380",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796938396222517677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Prasetyoadii22: https://t.co/tlbdClxXhU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 637,
+        "media_key": "3_1796938350915686400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPAB6NmbEAANdq1.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796938350915686400"
+          ],
+          "media_source_tweet_id": [
+            "1796938396222517677"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1797108446682366380",
+        "created_at": "2024-06-02T03:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T04:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797108446682366380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1589742402004086784",
+              "start": 3,
+              "username": "Prasetyoadii22"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tlbdClxXhU",
+              "end": 43,
+              "expanded_url": "https://twitter.com/Prasetyoadii22/status/1796938396222517677/photo/1",
+              "media_key": "3_1796938350915686400",
+              "start": 20,
+              "url": "https://t.co/tlbdClxXhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797108446682366380",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796938396222517677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Prasetyoadii22: https://t.co/tlbdClxXhU"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796938350915686400"
+          ]
+        },
+        "author_id": "1589742402004086784",
+        "conversation_id": "1796938396222517677",
+        "created_at": "2024-06-01T16:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T17:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796938396222517677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/tlbdClxXhU",
+              "end": 23,
+              "expanded_url": "https://twitter.com/Prasetyoadii22/status/1796938396222517677/photo/1",
+              "media_key": "3_1796938350915686400",
+              "start": 0,
+              "url": "https://t.co/tlbdClxXhU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796938396222517677",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 21647,
+          "like_count": 1721,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tlbdClxXhU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 241,
+          "like_count": 9498,
+          "listed_count": 46,
+          "tweet_count": 330
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T22:11:47.000Z",
+        "description": "i draw something silly whenever i can.\n\nhttps://t.co/r43YYQbkVm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/prasetyoadii22",
+                "end": 63,
+                "expanded_url": "https://ko-fi.com/prasetyoadii22",
+                "start": 40,
+                "url": "https://t.co/r43YYQbkVm"
+              }
+            ]
+          }
+        },
+        "id": "1589742402004086784",
+        "location": "𓆟",
+        "name": "Prasetyo Adi",
+        "pinned_tweet_id": "1740437399078121598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781382728052842497/2A13dMgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7276,
+          "following_count": 722,
+          "like_count": 8029,
+          "listed_count": 39,
+          "tweet_count": 136
+        },
+        "username": "Prasetyoadii22",
+        "verified": false
+      }
+    ]
+  }
+}

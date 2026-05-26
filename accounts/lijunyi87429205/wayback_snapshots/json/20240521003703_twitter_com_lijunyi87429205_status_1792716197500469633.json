@@ -1,0 +1,244 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1792564251657379840"
+      ],
+      "media_source_tweet_id": [
+        "1792564254887047492"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1792716197500469633",
+    "created_at": "2024-05-21T00:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T01:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792716197500469633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "889592953",
+          "start": 3,
+          "username": "bkub_comic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/Nzz16CtTaG",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bkub_comic/status/1792564254887047492/photo/1",
+          "media_key": "3_1792564251657379840",
+          "start": 16,
+          "url": "https://t.co/Nzz16CtTaG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792716197500469633",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3094
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792564254887047492",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @bkub_comic: https://t.co/Nzz16CtTaG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 893,
+        "media_key": "3_1792564251657379840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOB3sIEaIAALz2-.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792564251657379840"
+          ],
+          "media_source_tweet_id": [
+            "1792564254887047492"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1792716197500469633",
+        "created_at": "2024-05-21T00:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T01:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792716197500469633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "889592953",
+              "start": 3,
+              "username": "bkub_comic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Nzz16CtTaG",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bkub_comic/status/1792564254887047492/photo/1",
+              "media_key": "3_1792564251657379840",
+              "start": 16,
+              "url": "https://t.co/Nzz16CtTaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792716197500469633",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3094
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792564254887047492",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @bkub_comic: https://t.co/Nzz16CtTaG"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792564251657379840"
+          ]
+        },
+        "author_id": "889592953",
+        "conversation_id": "1792564254887047492",
+        "created_at": "2024-05-20T14:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T15:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792564254887047492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/Nzz16CtTaG",
+              "end": 23,
+              "expanded_url": "https://twitter.com/bkub_comic/status/1792564254887047492/photo/1",
+              "media_key": "3_1792564251657379840",
+              "start": 0,
+              "url": "https://t.co/Nzz16CtTaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792564254887047492",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 466,
+          "impression_count": 524104,
+          "like_count": 16373,
+          "quote_count": 51,
+          "reply_count": 0,
+          "retweet_count": 3094
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/Nzz16CtTaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 233,
+          "like_count": 8211,
+          "listed_count": 46,
+          "tweet_count": 251
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-18T19:33:06.000Z",
+        "description": "japanese kuso manga boy アンソロ作家 連絡先se-bu@hotmail.co.jp 趣味でゲーム配信ファンアートタグ　#けも耳ショタ三郎メモリアル記念館",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 71,
+                "tag": "けも耳ショタ三郎メモリアル記念館"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@saburouPOWER9…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@saburouPOWER99999",
+                "start": 0,
+                "url": "https://t.co/z6TYFVXHVb"
+              }
+            ]
+          }
+        },
+        "id": "889592953",
+        "location": "hyogo.JP",
+        "name": "大川ぶくぶ/bkub",
+        "pinned_tweet_id": "1686743025161019393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097435436794822657/MsJgJHrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497424,
+          "following_count": 4390,
+          "like_count": 9750,
+          "listed_count": 3134,
+          "tweet_count": 11561
+        },
+        "url": "https://t.co/z6TYFVXHVb",
+        "username": "bkub_comic",
+        "verified": true
+      }
+    ]
+  }
+}

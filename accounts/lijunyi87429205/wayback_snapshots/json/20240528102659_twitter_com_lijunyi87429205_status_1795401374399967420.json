@@ -1,0 +1,269 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795379111889944576"
+      ],
+      "media_source_tweet_id": [
+        "1795379115534811539"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1795401374399967420",
+    "created_at": "2024-05-28T10:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T11:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795401374399967420"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Andromeda",
+          "probability": 0.8366,
+          "start": 16,
+          "type": "Other"
+        },
+        {
+          "end": 57,
+          "normalized_text": "Edward John Poynter",
+          "probability": 0.9283,
+          "start": 39,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3987880955",
+          "start": 3,
+          "username": "AnupVedic"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/T1fgx1PDdE",
+          "end": 82,
+          "expanded_url": "https://twitter.com/AnupVedic/status/1795379115534811539/photo/1",
+          "media_key": "3_1795379111889944576",
+          "start": 59,
+          "url": "https://t.co/T1fgx1PDdE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795401374399967420",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795379115534811539",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnupVedic: \"Andromeda\"\n{1869}\nBy ~ Edward John Poynter https://t.co/T1fgx1PDdE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1795379111889944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOp3yjlbQAAdf-x.jpg",
+        "width": 1418
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795379111889944576"
+          ],
+          "media_source_tweet_id": [
+            "1795379115534811539"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1795401374399967420",
+        "created_at": "2024-05-28T10:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T11:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795401374399967420"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Andromeda",
+              "probability": 0.8366,
+              "start": 16,
+              "type": "Other"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Edward John Poynter",
+              "probability": 0.9283,
+              "start": 39,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3987880955",
+              "start": 3,
+              "username": "AnupVedic"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T1fgx1PDdE",
+              "end": 82,
+              "expanded_url": "https://twitter.com/AnupVedic/status/1795379115534811539/photo/1",
+              "media_key": "3_1795379111889944576",
+              "start": 59,
+              "url": "https://t.co/T1fgx1PDdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795401374399967420",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795379115534811539",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnupVedic: \"Andromeda\"\n{1869}\nBy ~ Edward John Poynter https://t.co/T1fgx1PDdE"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795379111889944576"
+          ]
+        },
+        "author_id": "3987880955",
+        "conversation_id": "1795379115534811539",
+        "created_at": "2024-05-28T08:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T09:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795379115534811539"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Andromeda",
+              "probability": 0.7419,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Edward John Poynter",
+              "probability": 0.9224,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/T1fgx1PDdE",
+              "end": 67,
+              "expanded_url": "https://twitter.com/AnupVedic/status/1795379115534811539/photo/1",
+              "media_key": "3_1795379111889944576",
+              "start": 44,
+              "url": "https://t.co/T1fgx1PDdE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795379115534811539",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 975,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "\"Andromeda\"\n{1869}\nBy ~ Edward John Poynter https://t.co/T1fgx1PDdE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 237,
+          "like_count": 8971,
+          "listed_count": 46,
+          "tweet_count": 273
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2015-10-18T15:28:19.000Z",
+        "description": "Father, Friend & Diehard Romantic, need I say more...!!!? \n\nSeeking perfection that doesn't exist.... \n\nBUT\n\nIt does  !!\nIn my mind....!!",
+        "id": "3987880955",
+        "location": "Planet Earth",
+        "name": "VedicAryan",
+        "pinned_tweet_id": "1743462821021786386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1301946090174836737/egaRYFRJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14555,
+          "following_count": 2797,
+          "like_count": 628242,
+          "listed_count": 131,
+          "tweet_count": 27037
+        },
+        "username": "AnupVedic",
+        "verified": false
+      }
+    ]
+  }
+}

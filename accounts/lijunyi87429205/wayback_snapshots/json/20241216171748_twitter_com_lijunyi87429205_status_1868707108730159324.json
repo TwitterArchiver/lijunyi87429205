@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1868625817007448312",
+    "created_at": "2024-12-16T17:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T18:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868707108730159324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1066360321445490688",
+          "start": 0,
+          "username": "DxLapland"
+        },
+        {
+          "end": 19,
+          "id": "64662332",
+          "start": 11,
+          "username": "foxshuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868707108730159324",
+    "in_reply_to_user_id": "1066360321445490688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868627183973146842",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DxLapland @foxshuo 人言会影响认知，你认为中共为什么要严格控制人们的声音呢，并且有舆论阵地一说呢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1868625817007448312",
+        "created_at": "2024-12-16T17:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T18:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868707108730159324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1066360321445490688",
+              "start": 0,
+              "username": "DxLapland"
+            },
+            {
+              "end": 19,
+              "id": "64662332",
+              "start": 11,
+              "username": "foxshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868707108730159324",
+        "in_reply_to_user_id": "1066360321445490688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868627183973146842",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DxLapland @foxshuo 人言会影响认知，你认为中共为什么要严格控制人们的声音呢，并且有舆论阵地一说呢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066360321445490688",
+        "conversation_id": "1868625817007448312",
+        "created_at": "2024-12-16T12:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T13:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868627183973146842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "64662332",
+              "start": 0,
+              "username": "foxshuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868627183973146842",
+        "in_reply_to_user_id": "64662332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1136,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868625817007448312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxshuo 哈哈哈，挺好的。老是有人取笑底层人民操心国际局势，可是你我在推上、在微博上讨论同样的话题有毛区别么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 288,
+          "like_count": 16927,
+          "listed_count": 42,
+          "media_count": 2,
+          "tweet_count": 448
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-24T15:58:07.000Z",
+        "description": "没啥",
+        "id": "1066360321445490688",
+        "name": "lapland.耀西",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761715472666689536/hiWEgA11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 1284,
+          "like_count": 5590,
+          "listed_count": 4,
+          "media_count": 254,
+          "tweet_count": 4348
+        },
+        "username": "DxLapland",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-11T08:23:02.000Z",
+        "description": "说什么是你的自由，做什么是我的权利，如果我做的得不到你的赞同，那就对了，否则我将与你一样平淡无奇。",
+        "id": "64662332",
+        "location": "中国",
+        "name": "阑夕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550395556685819910/qnbrCfBf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168280,
+          "following_count": 712,
+          "like_count": 14023,
+          "listed_count": 811,
+          "media_count": 546,
+          "tweet_count": 1618
+        },
+        "username": "foxshuo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1980784943782576495",
+    "created_at": "2025-10-22T11:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980959956477358158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1131016972404051968",
+          "start": 0,
+          "username": "SydneyDaddy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980959956477358158",
+    "in_reply_to_user_id": "1131016972404051968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980784943782576495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SydneyDaddy1 川普第二次上任还是有好处的，方便我们分辨有哪些名人是真正追求普世价值与人本主义，哪些只是另一类强权的狗腿喉舌，美国胡锡进。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1980782349596938240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30nDWUW0AAGX7K.png",
+        "width": 795
+      },
+      {
+        "height": 768,
+        "media_key": "3_1980784819266084864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30pTGjXYAA4v-k.jpg",
+        "width": 1024
+      },
+      {
+        "height": 956,
+        "media_key": "3_1980784901214416896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30pX31XsAAul3_.jpg",
+        "width": 1300
+      },
+      {
+        "height": 1537,
+        "media_key": "3_1980784930801020931",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G30pZmDXcAMMB3P.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1980784943782576495",
+        "created_at": "2025-10-22T11:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980959956477358158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1131016972404051968",
+              "start": 0,
+              "username": "SydneyDaddy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980959956477358158",
+        "in_reply_to_user_id": "1131016972404051968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980784943782576495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SydneyDaddy1 川普第二次上任还是有好处的，方便我们分辨有哪些名人是真正追求普世价值与人本主义，哪些只是另一类强权的狗腿喉舌，美国胡锡进。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980782349596938240",
+            "3_1980784819266084864",
+            "3_1980784901214416896",
+            "3_1980784930801020931"
+          ]
+        },
+        "author_id": "1131016972404051968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1980784943782576495",
+        "created_at": "2025-10-21T23:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T00:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980784943782576495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xUJOJh9Cyh",
+              "end": 173,
+              "expanded_url": "https://x.com/SydneyDaddy1/status/1980784943782576495/photo/1",
+              "media_key": "3_1980782349596938240",
+              "start": 150,
+              "url": "https://t.co/xUJOJh9Cyh"
+            },
+            {
+              "display_url": "pic.x.com/xUJOJh9Cyh",
+              "end": 173,
+              "expanded_url": "https://x.com/SydneyDaddy1/status/1980784943782576495/photo/1",
+              "media_key": "3_1980784819266084864",
+              "start": 150,
+              "url": "https://t.co/xUJOJh9Cyh"
+            },
+            {
+              "display_url": "pic.x.com/xUJOJh9Cyh",
+              "end": 173,
+              "expanded_url": "https://x.com/SydneyDaddy1/status/1980784943782576495/photo/1",
+              "media_key": "3_1980784901214416896",
+              "start": 150,
+              "url": "https://t.co/xUJOJh9Cyh"
+            },
+            {
+              "display_url": "pic.x.com/xUJOJh9Cyh",
+              "end": 173,
+              "expanded_url": "https://x.com/SydneyDaddy1/status/1980784943782576495/photo/1",
+              "media_key": "3_1980784930801020931",
+              "start": 150,
+              "url": "https://t.co/xUJOJh9Cyh"
+            },
+            {
+              "display_url": "x.com/mranti/status/…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/mranti/status/1980461470749237335",
+              "start": 174,
+              "url": "https://t.co/k6q2M1rYFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980784943782576495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 147965,
+          "like_count": 473,
+          "quote_count": 28,
+          "reply_count": 147,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980461470749237335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凡事相信泽连斯基是被逼在白宫外面开记者会的（图1），都有严重的认知偏见\n\n白宫马路对面的拉法叶广场本来就是各国领导人拿白宫当背景板打野开记者会的地方，澳洲总理前天见过川普后刚在同样位置开过 (图2，注意话筒位置)\n\n德国前总理舒尔茨离得更远 (图3)，泽连斯基8月份也在这里开过，轻车熟路 (图4) https://t.co/xUJOJh9Cyh https://t.co/k6q2M1rYFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 369,
+          "like_count": 37830,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 748
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-22T02:00:34.000Z",
+        "description": "Youtuber: https://t.co/9HHxD7iz5v 堂堂正正做人，踏踏实实要饭 不差钱的打发点呗：https://t.co/6ldNis9iym 或者比特币bitcoin:1CWDyMsKFJcwgAgmwadM9DkzxZJnyj4zBP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 33,
+                "expanded_url": "http://bit.ly/2tJ7Rui",
+                "start": 10,
+                "url": "https://t.co/9HHxD7iz5v"
+              },
+              {
+                "display_url": "PayPal.Me/sydneydaddy",
+                "end": 80,
+                "expanded_url": "https://PayPal.Me/sydneydaddy",
+                "start": 57,
+                "url": "https://t.co/6ldNis9iym"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/2tJ7Rui",
+                "end": 23,
+                "expanded_url": "https://bit.ly/2tJ7Rui",
+                "start": 0,
+                "url": "https://t.co/HOwitHpFHa"
+              }
+            ]
+          }
+        },
+        "id": "1131016972404051968",
+        "location": "2000",
+        "name": "悉尼奶爸 SydneyDaddy 雪梨奶爸 🇦🇺",
+        "pinned_tweet_id": "1942522659289354345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969408644820451333/hccC-bGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105253,
+          "following_count": 2144,
+          "like_count": 2876,
+          "listed_count": 490,
+          "media_count": 9343,
+          "tweet_count": 21336
+        },
+        "url": "https://t.co/HOwitHpFHa",
+        "username": "SydneyDaddy1",
+        "verified": true
+      }
+    ]
+  }
+}

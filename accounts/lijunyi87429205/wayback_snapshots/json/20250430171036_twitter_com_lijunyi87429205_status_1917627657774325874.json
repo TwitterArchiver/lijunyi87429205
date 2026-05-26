@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1917314811848729050",
+    "created_at": "2025-04-30T17:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-30T18:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917627657774325874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1728495125976715264",
+          "start": 0,
+          "username": "wehavepaper"
+        },
+        {
+          "end": 24,
+          "id": "85875473",
+          "start": 13,
+          "username": "CDTChinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917627657774325874",
+    "in_reply_to_user_id": "1728495125976715264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917335254081142855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wehavepaper @CDTChinese 不是最后一次，你太乐观了，二十一世纪才刚过去四分之一，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1917314811848729050",
+        "created_at": "2025-04-30T17:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-30T18:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917627657774325874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1728495125976715264",
+              "start": 0,
+              "username": "wehavepaper"
+            },
+            {
+              "end": 24,
+              "id": "85875473",
+              "start": 13,
+              "username": "CDTChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917627657774325874",
+        "in_reply_to_user_id": "1728495125976715264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917335254081142855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wehavepaper @CDTChinese 不是最后一次，你太乐观了，二十一世纪才刚过去四分之一，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728495125976715264",
+        "conversation_id": "1917314811848729050",
+        "created_at": "2025-04-29T21:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T22:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917335254081142855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "85875473",
+              "start": 0,
+              "username": "CDTChinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917335254081142855",
+        "in_reply_to_user_id": "85875473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1512,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917314811848729050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CDTChinese 數字防火牆隔離的不是信息，是21世紀里最後一次權力的傲慢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 272,
+          "like_count": 21187,
+          "listed_count": 9,
+          "media_count": 2,
+          "tweet_count": 469
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T19:25:39.000Z",
+        "description": "刀下留人，我有天子手諭—- 👇奉天承運，皇帝昭日：朕命兒等奉紙翻牆出海，所見所聞務必詳實記錄以正國綱，茲事diǎo大不得有誤，欽此。👆🏻",
+        "id": "1728495125976715264",
+        "location": "New York, NY",
+        "name": "WeAreBlankPaper",
+        "pinned_tweet_id": "1883713529242599670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738164714780200960/XEB8h7AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 151,
+          "like_count": 13,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 3582
+        },
+        "username": "wehavepaper",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-28T18:13:55.000Z",
+        "description": "中国数字时代（China Digital Times, CDT）中文官方推特账号。英文账号：@CDT\n中国数字时代致力于记录和传播中文互联网上被审查的信息，以及人们对抗政治压迫的努力。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 46,
+                "username": "CDT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chinadigitaltimes.net/chinese",
+                "end": 23,
+                "expanded_url": "http://chinadigitaltimes.net/chinese",
+                "start": 0,
+                "url": "https://t.co/cgrUsoAzt6"
+              }
+            ]
+          }
+        },
+        "id": "85875473",
+        "location": "UC Berkeley",
+        "name": "中国数字时代",
+        "pinned_tweet_id": "1889156016102883428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908214613268979714/I_g6EdE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410556,
+          "following_count": 291,
+          "like_count": 104,
+          "listed_count": 1784,
+          "media_count": 4207,
+          "tweet_count": 64115
+        },
+        "url": "https://t.co/cgrUsoAzt6",
+        "username": "CDTChinese",
+        "verified": true
+      }
+    ]
+  }
+}

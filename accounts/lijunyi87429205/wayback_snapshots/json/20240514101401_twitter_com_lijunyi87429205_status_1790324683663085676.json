@@ -1,0 +1,246 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1773732904578748416"
+      ],
+      "media_source_tweet_id": [
+        "1773732996983513565"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1790324683663085676",
+    "created_at": "2024-05-14T10:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T11:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790324683663085676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1256674396598460416",
+          "start": 3,
+          "username": "KotetsuToooChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/08vfq9JxYx",
+          "end": 61,
+          "expanded_url": "https://twitter.com/Enezator/status/1773732996983513565/video/1",
+          "media_key": "13_1773732904578748416",
+          "start": 38,
+          "url": "https://t.co/08vfq9JxYx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790324683663085676",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2906
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789989619578081448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KotetsuToooChan: ボルトナットは餌だったのかww\n https://t.co/08vfq9JxYx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11400,
+        "height": 1280,
+        "media_key": "13_1773732904578748416",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1773732904578748416/img/GU5Oju6At3pTxu5q.jpg",
+        "public_metrics": {
+          "view_count": 4214340
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1773732904578748416/vid/avc1/320x568/oECP_RbOhL0t90iZ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1773732904578748416/vid/avc1/480x852/GFBVBm1Y64HGbWYu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1773732904578748416/vid/avc1/720x1280/UBkKA9P0J7oxJk4U.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1773732904578748416/pl/nzH2hNGpKQZRjRST.m3u8?tag=14&container=cmaf"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1773732904578748416"
+          ],
+          "media_source_tweet_id": [
+            "1773732996983513565"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1790324683663085676",
+        "created_at": "2024-05-14T10:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790324683663085676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1256674396598460416",
+              "start": 3,
+              "username": "KotetsuToooChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/08vfq9JxYx",
+              "end": 61,
+              "expanded_url": "https://twitter.com/Enezator/status/1773732996983513565/video/1",
+              "media_key": "13_1773732904578748416",
+              "start": 38,
+              "url": "https://t.co/08vfq9JxYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790324683663085676",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2906
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789989619578081448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KotetsuToooChan: ボルトナットは餌だったのかww\n https://t.co/08vfq9JxYx"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1773732904578748416"
+          ],
+          "media_source_tweet_id": [
+            "1773732996983513565"
+          ]
+        },
+        "author_id": "1256674396598460416",
+        "conversation_id": "1789989619578081448",
+        "created_at": "2024-05-13T12:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T13:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789989619578081448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/08vfq9JxYx",
+              "end": 40,
+              "expanded_url": "https://twitter.com/Enezator/status/1773732996983513565/video/1",
+              "media_key": "13_1773732904578748416",
+              "start": 17,
+              "url": "https://t.co/08vfq9JxYx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789989619578081448",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 967,
+          "impression_count": 2240035,
+          "like_count": 15062,
+          "quote_count": 115,
+          "reply_count": 62,
+          "retweet_count": 2906
+        },
+        "reply_settings": "everyone",
+        "text": "ボルトナットは餌だったのかww\n https://t.co/08vfq9JxYx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 215,
+          "like_count": 7516,
+          "listed_count": 46,
+          "tweet_count": 217
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-02T19:59:19.000Z",
+        "description": "自動車整備士👨‍🔧 一日中大喜利の事考えてます😗",
+        "id": "1256674396598460416",
+        "name": "こてつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754153102780059649/eoDbL_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4705,
+          "following_count": 353,
+          "like_count": 70879,
+          "listed_count": 5,
+          "tweet_count": 1740
+        },
+        "username": "KotetsuToooChan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1985372308962255295",
+    "created_at": "2025-11-03T17:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T18:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985396291636240469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954601288462979072",
+          "start": 0,
+          "username": "cut33guy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985396291636240469",
+    "in_reply_to_user_id": "1954601288462979072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985372308962255295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cut33guy 简单的说，是否就是“自洽地活着”？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985372308962255295].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985372308962255295",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985372308962255295"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1985372308962255295",
+        "created_at": "2025-11-03T17:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T18:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985396291636240469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954601288462979072",
+              "start": 0,
+              "username": "cut33guy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985396291636240469",
+        "in_reply_to_user_id": "1954601288462979072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985372308962255295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cut33guy 简单的说，是否就是“自洽地活着”？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 376,
+          "like_count": 39126,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 773
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:50:50.000Z",
+        "description": "",
+        "id": "1954601288462979072",
+        "name": "想哭就对了你生来就是流眼泪的",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983216891213520896/voclN-Du_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "username": "cut33guy",
+        "verified": false
+      }
+    ]
+  }
+}

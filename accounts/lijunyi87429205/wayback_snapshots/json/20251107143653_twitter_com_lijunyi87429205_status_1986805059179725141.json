@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1986784162800357879",
+    "created_at": "2025-11-07T14:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T15:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986805059179725141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1239457591417171973",
+          "start": 0,
+          "username": "GFWfrog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986805059179725141",
+    "in_reply_to_user_id": "1239457591417171973",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986784162800357879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GFWfrog 使用，培养低素质人口充当执法人员一向是极权，威权政府的习惯，执行命令无顾虑，道德底线灵活，崇拜权力，对于当权者，非常好使唤。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1986784159621054464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J5qq-WAAAVMfF.jpg",
+        "width": 153
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1986784159763681280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J5qrgWUAA3jna.jpg",
+        "width": 131
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1986784160376037376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J5qtyWIAAPatL.jpg",
+        "width": 200
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1986784160866824193",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5J5qvnW8AErNcr.jpg",
+        "width": 265
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1986784162800357879",
+        "created_at": "2025-11-07T14:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T15:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986805059179725141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1239457591417171973",
+              "start": 0,
+              "username": "GFWfrog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986805059179725141",
+        "in_reply_to_user_id": "1239457591417171973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986784162800357879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GFWfrog 使用，培养低素质人口充当执法人员一向是极权，威权政府的习惯，执行命令无顾虑，道德底线灵活，崇拜权力，对于当权者，非常好使唤。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986784159621054464",
+            "3_1986784159763681280",
+            "3_1986784160376037376",
+            "3_1986784160866824193"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1986784162800357879",
+        "created_at": "2025-11-07T13:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986784162800357879"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1v9SNYZIS6",
+              "end": 135,
+              "expanded_url": "https://x.com/GFWfrog/status/1986784162800357879/photo/1",
+              "media_key": "3_1986784159621054464",
+              "start": 112,
+              "url": "https://t.co/1v9SNYZIS6"
+            },
+            {
+              "display_url": "pic.x.com/1v9SNYZIS6",
+              "end": 135,
+              "expanded_url": "https://x.com/GFWfrog/status/1986784162800357879/photo/1",
+              "media_key": "3_1986784159763681280",
+              "start": 112,
+              "url": "https://t.co/1v9SNYZIS6"
+            },
+            {
+              "display_url": "pic.x.com/1v9SNYZIS6",
+              "end": 135,
+              "expanded_url": "https://x.com/GFWfrog/status/1986784162800357879/photo/1",
+              "media_key": "3_1986784160376037376",
+              "start": 112,
+              "url": "https://t.co/1v9SNYZIS6"
+            },
+            {
+              "display_url": "pic.x.com/1v9SNYZIS6",
+              "end": 135,
+              "expanded_url": "https://x.com/GFWfrog/status/1986784162800357879/photo/1",
+              "media_key": "3_1986784160866824193",
+              "start": 112,
+              "url": "https://t.co/1v9SNYZIS6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986784162800357879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "匿名投稿：曝光一下公安大学这所公安部高级警官学院，被誉为“共和国高级警官的摇篮”、“警中清华”的学生素质是怎样的？公安大学都培育了怎样的学生？通过以下内容也可以解释为什么如今中国警察的素质都如此低下、言行粗鲁蛮横嚣张等等。\n最初我是看到那篇关于“公安大学学生佩戴黑色国旗疑似反党反国家”的帖子后，我很震惊，因为公安大学毕竟是公安部最高级别的警官学校，代表中国警察学校的门面，学校师生纪律性都很高，学校在2019年还提出过“三严一看齐”的准军事化标准，但是通过后来疫情期间的白纸革命，公安大学被曝出有老师教学生如何对抗镇暴警察，以及前段时间公安大学学生佩戴黑色国旗事件，我对这所学校的校风校纪产生疑虑。\n我打开了公安大学的百度贴吧，发现每天都有一大堆学生在贴吧诉苦吐槽，有学生曝光在教室宿舍等公共场所乱丢垃圾的、有随地大小便的、吃饭逃单的、公共洗衣机洗脏袜脏内裤的等等，而且学校发生学生偷盗行窃的事件非常多，其中主要以学生偷外卖、偷雨伞、偷衣服的帖子占比量最多，看样子是学校从来不管。最令人诧异的是有学生爆料在今年九一八纪念日的当天晚上，学校的文化广场居然有组织庆祝联欢会的活动。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5460,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "匿名投稿：曝光一下公安大学这所公安部高级警官学院，被誉为“共和国高级警官的摇篮”、“警中清华”的学生素质是怎样的？公安大学都培育了怎样的学生？通过以下内容也可以解释为什么如今中国警察的素质都如此低下、言行粗鲁蛮横嚣张等等。 https://t.co/1v9SNYZIS6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 381,
+          "like_count": 39499,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 782
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "是墙国蛙蛤蛤不是墙国娃哈哈🐸\n欢迎私信投稿\n\nTg群：https://t.co/BbAyHfnObj\n频道：https://t.co/Evu48wmwfT\n\n#大自爆运动 ：党政机关、国企、互联网大厂……无论在哪工作，欢迎一切有关审查机器与极权系统运作的投稿，用真实击败独裁！\n\n邮箱：gfwfrog@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 79,
+                "tag": "大自爆运动"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 50,
+                "expanded_url": "https://t.me/SpeedUpCN",
+                "start": 27,
+                "url": "https://t.co/BbAyHfnObj"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 77,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 54,
+                "url": "https://t.co/Evu48wmwfT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85idW"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "location": "墙国",
+        "name": "墙国蛙蛤蛤🐸（大自爆运动💣习近乎脑残粉🐻）",
+        "pinned_tweet_id": "1986441912732061749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976883150937579520/e0qViSb7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249987,
+          "following_count": 1900,
+          "like_count": 99955,
+          "listed_count": 851,
+          "media_count": 5652,
+          "tweet_count": 10120
+        },
+        "url": "https://t.co/B3cyU85idW",
+        "username": "GFWfrog",
+        "verified": true
+      }
+    ]
+  }
+}

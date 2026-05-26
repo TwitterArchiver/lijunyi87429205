@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1944707595878687035",
+    "created_at": "2025-07-15T16:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T17:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945160911800430790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1382263864033644548",
+          "start": 0,
+          "username": "commiepommie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945160911800430790",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945160353525998051",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@commiepommie 住房？谈谈平民分配不到的廉租房吧，或者花了钱也拿不到手的烂尾楼，破产的银行储户被政府抓捕镇压。公开表达意见的人被“人间蒸发”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1944707595878687035",
+        "created_at": "2025-07-15T16:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T17:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945160911800430790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1382263864033644548",
+              "start": 0,
+              "username": "commiepommie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945160911800430790",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945160353525998051",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@commiepommie 住房？谈谈平民分配不到的廉租房吧，或者花了钱也拿不到手的烂尾楼，破产的银行储户被政府抓捕镇压。公开表达意见的人被“人间蒸发”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1944707595878687035",
+        "created_at": "2025-07-15T16:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T17:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945160353525998051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1382263864033644548",
+              "start": 0,
+              "username": "commiepommie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945160353525998051",
+        "in_reply_to_user_id": "1382263864033644548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944707595878687035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@commiepommie 你列出的廉价服务建立于廉价人口的牺牲上，你对税务的描述是一种可以瞒过局外人的断章取义。我不会尝试用。是的，中国的发展巨大，但代价也同样惨烈，是的，我很了解中国，而你也是，但是你这没有灵魂的东西宁愿为了钱而说谎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 311,
+          "like_count": 27985,
+          "listed_count": 8,
+          "media_count": 7,
+          "tweet_count": 494
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-14T09:26:23.000Z",
+        "description": "British-Australian living in China 🇨🇳 | Geopolitical Analyst | Published Writer | Showing You The Real China!\n\nRead more below 👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/commiepommie",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/commiepommie",
+                "start": 0,
+                "url": "https://t.co/0KWdPcJbUM"
+              }
+            ]
+          }
+        },
+        "id": "1382263864033644548",
+        "location": "People's Republic of China",
+        "name": "James Wood 武杰士",
+        "pinned_tweet_id": "1859433651341307956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900565858889670656/UE3kyqC5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21006,
+          "following_count": 423,
+          "like_count": 6893,
+          "listed_count": 143,
+          "media_count": 1073,
+          "tweet_count": 9009
+        },
+        "url": "https://t.co/0KWdPcJbUM",
+        "username": "commiepommie",
+        "verified": true
+      }
+    ]
+  }
+}

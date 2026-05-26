@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1971215704880971945",
+    "created_at": "2025-10-10T03:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T04:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976486043760328894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1347140950095613953",
+          "start": 0,
+          "username": "nejamais1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976486043760328894",
+    "in_reply_to_user_id": "1347140950095613953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976483157420671140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nejamais1 是的，午夜盛放，不知道该说张扬还是内敛了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1971215704880971945",
+        "created_at": "2025-10-10T03:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976486043760328894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1347140950095613953",
+              "start": 0,
+              "username": "nejamais1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976486043760328894",
+        "in_reply_to_user_id": "1347140950095613953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976483157420671140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nejamais1 是的，午夜盛放，不知道该说张扬还是内敛了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1347140950095613953",
+        "conversation_id": "1971215704880971945",
+        "created_at": "2025-10-10T03:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T04:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976483157420671140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976483157420671140",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971215704880971945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 我靠真的好好看昙花一现是真的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 356,
+          "like_count": 36760,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 704
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-07T11:22:13.000Z",
+        "description": "男的 | 可以叫我小天 | 水仙 | 钱性恋 | 无性恋",
+        "id": "1347140950095613953",
+        "name": "Polarstern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896590731726528512/1xlvoAx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 326,
+          "like_count": 8576,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 7002
+        },
+        "username": "nejamais1",
+        "verified": false
+      }
+    ]
+  }
+}

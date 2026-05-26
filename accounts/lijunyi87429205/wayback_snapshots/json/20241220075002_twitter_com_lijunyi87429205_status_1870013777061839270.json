@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1869990510796124468",
+    "created_at": "2024-12-20T07:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T08:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870013777061839270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2884454012",
+          "start": 0,
+          "username": "clamber100"
+        },
+        {
+          "end": 27,
+          "id": "44186175",
+          "start": 12,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870013777061839270",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870010102335582608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@clamber100 @xiaojingcanxue 指正，“情色小说”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1869990510796124468",
+        "created_at": "2024-12-20T07:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T08:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870013777061839270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2884454012",
+              "start": 0,
+              "username": "clamber100"
+            },
+            {
+              "end": 27,
+              "id": "44186175",
+              "start": 12,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870013777061839270",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870010102335582608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clamber100 @xiaojingcanxue 指正，“情色小说”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1869990510796124468",
+        "created_at": "2024-12-20T07:35:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T08:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870010102335582608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2884454012",
+              "start": 0,
+              "username": "clamber100"
+            },
+            {
+              "end": 27,
+              "id": "44186175",
+              "start": 12,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870010102335582608",
+        "in_reply_to_user_id": "2884454012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870005654020349952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@clamber100 @xiaojingcanxue 所以写小说和抢劫性质相同，老共是会攀扯的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 291,
+          "like_count": 17178,
+          "listed_count": 42,
+          "media_count": 2,
+          "tweet_count": 452
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-31T06:28:52.000Z",
+        "description": "",
+        "id": "2884454012",
+        "location": "California, USA",
+        "name": "rush&run",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1177203474347393025/oMDy3Ukh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 839,
+          "like_count": 11554,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 17854
+        },
+        "username": "clamber100",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中国新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226525,
+          "following_count": 1844,
+          "like_count": 190,
+          "listed_count": 1183,
+          "media_count": 23499,
+          "tweet_count": 30433
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

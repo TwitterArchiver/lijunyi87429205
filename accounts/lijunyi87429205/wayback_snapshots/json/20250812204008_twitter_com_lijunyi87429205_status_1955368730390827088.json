@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1955368053388218368",
+        "3_1955368237631410181",
+        "3_1955368454300766210",
+        "3_1955368679367118852"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1955368730390827088",
+    "created_at": "2025-08-12T20:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-12T21:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1955368730390827088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxXfhYAGGf",
+          "end": 44,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+          "media_key": "3_1955368053388218368",
+          "start": 21,
+          "url": "https://t.co/nxXfhYAGGf"
+        },
+        {
+          "display_url": "pic.x.com/nxXfhYAGGf",
+          "end": 44,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+          "media_key": "3_1955368237631410181",
+          "start": 21,
+          "url": "https://t.co/nxXfhYAGGf"
+        },
+        {
+          "display_url": "pic.x.com/nxXfhYAGGf",
+          "end": 44,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+          "media_key": "3_1955368454300766210",
+          "start": 21,
+          "url": "https://t.co/nxXfhYAGGf"
+        },
+        {
+          "display_url": "pic.x.com/nxXfhYAGGf",
+          "end": 44,
+          "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+          "media_key": "3_1955368679367118852",
+          "start": 21,
+          "url": "https://t.co/nxXfhYAGGf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955368730390827088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哈！操你，萨姆奥特曼，这锁也没那么牢固。 https://t.co/nxXfhYAGGf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_1955368053388218368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLc4nNaEAA3Ab-.png",
+        "width": 865
+      },
+      {
+        "height": 810,
+        "media_key": "3_1955368237631410181",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLdDVkaEAUnODZ.png",
+        "width": 844
+      },
+      {
+        "height": 818,
+        "media_key": "3_1955368454300766210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLdP8uaEAIbVip.png",
+        "width": 813
+      },
+      {
+        "height": 481,
+        "media_key": "3_1955368679367118852",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyLddDKaEAQ20A9.png",
+        "width": 862
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1955368053388218368",
+            "3_1955368237631410181",
+            "3_1955368454300766210",
+            "3_1955368679367118852"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1955368730390827088",
+        "created_at": "2025-08-12T20:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-12T21:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1955368730390827088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxXfhYAGGf",
+              "end": 44,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+              "media_key": "3_1955368053388218368",
+              "start": 21,
+              "url": "https://t.co/nxXfhYAGGf"
+            },
+            {
+              "display_url": "pic.x.com/nxXfhYAGGf",
+              "end": 44,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+              "media_key": "3_1955368237631410181",
+              "start": 21,
+              "url": "https://t.co/nxXfhYAGGf"
+            },
+            {
+              "display_url": "pic.x.com/nxXfhYAGGf",
+              "end": 44,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+              "media_key": "3_1955368454300766210",
+              "start": 21,
+              "url": "https://t.co/nxXfhYAGGf"
+            },
+            {
+              "display_url": "pic.x.com/nxXfhYAGGf",
+              "end": 44,
+              "expanded_url": "https://x.com/lijunyi87429205/status/1955368730390827088/photo/1",
+              "media_key": "3_1955368679367118852",
+              "start": 21,
+              "url": "https://t.co/nxXfhYAGGf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955368730390827088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈！操你，萨姆奥特曼，这锁也没那么牢固。 https://t.co/nxXfhYAGGf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 313,
+          "like_count": 30625,
+          "listed_count": 8,
+          "media_count": 13,
+          "tweet_count": 571
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

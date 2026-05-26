@@ -1,0 +1,231 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1790326892744351983",
+    "created_at": "2024-05-14T13:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T14:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790380387312820306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3083393993",
+          "start": 0,
+          "username": "lemonRedtea123"
+        },
+        {
+          "end": 27,
+          "id": "791197",
+          "start": 16,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790380387312820306",
+    "in_reply_to_user_id": "3083393993",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790329765758632176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lemonRedtea123 @bbcchinese 这可能真的会救到某个绝望饥饿者的命"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1790326892744351983",
+        "created_at": "2024-05-14T13:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T14:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790380387312820306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3083393993",
+              "start": 0,
+              "username": "lemonRedtea123"
+            },
+            {
+              "end": 27,
+              "id": "791197",
+              "start": 16,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790380387312820306",
+        "in_reply_to_user_id": "3083393993",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790329765758632176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lemonRedtea123 @bbcchinese 这可能真的会救到某个绝望饥饿者的命"
+      },
+      {
+        "attachments": {},
+        "author_id": "3083393993",
+        "conversation_id": "1790326892744351983",
+        "created_at": "2024-05-14T10:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T11:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790329765758632176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790329765758632176",
+        "in_reply_to_user_id": "791197",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4696,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790326892744351983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese 挺感动的。普通人做一些力所能及帮助别人的事情。比整天在网上喊打喊杀要强不知道哪里去了。ps给大叔一个建议，最好用可降解的瓶子，毕竟瑞典环保女孩还有三分钟抵达韩国。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 216,
+          "like_count": 7535,
+          "listed_count": 46,
+          "tweet_count": 220
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-10T07:18:02.000Z",
+        "description": "",
+        "id": "3083393993",
+        "name": "柠檬红茶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/915631602247491585/0_c9_5hF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 139,
+          "like_count": 730,
+          "listed_count": 0,
+          "tweet_count": 256
+        },
+        "username": "lemonRedtea123",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3995593,
+          "following_count": 73,
+          "like_count": 59,
+          "listed_count": 11368,
+          "tweet_count": 150443
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

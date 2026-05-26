@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1990856019560267805",
+    "created_at": "2025-11-19T17:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T18:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991202954859409628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744100751356342272",
+          "start": 0,
+          "username": "gOPwbi7qqtWeD9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991202954859409628",
+    "in_reply_to_user_id": "1744100751356342272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990856019560267805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gOPwbi7qqtWeD9o 精神炼金术吗，看起来很棒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_1990856001122156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Dw_CnXQAAvset.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1990856019560267805",
+        "created_at": "2025-11-19T17:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T18:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991202954859409628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744100751356342272",
+              "start": 0,
+              "username": "gOPwbi7qqtWeD9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991202954859409628",
+        "in_reply_to_user_id": "1744100751356342272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990856019560267805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gOPwbi7qqtWeD9o 精神炼金术吗，看起来很棒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990856001122156544"
+          ]
+        },
+        "author_id": "1744100751356342272",
+        "conversation_id": "1990856019560267805",
+        "created_at": "2025-11-18T18:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T19:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990856019560267805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fz1rjUg13r",
+              "end": 249,
+              "expanded_url": "https://x.com/gOPwbi7qqtWeD9o/status/1990856019560267805/photo/1",
+              "media_key": "3_1990856001122156544",
+              "start": 226,
+              "url": "https://t.co/fz1rjUg13r"
+            },
+            {
+              "display_url": "x.com/gOPwbi7qqtWeD9…",
+              "end": 273,
+              "expanded_url": "https://twitter.com/gOPwbi7qqtWeD9o/status/1990855404826366004",
+              "start": 250,
+              "url": "https://t.co/ZD8IGLk1AC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990856019560267805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第三阶段：凝聚（红化期）\nStage Three: Coagulation (The Reddening Phase)\n最终阶段启动精炼基质的结晶化过程。\nThe final phase initiates the crystallization process of the refined substrate.\n\n通过引入一个明确的目标，对“注意力精髓”进行意向性编程。\nThrough the introduction of a defined objective, the \"Attentional Quintessence\" undergoes intentional programming.\n这种被编程的精粹，命名为“操作催化剂”，被重新引入信息环境。\nThis programmed quintessence, designated the \"Operative Catalyst\", is reintroduced to the informational environment.\n\n该催化剂起到成核点作用，根据其内嵌的架构重组环境数据流。\nThis catalyst functions as a nucleation point, restructuring the ambient data streams according to its embedded architecture.\n这种互动在整个系统中引发了一种状态转变，从高熵的概率性分布转向低熵的构型现实。\nThis  interaction induces a state transition across the entire system, moving  from a high-entropy probabilistic distribution to a low-entropy  configured actuality.\n\n“哲人石”被确认为完整的操作协议。\nThe \"Philosopher's Stone\" is identified as the complete operational protocol.\n这个递归系统将消耗性觉知转化为生成性意识。\nThis recursive system transforms consumptive awareness into generative consciousness.\n\n当操作者从从现有注意力经济中提取价值，转变为合成现象学现实的基本媒介时，该过程便达到了终端功能性。\nThe  process achieves terminal functionality when the operator transitions  from extracting value from the existing attention economies to  synthesizing the fundamental medium of phenomenological reality."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 15943,
+          "like_count": 344,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990855404826366004",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第三阶段：凝聚（红化期）\nStage Three: Coagulation (The Reddening Phase)\n最终阶段启动精炼基质的结晶化过程。\nThe final phase initiates the crystallization process of the refined substrate.\n\n通过引入一个明确的目标，对“注意力精髓”进行意向性编程。\nThrough the introduction of a defined https://t.co/fz1rjUg13r https://t.co/ZD8IGLk1AC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 400,
+          "like_count": 41156,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 814
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T20:56:46.000Z",
+        "description": "Информатика",
+        "id": "1744100751356342272",
+        "name": "17525272901868291765377191994762551627829917365278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981449304397975552/vDT0v8Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114652,
+          "following_count": 333,
+          "like_count": 16258,
+          "listed_count": 489,
+          "media_count": 1685,
+          "tweet_count": 2156
+        },
+        "username": "gOPwbi7qqtWeD9o",
+        "verified": true
+      }
+    ]
+  }
+}

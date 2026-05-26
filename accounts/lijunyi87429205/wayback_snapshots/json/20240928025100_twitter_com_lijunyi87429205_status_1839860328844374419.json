@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1839566147257250123",
+    "created_at": "2024-09-28T02:51:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-28T03:51:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839860328844374419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474609100621180933",
+          "start": 0,
+          "username": "deer_knight1"
+        },
+        {
+          "end": 29,
+          "id": "1058609497088782336",
+          "start": 14,
+          "username": "Signalman_Free"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839860328844374419",
+    "in_reply_to_user_id": "1474609100621180933",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839595296583827650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deer_knight1 @Signalman_Free 这是中国特色朝贡体系，剥削的是基本盘，爽撒币精神满足的是贵族。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1839566147257250123",
+        "created_at": "2024-09-28T02:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-28T03:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839860328844374419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474609100621180933",
+              "start": 0,
+              "username": "deer_knight1"
+            },
+            {
+              "end": 29,
+              "id": "1058609497088782336",
+              "start": 14,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839860328844374419",
+        "in_reply_to_user_id": "1474609100621180933",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839595296583827650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deer_knight1 @Signalman_Free 这是中国特色朝贡体系，剥削的是基本盘，爽撒币精神满足的是贵族。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474609100621180933",
+        "conversation_id": "1839566147257250123",
+        "created_at": "2024-09-27T09:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T10:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839595296583827650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058609497088782336",
+              "start": 0,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839595296583827650",
+        "in_reply_to_user_id": "1058609497088782336",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 743,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839566147257250123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Signalman_Free 笑死，宗主国剥削自己给殖民地上贡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 278,
+          "like_count": 14029,
+          "listed_count": 43,
+          "tweet_count": 421
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-25T05:13:45.000Z",
+        "description": "哞/能够在患有痴呆症情况下通关推特",
+        "id": "1474609100621180933",
+        "location": "中国 湖北 宜昌",
+        "name": "鹿鹿鹿角🦌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803151886171951105/X_RcrqjQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 838,
+          "following_count": 1279,
+          "like_count": 60319,
+          "listed_count": 9,
+          "tweet_count": 8322
+        },
+        "username": "deer_knight1",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:39:06.000Z",
+        "description": "在这个形态下的信号侠拥有在即将通过十字路口时将信号灯转化为红灯的能力。これこそ吾輩の全力、行くぞ、モードチェンジ、フルー赤信号モード！",
+        "id": "1058609497088782336",
+        "location": "信号星",
+        "name": "信号侠-完全红灯形态",
+        "pinned_tweet_id": "1839471794564333954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751552833974128640/wke_hItg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 112,
+          "like_count": 4965,
+          "listed_count": 1,
+          "tweet_count": 7551
+        },
+        "username": "Signalman_Free",
+        "verified": false
+      }
+    ]
+  }
+}

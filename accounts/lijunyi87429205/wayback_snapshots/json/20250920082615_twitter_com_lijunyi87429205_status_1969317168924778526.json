@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1969010584529379787",
+    "created_at": "2025-09-20T08:26:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T09:26:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969317168924778526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1921912177826664448",
+          "start": 0,
+          "username": "COW1911"
+        },
+        {
+          "end": 19,
+          "id": "716946582696960000",
+          "start": 9,
+          "username": "Chris3Nie"
+        },
+        {
+          "end": 29,
+          "id": "1527472904543272963",
+          "start": 20,
+          "username": "bz678345"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969317168924778526",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969316987474952480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@COW1911 @Chris3Nie @bz678345 他们的行为已经成为了一种文化现象了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1969010584529379787",
+        "created_at": "2025-09-20T08:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T09:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969317168924778526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921912177826664448",
+              "start": 0,
+              "username": "COW1911"
+            },
+            {
+              "end": 19,
+              "id": "716946582696960000",
+              "start": 9,
+              "username": "Chris3Nie"
+            },
+            {
+              "end": 29,
+              "id": "1527472904543272963",
+              "start": 20,
+              "username": "bz678345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969317168924778526",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969316987474952480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@COW1911 @Chris3Nie @bz678345 他们的行为已经成为了一种文化现象了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1969010584529379787",
+        "created_at": "2025-09-20T08:25:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T09:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969316987474952480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1921912177826664448",
+              "start": 0,
+              "username": "COW1911"
+            },
+            {
+              "end": 19,
+              "id": "716946582696960000",
+              "start": 9,
+              "username": "Chris3Nie"
+            },
+            {
+              "end": 29,
+              "id": "1527472904543272963",
+              "start": 20,
+              "username": "bz678345"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969316987474952480",
+        "in_reply_to_user_id": "1921912177826664448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969290003403383143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@COW1911 @Chris3Nie @bz678345 破坏本身可以去宗教色彩，掠夺可以只和欲望挂钩，圣像破坏当然是有“主义倾向”的。但如果突然出现一帮人融化教堂的座钟，而他们的行为只是因为钟本身的青铜有价值，这显然不是一种“文化现象”。我也大概理解你的观点，文化大革命或者本身不是文化，但当下那时代遗留的红卫兵还在重复那些仪式。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 349,
+          "like_count": 35002,
+          "listed_count": 8,
+          "media_count": 17,
+          "tweet_count": 648
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T12:55:55.000Z",
+        "description": "Small Cow",
+        "id": "1921912177826664448",
+        "location": "Stamford Rd, Singapore",
+        "name": "COW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921912458874384386/QIQdsbcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 16,
+          "like_count": 430,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 94
+        },
+        "username": "COW1911",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-04T11:12:40.000Z",
+        "description": ".",
+        "id": "716946582696960000",
+        "location": "Indonesia",
+        "name": "Baggins",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1412772194573328386/35WjRGbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 292,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "Chris3Nie",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T02:16:11.000Z",
+        "description": "传播真相，匡扶正义良知。\n解体中共,   回归中华传统。\n中共不等于中国，爱国不等于爱党。\n支持罗斯福提出的四大自由：言论自由、信仰自由、免于匮乏的自由、免于恐惧的自由。\n今天你不为自由发声，明天又有谁为你发声？",
+        "id": "1527472904543272963",
+        "name": "班昭姐姐",
+        "pinned_tweet_id": "1570065543096303617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535978417006465026/UX8Ng5Hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113794,
+          "following_count": 64,
+          "like_count": 56919,
+          "listed_count": 295,
+          "media_count": 15557,
+          "tweet_count": 20577
+        },
+        "username": "bz678345",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1998686645348868454",
+    "created_at": "2025-12-10T11:25:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T12:25:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998715731693940946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954601288462979072",
+          "start": 0,
+          "username": "cut33guy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998715731693940946",
+    "in_reply_to_user_id": "1954601288462979072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998686645348868454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cut33guy 新世代里探索欲和求知欲差一点的群体，他们的社会化程度，情商，品味都被短视频显著降低了。最廉价的奶头乐。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1998686645348868454",
+        "created_at": "2025-12-10T11:25:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T12:25:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998715731693940946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954601288462979072",
+              "start": 0,
+              "username": "cut33guy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998715731693940946",
+        "in_reply_to_user_id": "1954601288462979072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998686645348868454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cut33guy 新世代里探索欲和求知欲差一点的群体，他们的社会化程度，情商，品味都被短视频显著降低了。最廉价的奶头乐。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601288462979072",
+        "conversation_id": "1998686645348868454",
+        "created_at": "2025-12-10T09:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T10:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998686645348868454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998686645348868454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为抖音害了全人类"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 409,
+          "like_count": 45223,
+          "listed_count": 8,
+          "media_count": 24,
+          "tweet_count": 876
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:50:50.000Z",
+        "description": "无受众 纯自嗨 ｜弧长",
+        "id": "1954601288462979072",
+        "name": "萌家伙",
+        "pinned_tweet_id": "1986293610216599762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983216891213520896/voclN-Du_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 1,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 255
+        },
+        "username": "cut33guy",
+        "verified": false
+      }
+    ]
+  }
+}
