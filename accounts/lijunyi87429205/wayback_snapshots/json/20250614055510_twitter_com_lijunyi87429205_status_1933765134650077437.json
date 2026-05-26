@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1932995760641187840"
+      ],
+      "media_source_tweet_id": [
+        "1933721058106093678"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933765134650077437",
+    "created_at": "2025-06-14T05:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T06:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933765134650077437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "238197108",
+          "start": 3,
+          "username": "gensho_yasuda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RUwtj58nLj",
+          "end": 50,
+          "expanded_url": "https://x.com/gensho_yasuda/status/1933721058106093678/video/1",
+          "media_key": "13_1932995760641187840",
+          "start": 27,
+          "url": "https://t.co/RUwtj58nLj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933765134650077437",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 728
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933721058106093678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gensho_yasuda: 天使のごはん？ https://t.co/RUwtj58nLj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14250,
+        "height": 1280,
+        "media_key": "13_1932995760641187840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932995760641187840/img/Egic5tfKaexEIdKn.jpg",
+        "public_metrics": {
+          "view_count": 16018
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932995760641187840/vid/avc1/320x568/NPNz9vOpfj39Z3ln.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932995760641187840/vid/avc1/480x852/C1s7wSoJ4yqq_gpY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932995760641187840/vid/avc1/720x1280/ybAnHqjZup-ECBLD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932995760641187840/pl/a2yeQCORw73SH8S-.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932995760641187840"
+          ],
+          "media_source_tweet_id": [
+            "1933721058106093678"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933765134650077437",
+        "created_at": "2025-06-14T05:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T06:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933765134650077437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "238197108",
+              "start": 3,
+              "username": "gensho_yasuda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUwtj58nLj",
+              "end": 50,
+              "expanded_url": "https://x.com/gensho_yasuda/status/1933721058106093678/video/1",
+              "media_key": "13_1932995760641187840",
+              "start": 27,
+              "url": "https://t.co/RUwtj58nLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933765134650077437",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 728
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933721058106093678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gensho_yasuda: 天使のごはん？ https://t.co/RUwtj58nLj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932995760641187840"
+          ]
+        },
+        "author_id": "238197108",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933721058106093678",
+        "created_at": "2025-06-14T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933721058106093678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUwtj58nLj",
+              "end": 31,
+              "expanded_url": "https://x.com/gensho_yasuda/status/1933721058106093678/video/1",
+              "media_key": "13_1932995760641187840",
+              "start": 8,
+              "url": "https://t.co/RUwtj58nLj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933721058106093678",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 205,
+          "impression_count": 44992,
+          "like_count": 3176,
+          "quote_count": 8,
+          "reply_count": 42,
+          "retweet_count": 728
+        },
+        "reply_settings": "everyone",
+        "text": "天使のごはん？ https://t.co/RUwtj58nLj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 301,
+          "like_count": 25507,
+          "listed_count": 8,
+          "media_count": 3,
+          "tweet_count": 453
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2011-01-14T16:00:39.000Z",
+        "description": "自主制作ショートアニメは1人で作ってるよ！ツールはblender ご依頼はメールから！転載はダメ。Don't use my work. 　\nE-mail： yasudagensho@gmail.com　\nストア：https://t.co/Egj1wfTOnZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yasuda-gensho-store.com",
+                "end": 129,
+                "expanded_url": "https://yasuda-gensho-store.com/",
+                "start": 106,
+                "url": "https://t.co/Egj1wfTOnZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "make-a-girl.com",
+                "end": 23,
+                "expanded_url": "https://make-a-girl.com/",
+                "start": 0,
+                "url": "https://t.co/FdU0W84vdu"
+              }
+            ]
+          }
+        },
+        "id": "238197108",
+        "name": "安田現象",
+        "pinned_tweet_id": "1894945554855346214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1609779566410858497/2JP-_EKO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514508,
+          "following_count": 598,
+          "like_count": 25054,
+          "listed_count": 2560,
+          "media_count": 558,
+          "tweet_count": 13374
+        },
+        "url": "https://t.co/FdU0W84vdu",
+        "username": "gensho_yasuda",
+        "verified": true
+      }
+    ]
+  }
+}

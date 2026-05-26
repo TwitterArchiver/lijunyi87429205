@@ -1,0 +1,247 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1796072574939742208"
+      ],
+      "media_source_tweet_id": [
+        "1796072591117144501"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1796175325417869404",
+    "created_at": "2024-05-30T13:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-30T14:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796175325417869404"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "William-Adolphe Bouguereau",
+          "probability": 0.7968,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2749089730",
+          "start": 3,
+          "username": "artecstasyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/21jnh7CZwD",
+          "end": 82,
+          "expanded_url": "https://twitter.com/artecstasyy/status/1796072591117144501/photo/1",
+          "media_key": "3_1796072574939742208",
+          "start": 59,
+          "url": "https://t.co/21jnh7CZwD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796175325417869404",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796072591117144501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artecstasyy: William-Adolphe Bouguereau: Evening Mood. https://t.co/21jnh7CZwD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_1796072574939742208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOzufawawAAMVih.jpg",
+        "width": 698
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796072574939742208"
+          ],
+          "media_source_tweet_id": [
+            "1796072591117144501"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1796175325417869404",
+        "created_at": "2024-05-30T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796175325417869404"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "William-Adolphe Bouguereau",
+              "probability": 0.7968,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2749089730",
+              "start": 3,
+              "username": "artecstasyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/21jnh7CZwD",
+              "end": 82,
+              "expanded_url": "https://twitter.com/artecstasyy/status/1796072591117144501/photo/1",
+              "media_key": "3_1796072574939742208",
+              "start": 59,
+              "url": "https://t.co/21jnh7CZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796175325417869404",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796072591117144501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artecstasyy: William-Adolphe Bouguereau: Evening Mood. https://t.co/21jnh7CZwD"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1796072574939742208"
+          ]
+        },
+        "author_id": "2749089730",
+        "conversation_id": "1796072591117144501",
+        "created_at": "2024-05-30T06:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-30T07:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796072591117144501"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "William-Adolphe Bouguereau",
+              "probability": 0.857,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/21jnh7CZwD",
+              "end": 65,
+              "expanded_url": "https://twitter.com/artecstasyy/status/1796072591117144501/photo/1",
+              "media_key": "3_1796072574939742208",
+              "start": 42,
+              "url": "https://t.co/21jnh7CZwD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796072591117144501",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 5846,
+          "like_count": 498,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "William-Adolphe Bouguereau: Evening Mood. https://t.co/21jnh7CZwD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 241,
+          "like_count": 9288,
+          "listed_count": 46,
+          "tweet_count": 313
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-21T13:07:54.000Z",
+        "description": "___________🌻𝘼𝙧𝙩 𝙀𝙘𝙨𝙩𝙖𝙨𝙮🌻____________ 𝐴𝑟𝑡 𝑖𝑠 𝑛𝑒𝑣𝑒𝑟 𝑓𝑖𝑛𝑖𝑠𝒉𝑒𝑑, 𝑜𝑛𝑙𝑦 𝑎𝑏𝑎𝑛𝑑𝑜𝑛𝑒𝑑. 𝑄𝑢𝑎𝑙𝑖𝑡𝑦 𝑐𝑜𝑛𝑡𝑒𝑛𝑡.",
+        "id": "2749089730",
+        "name": "Art Ecstasy || Art History ✝️",
+        "pinned_tweet_id": "1795115313417126260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716443932593455104/Cwvm2xlz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 1695,
+          "like_count": 3192,
+          "listed_count": 34,
+          "tweet_count": 874
+        },
+        "username": "artecstasyy",
+        "verified": false
+      }
+    ]
+  }
+}

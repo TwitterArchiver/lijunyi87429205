@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2042881679036158281",
+    "created_at": "2026-04-11T08:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T09:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042881679036158281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1176077981099446272",
+          "start": 3,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042881679036158281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042874794333606160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yesmynamehaer1: 我能感知到大家细碎的痛苦在我的世界中凝结，那么近又那么远。雨天晴天轮转，总有潮湿存在。似乎有阳光透下窗口，这次放晴前我站到了窗前，用手接住风断断续续地送来的一些湿意。 天空的界线慢慢变得模糊，水汽弥漫出一整片阴沉的灰，路边的伞因为恐惧这份…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2042874773534052352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm_yG0akAAzxOJ.jpg",
+        "width": 720
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2042874776407150592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm_yRhakAA2CFL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 983,
+        "media_key": "3_2042874785940803585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm_y1CakAErJRU.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2042881679036158281",
+        "created_at": "2026-04-11T08:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042881679036158281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1176077981099446272",
+              "start": 3,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042881679036158281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042874794333606160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yesmynamehaer1: 我能感知到大家细碎的痛苦在我的世界中凝结，那么近又那么远。雨天晴天轮转，总有潮湿存在。似乎有阳光透下窗口，这次放晴前我站到了窗前，用手接住风断断续续地送来的一些湿意。 天空的界线慢慢变得模糊，水汽弥漫出一整片阴沉的灰，路边的伞因为恐惧这份…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042874773534052352",
+            "3_2042874776407150592",
+            "3_2042874785940803585"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2042874794333606160",
+        "created_at": "2026-04-11T07:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042874794333606160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PcJyZbUNkp",
+              "end": 165,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2042874794333606160/photo/1",
+              "media_key": "3_2042874773534052352",
+              "start": 142,
+              "url": "https://t.co/PcJyZbUNkp"
+            },
+            {
+              "display_url": "pic.x.com/PcJyZbUNkp",
+              "end": 165,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2042874794333606160/photo/1",
+              "media_key": "3_2042874776407150592",
+              "start": 142,
+              "url": "https://t.co/PcJyZbUNkp"
+            },
+            {
+              "display_url": "pic.x.com/PcJyZbUNkp",
+              "end": 165,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2042874794333606160/photo/1",
+              "media_key": "3_2042874785940803585",
+              "start": 142,
+              "url": "https://t.co/PcJyZbUNkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042874794333606160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我能感知到大家细碎的痛苦在我的世界中凝结，那么近又那么远。雨天晴天轮转，总有潮湿存在。似乎有阳光透下窗口，这次放晴前我站到了窗前，用手接住风断断续续地送来的一些湿意。 天空的界线慢慢变得模糊，水汽弥漫出一整片阴沉的灰，路边的伞因为恐惧这份阴湿一把一把撑开， 我恍然觉知竟又是一场雨。 https://t.co/PcJyZbUNkp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 377,
+          "like_count": 59816,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1444
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "我想",
+        "id": "1176077981099446272",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "1894651753678999699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 752,
+          "like_count": 31176,
+          "listed_count": 3,
+          "media_count": 81,
+          "tweet_count": 2873
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

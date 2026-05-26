@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2054929643841683744",
+    "created_at": "2026-05-14T14:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054938039705849859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054938039705849859",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054929643841683744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 也许狐有机会不只是把自己当作消耗品对待？无论是哪些方面的残缺，只要存在得够久，总有机会修补吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 543,
+        "media_key": "3_2054929640930803712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISTnvYaAAArLoN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2054929643841683744",
+        "created_at": "2026-05-14T14:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054938039705849859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054938039705849859",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054929643841683744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 也许狐有机会不只是把自己当作消耗品对待？无论是哪些方面的残缺，只要存在得够久，总有机会修补吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054929640930803712"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2054929643841683744",
+        "created_at": "2026-05-14T14:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054929643841683744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TmAPKXHikp",
+              "end": 140,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2054929643841683744/photo/1",
+              "media_key": "3_2054929640930803712",
+              "start": 117,
+              "url": "https://t.co/TmAPKXHikp"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2054911626684621090",
+              "start": 141,
+              "url": "https://t.co/FBVxr8DW0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054929643841683744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054911626684621090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "燃烧无意义的残陋生命\n以价值的创造，赋短暂岁月余创造的价值\n大概是狐在极致的虚无与平淡的绝望中给自己找到的一点目标吧...背负一些目光总会奇迹般地让人觉得自己的生命还没有那么轻贱\nFor every one on the LIST. https://t.co/TmAPKXHikp https://t.co/FBVxr8DW0m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 374,
+          "like_count": 64827,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 1887
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1519,
+          "like_count": 19073,
+          "listed_count": 7,
+          "media_count": 683,
+          "tweet_count": 6096
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

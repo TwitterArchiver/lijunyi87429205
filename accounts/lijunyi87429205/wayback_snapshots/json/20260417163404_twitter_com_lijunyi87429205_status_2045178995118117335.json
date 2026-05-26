@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2045176206228898148",
+    "created_at": "2026-04-17T16:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T17:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045178995118117335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045178995118117335",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045176206228898148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 请表达与发泄吧.无论多顽强的生物，只要还有灵魂，都是会有无法回避的痛苦的。（虽然不知道发生了什么，但是抱抱…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2045176206228898148",
+        "created_at": "2026-04-17T16:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045178995118117335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045178995118117335",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045176206228898148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 请表达与发泄吧.无论多顽强的生物，只要还有灵魂，都是会有无法回避的痛苦的。（虽然不知道发生了什么，但是抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2045176206228898148",
+        "created_at": "2026-04-17T16:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045176206228898148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045176206228898148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一直在绷\n告诉自己,这是符合逻辑的,是合理且正常的\n应该面无表情地接受它\n就当什么都没发生,然后平静地回到自己的生活里\n但是,失败了\n但是,真的哭出来,好像又轻松很多了\n似乎,很多年没哭过了,以至于快忘记了,自己还有这种功能\n已经习惯了用逻辑分析,换位思考,献祭式的的利他价值观,以及药物和烟草处理情绪与情感\n突然,被一件事击破了这一切的一切,虚伪的遮罩所能掩盖与承受的阈值\n可能\"破防\"这个词就是这么来的?\n超越一切心理防御体系所能承受阈值的打击,就必然会导致这种结果\n写到这,已经没有眼泪了,谢谢你读到这里\n感觉在用第三人称的文墨,审判自己\n我看着幸福的日子被我亲手摧毁后开心地闭上了眼."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一直在绷\n告诉自己,这是符合逻辑的,是合理且正常的\n应该面无表情地接受它\n就当什么都没发生,然后平静地回到自己的生活里\n但是,失败了\n但是,真的哭出来,好像又轻松很多了\n似乎,很多年没哭过了,以至于快忘记了,自己还有这种功能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 387,
+          "like_count": 61128,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1548
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 1464,
+          "like_count": 16768,
+          "listed_count": 4,
+          "media_count": 581,
+          "tweet_count": 5308
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

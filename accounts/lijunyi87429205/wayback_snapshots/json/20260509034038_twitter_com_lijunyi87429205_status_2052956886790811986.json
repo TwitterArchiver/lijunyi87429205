@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2052671606867083448",
+    "created_at": "2026-05-09T03:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T04:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052956886790811986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "143810986",
+          "start": 0,
+          "username": "dw_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052956886790811986",
+    "in_reply_to_user_id": "143810986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052671606867083448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dw_chinese 更进一步证明经济的繁荣和思想，素质进步水平并不完全相等……鞭刑这类暴力执法，最能满足极端保守人士精神需求。但对教育毫无意义，只是“驯兽”式的吓止心智不健全的未成年人而已。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2052671249000869888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHyNoB1asAAd-eh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2052671606867083448",
+        "created_at": "2026-05-09T03:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T04:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052956886790811986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "143810986",
+              "start": 0,
+              "username": "dw_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052956886790811986",
+        "in_reply_to_user_id": "143810986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052671606867083448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dw_chinese 更进一步证明经济的繁荣和思想，素质进步水平并不完全相等……鞭刑这类暴力执法，最能满足极端保守人士精神需求。但对教育毫无意义，只是“驯兽”式的吓止心智不健全的未成年人而已。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052671249000869888"
+          ]
+        },
+        "author_id": "143810986",
+        "conversation_id": "2052671606867083448",
+        "created_at": "2026-05-08T08:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T09:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052671606867083448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAIzU3bbS0",
+              "end": 57,
+              "expanded_url": "https://x.com/dw_chinese/status/2052671606867083448/photo/1",
+              "media_key": "3_2052671249000869888",
+              "start": 34,
+              "url": "https://t.co/SAIzU3bbS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052671606867083448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【新加坡将以“鞭打”惩戒校园霸凌 适用9岁以上男学生、最重鞭三下】\n新加坡教育部4月15日公布新的校园反霸凌指引，未来学生若涉及霸凌、网路霸凌，最重将可能面临被藤条鞭打三下的处分。教育部长李智陞5月5日在国会说明，只有校方考量犯行严重性、“所有其他措施均不足以应对”时，才会施以鞭打，且须经严格评估后由校长批准、授权教师执行；校方也须评估学生的成熟程度，以及鞭打是否有助学生从错误中学习。\n\n李智陞指出，鞭打措施目的在于让学生理解行为后果，且“绝不会单独实施”，将搭配辅导等修复措施，包含持续关注受惩戒学生的身心状况与后续表现，并透过辅导支持其反思并重新融入校园。他指出，研究显示，当规范明确、后果具实质意义时，有助学生作出更好的选择，也能降低霸凌事件发生。\n\n鞭打处分将适用9岁以上男性学生。针对议员质疑为何仅男学生适用鞭打，李智陞援引新加坡《刑事诉讼法》指出，法律禁止对女性施以鞭刑；但他强调，女学生若涉及霸凌，仍会依情节轻重接受留校、停学、调整操行成绩等处分。\n\n新加坡教育部此次公布的反霸凌措施，也包括统一全国学校的惩戒准则，例如留校、停学、鞭打及调整操行成绩等。所有学校须在今年底前依据新指引制定反霸凌政策，并自2027年起设立供学生与家长使用的线上通报平台。此外，教育部也正密切关注AI生成猥亵影像等新型态网路霸凌问题，并将与网路安全委员会合作处理相关案件。\n\n人权团体长期批评新加坡在校园与司法制度中保留体罚。联合国儿童基金会（UNICEF）、国际特赦组织等多个国际组织，均反对体罚儿童，认为此举可能损害儿童身心健康，甚至加剧行为问题。世界卫生组织（WHO）去年发布的报告指出，“压倒性的科学证据显示，对儿童体罚不仅伴随多重伤害风险，且毫无益处”。\n\n曾任新加坡心理卫生学院急诊与危机护理部主任的精神科医生Jared Ng则向亚洲新闻台投书指出，若未有效约束霸凌行为，部分青少年可能变本加厉，甚至出现更严重的偏差行为。 “不追究后果并非仁慈，它既伤害受害者，也伤害加害者。”他认为，透过修复措施，理解霸凌成因、引导学生正视行为后果，是避免惩罚流于形式的关键。\n\n新加坡鞭刑（caning）体罚制度最早由英国殖民政府于19世纪引入，可再分为司法、监狱、军事、感化院、学校、以及家庭共六种类型。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 18892,
+          "like_count": 129,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "【新加坡将以“鞭打”惩戒校园霸凌 适用9岁以上男学生、最重鞭三下】 https://t.co/SAIzU3bbS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 375,
+          "like_count": 64048,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 1802
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-14T13:16:33.000Z",
+        "description": "德国之声中文官方推特：德国国际广播电台中文资讯服务，来自德国，介绍德国，聚焦华语区时政、经济、社会新闻，为您提供多媒体信息服务、背景报道、观点评论。欢迎积极参与互动!https://t.co/sd6bL3bDrv",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/dwlegalnotice",
+                "end": 106,
+                "expanded_url": "http://bit.ly/dwlegalnotice",
+                "start": 83,
+                "url": "https://t.co/sd6bL3bDrv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dw.com/chinese",
+                "end": 23,
+                "expanded_url": "http://www.dw.com/chinese",
+                "start": 0,
+                "url": "https://t.co/MJXQ2XoxI2"
+              }
+            ]
+          }
+        },
+        "id": "143810986",
+        "location": "德国 波恩",
+        "name": "DW 中文- 德国之声",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799009694549413888/a4GIoJOh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381457,
+          "following_count": 11,
+          "like_count": 394,
+          "listed_count": 5514,
+          "media_count": 15960,
+          "tweet_count": 84697
+        },
+        "url": "https://t.co/MJXQ2XoxI2",
+        "username": "dw_chinese",
+        "verified": false
+      }
+    ]
+  }
+}

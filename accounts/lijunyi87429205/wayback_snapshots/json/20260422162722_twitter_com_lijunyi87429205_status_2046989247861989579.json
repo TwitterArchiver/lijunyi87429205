@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2044295510241227109",
+    "created_at": "2026-04-22T16:27:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T17:27:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046989247861989579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902145766002769920",
+          "start": 0,
+          "username": "lignedefuite_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046989247861989579",
+    "in_reply_to_user_id": "1902145766002769920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044295510241227109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lignedefuite_ 有重压在我的咽喉，树影下的鬼魅偷走了我的呼吸，我到不了那里，我又错过了许多。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2044295510241227109",
+        "created_at": "2026-04-22T16:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T17:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046989247861989579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902145766002769920",
+              "start": 0,
+              "username": "lignedefuite_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046989247861989579",
+        "in_reply_to_user_id": "1902145766002769920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044295510241227109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lignedefuite_ 有重压在我的咽喉，树影下的鬼魅偷走了我的呼吸，我到不了那里，我又错过了许多。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902145766002769920",
+        "conversation_id": "2044295510241227109",
+        "created_at": "2026-04-15T06:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044295510241227109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044295510241227109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 149,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一种恐惧萦绕心间，越是接近那个地方，那一时刻，便越是强烈。我没办法描述那些交织的情感里到底有什么。我只是想呕吐。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 394,
+          "like_count": 61965,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1617
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T23:51:20.000Z",
+        "description": "“Ligne de fuite”｜lacanist perhaps，欧陆哲学，嘻哈音乐与诗歌｜落笔皆是不值得的故事｜我要去往的不是未来，而是我未能实现的过去",
+        "id": "1902145766002769920",
+        "location": "Death of destiny ",
+        "name": "ligne de fuite",
+        "pinned_tweet_id": "1910259742699823129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909595210889457664/VUA0_twl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 20,
+          "like_count": 2805,
+          "listed_count": 1,
+          "media_count": 36,
+          "tweet_count": 908
+        },
+        "username": "lignedefuite_",
+        "verified": false
+      }
+    ]
+  }
+}

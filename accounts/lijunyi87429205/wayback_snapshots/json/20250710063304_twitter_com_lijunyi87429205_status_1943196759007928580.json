@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1942862182380658688"
+      ],
+      "media_source_tweet_id": [
+        "1943002210448605364"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1943196759007928580",
+    "created_at": "2025-07-10T06:33:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T07:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943196759007928580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1490343047233773572",
+          "start": 3,
+          "username": "eternalclassic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3sj6WWQoyH",
+          "end": 44,
+          "expanded_url": "https://x.com/eternalclassic_/status/1943002210448605364/photo/1",
+          "media_key": "3_1942862182380658688",
+          "start": 21,
+          "url": "https://t.co/3sj6WWQoyH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943196759007928580",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 987
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943002210448605364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eternalclassic_: https://t.co/3sj6WWQoyH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 669,
+        "media_key": "3_1942862182380658688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvZu3HRW4AASK2M.png",
+        "width": 632
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942862182380658688"
+          ],
+          "media_source_tweet_id": [
+            "1943002210448605364"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1943196759007928580",
+        "created_at": "2025-07-10T06:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T07:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943196759007928580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1490343047233773572",
+              "start": 3,
+              "username": "eternalclassic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sj6WWQoyH",
+              "end": 44,
+              "expanded_url": "https://x.com/eternalclassic_/status/1943002210448605364/photo/1",
+              "media_key": "3_1942862182380658688",
+              "start": 21,
+              "url": "https://t.co/3sj6WWQoyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943196759007928580",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 987
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943002210448605364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eternalclassic_: https://t.co/3sj6WWQoyH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942862182380658688"
+          ]
+        },
+        "author_id": "1490343047233773572",
+        "conversation_id": "1943002210448605364",
+        "created_at": "2025-07-09T17:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T18:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943002210448605364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3sj6WWQoyH",
+              "end": 23,
+              "expanded_url": "https://x.com/eternalclassic_/status/1943002210448605364/photo/1",
+              "media_key": "3_1942862182380658688",
+              "start": 0,
+              "url": "https://t.co/3sj6WWQoyH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943002210448605364",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 151778,
+          "like_count": 7002,
+          "quote_count": 30,
+          "reply_count": 3,
+          "retweet_count": 987
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3sj6WWQoyH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 312,
+          "like_count": 27274,
+          "listed_count": 8,
+          "media_count": 6,
+          "tweet_count": 481
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T15:14:43.000Z",
+        "description": "merch: https://t.co/MeNysr9tHF     music: https://t.co/Z9bma9UaQk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "eternalclassic.store",
+                "end": 30,
+                "expanded_url": "http://eternalclassic.store",
+                "start": 7,
+                "url": "https://t.co/MeNysr9tHF"
+              },
+              {
+                "display_url": "ampl.ink/fading-light",
+                "end": 65,
+                "expanded_url": "https://ampl.ink/fading-light",
+                "start": 42,
+                "url": "https://t.co/Z9bma9UaQk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eternalclassic",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/eternalclassic",
+                "start": 0,
+                "url": "https://t.co/UYb5LUVZA1"
+              }
+            ]
+          }
+        },
+        "id": "1490343047233773572",
+        "location": "internet",
+        "name": "eternal classic",
+        "pinned_tweet_id": "1922259154992804306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812827599623553024/ZGsQgOv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15164,
+          "following_count": 2,
+          "like_count": 52,
+          "listed_count": 31,
+          "media_count": 21300,
+          "tweet_count": 21606
+        },
+        "url": "https://t.co/UYb5LUVZA1",
+        "username": "eternalclassic_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056435501104775168"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2056436052911665355",
+    "created_at": "2026-05-18T18:05:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T19:05:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056436052911665355"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ipsEyafZn",
+          "end": 29,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2056436052911665355/photo/1",
+          "media_key": "3_2056435501104775168",
+          "start": 6,
+          "url": "https://t.co/3ipsEyafZn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056436052911665355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "潜入镜头（ https://t.co/3ipsEyafZn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2056435501104775168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIntMVraQAAeGAT.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056435501104775168"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2056436052911665355",
+        "created_at": "2026-05-18T18:05:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T19:05:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056436052911665355"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ipsEyafZn",
+              "end": 29,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2056436052911665355/photo/1",
+              "media_key": "3_2056435501104775168",
+              "start": 6,
+              "url": "https://t.co/3ipsEyafZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056436052911665355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "潜入镜头（ https://t.co/3ipsEyafZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 376,
+          "like_count": 65235,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 1924
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

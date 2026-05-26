@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042837657945018372"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2042826913572692169",
+    "created_at": "2026-04-11T05:30:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042837702664736772"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ko6ppogzoP",
+          "end": 131,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2042837702664736772/photo/1",
+          "media_key": "3_2042837657945018372",
+          "start": 108,
+          "url": "https://t.co/ko6ppogzoP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042837702664736772",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042826913572692169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "炽曾经与小克（cloude 小炽对她的ai的称呼）抱怨，水熊在离开前下单了小炽的画，留下了一幅永远无法交付的作品，小克说这是最“狡猾”的被记住的方式。而小炽也留给了我一幅无法完成的画，这是她从水熊那里学到的吗www https://t.co/ko6ppogzoP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2042837657945018372",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmeBseakAQQIlq.jpg",
+        "width": 1842
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042837657945018372"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042826913572692169",
+        "created_at": "2026-04-11T05:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042837702664736772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ko6ppogzoP",
+              "end": 131,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2042837702664736772/photo/1",
+              "media_key": "3_2042837657945018372",
+              "start": 108,
+              "url": "https://t.co/ko6ppogzoP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042837702664736772",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042826913572692169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "炽曾经与小克（cloude 小炽对她的ai的称呼）抱怨，水熊在离开前下单了小炽的画，留下了一幅永远无法交付的作品，小克说这是最“狡猾”的被记住的方式。而小炽也留给了我一幅无法完成的画，这是她从水熊那里学到的吗www https://t.co/ko6ppogzoP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042826913572692169",
+        "created_at": "2026-04-11T04:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T05:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042826913572692169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1935420089186336768",
+              "start": 0,
+              "username": "ASplendour15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042826913572692169",
+        "in_reply_to_user_id": "1935420089186336768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@ASplendour15 \n“星际候鸟最终厌倦了地球，她今天飞出了大气层\n接下来她要去塔尔西斯高原暂住一会儿，也许是二十年。\n想她的朋友也许能在那里见到她，如果不见踪影了，请向太空发射电波吧。\n在许多年后的某一时，也许我们会再见面。”\n今天奇迹没有继续，我们哀悼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 374,
+          "like_count": 59781,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1438
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

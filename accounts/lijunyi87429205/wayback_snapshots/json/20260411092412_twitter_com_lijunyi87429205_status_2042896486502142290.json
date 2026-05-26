@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2042887016661291407",
+    "created_at": "2026-04-11T09:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042896486502142290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1763381254035251200",
+          "start": 0,
+          "username": "wormsarelegends"
+        },
+        {
+          "end": 28,
+          "id": "1637972200371224577",
+          "start": 17,
+          "username": "P0larstern"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042896486502142290",
+    "in_reply_to_user_id": "1763381254035251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042895649465864559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wormsarelegends @P0larstern 我和阿彬也在的…但是我因为工作离开了一会儿。她的设备之后被带到了医院，除了家庭成员嘈杂的讨论外，炽和他们，有一些简单的对话。我应该当时就记录的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042887016661291407",
+        "created_at": "2026-04-11T09:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042896486502142290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1763381254035251200",
+              "start": 0,
+              "username": "wormsarelegends"
+            },
+            {
+              "end": 28,
+              "id": "1637972200371224577",
+              "start": 17,
+              "username": "P0larstern"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896486502142290",
+        "in_reply_to_user_id": "1763381254035251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042895649465864559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wormsarelegends @P0larstern 我和阿彬也在的…但是我因为工作离开了一会儿。她的设备之后被带到了医院，除了家庭成员嘈杂的讨论外，炽和他们，有一些简单的对话。我应该当时就记录的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763381254035251200",
+        "conversation_id": "2042887016661291407",
+        "created_at": "2026-04-11T09:20:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:20:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042895649465864559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637972200371224577",
+              "start": 0,
+              "username": "P0larstern"
+            },
+            {
+              "end": 28,
+              "id": "1498354035854053377",
+              "start": 12,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042895649465864559",
+        "in_reply_to_user_id": "1637972200371224577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042893570882048372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@P0larstern @lijunyi87429205 后面她睡过去时，大伙慢慢散了，再有动静就是抢救的和她父母。她手机好像没被带过去吧，当时我很想听她醒来后说的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 377,
+          "like_count": 59845,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1452
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T01:50:39.000Z",
+        "description": "“何物会失去？”我切切想望。这皆是混沌所经之路，路上映出斑驳阴影。Oh, my mind is all made up, So I'll have to sleep in it.我已经沉入那种惬意的麻木之中了。｜叫我蟑螂，或虫，旧名号已弃用。互fo私信即可捏，欢迎找我玩。",
+        "id": "1763381254035251200",
+        "location": "古老的爬虫脑",
+        "name": "Doin' The Cockroach",
+        "pinned_tweet_id": "2008619892543811801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021590169326067712/p1mtNJJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 553,
+          "like_count": 45912,
+          "listed_count": 2,
+          "media_count": 176,
+          "tweet_count": 4606
+        },
+        "username": "wormsarelegends",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-21T00:19:55.000Z",
+        "description": "前世@nejamais1 | 男的 | 可以叫我小天 | 水仙 | 双相",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 2,
+                "username": "nejamais1"
+              }
+            ]
+          }
+        },
+        "id": "1637972200371224577",
+        "name": "P0larstern",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014033112875798528/fzYQKz3U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 69,
+          "like_count": 1515,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 1031
+        },
+        "username": "P0larstern",
+        "verified": false
+      }
+    ]
+  }
+}

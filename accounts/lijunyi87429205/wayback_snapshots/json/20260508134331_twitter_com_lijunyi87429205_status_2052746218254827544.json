@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2052103796596326881",
+    "created_at": "2026-05-08T13:43:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T14:43:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052746218254827544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052746218254827544",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052106482334994636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 是在恐惧后果吗……某种人际关系？再坏能发生什么呢？疯狂或者越轨也是生物本能吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2052103796596326881",
+        "created_at": "2026-05-08T13:43:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T14:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052746218254827544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052746218254827544",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052106482334994636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 是在恐惧后果吗……某种人际关系？再坏能发生什么呢？疯狂或者越轨也是生物本能吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2052103796596326881",
+        "created_at": "2026-05-06T19:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052106482334994636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052106482334994636",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "感觉所有的东西,都被封印在内部\n语言被卡在喉咙里\n情绪被卡在脑叶里\n行动被卡在脊髓里\n狐觉得这些东西似要煮沸狐的脑脊液,让整块顶骨像切尔诺贝利四号堆的安全壳一样发射出去\n明明很想说,很想感受,很想去做\n但是,为什么,说不出,感受不了,做不到呢?\n就像是某种内在的逻辑死锁,无尽的循环\n一道墙,上无限高,下无限深,左右无限远\n屏抑了,那些内在的,意欲泄出的成分\n是理性吗?不尽然\n是无能与怠惰吗?也不对\n其实,是恐惧吧\n恐惧可能性,恐惧选择,恐惧不确定性,恐惧那些可能插入生活的东西,恐惧自己做得还不够好,恐惧自己做的太好\n就像一位无形而精准的守门员,精准地掐灭每一丝外泄的可能性\n为什么呢?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 155,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052103796596326881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉所有的东西,都被封印在内部\n语言被卡在喉咙里\n情绪被卡在脑叶里\n行动被卡在脊髓里\n狐觉得这些东西似要煮沸狐的脑脊液,让整块顶骨像切尔诺贝利四号堆的安全壳一样发射出去\n明明很想说,很想感受,很想去做\n但是,为什么,说不出,感受不了,做不到呢?\n就像是某种内在的逻辑死锁,无尽的循环"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 375,
+          "like_count": 63978,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 1788
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1487,
+          "following_count": 1520,
+          "like_count": 18708,
+          "listed_count": 7,
+          "media_count": 664,
+          "tweet_count": 5951
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

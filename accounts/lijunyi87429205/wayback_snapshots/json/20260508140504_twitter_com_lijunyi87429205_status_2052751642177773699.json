@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2052751642177773699",
+    "created_at": "2026-05-08T14:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052751642177773699"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "今日冷知识"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052751642177773699",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051413372101345717",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: ＃今日冷知识 在火车发明之前，时间是一种地方性的东西。\n\n工业时代之前，大部分人不需要精确到分钟的时间，所以不存在“我们下午两点集合”这样的事情。农业社会的时间感是非常粗线条的，主要就是日出、正午、日落。日出说明要起床干活了，日落说明该…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2052751642177773699",
+        "created_at": "2026-05-08T14:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052751642177773699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "今日冷知识"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052751642177773699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051413372101345717",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: ＃今日冷知识 在火车发明之前，时间是一种地方性的东西。\n\n工业时代之前，大部分人不需要精确到分钟的时间，所以不存在“我们下午两点集合”这样的事情。农业社会的时间感是非常粗线条的，主要就是日出、正午、日落。日出说明要起床干活了，日落说明该…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2051413372101345717",
+        "created_at": "2026-05-04T21:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T22:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051413372101345717"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "今日冷知识"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051413372101345717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "今日冷知识"
+              }
+            ]
+          },
+          "text": "＃今日冷知识 在火车发明之前，时间是一种地方性的东西。\n\n工业时代之前，大部分人不需要精确到分钟的时间，所以不存在“我们下午两点集合”这样的事情。农业社会的时间感是非常粗线条的，主要就是日出、正午、日落。日出说明要起床干活了，日落说明该休息了，而正午是一个相对好确认的时间节点。\n城市里的协调靠的是公共信号，也就是敲钟。西方遍地都是教堂，而中国有鼓楼和钟楼，大家用敲钟来标记时间。但那个时候敲钟跟现在不同，并不是直接告诉你现在几点了，而是一种宗教/行政的节点，意思是告诉你现在到了开集市/做礼拜/婚礼/处决的时间了。\n而他们的计时方法还是依赖天文的，也就是日晷。虽说机械钟表13世纪就发明了，但误差太大了。说白了还是靠太阳来确定时间，然后再通过一些技术手段把时刻均分。\n\n把时间精确化的是工业革命，因为工厂开工需要大家统一时间。农业时代大家说上午碰面，那就真的是上午碰面——来早了你急也没用，没有几点这种东西。但工厂这样显然不行，必须得有一个到点上班的概念，不能零零散散的来。所幸那时候随着技术发展，钟表的误差已经相当小了。1656年惠更斯发明了摆钟，误差从每天几十分钟降到几秒钟。虽然摆钟不能移动，只能放在固定场所，但也够用了。现在牛马们终于能准时上下班了！\n\n但是时间依然是一个地区性的概念。因为大家还是用太阳来校准时间的，以城市为单位，正午即为12点。但城市和城市之间经度上有差异，正午的时间显然是不同的。\n在有火车之前，这些并不是问题。比如假如你从伦敦出发去曼彻斯特，坐马车大概需要2-6天（视天气和路况等影响）。但伦敦和曼彻斯特的时差大概是8-15分钟之间（根据计算方法不同，答案可能有所差异）。你两天差个十几分钟，其实根本感觉不出来。\n直到有了火车，大家才发现了问题。伦敦的12点和曼彻斯特的12点根本不是一个时间啊。各地车站各自用本地时间，列车调度就变成噩梦。在发生了多起因时间混乱导致的事故后，1840年，大西部铁路公司率先宣布全线统一使用伦敦时间。到了1847年的时候，几乎所有英国的铁路都用这个时间了——也就是格林威治时间。格林威治有着格林威治皇家天文台，这个名字是不是很耳熟？也就是0°经线的所在地。格林威治时间”（GMT），其实就是以格林威治本初子午线为基准的平均太阳时。\n\n这下就连起来了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 38294,
+          "like_count": 295,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "＃今日冷知识 在火车发明之前，时间是一种地方性的东西。\n\n工业时代之前，大部分人不需要精确到分钟的时间，所以不存在“我们下午两点集合”这样的事情。农业社会的时间感是非常粗线条的，主要就是日出、正午、日落。日出说明要起床干活了，日落说明该休息了，而正午是一个相对好确认的时间节点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 375,
+          "like_count": 63983,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 1792
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n相比情绪，更偏向理性。有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2049764596878024740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 281,
+          "like_count": 7368,
+          "listed_count": 38,
+          "media_count": 325,
+          "tweet_count": 4102
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

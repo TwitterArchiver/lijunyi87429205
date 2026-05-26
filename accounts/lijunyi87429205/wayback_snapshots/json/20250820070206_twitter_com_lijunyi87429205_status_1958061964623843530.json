@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1955769215648195042",
+    "created_at": "2025-08-20T07:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-20T08:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958061964623843530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1528667429819547648",
+          "start": 0,
+          "username": "bumingbaipod"
+        },
+        {
+          "end": 29,
+          "id": "942810691",
+          "start": 14,
+          "username": "lijinxinglvshi"
+        },
+        {
+          "end": 38,
+          "id": "394797065",
+          "start": 30,
+          "username": "LiYuan6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958061964623843530",
+    "in_reply_to_user_id": "1528667429819547648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955769215648195042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bumingbaipod @lijinxinglvshi @LiYuan6 不属于人间的恶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1955769215648195042",
+        "created_at": "2025-08-20T07:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-20T08:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958061964623843530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1528667429819547648",
+              "start": 0,
+              "username": "bumingbaipod"
+            },
+            {
+              "end": 29,
+              "id": "942810691",
+              "start": 14,
+              "username": "lijinxinglvshi"
+            },
+            {
+              "end": 38,
+              "id": "394797065",
+              "start": 30,
+              "username": "LiYuan6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958061964623843530",
+        "in_reply_to_user_id": "1528667429819547648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955769215648195042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bumingbaipod @lijinxinglvshi @LiYuan6 不属于人间的恶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528667429819547648",
+        "conversation_id": "1955769215648195042",
+        "created_at": "2025-08-13T23:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T00:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955769215648195042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 64,
+              "id": "942810691",
+              "start": 49,
+              "username": "lijinxinglvshi"
+            },
+            {
+              "end": 162,
+              "id": "394797065",
+              "start": 154,
+              "username": "LiYuan6"
+            }
+          ],
+          "urls": [
+            {
+              "description": "今年4月-7月，毕光钧、刘文超、曾育周、汪林朋四位知名企业家接连非自然死亡。今年1-7月，已有至少19位上市公司的实际控制人、董事长或高管被检察机关以“留置”措施调查。其中就包括刚刚去世的居然智家（前居然之家）董事长汪林朋——他被留置过三次，在最后一次留置被解除仅四天后，突然坠楼去世。回顾过去5年，从任志强案、孙...",
+              "display_url": "youtu.be/qIrw-WaR_1k",
+              "end": 153,
+              "expanded_url": "https://youtu.be/qIrw-WaR_1k",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1955769219444039682/JJDaFguD?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1955769219444039682/JJDaFguD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 130,
+              "status": 200,
+              "title": "EP-164 伍雷：民营企业家接连自杀背后 | 汪林朋 | 中国民营企业家的悲歌 | 留置 | 任志强 | 孙大午 | 扫黑除恶 | 远洋捕捞 | 司法制度 | 不明白播客 |",
+              "unwound_url": "https://www.youtube.com/watch?v=qIrw-WaR_1k&feature=youtu.be",
+              "url": "https://t.co/WrPB25WGzl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955769215648195042",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 111444,
+          "like_count": 101,
+          "quote_count": 11,
+          "reply_count": 10,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "从任志强案、孙大午案、扫黑除恶到远洋捕捞，再到今天的企业家破产、负债、被留置、坐牢、自杀。律师伍雷@lijinxinglvshi 如何看待五年来民营企业家群体遭遇的一切？在政治意志凌驾法律的环境里，律师辩护还有意义吗？企业家又该如何认知风险、为自己留一条生路？https://t.co/WrPB25WGzl @LiYuan6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 323,
+          "like_count": 31470,
+          "listed_count": 8,
+          "media_count": 13,
+          "tweet_count": 579
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T09:22:05.000Z",
+        "description": "不明白播客官方推特\nApple: https://t.co/mK0s6gAoyz Spotify: https://t.co/ZiCGaYNCWR \nYouTube: https://t.co/yUH081YKPB 捐赠链接：https://t.co/lfKUuexsUS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/bmb-apple",
+                "end": 40,
+                "expanded_url": "http://bit.ly/bmb-apple",
+                "start": 17,
+                "url": "https://t.co/mK0s6gAoyz"
+              },
+              {
+                "display_url": "spoti.fi/3fFezK0",
+                "end": 73,
+                "expanded_url": "http://spoti.fi/3fFezK0",
+                "start": 50,
+                "url": "https://t.co/ZiCGaYNCWR"
+              },
+              {
+                "display_url": "bit.ly/bmb-ytb",
+                "end": 107,
+                "expanded_url": "http://bit.ly/bmb-ytb",
+                "start": 84,
+                "url": "https://t.co/yUH081YKPB"
+              },
+              {
+                "display_url": "bit.ly/bmb-donate",
+                "end": 136,
+                "expanded_url": "https://bit.ly/bmb-donate",
+                "start": 113,
+                "url": "https://t.co/lfKUuexsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bumingbai.net",
+                "end": 23,
+                "expanded_url": "http://bumingbai.net",
+                "start": 0,
+                "url": "https://t.co/TlitLIEzT5"
+              }
+            ]
+          }
+        },
+        "id": "1528667429819547648",
+        "name": "不明白播客",
+        "pinned_tweet_id": "1949527455699783945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572093598010691584/9CIZ1YiZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99800,
+          "following_count": 86,
+          "like_count": 251,
+          "listed_count": 375,
+          "media_count": 319,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/TlitLIEzT5",
+        "username": "bumingbaipod",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-12T04:16:03.000Z",
+        "description": "原中国刑事辩护律师。东京。中国手机13953129678基本不接lijinxinglvshi@gmail.com必回。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCxwAf…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCxwAfgueB549DkY2X1D0SuA?si=67loTydlQu8DRTRI",
+                "start": 0,
+                "url": "https://t.co/l5GatjPZOv"
+              }
+            ]
+          }
+        },
+        "id": "942810691",
+        "location": "东京",
+        "name": "伍雷（吊证律师）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431377895612575744/Zz6mxXFn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16670,
+          "following_count": 2782,
+          "like_count": 11,
+          "listed_count": 47,
+          "media_count": 766,
+          "tweet_count": 1554
+        },
+        "url": "https://t.co/l5GatjPZOv",
+        "username": "lijinxinglvshi",
+        "verified": false
+      },
+      {
+        "created_at": "2011-10-20T16:55:22.000Z",
+        "description": "NYT Asia tech columnist 不明白播客主持人 Views here are my own  联系请用li.yuan AT nytimes. com 或者 FreeFrom公匙npub1nc3azwxkfaj96n85sujpcvy5mmn72hm3rzxklqqaklmzrwlljrqsfgsyca",
+        "id": "394797065",
+        "location": "New York, NY",
+        "name": "Li Yuan袁莉",
+        "pinned_tweet_id": "1951446933329133839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881149356/LiUdaipur_normal.JPG",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134249,
+          "following_count": 1616,
+          "like_count": 11831,
+          "listed_count": 1383,
+          "media_count": 446,
+          "tweet_count": 10910
+        },
+        "username": "LiYuan6",
+        "verified": true
+      }
+    ]
+  }
+}

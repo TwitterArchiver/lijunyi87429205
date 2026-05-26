@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2043584964940509256",
+    "created_at": "2026-04-13T12:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043665769310130674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043665769310130674",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043662321294463191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 我只能在短暂中休息里，从喘息发现我的悲怆。我告诉我她离开的时间是四月十一日的凌晨，而不是几天后的葬礼，来回避我必然会错过那场送别的事实。希望我现在坚持的一切，在几年后能发挥它的价值。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2043584964940509256",
+        "created_at": "2026-04-13T12:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043665769310130674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043665769310130674",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043662321294463191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 我只能在短暂中休息里，从喘息发现我的悲怆。我告诉我她离开的时间是四月十一日的凌晨，而不是几天后的葬礼，来回避我必然会错过那场送别的事实。希望我现在坚持的一切，在几年后能发挥它的价值。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2043584964940509256",
+        "created_at": "2026-04-13T12:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043662321294463191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043662321294463191",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043661748276986276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 我是说，你能在失去朋友的痛苦中保持/集中精力去处理生活，这本身(就)很不容易.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 385,
+          "like_count": 60250,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1480
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "pinned_tweet_id": "2042892700274377092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 280,
+          "like_count": 470,
+          "listed_count": 1,
+          "media_count": 866,
+          "tweet_count": 14272
+        },
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

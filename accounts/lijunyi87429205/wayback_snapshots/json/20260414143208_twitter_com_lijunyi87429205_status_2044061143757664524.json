@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2044041186361704457",
+    "created_at": "2026-04-14T14:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044061143757664524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 29,
+          "id": "2038972637494349824",
+          "start": 17,
+          "username": "Rodea133221"
+        },
+        {
+          "end": 39,
+          "id": "2038975737055543296",
+          "start": 30,
+          "username": "WujiChem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044061143757664524",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044059531723059412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @Rodea133221 @WujiChem 我想被脑神经扫描复制，看到自己的模仿体偏离太多，会有一种恶心的感觉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2044041186361704457",
+        "created_at": "2026-04-14T14:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044061143757664524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 29,
+              "id": "2038972637494349824",
+              "start": 17,
+              "username": "Rodea133221"
+            },
+            {
+              "end": 39,
+              "id": "2038975737055543296",
+              "start": 30,
+              "username": "WujiChem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044061143757664524",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044059531723059412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @Rodea133221 @WujiChem 我想被脑神经扫描复制，看到自己的模仿体偏离太多，会有一种恶心的感觉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2044041186361704457",
+        "created_at": "2026-04-14T14:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044059531723059412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038972637494349824",
+              "start": 0,
+              "username": "Rodea133221"
+            },
+            {
+              "end": 22,
+              "id": "2038975737055543296",
+              "start": 13,
+              "username": "WujiChem"
+            },
+            {
+              "end": 39,
+              "id": "1498354035854053377",
+              "start": 23,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044059531723059412",
+        "in_reply_to_user_id": "2038972637494349824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044048738570973449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rodea133221 @WujiChem @lijunyi87429205 哇，还有狐.skill(\n狐如果真的会消失，还真的挺希望有人用狐的数据蒸馏炼化后继续在这个平台上...活动的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 386,
+          "like_count": 60647,
+          "listed_count": 8,
+          "media_count": 39,
+          "tweet_count": 1524
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 生存主義者 醫學/電子工程學🆙 丨INTP–T丨非二元 MtFutanari 无证药娘(?)🏳️‍⚧️丨She/Her丨私人實驗室「靈狐製作所」創始人(建設ing…)🧬丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 140,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 1462,
+          "like_count": 16662,
+          "listed_count": 4,
+          "media_count": 577,
+          "tweet_count": 5257
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T13:32:31.000Z",
+        "description": "由于不可抗因素三次转生\n喜欢碎碎念\n但愿人长久",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/Rodea133221988…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/Rodea13322198876",
+                "start": 0,
+                "url": "https://t.co/DrCqFo325k"
+              }
+            ]
+          }
+        },
+        "id": "2038972637494349824",
+        "location": "距离你1.2公里",
+        "name": "回聲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038973303331901440/cqgMUt5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 103,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/DrCqFo325k",
+        "username": "Rodea133221",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T13:44:41.000Z",
+        "description": "关注被限制了，不能马上回关致歉",
+        "id": "2038975737055543296",
+        "name": "☯️🧬玄陽",
+        "pinned_tweet_id": "2042733665583796612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038976322236755968/ntvGPdG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 56,
+          "like_count": 150,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 175
+        },
+        "username": "WujiChem",
+        "verified": false
+      }
+    ]
+  }
+}

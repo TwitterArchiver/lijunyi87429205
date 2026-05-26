@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1959659556465688896",
+    "created_at": "2025-08-25T02:58:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T03:58:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959812542739657110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959812542739657110",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959659556465688896",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 党国管一切的失能，从来不考虑问题后的成因可以是多样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_1959659550866341888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzIb-pIXAAAAWrc.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1959659556465688896",
+        "created_at": "2025-08-25T02:58:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T03:58:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959812542739657110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959812542739657110",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959659556465688896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 党国管一切的失能，从来不考虑问题后的成因可以是多样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959659550866341888"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "1959659556465688896",
+        "created_at": "2025-08-24T16:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-24T17:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959659556465688896"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1NXx0wL5Ix",
+              "end": 48,
+              "expanded_url": "https://x.com/Kenntnis22/status/1959659556465688896/photo/1",
+              "media_key": "3_1959659550866341888",
+              "start": 25,
+              "url": "https://t.co/1NXx0wL5Ix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959659556465688896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 29463,
+          "like_count": 246,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "普通人也这样满脑子野蛮思维，习惯了党国干预一切。 https://t.co/1NXx0wL5Ix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 335,
+          "like_count": 32143,
+          "listed_count": 8,
+          "media_count": 14,
+          "tweet_count": 592
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "朋友们的小圈子。不严肃、谢谢😑",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "1959781039481467172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675314941966925824/0Sl6rg69_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37283,
+          "following_count": 338,
+          "like_count": 30775,
+          "listed_count": 169,
+          "media_count": 6118,
+          "tweet_count": 9758
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

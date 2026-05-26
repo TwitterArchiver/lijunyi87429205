@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2048660320382841061",
+    "created_at": "2026-04-27T08:51:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T09:51:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048686397415202987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048686397415202987",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048660320382841061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 和狐的爪对比起来看，我的手简直是个锈迹斑斑的老虎钳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048660256943898624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5NpkCaAAANvIT.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048660256935550976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5NpkAaoAAeri9.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2048660320382841061",
+        "created_at": "2026-04-27T08:51:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T09:51:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048686397415202987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048686397415202987",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048660320382841061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 和狐的爪对比起来看，我的手简直是个锈迹斑斑的老虎钳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048660256943898624",
+            "3_2048660256935550976"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2048660320382841061",
+        "created_at": "2026-04-27T07:07:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T08:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048660320382841061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T3MP0l9Jxy",
+              "end": 134,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2048660320382841061/photo/1",
+              "media_key": "3_2048660256943898624",
+              "start": 111,
+              "url": "https://t.co/T3MP0l9Jxy"
+            },
+            {
+              "display_url": "pic.x.com/T3MP0l9Jxy",
+              "end": 134,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2048660320382841061/photo/1",
+              "media_key": "3_2048660256935550976",
+              "start": 111,
+              "url": "https://t.co/T3MP0l9Jxy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048660320382841061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "well，狐的月度手部护理完成喵!\n大概是先用两盆温度不同的水做一下温度理疗配合按摩放松关节与韧带，同时松解角质\n然后刷水杨酸+乳酸去角质，再敷一种狐自制的复配溶液(酵母裂解滤液，烟酰胺，以及一点点角鲨烷)进行保湿与修复\n流程的目的是去除日常使用中产生的积累角质，保证精密操作时与工具的理想机械链接以及确保有足够高的触觉分辨率\n这双手的缺点就是怕热怕晒怕磨，几乎告别重载工况了🙃\n狐磨刀/练缝合/开锁/精密锡焊/称量配药的时候有多爽\n拧瓶盖满屋子找扳手的时候就有多狼狈(x"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 239,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "well，狐的月度手部护理完成喵!\n大概是先用两盆温度不同的水做一下温度理疗配合按摩放松关节与韧带，同时松解角质\n然后刷水杨酸+乳酸去角质，再敷一种狐自制的复配溶液(酵母裂解滤液，烟酰胺，以及一点点角鲨烷)进行保湿与修复 https://t.co/T3MP0l9Jxy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 376,
+          "like_count": 62355,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1651
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1416,
+          "following_count": 1499,
+          "like_count": 17523,
+          "listed_count": 4,
+          "media_count": 613,
+          "tweet_count": 5556
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

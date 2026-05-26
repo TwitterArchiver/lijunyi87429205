@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1980657489202016444",
+    "created_at": "2025-10-21T16:31:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T17:31:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980673210229350733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451394204563755008",
+          "start": 0,
+          "username": "wildwall1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980673210229350733",
+    "in_reply_to_user_id": "1451394204563755008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980657489202016444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wildwall1984 诚实，宽容，正直，自制，这些美好的品质在人类中至今缺乏，可惜的是，越是躁动的群体，越是有浩大的声量。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1980657489202016444",
+        "created_at": "2025-10-21T16:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980673210229350733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451394204563755008",
+              "start": 0,
+              "username": "wildwall1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980673210229350733",
+        "in_reply_to_user_id": "1451394204563755008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980657489202016444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wildwall1984 诚实，宽容，正直，自制，这些美好的品质在人类中至今缺乏，可惜的是，越是躁动的群体，越是有浩大的声量。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451394204563755008",
+        "conversation_id": "1980657489202016444",
+        "created_at": "2025-10-21T15:28:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:28:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980657489202016444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/letustalk_talk…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/letustalk_talk/status/1980316055106118015",
+              "start": 95,
+              "url": "https://t.co/ZDQ1rOZcHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980657489202016444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这件事确实让我应激了！支持或反对川普，其实跟左右立场没有半点关系，而是一个人是否还保有最起码的良知问题。\n在我面前说自己支持川普，就像有人在我面前说支持毛泽东一样，会让我从生理上感到厌恶。\n\n如果一个人一边宣称反共，一边又公开支持川普——这样一个崇尚独裁、信奉弱肉强食、满口谎言、贪腐成性的政客——我不会去怀疑他的动机，而是会直接判断：这个人虚伪到了骨子里。\n他并不真的反对专制，而是崇拜强权，只不过换了一张面具。\n哪怕他装得再好，甚至一本正经地假装“中立”的替川普辩护，也掩不住那种让人由衷鄙夷的味道。\n\n小人，无非如此。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4952,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980316055106118015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这件事确实让我应激了！支持或反对川普，其实跟左右立场没有半点关系，而是一个人是否还保有最起码的良知问题。\n在我面前说自己支持川普，就像有人在我面前说支持毛泽东一样，会让我从生理上感到厌恶。 https://t.co/ZDQ1rOZcHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 369,
+          "like_count": 37788,
+          "listed_count": 8,
+          "media_count": 20,
+          "tweet_count": 744
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T03:45:39.000Z",
+        "description": "在这里读懂中国，在不自由的时代，做自由的人。致敬那些敢于在黑暗中闪亮的星！——Youtube频道《 曹操说》https://t.co/PhXvIrxOAj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEHll…",
+                "end": 77,
+                "expanded_url": "https://www.youtube.com/channel/UCEHllJN5YYp6R-jB-6rbnQw",
+                "start": 54,
+                "url": "https://t.co/PhXvIrxOAj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCEHll…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCEHllJN5YYp6R-jB-6rbnQw",
+                "start": 0,
+                "url": "https://t.co/PhXvIrxOAj"
+              }
+            ]
+          }
+        },
+        "id": "1451394204563755008",
+        "name": "曹操说",
+        "pinned_tweet_id": "1968232495905980889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968251286777978880/Dp7R_HvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54972,
+          "following_count": 332,
+          "like_count": 1322,
+          "listed_count": 229,
+          "media_count": 223,
+          "tweet_count": 10284
+        },
+        "url": "https://t.co/PhXvIrxOAj",
+        "username": "wildwall1984",
+        "verified": true
+      }
+    ]
+  }
+}

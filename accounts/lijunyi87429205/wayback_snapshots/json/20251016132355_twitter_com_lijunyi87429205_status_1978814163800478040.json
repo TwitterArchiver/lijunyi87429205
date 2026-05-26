@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1978803122181898537",
+    "created_at": "2025-10-16T13:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978814163800478040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563463171699970049",
+          "start": 0,
+          "username": "Akimi_Lyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978814163800478040",
+    "in_reply_to_user_id": "1563463171699970049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978803122181898537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akimi_Lyan 好吃吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978803117631373312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3Ye84ragAAqbTI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1978803122181898537",
+        "created_at": "2025-10-16T13:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978814163800478040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563463171699970049",
+              "start": 0,
+              "username": "Akimi_Lyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978814163800478040",
+        "in_reply_to_user_id": "1563463171699970049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978803122181898537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akimi_Lyan 好吃吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978803117631373312"
+          ]
+        },
+        "author_id": "1563463171699970049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1978803122181898537",
+        "created_at": "2025-10-16T12:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T13:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978803122181898537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lr6PdeEpVv",
+              "end": 23,
+              "expanded_url": "https://x.com/Akimi_Lyan/status/1978803122181898537/photo/1",
+              "media_key": "3_1978803117631373312",
+              "start": 0,
+              "url": "https://t.co/Lr6PdeEpVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978803122181898537",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Lr6PdeEpVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 365,
+          "like_count": 37259,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 725
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T09:47:57.000Z",
+        "description": "SZL-E5001",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Miyano_Akemi",
+                "end": 23,
+                "expanded_url": "https://t.me/Miyano_Akemi",
+                "start": 0,
+                "url": "https://t.co/kJ1vHkw6AI"
+              }
+            ]
+          }
+        },
+        "id": "1563463171699970049",
+        "location": "Macondo",
+        "name": "Li'An安",
+        "pinned_tweet_id": "1923310904348733618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960594171414372352/eP0LfeV1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 81,
+          "like_count": 8841,
+          "listed_count": 2,
+          "media_count": 823,
+          "tweet_count": 4235
+        },
+        "url": "https://t.co/kJ1vHkw6AI",
+        "username": "Akimi_Lyan",
+        "verified": false
+      }
+    ]
+  }
+}

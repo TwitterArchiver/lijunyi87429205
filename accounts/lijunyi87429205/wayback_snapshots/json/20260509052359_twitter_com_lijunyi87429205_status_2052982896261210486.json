@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2052982896261210486",
+    "created_at": "2026-05-09T05:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T06:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052982896261210486"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "今日冷知识"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052982896261210486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052817233286504497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: ＃今日冷知识\n可得性启发（Availability Heuristic）是一个心理学和行为经济学里的经典概念，意思是，人会倾向于根据脑子里能多快想到某件事，来判断这件事有多重要或多危险。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2052982896261210486",
+        "created_at": "2026-05-09T05:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T06:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052982896261210486"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "今日冷知识"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052982896261210486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052817233286504497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: ＃今日冷知识\n可得性启发（Availability Heuristic）是一个心理学和行为经济学里的经典概念，意思是，人会倾向于根据脑子里能多快想到某件事，来判断这件事有多重要或多危险。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2052817233286504497",
+        "created_at": "2026-05-08T18:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T19:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052817233286504497"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "今日冷知识"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052817233286504497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "今日冷知识"
+              }
+            ]
+          },
+          "text": "＃今日冷知识\n可得性启发（Availability Heuristic）是一个心理学和行为经济学里的经典概念，意思是，人会倾向于根据脑子里能多快想到某件事，来判断这件事有多重要或多危险。\n\n用一个简单的事情来举例。比如我们说起空难，一般人都能迅速想起一两件空难事故。因为空难往往都是严重事故，会被广泛报道。而大脑很善于偷懒，“非常容易想到”常常会被解读为“非常常见”。\n但非常容易想到这件事是受很多因素影响的，比如媒体曝光、情绪冲击、个人经历、画面感强弱、社交圈讨论度等等等等。\n一些罕见事件经过互联网的反复推送，人们会误以为这很常见。\n\n举例？全球每年死于鲨鱼攻击的人数大约是5到10人。而因为冬季泡澡相关的死亡（热休克、心血管疾病、跌倒、溺水等），光日本一年就有1.4万至1.9万人。但相比浴缸，人们对鲨鱼的恐惧就要大多了…因为有《大白鲨》。\n反过来也是一样的，熟悉感往往会伪装成安全感。比如睡眠不足。中国每年心源性猝死大约 54万到55万人，平均每分钟就要死一个人。而相比这些，有些人反而更担心某些根本看不见的人，比如陌生人投毒案，境外势力等等。\n\n而可得性启发不只影响风险判断，它影响几乎所有需要估计概率的判断。\n比如你觉得自己所在城市的交通有多糟糕？很大程度上取决于你最近一次堵车有多严重，而不是客观的平均通勤时间数据。\n比如你觉得现在的世界比以前更危险吗？很多人觉得是，但全球极端贫困率、儿童死亡率、战争死亡人数在过去几十年里实际上都在下降。感觉更危险，是因为信息传播速度更快了，坏消息能更快速地出现在你面前。\n\n大脑很善于偷懒。一件事发生的概率是难问题，我能不能想起这件事发生的例子是简单问题。大脑悄悄把难问题替换成了容易问题，然后把答案当成原来那个问题的答案呈现给你。而这种替换往往发生在意识之下，人很难感觉到​。​​​​​​​​​​​​​​​\n人可以相信直觉，但最好不要过于依赖它。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1001,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "＃今日冷知识\n可得性启发（Availability Heuristic）是一个心理学和行为经济学里的经典概念，意思是，人会倾向于根据脑子里能多快想到某件事，来判断这件事有多重要或多危险。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 376,
+          "like_count": 64089,
+          "listed_count": 8,
+          "media_count": 44,
+          "tweet_count": 1806
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n相比情绪，更偏向理性。有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2049764596878024740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 281,
+          "like_count": 7372,
+          "listed_count": 38,
+          "media_count": 326,
+          "tweet_count": 4105
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

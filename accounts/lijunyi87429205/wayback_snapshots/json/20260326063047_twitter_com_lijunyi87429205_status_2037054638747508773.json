@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2037004125569950105",
+    "created_at": "2026-03-26T06:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T07:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037054638747508773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1513817865463349249",
+          "start": 0,
+          "username": "MirrorRoseAyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037054638747508773",
+    "in_reply_to_user_id": "1513817865463349249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037004125569950105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MirrorRoseAyr 囊肿…吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 945,
+        "media_key": "3_2037004116929765379",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HETkc6ubYAMMx1J.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2037004125569950105",
+        "created_at": "2026-03-26T06:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T07:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037054638747508773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1513817865463349249",
+              "start": 0,
+              "username": "MirrorRoseAyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037054638747508773",
+        "in_reply_to_user_id": "1513817865463349249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037004125569950105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MirrorRoseAyr 囊肿…吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037004116929765379"
+          ]
+        },
+        "author_id": "1513817865463349249",
+        "conversation_id": "2037004125569950105",
+        "created_at": "2026-03-26T03:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T04:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037004125569950105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ImCHrRxOra",
+              "end": 67,
+              "expanded_url": "https://x.com/MirrorRoseAyr/status/2037004125569950105/photo/1",
+              "media_key": "3_2037004116929765379",
+              "start": 44,
+              "url": "https://t.co/ImCHrRxOra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037004125569950105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1689,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做完手术了，医生没有给我打麻药手术过程跟挖肉一样疼，这辈子都没有这么疼过，还流了好多血 https://t.co/ImCHrRxOra"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 373,
+          "like_count": 56727,
+          "listed_count": 8,
+          "media_count": 32,
+          "tweet_count": 1237
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-12T09:55:09.000Z",
+        "description": "镜中玫瑰艾尔｜少年otaku的灰英雄独白，金发蓝眸在巨大ms引擎中翩跹。尼禄Umu～罗马温泉的泡泡梦，痛根化作花瓣，浪漫觉醒永恒。夜空星河，ROMA黄金，野萌眨眼。otakuおたく诗意｜嘘を破る光、君のロマンス✨(灬ºωº灬)💕”",
+        "id": "1513817865463349249",
+        "location": "社交软件只用X和QQ微信无电报，🚪100/520特殊福利",
+        "name": "MirrorRoseAyr🌹",
+        "pinned_tweet_id": "2035760989636092226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005708750087241728/NuQGx2HV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37772,
+          "following_count": 1456,
+          "like_count": 9276,
+          "listed_count": 157,
+          "media_count": 82,
+          "tweet_count": 1518
+        },
+        "username": "MirrorRoseAyr",
+        "verified": true
+      }
+    ]
+  }
+}

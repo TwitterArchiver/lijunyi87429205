@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1793737465372856423",
+    "created_at": "2024-05-24T00:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-24T01:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793804224800919848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1760705336540057600",
+          "start": 0,
+          "username": "akiakuno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793804224800919848",
+    "in_reply_to_user_id": "1760705336540057600",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793737465372856423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiakuno “清除一切迷障，知觉之门将开，万物显出本相，如其所是，绵延无止。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1793737465372856423",
+        "created_at": "2024-05-24T00:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-24T01:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793804224800919848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1760705336540057600",
+              "start": 0,
+              "username": "akiakuno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793804224800919848",
+        "in_reply_to_user_id": "1760705336540057600",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793737465372856423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiakuno “清除一切迷障，知觉之门将开，万物显出本相，如其所是，绵延无止。”"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1793737438944518144"
+          ]
+        },
+        "author_id": "1760705336540057600",
+        "conversation_id": "1793737465372856423",
+        "created_at": "2024-05-23T20:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-23T21:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793737465372856423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/20cDdmhhYt",
+              "end": 112,
+              "expanded_url": "https://twitter.com/akiakuno/status/1793737465372856423/photo/1",
+              "media_key": "3_1793737438944518144",
+              "start": 89,
+              "url": "https://t.co/20cDdmhhYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793737465372856423",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 78,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "any kinds of drugs、alcohol、nicotine、gamble should be kept far from\n历史不会说谎，你没办法保证自己是那少数人。 https://t.co/20cDdmhhYt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 231,
+          "like_count": 8576,
+          "listed_count": 46,
+          "tweet_count": 267
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T16:37:32.000Z",
+        "description": "life changes,why stay still. 最近状态不太好捏淡推一阵子～～🌻🫴☀️☀️☀️",
+        "id": "1760705336540057600",
+        "name": "美丽新世界",
+        "pinned_tweet_id": "1788919559921205728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1771793626798145536/abxok-Vv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 125,
+          "like_count": 7447,
+          "listed_count": 2,
+          "tweet_count": 3328
+        },
+        "username": "akiakuno",
+        "verified": false
+      }
+    ]
+  }
+}

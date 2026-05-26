@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2050358354728362004",
+    "created_at": "2026-05-02T04:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050437584992837821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050437584992837821",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050358354728362004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 为了维持维稳系统，支出还会更高…越往后越多公共系统失效，越多隐形的苛捐杂税"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 113980,
+        "height": 720,
+        "media_key": "13_2050354218230300672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050354218230300672/img/k6cY_r9K8y-9C-oi.jpg",
+        "public_metrics": {
+          "view_count": 29248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050354218230300672/vid/avc1/480x270/bWH_HEVrMIss0etR.mp4?tag=27"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050354218230300672/vid/avc1/640x360/0dOlT45FPvBQ-Aqf.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050354218230300672/vid/avc1/1280x720/k6sioMVvn9VUW904.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050354218230300672/pl/I8yHEtw3GpU0-0YM.m3u8?tag=27"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2050358354728362004",
+        "created_at": "2026-05-02T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050437584992837821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050437584992837821",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050358354728362004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 为了维持维稳系统，支出还会更高…越往后越多公共系统失效，越多隐形的苛捐杂税"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050354218230300672"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York City Police Department",
+              "id": "854851734442721280",
+              "name": "New York City Police Department"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Law Enforcement",
+              "id": "1095368797517533184",
+              "name": "Law Enforcement"
+            }
+          }
+        ],
+        "conversation_id": "2050358354728362004",
+        "created_at": "2026-05-01T23:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050358354728362004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X7rBQlObXD",
+              "end": 147,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050358354728362004/video/1",
+              "media_key": "13_2050354218230300672",
+              "start": 124,
+              "url": "https://t.co/X7rBQlObXD"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2050353321417093174",
+              "start": 148,
+              "url": "https://t.co/erMiBBPOBz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050358354728362004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 67729,
+          "like_count": 343,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050353321417093174",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这些外籍安保人员在镜头前多次推打抗议者的手机，试图阻止拍摄。\n随后抗议团队选择报警。纽约警察（NYPD）赶到现场后，领馆雇佣的保安迅速撤离。据参与者透露，NYPD警员在了解是一场和平政治表达后，对行动者表示了赞赏。抗议持续约一小时后全员安全撤退。 https://t.co/X7rBQlObXD https://t.co/erMiBBPOBz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 374,
+          "like_count": 63048,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1706
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213043,
+          "following_count": 1040,
+          "like_count": 9450,
+          "listed_count": 8709,
+          "media_count": 46103,
+          "tweet_count": 53191
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

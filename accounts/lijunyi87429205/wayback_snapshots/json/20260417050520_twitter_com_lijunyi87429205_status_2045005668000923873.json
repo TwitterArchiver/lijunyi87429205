@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2044657043156476010",
+    "created_at": "2026-04-17T05:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045005668000923873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1849409262000263168",
+          "start": 0,
+          "username": "vintage_dsk"
+        },
+        {
+          "end": 22,
+          "id": "1465701247021838341",
+          "start": 13,
+          "username": "show5560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045005668000923873",
+    "in_reply_to_user_id": "1849409262000263168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044848698447024473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vintage_dsk @show5560 我们怀念您"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2044657043156476010",
+        "created_at": "2026-04-17T05:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045005668000923873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1849409262000263168",
+              "start": 0,
+              "username": "vintage_dsk"
+            },
+            {
+              "end": 22,
+              "id": "1465701247021838341",
+              "start": 13,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045005668000923873",
+        "in_reply_to_user_id": "1849409262000263168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044848698447024473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vintage_dsk @show5560 我们怀念您"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849409262000263168",
+        "conversation_id": "2044657043156476010",
+        "created_at": "2026-04-16T18:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044848698447024473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1465701247021838341",
+              "start": 0,
+              "username": "show5560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044848698447024473",
+        "in_reply_to_user_id": "1465701247021838341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 161,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044657043156476010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@show5560 石村号没听过，我选择探索未知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 387,
+          "like_count": 61055,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1542
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T11:15:21.000Z",
+        "description": "这里没有认识我的人，所以我来这里发点牢骚",
+        "id": "1849409262000263168",
+        "name": "vintagee",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849409339792019456/s0dFSlag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 128,
+          "like_count": 1189,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 305
+        },
+        "username": "vintage_dsk",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T15:16:36.000Z",
+        "description": "06 #男娘 ---努力的还债中.jpg /162cm/58kg 减肥中.jpg/会发日常的喵/目前正在努力的学习绘画/ 看到蓝勾会回的",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 3,
+                "tag": "男娘"
+              }
+            ]
+          }
+        },
+        "id": "1465701247021838341",
+        "location": "努力追寻的方向",
+        "name": "沐安ねこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038417721428475904/rQnutn9R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 1358,
+          "like_count": 25328,
+          "listed_count": 5,
+          "media_count": 510,
+          "tweet_count": 5695
+        },
+        "username": "show5560",
+        "verified": true
+      }
+    ]
+  }
+}

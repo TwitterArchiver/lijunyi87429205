@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1975398928041574559",
+    "created_at": "2025-10-07T15:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T16:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975584808647401899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1692136120027320320",
+          "start": 0,
+          "username": "AlbertIsCypress"
+        },
+        {
+          "end": 33,
+          "id": "1847778949272584192",
+          "start": 17,
+          "username": "jingsheng237248"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975584808647401899",
+    "in_reply_to_user_id": "1692136120027320320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975498894336532809",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlbertIsCypress @jingsheng237248 这是伦理上的解法，要是生物科学上再进步个几十年，生物意义上的也不是不可能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1975398928041574559",
+        "created_at": "2025-10-07T15:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T16:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975584808647401899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1692136120027320320",
+              "start": 0,
+              "username": "AlbertIsCypress"
+            },
+            {
+              "end": 33,
+              "id": "1847778949272584192",
+              "start": 17,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975584808647401899",
+        "in_reply_to_user_id": "1692136120027320320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975498894336532809",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlbertIsCypress @jingsheng237248 这是伦理上的解法，要是生物科学上再进步个几十年，生物意义上的也不是不可能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692136120027320320",
+        "conversation_id": "1975398928041574559",
+        "created_at": "2025-10-07T09:50:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T10:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975498894336532809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1847778949272584192",
+              "start": 0,
+              "username": "jingsheng237248"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975498894336532809",
+        "in_reply_to_user_id": "1847778949272584192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 584,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975398928041574559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingsheng237248 step1：生个儿子\nstep2：让你父母离婚。\nstep3：把儿子养大以后让你儿子操你妈\nbingo。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 355,
+          "like_count": 36597,
+          "listed_count": 8,
+          "media_count": 19,
+          "tweet_count": 697
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T11:27:49.000Z",
+        "description": "低浮上|不是人类不说人话&精神(不是情绪)状态是量子叠加态|成分复杂关注请谨慎|INFJ sp/so5w6|Median系统|分裂情感性精神病&阿斯伯格|无性恋&泛浪漫|误block致歉|看我不爽建议您去死捏|第二人格@theLostCypress",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "theLostCypress"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/OyZXUu3",
+                "end": 23,
+                "expanded_url": "https://b23.tv/OyZXUu3",
+                "start": 0,
+                "url": "https://t.co/oROirNnIey"
+              }
+            ]
+          }
+        },
+        "id": "1692136120027320320",
+        "location": "星期八",
+        "name": "住在星期八的柏树7.0【#INSANE】",
+        "pinned_tweet_id": "1965435278488903800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965431647366774786/86s4Wmng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1189,
+          "like_count": 34356,
+          "listed_count": 7,
+          "media_count": 1532,
+          "tweet_count": 10254
+        },
+        "url": "https://t.co/oROirNnIey",
+        "username": "AlbertIsCypress",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-19T23:17:00.000Z",
+        "description": "#OKX 开户https://t.co/ZUWcynIsjA \n#Coinbase 开户https://t.co/uabUhfmcpV \n#Binance #币安 开户 https://t.co/2mJHQObDAT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 4,
+                "start": 0,
+                "tag": "OKX"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "Coinbase"
+              },
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "Binance"
+              },
+              {
+                "end": 81,
+                "start": 78,
+                "tag": "币安"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/join/72922796",
+                "end": 30,
+                "expanded_url": "http://okx.com/join/72922796",
+                "start": 7,
+                "url": "https://t.co/ZUWcynIsjA"
+              },
+              {
+                "display_url": "advanced.coinbase.com/join/U4THL45",
+                "end": 67,
+                "expanded_url": "http://advanced.coinbase.com/join/U4THL45",
+                "start": 44,
+                "url": "https://t.co/uabUhfmcpV"
+              },
+              {
+                "display_url": "binance.us/universal_JHHG…",
+                "end": 108,
+                "expanded_url": "http://www.binance.us/universal_JHHGDSKDJ/auth/registration?ref=614050518",
+                "start": 85,
+                "url": "https://t.co/2mJHQObDAT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/naofujiang",
+                "end": 23,
+                "expanded_url": "http://t.me/naofujiang",
+                "start": 0,
+                "url": "https://t.co/mQSW9mc9Eh"
+              }
+            ]
+          }
+        },
+        "id": "1847778949272584192",
+        "name": "脑斧酱",
+        "pinned_tweet_id": "1975346261793604048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873060612315455488/mf2pvdmw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14339,
+          "following_count": 14090,
+          "like_count": 7030,
+          "listed_count": 26,
+          "media_count": 923,
+          "tweet_count": 4213
+        },
+        "url": "https://t.co/mQSW9mc9Eh",
+        "username": "jingsheng237248",
+        "verified": false
+      }
+    ]
+  }
+}

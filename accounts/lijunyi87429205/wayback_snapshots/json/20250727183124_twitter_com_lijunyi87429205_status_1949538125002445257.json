@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1949078388737560784",
+    "created_at": "2025-07-27T18:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-27T19:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1949538125002445257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509939466101825542",
+          "start": 0,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1949538125002445257",
+    "in_reply_to_user_id": "1509939466101825542",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949078388737560784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22HomoPoliticus 一直都很公正高质量的政论，实在是难得的品质。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1949078388737560784",
+        "created_at": "2025-07-27T18:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T19:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1949538125002445257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949538125002445257",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949078388737560784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 一直都很公正高质量的政论，实在是难得的品质。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1509939466101825542",
+        "conversation_id": "1949078388737560784",
+        "created_at": "2025-07-26T12:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-26T13:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949078388737560784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/22HomoPoliticu…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1948855053231481197",
+              "start": 71,
+              "url": "https://t.co/kETLEEuI6X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949078388737560784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从根本上讲观念闭塞和知识体系封闭就是一种独裁土壤。你扒开任何一个喜欢党同伐异的人的皮囊，在里面都住着一个喜怒无常的暴君。\n\n还要再追加一句：\n\n观念闭塞、知识体系封闭、喜欢搞党同伐异的人不但凭空制造无数敌人，他们自己也是别人的敌人。因为无穷无尽地制造敌人和内斗，这样的人迟早也会是社会运动和民权运动的敌人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7617,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948855053231481197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从根本上讲观念闭塞和知识体系封闭就是一种独裁土壤。你扒开任何一个喜欢党同伐异的人的皮囊，在里面都住着一个喜怒无常的暴君。\n\n还要再追加一句： https://t.co/kETLEEuI6X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 317,
+          "like_count": 29228,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 510
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1948855053231481197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83055,
+          "following_count": 485,
+          "like_count": 104477,
+          "listed_count": 525,
+          "media_count": 7751,
+          "tweet_count": 23996
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

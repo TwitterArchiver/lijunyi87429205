@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2053285225720058238",
+    "created_at": "2026-05-10T02:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T03:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053303992198029483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053303992198029483",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053285225720058238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 思维的灵活似乎在厨艺上也有展现w，狐的餐食新颖又美味的样子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2053285219369988096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH68BzsbsAAmIHS.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2053285220066238464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH68B2SboAAzs5z.jpg",
+        "width": 2048
+      },
+      {
+        "height": 922,
+        "media_key": "3_2053285219789352960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH68B1QasAAA6Zr.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053285219571277825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH68B0cbIAEkWZf.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2053285225720058238",
+        "created_at": "2026-05-10T02:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T03:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053303992198029483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053303992198029483",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053285225720058238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 思维的灵活似乎在厨艺上也有展现w，狐的餐食新颖又美味的样子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053285219369988096",
+            "3_2053285220066238464",
+            "3_2053285219789352960",
+            "3_2053285219571277825"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053285225720058238",
+        "created_at": "2026-05-10T01:25:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T02:25:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053285225720058238"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "狐食"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQvaIHvc7e",
+              "end": 113,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2053285225720058238/photo/1",
+              "media_key": "3_2053285219369988096",
+              "start": 90,
+              "url": "https://t.co/PQvaIHvc7e"
+            },
+            {
+              "display_url": "pic.x.com/PQvaIHvc7e",
+              "end": 113,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2053285225720058238/photo/1",
+              "media_key": "3_2053285220066238464",
+              "start": 90,
+              "url": "https://t.co/PQvaIHvc7e"
+            },
+            {
+              "display_url": "pic.x.com/PQvaIHvc7e",
+              "end": 113,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2053285225720058238/photo/1",
+              "media_key": "3_2053285219789352960",
+              "start": 90,
+              "url": "https://t.co/PQvaIHvc7e"
+            },
+            {
+              "display_url": "pic.x.com/PQvaIHvc7e",
+              "end": 113,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2053285225720058238/photo/1",
+              "media_key": "3_2053285219571277825",
+              "start": 90,
+              "url": "https://t.co/PQvaIHvc7e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053285225720058238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早餐!\n羊肚菌茶碗蒸，甘竹牌豆豉鲮鱼，牛油果油醋拌黄瓜甜椒洋葱，主食是稠度适中的白粥(经过人工后置调校)\n均衡，清爽而美味的一餐😋\n(虽然茶碗蒸有点过火，但是味道很好喵)\n#狐食 https://t.co/PQvaIHvc7e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 377,
+          "like_count": 64271,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 1827
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1523,
+          "like_count": 18782,
+          "listed_count": 7,
+          "media_count": 671,
+          "tweet_count": 5990
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

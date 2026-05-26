@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1988830738465063033",
+    "created_at": "2025-11-13T13:45:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T14:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988966490448789694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1728464821501489152",
+          "start": 0,
+          "username": "theLostCypress"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988966490448789694",
+    "in_reply_to_user_id": "1728464821501489152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988830738465063033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@theLostCypress 完全是无妄之灾嘛，这像是撞上网络巨魔了，倒霉事一个接一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_1988830734937911298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5m_BCJacAIj3cP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1988830738465063033",
+        "created_at": "2025-11-13T13:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T14:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988966490448789694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1728464821501489152",
+              "start": 0,
+              "username": "theLostCypress"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988966490448789694",
+        "in_reply_to_user_id": "1728464821501489152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988830738465063033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@theLostCypress 完全是无妄之灾嘛，这像是撞上网络巨魔了，倒霉事一个接一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988830734937911298"
+          ]
+        },
+        "author_id": "1728464821501489152",
+        "conversation_id": "1988830738465063033",
+        "created_at": "2025-11-13T04:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T05:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988830738465063033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V07Rw95ach",
+              "end": 167,
+              "expanded_url": "https://x.com/theLostCypress/status/1988830738465063033/photo/1",
+              "media_key": "3_1988830734937911298",
+              "start": 144,
+              "url": "https://t.co/V07Rw95ach"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988830738465063033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 747,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "免得真有那没脑子的被你带偏，我就解释一下你对我的所有造谣行为的真相吧。\n1.首先你造谣我把我开了，根本没证据的。你要是能把谁开出来身份证照片早就满天飞了。\n2.说我爹妈是高官后面又说电话联系到我妈了还能让我妈听你的了，如果你是开盒开到的你打过去会有人接吗？高官的私人号从来不对外知道吗？ https://t.co/V07Rw95ach"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 387,
+          "like_count": 40242,
+          "listed_count": 8,
+          "media_count": 22,
+          "tweet_count": 792
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T17:25:28.000Z",
+        "description": "这里充斥着红色的血和黑色的血。吸血鬼|幽灵|面具杀人狂|冷血|反社会|偏执|腹黑|记仇|伪装|嗜血|自残|贪婪|懒惰|无任何裸露内容。",
+        "id": "1728464821501489152",
+        "location": "ABYSS OF DESPAIR",
+        "name": "Albert with Lilith Tsubakiyama【#NYCTOPHILIA】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802203882497671168/dnrKWNNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 201,
+          "like_count": 577,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 255
+        },
+        "username": "theLostCypress",
+        "verified": false
+      }
+    ]
+  }
+}

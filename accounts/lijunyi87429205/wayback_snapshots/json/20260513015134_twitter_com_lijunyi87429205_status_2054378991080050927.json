@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2054301779073085610",
+    "created_at": "2026-05-13T01:51:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T02:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054378991080050927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054378991080050927",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054301779073085610",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 我就很“机味”不是吗ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2054301779073085610",
+        "created_at": "2026-05-13T01:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T02:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054378991080050927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054378991080050927",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054301779073085610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 我就很“机味”不是吗ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2054301779073085610",
+        "created_at": "2026-05-12T20:44:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T21:44:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054301779073085610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jewel_Penelope…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/Jewel_Penelopec/status/2054299627588079927",
+              "start": 105,
+              "url": "https://t.co/CvpElnemas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054301779073085610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054299627588079927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "酒神的，诗性的；君不见无秩序才是人性的彰显啊？好像和魂游里的'人性过载而导致癫狂'类似.. \n欲问如何把妹？- 你只要会发疯就行了.. “不喜欢老实人(a.k.a. 呆板的、死板的、固化,乃至'机味'..)” https://t.co/CvpElnemas"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 377,
+          "like_count": 64690,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 1875
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "pinned_tweet_id": "1918330143074131977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 291,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 903,
+          "tweet_count": 14478
+        },
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2049724435989742009",
+    "created_at": "2026-04-30T08:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049764750532436057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049764750532436057",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049724435989742009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 漂亮，想买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2049724432692989952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIVgvoa0AA9Woa.jpg",
+        "width": 1533
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2049724432210661376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIVgt1bEAAcfDm.jpg",
+        "width": 1533
+      },
+      {
+        "height": 748,
+        "media_key": "3_2049724431015239680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHIVgpYaYAAe-Ou.jpg",
+        "width": 1314
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2049724435989742009",
+        "created_at": "2026-04-30T08:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049764750532436057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049764750532436057",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049724435989742009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 漂亮，想买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049724432692989952",
+            "3_2049724432210661376",
+            "3_2049724431015239680"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049724435989742009",
+        "created_at": "2026-04-30T05:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T06:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049724435989742009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPWj5FWnUa",
+              "end": 165,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2049724435989742009/photo/1",
+              "media_key": "3_2049724432692989952",
+              "start": 142,
+              "url": "https://t.co/BPWj5FWnUa"
+            },
+            {
+              "display_url": "pic.x.com/BPWj5FWnUa",
+              "end": 165,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2049724435989742009/photo/1",
+              "media_key": "3_2049724432210661376",
+              "start": 142,
+              "url": "https://t.co/BPWj5FWnUa"
+            },
+            {
+              "display_url": "pic.x.com/BPWj5FWnUa",
+              "end": 165,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2049724435989742009/photo/1",
+              "media_key": "3_2049724431015239680",
+              "start": 142,
+              "url": "https://t.co/BPWj5FWnUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049724435989742009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉簪子插头发的这个结构就很好看这样w\nbtw，传递一下狐设计的簪子喵，SLA打印的簪子仅喷涂镭雕无氚管60米一支，安装两根氚管160米一支\n铝合金阳极氧化CNC+镭雕粉末喷涂+氚管顶配工艺700米一支\n三种配置都带硬质合金破窗锥\n半金预订，一个月后发车喵(\n最终版设计图在P3🧐👉 https://t.co/BPWj5FWnUa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 377,
+          "like_count": 62626,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1666
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1512,
+          "like_count": 17833,
+          "listed_count": 4,
+          "media_count": 623,
+          "tweet_count": 5655
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

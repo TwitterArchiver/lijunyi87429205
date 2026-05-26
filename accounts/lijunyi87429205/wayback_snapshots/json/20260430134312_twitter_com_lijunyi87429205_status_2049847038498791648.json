@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2049818871012773997",
+    "created_at": "2026-04-30T13:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T14:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049847038498791648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049847038498791648",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049818871012773997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox 狐一直在为自己的特质道歉呢www如果把自己的一部分当作缺陷，会很难生活吧？稍微对自己宽容一点也好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2049818871012773997",
+        "created_at": "2026-04-30T13:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T14:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049847038498791648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049847038498791648",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049818871012773997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox 狐一直在为自己的特质道歉呢www如果把自己的一部分当作缺陷，会很难生活吧？稍微对自己宽容一点也好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2049818871012773997",
+        "created_at": "2026-04-30T11:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049818871012773997"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049818871012773997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "狐...很冷漠吗(\n这个观点似乎不无道理...狐完全不擅长「接住他人的情绪」或是回应一些狐完全想不到「建设性回答」的问题><\n就连这些帖子，清洗掉那些套路化的模板，也是很「干硬」的\n狐如果不理您，已读不回什么的\n真的不是狐在讨厌您...只是您最后抛出那个话题狐完全接不上，，，\n狐完全没法处理以下三个维度都为零的访问请求:\na.狐对此感兴趣/已经了解这个领域\nb.此事与狐有直接责任关系\nc.狐有能力解决这个问题(哪怕与狐无关狐也很乐于帮助您)\n所以...对不起，真的🙇🙇🙇\n狐完全不会接话或者small talk什么的，也不太会安慰人或理解复杂情感><\n如果您需要对于事件/人物的逻辑分析，或是寻求一个解决方案，那么找狐是对的\n如果您需要的不是一段逻辑/一段答案/一个操作手册/一个明确的需求目标，那么狐真的真的很难接下去😭😭😭\n完全人格缺陷来的...感觉这些很难，狐也不喜欢\n目前为止这世界上重要到让狐克服困难也要尽量接续无法理解的话题的人不超过五个，，，\n狐真的很抱歉🙇🙇🙇\n由于产品缺陷为各位带来了糟糕的使用体验...狐给您跪了🙇🙇🙇"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狐...很冷漠吗(\n这个观点似乎不无道理...狐完全不擅长「接住他人的情绪」或是回应一些狐完全想不到「建设性回答」的问题&gt;&lt;\n就连这些帖子，清洗掉那些套路化的模板，也是很「干硬」的\n狐如果不理您，已读不回什么的\n真的不是狐在讨厌您...只是您最后抛出那个话题狐完全接不上，，，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 376,
+          "like_count": 62689,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1670
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2029634600147018027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014282980437434368/FxOUZWSV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1511,
+          "like_count": 17858,
+          "listed_count": 4,
+          "media_count": 624,
+          "tweet_count": 5668
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

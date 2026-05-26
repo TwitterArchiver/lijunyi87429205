@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049798777410584576"
+      ],
+      "media_source_tweet_id": [
+        "2049798841223020649"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2050115760618639372",
+    "created_at": "2026-05-01T07:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050115760618639372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1255191384207888389",
+          "start": 3,
+          "username": "depressionlesss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TLf67O2GGZ",
+          "end": 44,
+          "expanded_url": "https://x.com/depressionlesss/status/2049798841223020649/video/1",
+          "media_key": "13_2049798777410584576",
+          "start": 21,
+          "url": "https://t.co/TLf67O2GGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050115760618639372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2478
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049798841223020649",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @depressionlesss: https://t.co/TLf67O2GGZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31484,
+        "height": 652,
+        "media_key": "13_2049798777410584576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049798777410584576/img/kjkdqutTssPBLPml.jpg",
+        "public_metrics": {
+          "view_count": 123265
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049798777410584576/vid/avc1/298x270/yW0Xjbt1aho33BWh.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049798777410584576/vid/avc1/396x360/mO__1up1RBL-azGz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049798777410584576/vid/avc1/720x652/QlunWNHrMstSG6R6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049798777410584576/pl/-g8zR3IvyPOKGe7V.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049798777410584576"
+          ],
+          "media_source_tweet_id": [
+            "2049798841223020649"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2050115760618639372",
+        "created_at": "2026-05-01T07:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050115760618639372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1255191384207888389",
+              "start": 3,
+              "username": "depressionlesss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLf67O2GGZ",
+              "end": 44,
+              "expanded_url": "https://x.com/depressionlesss/status/2049798841223020649/video/1",
+              "media_key": "13_2049798777410584576",
+              "start": 21,
+              "url": "https://t.co/TLf67O2GGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050115760618639372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2478
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049798841223020649",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @depressionlesss: https://t.co/TLf67O2GGZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049798777410584576"
+          ]
+        },
+        "author_id": "1255191384207888389",
+        "conversation_id": "2049798841223020649",
+        "created_at": "2026-04-30T10:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T11:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049798841223020649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLf67O2GGZ",
+              "end": 23,
+              "expanded_url": "https://x.com/depressionlesss/status/2049798841223020649/video/1",
+              "media_key": "13_2049798777410584576",
+              "start": 0,
+              "url": "https://t.co/TLf67O2GGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049798841223020649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2599,
+          "impression_count": 311591,
+          "like_count": 24992,
+          "quote_count": 75,
+          "reply_count": 54,
+          "retweet_count": 2478
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TLf67O2GGZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 377,
+          "like_count": 62867,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1683
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-28T17:45:33.000Z",
+        "description": "Follow for daily cute content 😺🩶 All copyrights belong to their respective owners. DM for credits/removal/submission.",
+        "id": "1255191384207888389",
+        "name": "Antidepressant Content",
+        "pinned_tweet_id": "2048594230507938178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734564468342796288/QvSbuN-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366651,
+          "following_count": 5592,
+          "like_count": 105144,
+          "listed_count": 805,
+          "media_count": 14903,
+          "tweet_count": 24741
+        },
+        "username": "depressionlesss",
+        "verified": true
+      }
+    ]
+  }
+}

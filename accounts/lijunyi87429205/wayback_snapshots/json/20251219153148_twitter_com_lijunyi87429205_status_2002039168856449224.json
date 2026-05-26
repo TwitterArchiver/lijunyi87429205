@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2002038775472631899",
+    "created_at": "2025-12-19T15:31:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:31:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002039168856449224"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2002039168856449224",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002038775472631899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而就算在现在，我也唯恐搅扰他人的夜晚，不知道该怎样开始一段友谊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 406,
+        "media_key": "3_2002038761350483968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8irpWzb0AATpyk.png",
+        "width": 624
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2002038775472631899",
+        "created_at": "2025-12-19T15:31:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:31:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002039168856449224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002039168856449224",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002038775472631899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而就算在现在，我也唯恐搅扰他人的夜晚，不知道该怎样开始一段友谊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002038761350483968"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2002038775472631899",
+        "created_at": "2025-12-19T15:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002038775472631899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kM6fMgSlgD",
+              "end": 39,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2002038775472631899/photo/1",
+              "media_key": "3_2002038761350483968",
+              "start": 16,
+              "url": "https://t.co/kM6fMgSlgD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002038775472631899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日记十二月十九日，第一个发薪日 https://t.co/kM6fMgSlgD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 406,
+          "like_count": 46427,
+          "listed_count": 8,
+          "media_count": 26,
+          "tweet_count": 897
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

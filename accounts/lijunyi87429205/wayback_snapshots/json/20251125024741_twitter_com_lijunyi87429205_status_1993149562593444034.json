@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993136742275465218",
+        "3_1993137987799203841",
+        "3_1993138181546688512",
+        "3_1993138224215326720"
+      ],
+      "media_source_tweet_id": [
+        "1993138536560918900",
+        "1993138536560918900",
+        "1993138536560918900",
+        "1993138536560918900"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1993149562593444034",
+    "created_at": "2025-11-25T02:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T03:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993149562593444034"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Henry Patrick Clarke",
+          "probability": 0.8615,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2344358742",
+          "start": 3,
+          "username": "0zmnds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rSBI1fJpqo",
+          "end": 62,
+          "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+          "media_key": "3_1993136742275465218",
+          "start": 39,
+          "url": "https://t.co/rSBI1fJpqo"
+        },
+        {
+          "display_url": "pic.x.com/rSBI1fJpqo",
+          "end": 62,
+          "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+          "media_key": "3_1993137987799203841",
+          "start": 39,
+          "url": "https://t.co/rSBI1fJpqo"
+        },
+        {
+          "display_url": "pic.x.com/rSBI1fJpqo",
+          "end": 62,
+          "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+          "media_key": "3_1993138181546688512",
+          "start": 39,
+          "url": "https://t.co/rSBI1fJpqo"
+        },
+        {
+          "display_url": "pic.x.com/rSBI1fJpqo",
+          "end": 62,
+          "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+          "media_key": "3_1993138224215326720",
+          "start": 39,
+          "url": "https://t.co/rSBI1fJpqo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993149562593444034",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993138536560918900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0zmnds: Henry Patrick Clarke\nFaust https://t.co/rSBI1fJpqo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2802,
+        "media_key": "3_1993136742275465218",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kLTpgbwAIwo5U.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1466,
+        "media_key": "3_1993137987799203841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kMcJcbwAEwHAN.png",
+        "width": 960
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1993138181546688512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kMnbNbwAAE6pY.jpg",
+        "width": 2974
+      },
+      {
+        "height": 927,
+        "media_key": "3_1993138224215326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6kMp6KbgAA95zt.jpg",
+        "width": 1209
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993136742275465218",
+            "3_1993137987799203841",
+            "3_1993138181546688512",
+            "3_1993138224215326720"
+          ],
+          "media_source_tweet_id": [
+            "1993138536560918900",
+            "1993138536560918900",
+            "1993138536560918900",
+            "1993138536560918900"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1993149562593444034",
+        "created_at": "2025-11-25T02:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993149562593444034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Henry Patrick Clarke",
+              "probability": 0.8615,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2344358742",
+              "start": 3,
+              "username": "0zmnds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 62,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993136742275465218",
+              "start": 39,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 62,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993137987799203841",
+              "start": 39,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 62,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993138181546688512",
+              "start": 39,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 62,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993138224215326720",
+              "start": 39,
+              "url": "https://t.co/rSBI1fJpqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993149562593444034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993138536560918900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0zmnds: Henry Patrick Clarke\nFaust https://t.co/rSBI1fJpqo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993136742275465218",
+            "3_1993137987799203841",
+            "3_1993138181546688512",
+            "3_1993138224215326720"
+          ]
+        },
+        "author_id": "2344358742",
+        "conversation_id": "1993138536560918900",
+        "created_at": "2025-11-25T02:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T03:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993138536560918900"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Henry Patrick Clarke\nFaust",
+              "probability": 0.7641,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 50,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993136742275465218",
+              "start": 27,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 50,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993137987799203841",
+              "start": 27,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 50,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993138181546688512",
+              "start": 27,
+              "url": "https://t.co/rSBI1fJpqo"
+            },
+            {
+              "display_url": "pic.x.com/rSBI1fJpqo",
+              "end": 50,
+              "expanded_url": "https://x.com/0zmnds/status/1993138536560918900/photo/1",
+              "media_key": "3_1993138224215326720",
+              "start": 27,
+              "url": "https://t.co/rSBI1fJpqo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993138536560918900",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 1871,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Henry Patrick Clarke\nFaust https://t.co/rSBI1fJpqo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 408,
+          "like_count": 42135,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 838
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2014-02-15T01:26:53.000Z",
+        "description": "Curator Own none of the images posted",
+        "id": "2344358742",
+        "location": "Montségur",
+        "name": "Ozymandias𓆏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1451237715588964355/XQO75YIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236032,
+          "following_count": 1001,
+          "like_count": 82102,
+          "listed_count": 1662,
+          "media_count": 58868,
+          "tweet_count": 60902
+        },
+        "username": "0zmnds",
+        "verified": true
+      }
+    ]
+  }
+}

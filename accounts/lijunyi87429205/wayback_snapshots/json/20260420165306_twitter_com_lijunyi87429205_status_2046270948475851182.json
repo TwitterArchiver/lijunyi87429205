@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2046268882944479516",
+    "created_at": "2026-04-20T16:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046270948475851182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1954601288462979072",
+          "start": 0,
+          "username": "cut33guy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046270948475851182",
+    "in_reply_to_user_id": "1954601288462979072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046268882944479516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cut33guy 本来是“营业-生活-内心碎碎念”？但好像后面两个号稍微有些混淆了（也难免吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2046268882944479516",
+        "created_at": "2026-04-20T16:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046270948475851182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1954601288462979072",
+              "start": 0,
+              "username": "cut33guy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046270948475851182",
+        "in_reply_to_user_id": "1954601288462979072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046268882944479516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cut33guy 本来是“营业-生活-内心碎碎念”？但好像后面两个号稍微有些混淆了（也难免吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1954601288462979072",
+        "conversation_id": "2046268882944479516",
+        "created_at": "2026-04-20T16:44:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:44:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046268882944479516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046268882944479516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉玩三个号玩得我很精神分裂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 386,
+          "like_count": 61680,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1593
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-10T17:50:50.000Z",
+        "description": "只是在装模作样",
+        "id": "1954601288462979072",
+        "name": "善良老猪孩",
+        "pinned_tweet_id": "2043599983669366964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040427390321790976/qbc6ItC7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 0,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 599
+        },
+        "username": "cut33guy",
+        "verified": false
+      }
+    ]
+  }
+}

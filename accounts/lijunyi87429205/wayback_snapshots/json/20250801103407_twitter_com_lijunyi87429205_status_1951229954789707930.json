@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1951222904743403909",
+    "created_at": "2025-08-01T10:34:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T11:34:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951229954789707930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1509939466101825542",
+          "start": 0,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951229954789707930",
+    "in_reply_to_user_id": "1509939466101825542",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951222904743403909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@22HomoPoliticus 不再自我欺骗，不再麻木冷漠。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 472039,
+        "height": 1280,
+        "media_key": "13_1951208796166000640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1951208796166000640/img/7KEhqXeZvtObz2pW.jpg",
+        "public_metrics": {
+          "view_count": 446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951208796166000640/vid/avc1/320x568/CKW8bnX7xQ6cb2zO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951208796166000640/vid/avc1/480x852/92WrtJNHART3aYUm.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1951208796166000640/vid/avc1/720x1280/2zFS0rp2shc83ang.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1951208796166000640/pl/fWn477GEnhae6j1b.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1951222904743403909",
+        "created_at": "2025-08-01T10:34:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:34:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951229954789707930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951229954789707930",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951222904743403909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus 不再自我欺骗，不再麻木冷漠。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1951208796166000640"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1951222904743403909",
+        "created_at": "2025-08-01T10:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T11:01:53.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1951221842103964118",
+          "1951222726590431470",
+          "1951222904743403909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aUVJ0kPv8K",
+              "end": 130,
+              "expanded_url": "https://x.com/22HomoPoliticus/status/1951222904743403909/video/1",
+              "media_key": "13_1951208796166000640",
+              "start": 107,
+              "url": "https://t.co/aUVJ0kPv8K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951222904743403909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《小事丧办：中国人的滥情》\n\n中国的正能量叙事是所有马列主义政权通病。除了虚假的正能量宣传以外，这些政权还要树立一批同样伪善的共产主义道德模范和劳动模范。还有就是抓住一切机会，利用公共事件和虚假宣传制造过度滥情。\n\n朝鲜人在看见领袖的时候，经常在镜头面前哭，他们并不一定是装出来的：他们是真的过度滥情。\n\n不要以为中国和其他前共产主义国家就不存在这些通病，这些国家一样滥情。捷克小说家米兰·昆德拉就经常批评“滥情”（Kitsch）。滥情是一种逃避主义，用虚假的、浮于表面的过度感伤，来解释生活的复杂性和回避社会问题。\n\n但这些共产主义国家为什么这么执迷于滥情呢？除了滥情有助于回避问题、转移矛盾和压制个体之外，米兰·昆德拉认为马列主义政权对共产主义的描述，本身就是一种政治滥情。\n\n尤其是对所谓阶级压迫和境外敌对势力的过度滥情，还为社会暴力跟报复社会大开绿灯：那些大义凛然地大批处决“反动派”的暴民每个人都一样滥情，他们不但把自己幻想成最委屈的受压迫者，还把一切社会问题归结于没有全部处决所谓“反动派”。\n\n在日常生活中滥情就更常见。滥情不仅给虚假正能量宣传提供养分，还给道德伪善、言行不一、表里不一创造生存土壤。中国人最熟悉的两种手段莫过于“坟头蹦迪”和“丧事喜办”，还有一种就是故意用煽情的配乐、镜头语言或叙事制造催泪效果，这就是狭义的滥情，可以说是“小事丧办”的典型。\n\n对于马列主义政权来说，你躲得过正能量，不一定躲得过滥情，总有一款宣传是为你量身定做的。你不会看见国家领导人就在镜头面前哭得死去活来，但是你看到打鸡血的反美、抗日、爱国影片你也一样很难抵抗泪崩：因为它们的叙事结构就是政治滥情。\n\n另外，我们也注意到，过度抵制滥情也出现了一个极端，那就是怀疑一切和玩世不恭的犬儒态度，这个极端走向了同理心、同情心丧失的灾难性结局。\n\n在滥情和丧失同情心这两个极端之间持中，並沒有想象的那么难。它只要求你做个冷静但是有血有肉、有情有义的普通人，不浮夸、常自省、站在他人角度看问题……做一个有人情味的人其实没有那么难。\n\n在极端情绪之间来回滑动，一会儿情绪控制不住、一会儿情绪控制太死，一会儿滥情、一会儿绝情，这并不是一个身心健康的人该做的事情。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1060,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "《小事丧办：中国人的滥情》\n\n中国的正能量叙事是所有马列主义政权通病。除了虚假的正能量宣传以外，这些政权还要树立一批同样伪善的共产主义道德模范和劳动模范。还有就是抓住一切机会，利用公共事件和虚假宣传制造过度滥情。 https://t.co/aUVJ0kPv8K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意洵",
+        "pinned_tweet_id": "1933038960777032178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 307,
+          "like_count": 29595,
+          "listed_count": 8,
+          "media_count": 9,
+          "tweet_count": 518
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1948855053231481197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83135,
+          "following_count": 485,
+          "like_count": 104695,
+          "listed_count": 524,
+          "media_count": 7763,
+          "tweet_count": 24015
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2037832755891916937",
+    "created_at": "2026-03-29T14:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038265426514477299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497481140915290115",
+          "start": 0,
+          "username": "karasu_ga_warau"
+        },
+        {
+          "end": 33,
+          "id": "1714100357582770176",
+          "start": 17,
+          "username": "YesterdayBigcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038265426514477299",
+    "in_reply_to_user_id": "1497481140915290115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037832755891916937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasu_ga_warau @YesterdayBigcat 中共系常用的再低级不过的诡辩把戏…用在各种地方都“成立”就像“你亲眼见过核弹爆炸吗？核弹其实不存在！”“你亲眼见过圆形的地球吗？地球其实是平面！”"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64500,
+        "height": 1920,
+        "media_key": "7_2037211827038208000",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037211827038208000/pu/img/l0E44Wiseo9m1wL7.jpg",
+        "public_metrics": {
+          "view_count": 121823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037211827038208000/pu/vid/avc1/720x1280/J6G4dssniTyAbxSR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037211827038208000/pu/vid/avc1/480x852/AQxqzKk8YSfkVC1c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037211827038208000/pu/vid/avc1/1080x1920/lkrR8cD53-kupcOb.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037211827038208000/pu/vid/avc1/320x568/rV_J3zM2owkOczw6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037211827038208000/pu/pl/_RVDPFG3sbtQlRKN.m3u8?v=a24"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2037832755891916937",
+        "created_at": "2026-03-29T14:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038265426514477299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497481140915290115",
+              "start": 0,
+              "username": "karasu_ga_warau"
+            },
+            {
+              "end": 33,
+              "id": "1714100357582770176",
+              "start": 17,
+              "username": "YesterdayBigcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038265426514477299",
+        "in_reply_to_user_id": "1497481140915290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037832755891916937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasu_ga_warau @YesterdayBigcat 中共系常用的再低级不过的诡辩把戏…用在各种地方都“成立”就像“你亲眼见过核弹爆炸吗？核弹其实不存在！”“你亲眼见过圆形的地球吗？地球其实是平面！”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037211827038208000"
+          ],
+          "media_source_tweet_id": [
+            "2037211976083112076"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "conversation_id": "2037832755891916937",
+        "created_at": "2026-03-28T10:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037832755891916937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4gL2uOVBd",
+              "end": 23,
+              "expanded_url": "https://x.com/MikeGuglielmin/status/2037211976083112076/video/1",
+              "media_key": "7_2037211827038208000",
+              "start": 0,
+              "url": "https://t.co/E4gL2uOVBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037832755891916937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 221,
+                "start": 216,
+                "tag": "維吾爾人"
+              },
+              {
+                "end": 229,
+                "start": 224,
+                "tag": "監獄囚犯"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/MikeGuglielmin…",
+                "end": 23,
+                "expanded_url": "https://x.com/MikeGuglielmin/status/2037211976083112076/video/1",
+                "start": 0,
+                "url": "https://t.co/igP2cDJ7ae"
+              }
+            ]
+          },
+          "text": "https://t.co/igP2cDJ7ae\n\n加拿大議員 Michael Ma 馬榮錚在辯論中公開質疑新疆存在強迫勞動，反問對手「你是否去過新疆/親眼見過強迫勞動」。\n\n這種中國式反駁還不算完。最戲劇性的是，他在受到大量批評後立刻道歉並改口稱，自己指的其實是深圳，不是新疆。然而，在整場辯論和他發出質問的語境裡，「深圳」這個地方和強迫勞動根本沒有多少關係。\n\n國際社會和人權語境下，強迫勞動議題下最突出和緊迫的受害者，一直都是 #維吾爾人 或 #監獄囚犯，而不是深圳人。但對他來說，這些都是「如何在一個重視人權的國家盡可能混淆視聽」的進攻和計算。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 21888,
+          "like_count": 71,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E4gL2uOVBd\n\n加拿大議員 Michael Ma 馬榮錚在辯論中公開質疑新疆存在強迫勞動，反問對手「你是否去過新疆/親眼見過強迫勞動」。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 373,
+          "like_count": 56959,
+          "listed_count": 8,
+          "media_count": 32,
+          "tweet_count": 1257
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28855,
+          "following_count": 1312,
+          "like_count": 9735,
+          "listed_count": 118,
+          "media_count": 558,
+          "tweet_count": 5540
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T02:06:12.000Z",
+        "description": "中国集体抗争事件记录网：https://t.co/sjVzTO6fYM\n投稿邮箱：bigorangecat2023@gmail.com\nYoutube：YesterdayBigcat\nIns：yesterdaybigorangecat\nTikTok：yesterdaybigcat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 35,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 12,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yesterdayprotests.com",
+                "end": 23,
+                "expanded_url": "https://yesterdayprotests.com",
+                "start": 0,
+                "url": "https://t.co/sjVzTO6fYM"
+              }
+            ]
+          }
+        },
+        "id": "1714100357582770176",
+        "location": "火星",
+        "name": "昨天",
+        "pinned_tweet_id": "2008435957826207815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1714101429500268544/Ga5TlrzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137919,
+          "following_count": 512,
+          "like_count": 1349,
+          "listed_count": 624,
+          "media_count": 3220,
+          "tweet_count": 4586
+        },
+        "url": "https://t.co/sjVzTO6fYM",
+        "username": "YesterdayBigcat",
+        "verified": true
+      }
+    ]
+  }
+}

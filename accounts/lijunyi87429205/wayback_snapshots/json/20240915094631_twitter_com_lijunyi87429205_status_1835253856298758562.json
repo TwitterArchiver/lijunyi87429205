@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1835253856298758562",
+    "created_at": "2024-09-15T09:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-15T10:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1835253856298758562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433584772",
+          "start": 3,
+          "username": "wangaizhong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1835253856298758562",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834535397545664535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wangaizhong: 本来是想少发几年钱，多收几年钱的。结果可能适得其反，很多人干脆选择不再交了，让本就入不敷出的养老金更加难以为继。随便他们怎么规定，你又能奈何？反正我是一分钱也不会再交了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1835253856298758562",
+        "created_at": "2024-09-15T09:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T10:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835253856298758562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433584772",
+              "start": 3,
+              "username": "wangaizhong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835253856298758562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834535397545664535",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wangaizhong: 本来是想少发几年钱，多收几年钱的。结果可能适得其反，很多人干脆选择不再交了，让本就入不敷出的养老金更加难以为继。随便他们怎么规定，你又能奈何？反正我是一分钱也不会再交了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433584772",
+        "conversation_id": "1834535397545664535",
+        "created_at": "2024-09-13T10:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T11:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834535397545664535"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834535397545664535",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 790458,
+          "like_count": 2020,
+          "quote_count": 12,
+          "reply_count": 174,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "本来是想少发几年钱，多收几年钱的。结果可能适得其反，很多人干脆选择不再交了，让本就入不敷出的养老金更加难以为继。随便他们怎么规定，你又能奈何？反正我是一分钱也不会再交了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 274,
+          "like_count": 13547,
+          "listed_count": 43,
+          "tweet_count": 403
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-16T17:12:36.000Z",
+        "description": "独立评论、写作。中国异议人士china dissident",
+        "id": "1433584772",
+        "location": "中国广州",
+        "name": "王爱忠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1056045314652729345/YSf0AeQS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43759,
+          "following_count": 1206,
+          "like_count": 2021,
+          "listed_count": 122,
+          "tweet_count": 1424
+        },
+        "username": "wangaizhong",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041143625472782337"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041143636893774215",
+    "created_at": "2026-04-06T13:19:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T14:19:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041143636893774215"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CPOesrShHk",
+          "end": 46,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2041143636893774215/photo/1",
+          "media_key": "3_2041143625472782337",
+          "start": 23,
+          "url": "https://t.co/CPOesrShHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041143636893774215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自制的蜡烛和威士忌酸，工作结束后有短暂的喘息 https://t.co/CPOesrShHk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2041143625472782337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOZUBvbsAEstBS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041143625472782337"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041143636893774215",
+        "created_at": "2026-04-06T13:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041143636893774215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CPOesrShHk",
+              "end": 46,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2041143636893774215/photo/1",
+              "media_key": "3_2041143625472782337",
+              "start": 23,
+              "url": "https://t.co/CPOesrShHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041143636893774215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自制的蜡烛和威士忌酸，工作结束后有短暂的喘息 https://t.co/CPOesrShHk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 375,
+          "like_count": 58647,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 1368
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

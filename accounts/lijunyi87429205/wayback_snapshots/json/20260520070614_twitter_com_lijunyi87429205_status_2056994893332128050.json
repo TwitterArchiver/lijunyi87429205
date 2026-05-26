@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2056650748021309931",
+    "created_at": "2026-05-20T07:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T08:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056994893332128050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056994893332128050",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056650748021309931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 活下来的人才能描述真相…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1731,
+        "media_key": "3_2056650736600322048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqw8sYbkAAOVTd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2056650748021309931",
+        "created_at": "2026-05-20T07:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T08:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056994893332128050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056994893332128050",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056650748021309931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 活下来的人才能描述真相…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056650736600322048"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2056650748021309931",
+        "created_at": "2026-05-19T08:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056650748021309931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CRe1VHkwV",
+              "end": 174,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2056650748021309931/photo/1",
+              "media_key": "3_2056650736600322048",
+              "start": 151,
+              "url": "https://t.co/5CRe1VHkwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056650748021309931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这下彻底不用吃饭了。\n\n原因补充：\n1. 孩子不是第一次离家出走，每次都躲起来，因为怕被打；\n2. 父亲把孩子送过扭转学校，孩子被打到已出现心理问题；\n3. 工作熟人推荐，孩子未成年没录用，父亲认为孩子单纯不想去，把责任推给孩子；\n4. 孩子饿了不止一顿，期间家长多次训斥；\n5. 孩子已经被打捞上岸 ，死前也没吃饭。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 208924,
+          "like_count": 998,
+          "quote_count": 23,
+          "reply_count": 61,
+          "retweet_count": 65
+        },
+        "reply_settings": "other",
+        "text": "这下彻底不用吃饭了。\n\n原因补充：\n1. 孩子不是第一次离家出走，每次都躲起来，因为怕被打；\n2. 父亲把孩子送过扭转学校，孩子被打到已出现心理问题；\n3. 工作熟人推荐，孩子未成年没录用，父亲认为孩子单纯不想去，把责任推给孩子；\n4. 孩子饿了不止一顿，期间家长多次训斥；\n5. 孩子已经被打捞上岸 https://t.co/5CRe1VHkwV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 376,
+          "like_count": 65310,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 1931
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3806,
+          "following_count": 840,
+          "like_count": 20973,
+          "listed_count": 9,
+          "media_count": 1111,
+          "tweet_count": 6223
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

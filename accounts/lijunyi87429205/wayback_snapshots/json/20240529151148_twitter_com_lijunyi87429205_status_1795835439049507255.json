@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1795484003849637888"
+      ],
+      "media_source_tweet_id": [
+        "1795484012741632328"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1795835439049507255",
+    "created_at": "2024-05-29T15:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-29T16:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795835439049507255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1535549667693367296",
+          "start": 3,
+          "username": "chenyusama_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/HCGB0naZGz",
+          "end": 75,
+          "expanded_url": "https://twitter.com/chenyusama_/status/1795484012741632328/photo/1",
+          "media_key": "3_1795484003849637888",
+          "start": 52,
+          "url": "https://t.co/HCGB0naZGz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795835439049507255",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1795484012741632328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chenyusama_: Hey bro Wait a few seconds for me！ https://t.co/HCGB0naZGz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1795484003849637888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOrXMElakAAo7mn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795484003849637888"
+          ],
+          "media_source_tweet_id": [
+            "1795484012741632328"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1795835439049507255",
+        "created_at": "2024-05-29T15:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-29T16:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795835439049507255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1535549667693367296",
+              "start": 3,
+              "username": "chenyusama_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HCGB0naZGz",
+              "end": 75,
+              "expanded_url": "https://twitter.com/chenyusama_/status/1795484012741632328/photo/1",
+              "media_key": "3_1795484003849637888",
+              "start": 52,
+              "url": "https://t.co/HCGB0naZGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795835439049507255",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "1795484012741632328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chenyusama_: Hey bro Wait a few seconds for me！ https://t.co/HCGB0naZGz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1795484003849637888"
+          ]
+        },
+        "author_id": "1535549667693367296",
+        "conversation_id": "1795484012741632328",
+        "created_at": "2024-05-28T15:55:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T16:55:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795484012741632328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HCGB0naZGz",
+              "end": 58,
+              "expanded_url": "https://twitter.com/chenyusama_/status/1795484012741632328/photo/1",
+              "media_key": "3_1795484003849637888",
+              "start": 35,
+              "url": "https://t.co/HCGB0naZGz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795484012741632328",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 24767,
+          "like_count": 409,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Hey bro Wait a few seconds for me！ https://t.co/HCGB0naZGz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 240,
+          "like_count": 9145,
+          "listed_count": 46,
+          "tweet_count": 299
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T09:09:16.000Z",
+        "description": "🍀嗨多磨～这里是辰于🐟🐠 🌈用黑白两色的眼睛 观察这五彩斑斓的世界 搬运侵删 是你的电子宠物🥕相方@sep63917003sep💫二号机➡️@chenyuuQAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "sep63917003sep"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "chenyuuQAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys.mihoyo.com",
+                "end": 23,
+                "expanded_url": "https://ys.mihoyo.com",
+                "start": 0,
+                "url": "https://t.co/0AEKl7y7Uq"
+              }
+            ]
+          }
+        },
+        "id": "1535549667693367296",
+        "location": "你找到我了呐🌙",
+        "name": "辰于于🐟🐠",
+        "pinned_tweet_id": "1773189907080433687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775573082809475075/4qH_KBNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5353,
+          "following_count": 100,
+          "like_count": 19258,
+          "listed_count": 36,
+          "tweet_count": 4740
+        },
+        "url": "https://t.co/0AEKl7y7Uq",
+        "username": "chenyusama_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053004226348101632"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053000073605443606",
+    "created_at": "2026-05-09T06:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T07:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053004410356457957"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/reBWAt4NTF",
+          "end": 42,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2053004410356457957/photo/1",
+          "media_key": "3_2053004226348101632",
+          "start": 19,
+          "url": "https://t.co/reBWAt4NTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053004410356457957",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053000073605443606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来好b王，刻板印象拉满。我受够了 https://t.co/reBWAt4NTF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2053004226348101632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH28d3HasAA28qx.png",
+        "width": 855
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2052999813961220096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH24dBsaAAAEbFf.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053004226348101632"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053000073605443606",
+        "created_at": "2026-05-09T06:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053004410356457957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/reBWAt4NTF",
+              "end": 42,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2053004410356457957/photo/1",
+              "media_key": "3_2053004226348101632",
+              "start": 19,
+              "url": "https://t.co/reBWAt4NTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053004410356457957",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053000073605443606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来好b王，刻板印象拉满。我受够了 https://t.co/reBWAt4NTF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052999813961220096"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2053000073605443606",
+        "created_at": "2026-05-09T06:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T07:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053000073605443606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Um90iE2Wj",
+              "end": 58,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2053000073605443606/photo/1",
+              "media_key": "3_2052999813961220096",
+              "start": 35,
+              "url": "https://t.co/5Um90iE2Wj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053000073605443606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去小窗问了它，但是这成果……就算要把脚放桌上，也得先脱鞋吧（关注点？ https://t.co/5Um90iE2Wj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 376,
+          "like_count": 64100,
+          "listed_count": 8,
+          "media_count": 46,
+          "tweet_count": 1816
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

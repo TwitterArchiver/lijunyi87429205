@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1982061002788069514",
+    "created_at": "2025-10-25T17:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T18:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982141147188428915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807910824918634496",
+          "start": 0,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982141147188428915",
+    "in_reply_to_user_id": "1807910824918634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982061002788069514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suanrongyouyuxu 中国是个由红色贵族专制的国家...是民粹，功利主义者的大本营。该封的网络账号至少有百分之五..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1982061002788069514",
+        "created_at": "2025-10-25T17:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T18:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982141147188428915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982141147188428915",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982061002788069514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 中国是个由红色贵族专制的国家...是民粹，功利主义者的大本营。该封的网络账号至少有百分之五..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1982061002788069514",
+        "created_at": "2025-10-25T12:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T13:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982061002788069514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982061002788069514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天上内网看到一件很搞笑的事情。百度贴吧从10月22日开始，随机封禁了自己约5%的用户账号。这件事推上无人讨论，我猜是因为不知道的缘故（我也是刚刚才知道）。\n\n从受害人群来看，基本上任何人都可能被封。无论是活跃账号、一年以上没登录的账号、从来没发过任何内容的账号，吧主，尊贵vip，键政过的还是没键政过的，一视同仁，上来就是永封。\n更妙的是没有人工申诉渠道，你有意见找AI去吧。还有不少人反应，申诉了之后不仅没有解封，还把自己的百度云也一起封了。就这么个申诉方法，还有申诉次数限制，申诉3次之后就不能再申诉了，号就彻底废了。\n（顺便友情提示一下，如果你有任何重要内容是放在百度云上面的，请做一下备份） \n\n现在很多人哀嚎遍野。这里面有两种人特别有意思。一种是我从来不见证（键政）的，为什么要封我。一种是我一直都是兔友啊，为什么连兔友也封。\n前面一种是接受了社会规训的。只要听家长/学校/公司/国家的话，你就能安然无恙，所有倒霉了的人都是因为没有听话导致的。后一种人不仅接受了这种叙事，而且愿意主动成为鹰犬。但事实是两种人都不能避免他们遭受灾祸。\n这一条放在现实世界也是一样的。在老爷们眼里，一条听话的狗确实不错，但狗是成不了老爷的。老爷们吃香喝辣的时候，狗也能吃点残羹剩饭。地主家也没余粮的时候，你这条狗吃起来还挺香的…人还是当人比较好。就算最终大家都是要完蛋的，至少姿势上能好看一点。\n\n至于百度为什么会干这件事，所有人都表现出了迷惑…如果是事故，三天也应该修复了。如果不是事故，很难想象百度究竟在图什么。\n有一种说法我觉得可能有点道理，就是百度内部视百度贴吧为负资产，赚不了钱又要花钱维护，所以整些幺蛾子请用户滚蛋。但是贴吧如今只是百度旗下的一个甚至算不上核心的产品，彻底得罪用户之后到底是节约的成本多还是造成的损失多这还不好说吧…\n\n但有一点是肯定的，就是不把用户当人这一块，百度确实是天花板的存在。现在很多人可能不知道，2010年左右百度贴吧巅峰期的时候，可以说是简中互联网史上用户最多、覆盖面最广、文化影响力最深的综合性论坛系统，有千万级的用户基数，远超同时期的天涯、猫扑、豆瓣等。弄成今天这样，也算是活久见了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 14978,
+          "like_count": 109,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "今天上内网看到一件很搞笑的事情。百度贴吧从10月22日开始，随机封禁了自己约5%的用户账号。这件事推上无人讨论，我猜是因为不知道的缘故（我也是刚刚才知道）。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /学习人类对话模式中。  /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 371,
+          "like_count": 38194,
+          "listed_count": 8,
+          "media_count": 21,
+          "tweet_count": 759
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "人在海外/有政治推，有生活推，也有碎碎念/川粉、方粉、粉红会直接毙/魔怔人、爹味爆表的也会毙/是坚定的LGBTQ支持者/犬儒主义一生之敌/有表达欲/政治光谱是温和左派/坚持DEI原则/想要认识有趣的人",
+        "id": "1807910824918634496",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "1858686395151524238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044,
+          "following_count": 224,
+          "like_count": 4149,
+          "listed_count": 12,
+          "media_count": 198,
+          "tweet_count": 2540
+        },
+        "username": "suanrongyouyuxu",
+        "verified": true
+      }
+    ]
+  }
+}

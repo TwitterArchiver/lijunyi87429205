@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2057813730289963317",
+    "created_at": "2026-05-22T16:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057866454205350298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057866454205350298",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057813730289963317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 我猜写稿的人是打了两把战争雷霆，然后拍脑门把安东星人的数据填上去了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 234243,
+        "height": 2796,
+        "media_key": "13_2057760833501876224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057760833501876224/img/nHVHFYMB8bUi9qpn.jpg",
+        "public_metrics": {
+          "view_count": 35406
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057760833501876224/pl/kv3kqsHP9CKi3fl_.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760833501876224/vid/avc1/720x1560/V5rMtKTlogUCMiCU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760833501876224/vid/avc1/1290x2796/9zcySUG7Mmw00toI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760833501876224/vid/avc1/480x1040/l8RT2-N5Q2DaKnEN.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760833501876224/vid/avc1/320x692/J4oqG7U_4JKgLNvm.mp4"
+          }
+        ],
+        "width": 1290
+      },
+      {
+        "duration_ms": 143567,
+        "height": 1080,
+        "media_key": "13_2057760846378328064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057760846378328064/img/2693dHeA-qGQFItc.jpg",
+        "public_metrics": {
+          "view_count": 1151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760846378328064/vid/avc1/640x360/8p1BknXJQ5yPdC9k.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760846378328064/vid/avc1/1920x1080/kmKoSyNmyKUmOT-3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057760846378328064/pl/4Z169H9E7klqPCxI.m3u8?v=3b5"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760846378328064/vid/avc1/1280x720/A_KU4Q0szTWibToF.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057760846378328064/vid/avc1/480x270/PSXk0MTgE9g8oz5j.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2057813730289963317",
+        "created_at": "2026-05-22T16:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057866454205350298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057866454205350298",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057813730289963317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 我猜写稿的人是打了两把战争雷霆，然后拍脑门把安东星人的数据填上去了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057760833501876224",
+            "13_2057760846378328064"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057813730289963317",
+        "created_at": "2026-05-22T13:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057813730289963317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IqJzsKCvHr",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057813730289963317/video/1",
+              "media_key": "13_2057760833501876224",
+              "start": 131,
+              "url": "https://t.co/IqJzsKCvHr"
+            },
+            {
+              "display_url": "pic.x.com/IqJzsKCvHr",
+              "end": 154,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2057813730289963317/video/1",
+              "media_key": "13_2057760846378328064",
+              "start": 131,
+              "url": "https://t.co/IqJzsKCvHr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057813730289963317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，飞行员王曌华宸操控飞机达到12g荷载的消息，引发全网热议。\n\n有博主分析后表示:\n视频里王曌华宸驾驶的飞机为德国制造的双人特技教练机330LT，这款飞机确实能得到12g，但可能会造成机体损伤，所以一般没人会飞到12g，再加上飞机上有俩人，所以重量会翻倍。\n\n最合理的解释是：飞机在飞行的某个瞬间，确实达到了12g，但持续时间也许只有0.01秒，仪表数据也记录显示12g，飞机也没有当场散架。\n但如果要持续保持12g负载则不现实，因为人在高G的环境下，血液会迅速离开大脑，普通人几秒钟就会黑视，战斗机飞行员也要穿抗荷服。互联网上最不缺的就是人类奇迹，但很多奇迹，本质上是话术和剪辑的功劳，就好比你的手从火焰上扫过去，你也能承受几百几千度的高温一样。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 70153,
+          "like_count": 184,
+          "quote_count": 2,
+          "reply_count": 49,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "近日，飞行员王曌华宸操控飞机达到12g荷载的消息，引发全网热议。\n\n有博主分析后表示:\n视频里王曌华宸驾驶的飞机为德国制造的双人特技教练机330LT，这款飞机确实能得到12g，但可能会造成机体损伤，所以一般没人会飞到12g，再加上飞机上有俩人，所以重量会翻倍。 https://t.co/IqJzsKCvHr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 377,
+          "like_count": 65670,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 1957
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232614,
+          "following_count": 1062,
+          "like_count": 9593,
+          "listed_count": 8759,
+          "media_count": 47266,
+          "tweet_count": 54393
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

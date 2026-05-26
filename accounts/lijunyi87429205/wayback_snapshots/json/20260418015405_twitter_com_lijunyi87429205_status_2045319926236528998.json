@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2045305567325962426",
+    "created_at": "2026-04-18T01:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T02:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045319926236528998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424779836938022913",
+          "start": 0,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045319926236528998",
+    "in_reply_to_user_id": "1424779836938022913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045305567325962426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_toffee 人类终究是依赖，视觉这类基本感官去判断事物的。当既有的经验与事实出现偏差，就感到困惑。当观察者顽固而无知时，他们就感到被欺骗，或者愤怒。大部分人的思维仍然有二元定势。在国内能接受从这一侧到那一侧到变化，已经远超平均水平了。非二元对他们来说更是在“挑战”他们的社会认知"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2045305567325962426",
+        "created_at": "2026-04-18T01:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T02:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045319926236528998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045319926236528998",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045305567325962426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 人类终究是依赖，视觉这类基本感官去判断事物的。当既有的经验与事实出现偏差，就感到困惑。当观察者顽固而无知时，他们就感到被欺骗，或者愤怒。大部分人的思维仍然有二元定势。在国内能接受从这一侧到那一侧到变化，已经远超平均水平了。非二元对他们来说更是在“挑战”他们的社会认知"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2045305567325962426",
+        "created_at": "2026-04-18T00:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T01:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045305567325962426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/schnee_irene_/…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/schnee_irene_/status/2045291494798692513",
+              "start": 141,
+              "url": "https://t.co/GKX3RmzoH2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045305567325962426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我其实不是很喜欢这个角度的论述，因为庞大的举国体制体育工业下，从来就没有男人和女人，大家都是一堆被要求以生命和健康为代价换取奖牌的人肉耗材而已；这也就是为什么很多顺女运动员从青春期之前就被要求长期打睾酮提高训练水平。一切关于所谓生理差异的问题在这些物质现实面前，都显得极为搞笑和无力"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1079,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045291494798692513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实不是很喜欢这个角度的论述，因为庞大的举国体制体育工业下，从来就没有男人和女人，大家都是一堆被要求以生命和健康为代价换取奖牌的人肉耗材而已；这也就是为什么很多顺女运动员从青春期之前就被要求长期打睾酮提高训练水平。一切关于所谓生理差异的问题在这些物质现实面前，都显得极为搞笑和无 https://t.co/GKX3RmzoH2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 386,
+          "like_count": 61193,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1552
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25704,
+          "following_count": 2759,
+          "like_count": 41069,
+          "listed_count": 13,
+          "media_count": 622,
+          "tweet_count": 21882
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

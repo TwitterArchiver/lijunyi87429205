@@ -1,0 +1,180 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1800216806675898714",
+    "created_at": "2024-06-10T17:21:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T18:21:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800216806675898714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800216806675898714",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799736877362389390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 不少女性希望男性，能是自己的精神依靠，能接得住自己的情绪。\n\n但这种情绪和感受，从小一直被忽略、漠视的人，他们自己都处理不了自己的情绪。\n\n人只能给出自己“有”的东西。\n\n充斥着性别刻板印象的社会。从小就把男性往所谓的“理性工具”塑造，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1800216806675898714",
+        "created_at": "2024-06-10T17:21:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T18:21:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800216806675898714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800216806675898714",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799736877362389390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 不少女性希望男性，能是自己的精神依靠，能接得住自己的情绪。\n\n但这种情绪和感受，从小一直被忽略、漠视的人，他们自己都处理不了自己的情绪。\n\n人只能给出自己“有”的东西。\n\n充斥着性别刻板印象的社会。从小就把男性往所谓的“理性工具”塑造，…"
+      },
+      {
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1799735667800600596",
+        "created_at": "2024-06-09T09:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T10:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799736877362389390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799736877362389390",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2464,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799735667800600596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不少女性希望男性，能是自己的精神依靠，能接得住自己的情绪。\n\n但这种情绪和感受，从小一直被忽略、漠视的人，他们自己都处理不了自己的情绪。\n\n人只能给出自己“有”的东西。\n\n充斥着性别刻板印象的社会。从小就把男性往所谓的“理性工具”塑造，把女性往“感性”塑造。实则“无人生还”，都是受害者(2/2)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 239,
+          "like_count": 9778,
+          "listed_count": 46,
+          "tweet_count": 343
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19690,
+          "following_count": 2921,
+          "like_count": 99761,
+          "listed_count": 58,
+          "tweet_count": 37469
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

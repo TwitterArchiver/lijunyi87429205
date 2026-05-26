@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042273871223758848"
+      ],
+      "media_source_tweet_id": [
+        "2042273927221879192"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2042550867937931703",
+    "created_at": "2026-04-10T10:30:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T11:30:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042550867937931703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1664040280138436620",
+          "start": 3,
+          "username": "ContextBirds"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zOfste4upV",
+          "end": 55,
+          "expanded_url": "https://x.com/ContextBirds/status/2042273927221879192/video/1",
+          "media_key": "13_2042273871223758848",
+          "start": 32,
+          "url": "https://t.co/zOfste4upV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042550867937931703",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4506
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042273927221879192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ContextBirds: Kiwi fight 🥝🥝 https://t.co/zOfste4upV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10400,
+        "height": 1024,
+        "media_key": "13_2042273871223758848",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042273871223758848/img/10FApGZJnT6QP56s.jpg",
+        "public_metrics": {
+          "view_count": 185368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273871223758848/vid/avc1/320x568/lWlD59mKKfd4JjjV.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273871223758848/vid/avc1/480x852/1wNuClHQVoJAnL4A.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042273871223758848/vid/avc1/576x1024/NwnXYLEA7hXThu4E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042273871223758848/pl/MLrhmUaWVc-6GEet.m3u8?v=119"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042273871223758848"
+          ],
+          "media_source_tweet_id": [
+            "2042273927221879192"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042550867937931703",
+        "created_at": "2026-04-10T10:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T11:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042550867937931703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1664040280138436620",
+              "start": 3,
+              "username": "ContextBirds"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOfste4upV",
+              "end": 55,
+              "expanded_url": "https://x.com/ContextBirds/status/2042273927221879192/video/1",
+              "media_key": "13_2042273871223758848",
+              "start": 32,
+              "url": "https://t.co/zOfste4upV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042550867937931703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4506
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042273927221879192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ContextBirds: Kiwi fight 🥝🥝 https://t.co/zOfste4upV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042273871223758848"
+          ]
+        },
+        "author_id": "1664040280138436620",
+        "conversation_id": "2042273927221879192",
+        "created_at": "2026-04-09T16:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T17:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042273927221879192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOfste4upV",
+              "end": 37,
+              "expanded_url": "https://x.com/ContextBirds/status/2042273927221879192/video/1",
+              "media_key": "13_2042273871223758848",
+              "start": 14,
+              "url": "https://t.co/zOfste4upV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042273927221879192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4011,
+          "impression_count": 624147,
+          "like_count": 24567,
+          "quote_count": 394,
+          "reply_count": 92,
+          "retweet_count": 4506
+        },
+        "reply_settings": "everyone",
+        "text": "Kiwi fight 🥝🥝 https://t.co/zOfste4upV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 376,
+          "like_count": 59583,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 1423
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T22:45:04.000Z",
+        "description": "Follow for daily birds content",
+        "id": "1664040280138436620",
+        "location": "Turn on notifs 🔔",
+        "name": "Out of Context Birds",
+        "pinned_tweet_id": "2042273927221879192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681788053344403456/E9n1y4v6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94539,
+          "following_count": 100,
+          "like_count": 4318,
+          "listed_count": 274,
+          "media_count": 2821,
+          "tweet_count": 3211
+        },
+        "username": "ContextBirds",
+        "verified": true
+      }
+    ]
+  }
+}

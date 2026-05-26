@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1926215726727110779",
+    "created_at": "2025-05-24T16:21:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T17:21:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926312643091984691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "554184865",
+          "start": 0,
+          "username": "EricAuChi"
+        },
+        {
+          "end": 27,
+          "id": "1509939466101825542",
+          "start": 11,
+          "username": "22HomoPoliticus"
+        },
+        {
+          "end": 43,
+          "id": "1764182789732347904",
+          "start": 28,
+          "username": "V_brigade_Eric"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926312643091984691",
+    "in_reply_to_user_id": "554184865",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926298090174067166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricAuChi @22HomoPoliticus @V_brigade_Eric 是同一位"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1926215726727110779",
+        "created_at": "2025-05-24T16:21:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T17:21:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926312643091984691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "554184865",
+              "start": 0,
+              "username": "EricAuChi"
+            },
+            {
+              "end": 27,
+              "id": "1509939466101825542",
+              "start": 11,
+              "username": "22HomoPoliticus"
+            },
+            {
+              "end": 43,
+              "id": "1764182789732347904",
+              "start": 28,
+              "username": "V_brigade_Eric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926312643091984691",
+        "in_reply_to_user_id": "554184865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926298090174067166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricAuChi @22HomoPoliticus @V_brigade_Eric 是同一位"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "554184865",
+        "conversation_id": "1926215726727110779",
+        "created_at": "2025-05-24T15:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T16:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926298090174067166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1509939466101825542",
+              "start": 0,
+              "username": "22HomoPoliticus"
+            },
+            {
+              "end": 32,
+              "id": "1764182789732347904",
+              "start": 17,
+              "username": "V_brigade_Eric"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926298090174067166",
+        "in_reply_to_user_id": "1509939466101825542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926215726727110779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@22HomoPoliticus @V_brigade_Eric 你的回复是复制youtuber“一个内修司”的吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 287,
+          "like_count": 23466,
+          "listed_count": 8,
+          "media_count": 2,
+          "tweet_count": 475
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-15T08:22:54.000Z",
+        "description": "",
+        "id": "554184865",
+        "location": "Macau",
+        "name": "姓名不能为空",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1061646452600885250/Tm9L4VCX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 128,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 182
+        },
+        "username": "EricAuChi",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. YouTube频道“一个内修司”：https://t.co/UidYD98B6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 119,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 96,
+                "url": "https://t.co/UidYD98B6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1925677603832147975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81235,
+          "following_count": 482,
+          "like_count": 100454,
+          "listed_count": 515,
+          "media_count": 7524,
+          "tweet_count": 23356
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-03T06:58:54.000Z",
+        "description": "V，Eric.V。前中美双面特工，V字旅创建者。V字旅X账号：@v_brigade",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "v_brigade"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@V-Brigade-Eric",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@V-Brigade-Eric",
+                "start": 0,
+                "url": "https://t.co/xdQij8mvUM"
+              }
+            ]
+          }
+        },
+        "id": "1764182789732347904",
+        "name": "Eric.V 前特工/V字旅创建者",
+        "pinned_tweet_id": "1917050044609663331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792870675167985664/YVBnv2vk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7425,
+          "following_count": 914,
+          "like_count": 5519,
+          "listed_count": 36,
+          "media_count": 262,
+          "tweet_count": 3102
+        },
+        "url": "https://t.co/xdQij8mvUM",
+        "username": "V_brigade_Eric",
+        "verified": false
+      }
+    ]
+  }
+}

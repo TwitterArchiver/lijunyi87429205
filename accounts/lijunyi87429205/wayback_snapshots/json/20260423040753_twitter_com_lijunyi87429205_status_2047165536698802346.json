@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2045651920606433280"
+      ],
+      "media_source_tweet_id": [
+        "2045651947533783113"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047165536698802346",
+    "created_at": "2026-04-23T04:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047165536698802346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2028205905410732032",
+          "start": 3,
+          "username": "SOYTUYAMIANGEL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0dyMtqn8UN",
+          "end": 57,
+          "expanded_url": "https://x.com/SOYTUYAMIANGEL/status/2045651947533783113/video/1",
+          "media_key": "7_2045651920606433280",
+          "start": 34,
+          "url": "https://t.co/0dyMtqn8UN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047165536698802346",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 983
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045651947533783113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SOYTUYAMIANGEL: I love this💜💚 https://t.co/0dyMtqn8UN"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46233,
+        "height": 576,
+        "media_key": "7_2045651920606433280",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045651920606433280/pu/img/F-WSn2aXELwbqvyJ.jpg",
+        "public_metrics": {
+          "view_count": 61006
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045651920606433280/pu/vid/avc1/478x270/fMesBj50v6NVKrgU.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045651920606433280/pu/vid/avc1/638x360/0bbQzMe1tsSN5vxI.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045651920606433280/pu/vid/avc1/1022x576/rU-NIrY26XJ1oaxA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045651920606433280/pu/pl/SDn8EkxjM1MwZcnu.m3u8?tag=12"
+          }
+        ],
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045651920606433280"
+          ],
+          "media_source_tweet_id": [
+            "2045651947533783113"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047165536698802346",
+        "created_at": "2026-04-23T04:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047165536698802346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2028205905410732032",
+              "start": 3,
+              "username": "SOYTUYAMIANGEL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dyMtqn8UN",
+              "end": 57,
+              "expanded_url": "https://x.com/SOYTUYAMIANGEL/status/2045651947533783113/video/1",
+              "media_key": "7_2045651920606433280",
+              "start": 34,
+              "url": "https://t.co/0dyMtqn8UN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047165536698802346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 983
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045651947533783113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SOYTUYAMIANGEL: I love this💜💚 https://t.co/0dyMtqn8UN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045651920606433280"
+          ]
+        },
+        "author_id": "2028205905410732032",
+        "conversation_id": "2045651947533783113",
+        "created_at": "2026-04-18T23:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045651947533783113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0dyMtqn8UN",
+              "end": 37,
+              "expanded_url": "https://x.com/SOYTUYAMIANGEL/status/2045651947533783113/video/1",
+              "media_key": "7_2045651920606433280",
+              "start": 14,
+              "url": "https://t.co/0dyMtqn8UN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045651947533783113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4987,
+          "impression_count": 701011,
+          "like_count": 16672,
+          "quote_count": 46,
+          "reply_count": 29,
+          "retweet_count": 983
+        },
+        "reply_settings": "everyone",
+        "text": "I love this💜💚 https://t.co/0dyMtqn8UN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 398,
+          "like_count": 62057,
+          "listed_count": 8,
+          "media_count": 43,
+          "tweet_count": 1625
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-01T20:29:19.000Z",
+        "description": "Amo a mi esposa 💕 @Moritaisdead 💍\n\nSoy un gran fan de #ClinicalTrialGame\n\nComparto obras de otros artistas 🫶🏼 (Disculpen si no menciono el nombre del artist",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 54,
+                "tag": "ClinicalTrialGame"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "Moritaisdead"
+              }
+            ]
+          }
+        },
+        "id": "2028205905410732032",
+        "name": "LEE",
+        "pinned_tweet_id": "2044420916231254138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041848051103367168/xv66NXM5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1103,
+          "following_count": 49,
+          "like_count": 2424,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 190
+        },
+        "username": "SOYTUYAMIANGEL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2054301779073085610",
+    "created_at": "2026-05-19T03:42:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T04:42:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056581186622017731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056581186622017731",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056458247146742121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 我无法用自己攀比她纯粹的善良…\n我虽然不是有残忍本性的人，但过往像对待牲畜那样给我上轭，用鞭和呵斥羞辱我。\n我因此变成一个满腔怒火的人，但当我意识到这样的攻击性对所有人都有害时，我又不得不继续利用那些缰绳，\n总之，我是个在挣脱与自制间两难的人，很少自由，这也是为什么我自认为“机味”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2054301779073085610",
+        "created_at": "2026-05-19T03:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T04:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056581186622017731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056581186622017731",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056458247146742121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 我无法用自己攀比她纯粹的善良…\n我虽然不是有残忍本性的人，但过往像对待牲畜那样给我上轭，用鞭和呵斥羞辱我。\n我因此变成一个满腔怒火的人，但当我意识到这样的攻击性对所有人都有害时，我又不得不继续利用那些缰绳，\n总之，我是个在挣脱与自制间两难的人，很少自由，这也是为什么我自认为“机味”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2054301779073085610",
+        "created_at": "2026-05-18T19:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056458247146742121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056458247146742121",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054378991080050927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 我不觉得有多么/怎么“机味”，只是，恕我冒昧，我似乎能嗅到一丝怯羞羞的味道..  软糯、斯文吗？我该说什么呢？\n我认为您与炽的风格是很接近的，细腻，诗性，富有艺术气息.. \n总之.. 不好评价.. 可能我(认真)读的比较少吧..?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 376,
+          "like_count": 65242,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 1927
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "pinned_tweet_id": "1918330143074131977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 290,
+          "like_count": 480,
+          "listed_count": 1,
+          "media_count": 912,
+          "tweet_count": 14512
+        },
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

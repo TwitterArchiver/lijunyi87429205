@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2042838625659032005",
+    "created_at": "2026-04-11T05:39:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:39:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042840023540863373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1176077981099446272",
+          "start": 0,
+          "username": "Yesmynamehaer1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042840023540863373",
+    "in_reply_to_user_id": "1176077981099446272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042838625659032005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yesmynamehaer1 如果还有其他办法缓解痛苦，请不要让这个死亡多米诺延续下去……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2042838617048186880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFme5habgAA-k9k.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042838625659032005",
+        "created_at": "2026-04-11T05:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042840023540863373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1176077981099446272",
+              "start": 0,
+              "username": "Yesmynamehaer1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042840023540863373",
+        "in_reply_to_user_id": "1176077981099446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042838625659032005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yesmynamehaer1 如果还有其他办法缓解痛苦，请不要让这个死亡多米诺延续下去……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042838617048186880"
+          ]
+        },
+        "author_id": "1176077981099446272",
+        "conversation_id": "2042838625659032005",
+        "created_at": "2026-04-11T05:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042838625659032005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oQzQXKZuTg",
+              "end": 142,
+              "expanded_url": "https://x.com/Yesmynamehaer1/status/2042838625659032005/photo/1",
+              "media_key": "3_2042838617048186880",
+              "start": 119,
+              "url": "https://t.co/oQzQXKZuTg"
+            },
+            {
+              "display_url": "x.com/Yesmynamehaer1…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/Yesmynamehaer1/status/2042838372729917548",
+              "start": 143,
+              "url": "https://t.co/CDJ6fa6MSL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042838625659032005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042838372729917548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真希望我不是因为疾病与疼痛才与她感同相受。但我最后什么也没做到，没能帮助或者注视着她，也没能改变我自己。为什么，为什么我们都越来越痛苦了？为什么我们只能换来这个下场？……我想她，我想我看到了我们相似的未来。我想我也许马上也会来陪你了。 https://t.co/oQzQXKZuTg https://t.co/CDJ6fa6MSL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 375,
+          "like_count": 59788,
+          "listed_count": 8,
+          "media_count": 38,
+          "tweet_count": 1439
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T10:17:06.000Z",
+        "description": "我想",
+        "id": "1176077981099446272",
+        "name": "Hereditarystupidity #鬼宿三",
+        "pinned_tweet_id": "1894651753678999699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039233305284091904/hdxfbjXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 751,
+          "like_count": 31167,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 2866
+        },
+        "username": "Yesmynamehaer1",
+        "verified": false
+      }
+    ]
+  }
+}

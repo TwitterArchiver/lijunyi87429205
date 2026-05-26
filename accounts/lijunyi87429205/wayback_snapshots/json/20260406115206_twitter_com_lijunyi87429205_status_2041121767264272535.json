@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041121759274102785"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2041121767264272535",
+    "created_at": "2026-04-06T11:52:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041121767264272535"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JlngWrYiQz",
+          "end": 77,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2041121767264272535/photo/1",
+          "media_key": "3_2041121759274102785",
+          "start": 54,
+          "url": "https://t.co/JlngWrYiQz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041121767264272535",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两月前…那时候，没发生那么多糟糕的事情。（就算没有化妆，加上镜头畸变，看起来也还不错吧？（仍然自我意识过剩 https://t.co/JlngWrYiQz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041121759274102785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOFbPzacAEPVHa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041121759274102785"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2041121767264272535",
+        "created_at": "2026-04-06T11:52:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041121767264272535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlngWrYiQz",
+              "end": 77,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2041121767264272535/photo/1",
+              "media_key": "3_2041121759274102785",
+              "start": 54,
+              "url": "https://t.co/JlngWrYiQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041121767264272535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两月前…那时候，没发生那么多糟糕的事情。（就算没有化妆，加上镜头畸变，看起来也还不错吧？（仍然自我意识过剩 https://t.co/JlngWrYiQz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 375,
+          "like_count": 58637,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 1365
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}
