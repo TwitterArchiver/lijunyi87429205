@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2045334453124231490",
+    "created_at": "2026-04-18T03:19:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T04:19:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045341320571674949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554803647909097472",
+          "start": 0,
+          "username": "Wilf_Lin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045341320571674949",
+    "in_reply_to_user_id": "1554803647909097472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045339896726921602",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wilf_Lin 嗯……突然发现我的话有歧义，扫兴是指，不要让我影响您的热情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2045334453124231490",
+        "created_at": "2026-04-18T03:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045341320571674949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554803647909097472",
+              "start": 0,
+              "username": "Wilf_Lin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045341320571674949",
+        "in_reply_to_user_id": "1554803647909097472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045339896726921602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wilf_Lin 嗯……突然发现我的话有歧义，扫兴是指，不要让我影响您的热情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554803647909097472",
+        "conversation_id": "2045334453124231490",
+        "created_at": "2026-04-18T03:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T04:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045339896726921602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045339896726921602",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045339132277445091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 希望吧，希望我的技术足够精湛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 386,
+          "like_count": 61205,
+          "listed_count": 8,
+          "media_count": 40,
+          "tweet_count": 1556
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T12:17:41.000Z",
+        "description": "平和/死鱼被水推着游 | 在前往塔尔西斯的漫漫旅途中 | 匿名问答:https://t.co/6GiurlFoYb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wilf_lin",
+                "end": 57,
+                "expanded_url": "https://ngl.link/wilf_lin",
+                "start": 34,
+                "url": "https://t.co/6GiurlFoYb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wilflin.com",
+                "end": 23,
+                "expanded_url": "http://wilflin.com",
+                "start": 0,
+                "url": "https://t.co/QOeJWTWOxJ"
+              }
+            ]
+          }
+        },
+        "id": "1554803647909097472",
+        "location": "你的心里",
+        "name": "Wilf Lin",
+        "pinned_tweet_id": "2044899213352288436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950723982019432448/PfUig6RV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 1571,
+          "like_count": 39163,
+          "listed_count": 4,
+          "media_count": 204,
+          "tweet_count": 6963
+        },
+        "url": "https://t.co/QOeJWTWOxJ",
+        "username": "Wilf_Lin",
+        "verified": true
+      }
+    ]
+  }
+}

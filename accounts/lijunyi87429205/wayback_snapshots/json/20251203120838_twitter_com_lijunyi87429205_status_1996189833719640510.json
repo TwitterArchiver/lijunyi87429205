@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "1996140260120510890",
+    "created_at": "2025-12-03T12:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T13:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996189833719640510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744100751356342272",
+          "start": 0,
+          "username": "gOPwbi7qqtWeD9o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996189833719640510",
+    "in_reply_to_user_id": "1744100751356342272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996140260120510890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gOPwbi7qqtWeD9o 你好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "1996140260120510890",
+        "created_at": "2025-12-03T12:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T13:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996189833719640510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744100751356342272",
+              "start": 0,
+              "username": "gOPwbi7qqtWeD9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996189833719640510",
+        "in_reply_to_user_id": "1744100751356342272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996140260120510890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gOPwbi7qqtWeD9o 你好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744100751356342272",
+        "conversation_id": "1996140260120510890",
+        "created_at": "2025-12-03T08:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996140260120510890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996140260120510890",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4355,
+          "like_count": 83,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/创作：诗 悲喜剧 短篇小说 /只能是人类",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 407,
+          "like_count": 43739,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 856
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T20:56:46.000Z",
+        "description": "4D69726169 | Информатика",
+        "id": "1744100751356342272",
+        "name": "17525272901868291765377191994762551627829917365278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981449304397975552/vDT0v8Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117406,
+          "following_count": 333,
+          "like_count": 17550,
+          "listed_count": 501,
+          "media_count": 1745,
+          "tweet_count": 2266
+        },
+        "username": "gOPwbi7qqtWeD9o",
+        "verified": true
+      }
+    ]
+  }
+}

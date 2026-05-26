@@ -1,0 +1,860 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1441472383211114515",
+          "name": "Stuffed toys"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "David Bowie",
+          "id": "820001111117479936",
+          "name": "David Bowie"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Ryuichi Sakamoto",
+          "id": "867746730787209221",
+          "name": "Ryuichi Sakamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "David Bowie",
+          "id": "820001111117479936",
+          "name": "David Bowie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Ryuichi Sakamoto",
+          "id": "867746730787209221",
+          "name": "Ryuichi Sakamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pop",
+          "id": "810938279801470977",
+          "name": "Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "David Bowie",
+          "id": "820001111117479936",
+          "name": "David Bowie"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ryuichi Sakamoto",
+          "id": "867746730787209221",
+          "name": "Ryuichi Sakamoto"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2057486322525425890",
+    "created_at": "2026-05-21T15:39:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:39:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057486322525425890"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 93,
+          "start": 82,
+          "tag": "DavidBowie"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "坂本龍一"
+        },
+        {
+          "end": 116,
+          "start": 100,
+          "tag": "RyuichiSakamoto"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2005692755230732288",
+          "start": 3,
+          "username": "E_jiggerypokery"
+        },
+        {
+          "end": 79,
+          "id": "1497848883614937090",
+          "start": 69,
+          "username": "gingo1020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057486322525425890",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057353373528342864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @E_jiggerypokery: Planning to turn them into plushies. ✨  \nArt by @gingo1020 \n\n#DavidBowie #坂本龍一 #RyuichiSakamoto #MerryChristmasMrLawre…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1360,
+        "media_key": "3_2057353363130601472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI0v-8La0AAr10u.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2057486322525425890",
+        "created_at": "2026-05-21T15:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057486322525425890"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 93,
+              "start": 82,
+              "tag": "DavidBowie"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "坂本龍一"
+            },
+            {
+              "end": 116,
+              "start": 100,
+              "tag": "RyuichiSakamoto"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2005692755230732288",
+              "start": 3,
+              "username": "E_jiggerypokery"
+            },
+            {
+              "end": 79,
+              "id": "1497848883614937090",
+              "start": 69,
+              "username": "gingo1020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057486322525425890",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057353373528342864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @E_jiggerypokery: Planning to turn them into plushies. ✨  \nArt by @gingo1020 \n\n#DavidBowie #坂本龍一 #RyuichiSakamoto #MerryChristmasMrLawre…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057353363130601472"
+          ]
+        },
+        "author_id": "2005692755230732288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "description": "Releases on November 25, 2020 in the US and October 8, 2021 in Japan.",
+              "id": "1326653994291191810",
+              "name": "Stardust"
+            }
+          },
+          {
+            "domain": {
+              "description": "A movie genre like Action",
+              "id": "87",
+              "name": "Movie Genre"
+            },
+            "entity": {
+              "description": "Drama",
+              "id": "856976804749258752",
+              "name": "Drama films"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1441472383211114515",
+              "name": "Stuffed toys"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pop",
+              "id": "810938279801470977",
+              "name": "Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "David Bowie",
+              "id": "820001111117479936",
+              "name": "David Bowie"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ryuichi Sakamoto",
+              "id": "867746730787209221",
+              "name": "Ryuichi Sakamoto"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2057353373528342864",
+        "created_at": "2026-05-21T06:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T07:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057353373528342864"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 61,
+              "tag": "DavidBowie"
+            },
+            {
+              "end": 78,
+              "start": 73,
+              "tag": "坂本龍一"
+            },
+            {
+              "end": 95,
+              "start": 79,
+              "tag": "RyuichiSakamoto"
+            },
+            {
+              "end": 121,
+              "start": 96,
+              "tag": "MerryChristmasMrLawrence"
+            },
+            {
+              "end": 134,
+              "start": 122,
+              "tag": "戦場のメリークリスマス"
+            },
+            {
+              "end": 143,
+              "start": 135,
+              "tag": "bowichi"
+            },
+            {
+              "end": 153,
+              "start": 144,
+              "tag": "デヴィッドボウイ"
+            },
+            {
+              "end": 157,
+              "start": 154,
+              "tag": "映画"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "1497848883614937090",
+              "start": 48,
+              "username": "gingo1020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KAJnY63bJ6",
+              "end": 181,
+              "expanded_url": "https://x.com/E_jiggerypokery/status/2057353373528342864/photo/1",
+              "media_key": "3_2057353363130601472",
+              "start": 158,
+              "url": "https://t.co/KAJnY63bJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057353373528342864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 730,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Planning to turn them into plushies. ✨  \nArt by @gingo1020 \n\n#DavidBowie #坂本龍一 #RyuichiSakamoto #MerryChristmasMrLawrence #戦場のメリークリスマス #bowichi #デヴィッドボウイ #映画 https://t.co/KAJnY63bJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 374,
+          "like_count": 65505,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 1940
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-29T17:30:05.000Z",
+        "description": "キラ｜20↑｜BCMF用垢｜腐った社畜｜BCMF only🔁❌｜中文/EN/日本語 OK|genderqueer 🏳️‍🌈",
+        "id": "2005692755230732288",
+        "location": "nowhere",
+        "name": "Kira",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005692998659756033/cHRp1Pd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 41,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 26
+        },
+        "username": "E_jiggerypokery",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-27T08:19:44.000Z",
+        "description": "Gingo | No AI | No reposts | CN | Commissions closed | Selective art trades",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/gingogoogogo",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/gingogoogogo",
+                "start": 0,
+                "url": "https://t.co/e9O14Ucr6f"
+              }
+            ]
+          }
+        },
+        "id": "1497848883614937090",
+        "location": "@gingogoogogo | @gingo1020",
+        "name": "Gingo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831056509247344641/AoeN7xLk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12933,
+          "following_count": 255,
+          "like_count": 13179,
+          "listed_count": 22,
+          "media_count": 184,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/e9O14Ucr6f",
+        "username": "gingo1020",
+        "verified": false
+      }
+    ]
+  }
+}

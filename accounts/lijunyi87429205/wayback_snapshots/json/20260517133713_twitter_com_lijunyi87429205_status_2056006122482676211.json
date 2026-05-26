@@ -1,0 +1,131 @@
+{
+  "data": {
+    "article": {
+      "title": "（未命名）"
+    },
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2056006122482676211",
+    "created_at": "2026-05-17T13:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056006122482676211"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2056…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2056005171914981376",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2056005171914981376",
+          "url": "https://t.co/C56hu8gyLC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056006122482676211",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/C56hu8gyLC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 544,
+        "media_key": "3_2056006059324780544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhmniYasAAoU5N.jpg",
+        "width": 1360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "（未命名）"
+        },
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2056006122482676211",
+        "created_at": "2026-05-17T13:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056006122482676211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2056…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2056005171914981376",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2056005171914981376",
+              "url": "https://t.co/C56hu8gyLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056006122482676211",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/C56hu8gyLC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 375,
+          "like_count": 65125,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 1910
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

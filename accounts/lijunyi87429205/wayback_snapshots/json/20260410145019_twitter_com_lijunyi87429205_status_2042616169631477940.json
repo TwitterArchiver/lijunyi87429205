@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2042614158684811328",
+    "created_at": "2026-04-10T14:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042616169631477940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042616169631477940",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042614158684811328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 正是因为新兴，才能调动群众热情，比起现代社会，那时民族主义是一种未被祛媚，未被考验的新的认同。共产主义曾经在欧洲的热潮也是类似的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1708,
+        "media_key": "3_2042614152758284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjSv-xX0AAKyAt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2042614158684811328",
+        "created_at": "2026-04-10T14:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042616169631477940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042616169631477940",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042614158684811328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 正是因为新兴，才能调动群众热情，比起现代社会，那时民族主义是一种未被祛媚，未被考验的新的认同。共产主义曾经在欧洲的热潮也是类似的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042614152758284288"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2042614158684811328",
+        "created_at": "2026-04-10T14:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042614158684811328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/siRTSRlXC2",
+              "end": 88,
+              "expanded_url": "https://x.com/Kenntnis22/status/2042614158684811328/photo/1",
+              "media_key": "3_2042614152758284288",
+              "start": 65,
+              "url": "https://t.co/siRTSRlXC2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042614158684811328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，辛亥革命那样全国高度一致同仇敌忾的情况太少见了，几乎不可能复制到现在，毕竟当时是民族主义刚刚兴起就扩大成全国浪潮的时代。 https://t.co/siRTSRlXC2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 375,
+          "like_count": 59651,
+          "listed_count": 8,
+          "media_count": 36,
+          "tweet_count": 1427
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2041638584935964904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51425,
+          "following_count": 427,
+          "like_count": 54101,
+          "listed_count": 253,
+          "media_count": 11279,
+          "tweet_count": 17347
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

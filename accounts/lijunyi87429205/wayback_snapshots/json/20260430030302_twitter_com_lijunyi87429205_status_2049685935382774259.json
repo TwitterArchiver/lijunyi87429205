@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2039568282886255024",
+    "created_at": "2026-04-30T03:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T04:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049685935382774259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029243756529238018",
+          "start": 0,
+          "username": "Kusutobi_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049685935382774259",
+    "in_reply_to_user_id": "2029243756529238018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039568282886255024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi_7 群组好像炸了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2039568282886255024",
+        "created_at": "2026-04-30T03:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T04:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049685935382774259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029243756529238018",
+              "start": 0,
+              "username": "Kusutobi_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049685935382774259",
+        "in_reply_to_user_id": "2029243756529238018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039568282886255024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi_7 群组好像炸了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029243756529238018",
+        "conversation_id": "2039568282886255024",
+        "created_at": "2026-04-02T04:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T05:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039568282886255024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "You can view and join @NY_rc right away.",
+              "display_url": "t.me/NY_rc",
+              "end": 71,
+              "expanded_url": "http://t.me/NY_rc",
+              "start": 48,
+              "status": 200,
+              "title": "神秘小物质小摊",
+              "unwound_url": "https://t.me/NY_rc",
+              "url": "https://t.co/v8pIlAXBV4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039568282886255024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2294,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这里是楠鸢炸号6次回归的个人账号\n互关寻回中😢\n产品需求可私信tg或x 群组有产品介绍\ntg群：https://t.co/v8pIlAXBV4\n这个号目前只会发发知识科普和我的日常内容 欢迎互fo互动🤓\n群组是聊天群欢迎讨论交流也可以打群组电话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 377,
+          "like_count": 62620,
+          "listed_count": 8,
+          "media_count": 42,
+          "tweet_count": 1664
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUVaY4 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUVaY4"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "楠鸢Kusutobi(七代目)",
+        "pinned_tweet_id": "2039568282886255024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 24,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 22
+        },
+        "username": "Kusutobi_7",
+        "verified": false
+      }
+    ]
+  }
+}
