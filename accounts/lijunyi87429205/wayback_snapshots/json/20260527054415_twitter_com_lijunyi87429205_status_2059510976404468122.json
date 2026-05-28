@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2059243151693357502",
+    "created_at": "2026-05-27T05:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T06:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059510976404468122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1045879067298459649",
+          "start": 0,
+          "username": "D49082723"
+        },
+        {
+          "end": 27,
+          "id": "1521728759258300417",
+          "start": 11,
+          "username": "yuxiang09456469"
+        },
+        {
+          "end": 36,
+          "id": "112480458",
+          "start": 28,
+          "username": "is99zsq"
+        },
+        {
+          "end": 45,
+          "id": "2044062568944148480",
+          "start": 37,
+          "username": "dengdry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059510976404468122",
+    "in_reply_to_user_id": "1045879067298459649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059499101935591867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D49082723 @yuxiang09456469 @is99zsq @dengdry ？用沿海城市来换藻类和热带的繁荣吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2059243151693357502",
+        "created_at": "2026-05-27T05:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T06:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059510976404468122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1045879067298459649",
+              "start": 0,
+              "username": "D49082723"
+            },
+            {
+              "end": 27,
+              "id": "1521728759258300417",
+              "start": 11,
+              "username": "yuxiang09456469"
+            },
+            {
+              "end": 36,
+              "id": "112480458",
+              "start": 28,
+              "username": "is99zsq"
+            },
+            {
+              "end": 45,
+              "id": "2044062568944148480",
+              "start": 37,
+              "username": "dengdry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059510976404468122",
+        "in_reply_to_user_id": "1045879067298459649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059499101935591867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D49082723 @yuxiang09456469 @is99zsq @dengdry ？用沿海城市来换藻类和热带的繁荣吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1045879067298459649",
+        "conversation_id": "2059243151693357502",
+        "created_at": "2026-05-27T04:57:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T05:57:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059499101935591867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1521728759258300417",
+              "start": 0,
+              "username": "yuxiang09456469"
+            },
+            {
+              "end": 25,
+              "id": "112480458",
+              "start": 17,
+              "username": "is99zsq"
+            },
+            {
+              "end": 34,
+              "id": "2044062568944148480",
+              "start": 26,
+              "username": "dengdry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059499101935591867",
+        "in_reply_to_user_id": "1521728759258300417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059481148309352579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuxiang09456469 @is99zsq @dengdry 地球生物最繁荣的时候两极是无冰的，海平面比现在高 70 米，平均温度高 5-7 摄氏度。两极有冰都属于是冰河世纪，百分之 70 的淡水资源都被冻住。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 380,
+          "like_count": 66240,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 1978
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-29T03:32:55.000Z",
+        "description": "To Feel not to Define",
+        "id": "1045879067298459649",
+        "location": "Berlin, Germany",
+        "name": "outsider",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694968015518048256/nFpVWEkr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 839,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 273
+        },
+        "username": "D49082723",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T05:49:55.000Z",
+        "description": "🤖｜天天用AI查税\n📱｜在Vibe coding小游戏中\n🪙｜Crypto我只认数字人民币 \n₿｜BTC 之流都是拿来炒的",
+        "id": "1521728759258300417",
+        "name": "Syan ￥Z",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057430247927058432/AMi_iOye_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 17,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 1490
+        },
+        "username": "yuxiang09456469",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-08T17:11:45.000Z",
+        "description": "",
+        "id": "112480458",
+        "location": "New Jersey, USA",
+        "name": "Кеnnу₂₀₂₆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996018495558201344/A4D4gWjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 131,
+          "like_count": 198,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1830
+        },
+        "username": "is99zsq",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T14:38:05.000Z",
+        "description": "🇩🇪 德国博士在读｜前新能源大厂工程师｜AI 应用实践者\n🧭 30+离开企业体系，赴德重新开始\n🚗 曾服务奔驰、宝马汽车设计生产的碳核算\n⚙️ 写技术转型、产业观察与海外留学\n📝 记录小白如何成为万粉博主",
+        "id": "2044062568944148480",
+        "name": "Oldeng",
+        "pinned_tweet_id": "2057020056987427037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052132676753047553/lIjfMfyg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2040,
+          "following_count": 293,
+          "like_count": 2158,
+          "listed_count": 13,
+          "media_count": 171,
+          "tweet_count": 2490
+        },
+        "username": "dengdry",
+        "verified": true
+      }
+    ]
+  }
+}

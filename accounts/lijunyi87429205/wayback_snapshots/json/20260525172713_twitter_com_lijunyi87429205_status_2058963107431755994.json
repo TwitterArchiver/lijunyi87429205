@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2058852600666116359",
+    "created_at": "2026-05-25T17:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058963107431755994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029243756529238018",
+          "start": 0,
+          "username": "Kusutobi_7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058963107431755994",
+    "in_reply_to_user_id": "2029243756529238018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058852600666116359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kusutobi_7 试一下吧，反正不会死人（大概"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2058852600666116359",
+        "created_at": "2026-05-25T17:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058963107431755994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029243756529238018",
+              "start": 0,
+              "username": "Kusutobi_7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058963107431755994",
+        "in_reply_to_user_id": "2029243756529238018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058852600666116359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kusutobi_7 试一下吧，反正不会死人（大概"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029243756529238018",
+        "conversation_id": "2058852600666116359",
+        "created_at": "2026-05-25T10:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T11:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058852600666116359"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058852600666116359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在想是否该勇敢尝试用人际关系来代替叶子然后与酒精尼古丁来维持我的精神状态"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 378,
+          "like_count": 66065,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 1974
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-04T17:13:25.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/问题咨询https://t.co/cyNJPUVaY4 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 103,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 80,
+                "url": "https://t.co/cyNJPUVaY4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/YFgaHXJMZ6"
+              }
+            ]
+          }
+        },
+        "id": "2029243756529238018",
+        "name": "楠鸢Kusutobi(七代目)",
+        "pinned_tweet_id": "2056715636944797890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033949396233072641/zRZ6XmJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 43,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 57
+        },
+        "url": "https://t.co/YFgaHXJMZ6",
+        "username": "Kusutobi_7",
+        "verified": false
+      }
+    ]
+  }
+}
