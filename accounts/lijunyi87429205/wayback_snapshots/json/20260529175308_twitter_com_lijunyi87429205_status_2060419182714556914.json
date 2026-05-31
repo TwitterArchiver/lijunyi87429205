@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drink Experience",
+          "id": "1006278636842782720",
+          "name": "Drink Experience"
+        }
+      }
+    ],
+    "conversation_id": "2060419182714556914",
+    "created_at": "2026-05-29T17:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060419182714556914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2036309819657953280",
+          "start": 3,
+          "username": "mainSKP2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060419182714556914",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060310977816768803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mainSKP2004: Hot weather is rough. It kills my appetite too, to the point where all I want is cold drinks or maybe just cereal at best.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2060419182714556914].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2060419182714556914",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2060419182714556914"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2060310893230256128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJex12XbcAAFGGJ.png",
+        "width": 561
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060310893230256128"
+          ]
+        },
+        "author_id": "2036309819657953280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cereal",
+              "id": "825059408589660161",
+              "name": "Cereals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2060310977816768803",
+        "created_at": "2026-05-29T10:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T11:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060310977816768803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/77NwYUYYvY",
+              "end": 148,
+              "expanded_url": "https://x.com/mainSKP2004/status/2060310977816768803/photo/1",
+              "media_key": "3_2060310893230256128",
+              "start": 125,
+              "url": "https://t.co/77NwYUYYvY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060310977816768803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 2314,
+          "like_count": 440,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "Hot weather is rough. It kills my appetite too, to the point where all I want is cold drinks or maybe just cereal at best... https://t.co/77NwYUYYvY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 381,
+          "like_count": 66874,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 2004
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-24T05:11:24.000Z",
+        "description": "SKP’s art upload account. / Follow me for daily femboy art. / \nPIXIV: https://t.co/JumlVcUumh / \nAlt: @Suckillpak_2003",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 102,
+                "username": "Suckillpak_2003"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/109038221",
+                "end": 93,
+                "expanded_url": "https://www.pixiv.net/users/109038221",
+                "start": 70,
+                "url": "https://t.co/JumlVcUumh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "suckkill.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://suckkill.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/FFBz6Ouo75"
+              }
+            ]
+          }
+        },
+        "id": "2036309819657953280",
+        "name": "SKIP",
+        "pinned_tweet_id": "2060381353850650787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060057363823173632/hQJVFeah_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6682,
+          "following_count": 7,
+          "like_count": 148,
+          "listed_count": 16,
+          "media_count": 20,
+          "tweet_count": 72
+        },
+        "url": "https://t.co/FFBz6Ouo75",
+        "username": "mainSKP2004",
+        "verified": true
+      }
+    ]
+  }
+}

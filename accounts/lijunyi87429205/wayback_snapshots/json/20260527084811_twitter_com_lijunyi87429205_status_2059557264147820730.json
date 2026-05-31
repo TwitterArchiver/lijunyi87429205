@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059236315661508608"
+      ],
+      "media_source_tweet_id": [
+        "2059236325685887261"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2059557264147820730",
+    "created_at": "2026-05-27T08:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T09:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059557264147820730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1486911626846806017",
+          "start": 3,
+          "username": "Puppieslover"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKJ46tC2bH",
+          "end": 41,
+          "expanded_url": "https://x.com/Puppieslover/status/2059236325685887261/photo/1",
+          "media_key": "3_2059236315661508608",
+          "start": 18,
+          "url": "https://t.co/GKJ46tC2bH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059557264147820730",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3453
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059236325685887261",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Puppieslover: https://t.co/GKJ46tC2bH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1498,
+        "media_key": "3_2059236315661508608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJPghM-WoAASfQq.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059236315661508608"
+          ],
+          "media_source_tweet_id": [
+            "2059236325685887261"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2059557264147820730",
+        "created_at": "2026-05-27T08:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059557264147820730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1486911626846806017",
+              "start": 3,
+              "username": "Puppieslover"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKJ46tC2bH",
+              "end": 41,
+              "expanded_url": "https://x.com/Puppieslover/status/2059236325685887261/photo/1",
+              "media_key": "3_2059236315661508608",
+              "start": 18,
+              "url": "https://t.co/GKJ46tC2bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059557264147820730",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3453
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059236325685887261",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Puppieslover: https://t.co/GKJ46tC2bH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059236315661508608"
+          ]
+        },
+        "author_id": "1486911626846806017",
+        "conversation_id": "2059236325685887261",
+        "created_at": "2026-05-26T11:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059236325685887261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKJ46tC2bH",
+              "end": 23,
+              "expanded_url": "https://x.com/Puppieslover/status/2059236325685887261/photo/1",
+              "media_key": "3_2059236315661508608",
+              "start": 0,
+              "url": "https://t.co/GKJ46tC2bH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059236325685887261",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1807,
+          "impression_count": 541536,
+          "like_count": 59746,
+          "quote_count": 57,
+          "reply_count": 36,
+          "retweet_count": 3453
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GKJ46tC2bH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 380,
+          "like_count": 66309,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 1980
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T03:59:16.000Z",
+        "description": "Your Original source for Original Dog Video",
+        "id": "1486911626846806017",
+        "location": "DM FOR CREDIT OR REMOVAL ",
+        "name": "Puppies 🐶",
+        "pinned_tweet_id": "2059236325685887261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932493634949001216/24t3qW3V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 626203,
+          "following_count": 12292,
+          "like_count": 38670,
+          "listed_count": 1336,
+          "media_count": 19969,
+          "tweet_count": 27128
+        },
+        "username": "Puppieslover",
+        "verified": true
+      }
+    ]
+  }
+}
