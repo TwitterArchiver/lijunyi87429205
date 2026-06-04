@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2060507912020398538",
+    "created_at": "2026-05-30T14:54:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:54:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060736728001073368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2048693394226974720",
+          "start": 0,
+          "username": "CCA8798suki"
+        },
+        {
+          "end": 25,
+          "id": "1860552199585300482",
+          "start": 13,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060736728001073368",
+    "in_reply_to_user_id": "2048693394226974720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060507912020398538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCA8798suki @Seven_Eraya 我的父母\n当我有任何疾病\nbefore 18 age\n女：“会死吗？”\n男：“肯定不会”\n女：“啊，那就没关系。”\nafter 18 age\n合：“死远一点。”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2060507912020398538",
+        "created_at": "2026-05-30T14:54:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060736728001073368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2048693394226974720",
+              "start": 0,
+              "username": "CCA8798suki"
+            },
+            {
+              "end": 25,
+              "id": "1860552199585300482",
+              "start": 13,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060736728001073368",
+        "in_reply_to_user_id": "2048693394226974720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060507912020398538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCA8798suki @Seven_Eraya 我的父母\n当我有任何疾病\nbefore 18 age\n女：“会死吗？”\n男：“肯定不会”\n女：“啊，那就没关系。”\nafter 18 age\n合：“死远一点。”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048693394226974720",
+        "conversation_id": "2060507912020398538",
+        "created_at": "2026-05-29T23:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:44:39.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060507642624458769",
+          "2060507844936647008",
+          "2060507912020398538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060507912020398538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 29481,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "在看我妈的手机时，\n偶然瞥见我妈与我爸的短信：\n妈：现在需要一笔钱，给儿子治病，要住院，请准备1～2万\n爸：治什么病\n妈：双相情感障碍和性别认知障碍\n爸：(搬出一堆双相的定义...)\n妈：照你这么说，世界上就不会有病人了\n\n“照你这么说，世界上就不会有病人了”\n\n..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 381,
+          "like_count": 67012,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 2012
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T09:19:12.000Z",
+        "description": "MTF/X🍥 | 含糖 | 年龄党+家长党 出柜2026.05.05 出厂:壹贰.零壹.零叁 | 166cm/41kg | 佛山 |  偏内向 玻璃心 双相中焦 ED GD OD | 雷伪娘、艹、Dick字眼 | 交通 科学 医学 杂圈迷 | Cpp Coder | 寻回前世互fo | 恨MSK\n前世@CCA8798",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 151,
+                "username": "CCA8798"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cca8798.com/about/",
+                "end": 23,
+                "expanded_url": "http://cca8798.com/about/",
+                "start": 0,
+                "url": "https://t.co/0gMYiKoF6B"
+              }
+            ]
+          }
+        },
+        "id": "2048693394226974720",
+        "location": "安东星蜗牛第一票常交易矿业太空旅行无限Co., Ltd",
+        "name": "不会起名の捌拐玖捌🍥(二代目互fo寻回中)",
+        "pinned_tweet_id": "2059398080643190943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059761684500336640/bvv_7t16_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 344,
+          "like_count": 391,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/0gMYiKoF6B",
+        "username": "CCA8798suki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "疑似有证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|重度焦虑|性别烦躁|超强易敏体质|疑似有证26.5.25|已拥盐26.4.8|Hrt Start26.3.7|生产日期12.1.7|已炸柜26.5.9|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "pinned_tweet_id": "2060228343510028747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 233,
+          "like_count": 613,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 414
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

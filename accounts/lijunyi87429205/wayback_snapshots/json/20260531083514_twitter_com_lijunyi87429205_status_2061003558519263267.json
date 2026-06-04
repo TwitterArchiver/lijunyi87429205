@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2060999488341455058",
+    "created_at": "2026-05-31T08:35:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061003558519263267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1323564139302711297",
+          "start": 0,
+          "username": "dayangelcp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061003558519263267",
+    "in_reply_to_user_id": "1323564139302711297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "致 庆丰帝 近平 习\n  想来您也已经快要七十三岁了，和我的祖辈一般的年龄，你刚执政时我只觉得你面貌丑陋，但在我成长了十三年的今天，我早早认识到你是个表里如一的人。\n  这些年岁给了我一些微不足道的智慧，但看您好大喜功的表现，时光没有给您同样的恩惠。而衰老也没有被您的权力与财富打败。\n  特供食品，营养师，养尊处优的生活环境。还是周围人的阿谀奉承。执掌一国的政治，操弄国民的生死。想必给了您，我无法想象的体验。\n  但您听着，毛在他的末年死在一个可笑又可悲的境地，您也最好趁早停止做关于一百五十岁寿命的春秋大梦。如果阔达地面对人这一终极的命运，能在那时刻到来时，少些痛苦。\n  无论这背叛来自时间，还是您那个窃国政党的内部，那一日我也许仍在苦劳，但我一定会由衷地欢庆您的灭亡，如果有幸，我还能依仗这年轻的躯体，看到您父亲一同建立的这个党的灭亡。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060999488341455058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dayangelcp 致 庆丰帝 近平 习\n  想来您也已经快要七十三岁了，和我的祖辈一般的年龄，你刚执政时我只觉得你面貌丑陋，但在我成长了十三年的今天，我早早认识到你是个表里如一的人。\n  这些年岁给了我一些微不足道的智慧，但看您好大喜功的表现，时光没有给您同样的恩惠。而衰老也没有被您的权力与财富打败。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060999484197502976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJokHHnbAAAJfxt.jpg",
+        "width": 1484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2060999488341455058",
+        "created_at": "2026-05-31T08:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061003558519263267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1323564139302711297",
+              "start": 0,
+              "username": "dayangelcp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061003558519263267",
+        "in_reply_to_user_id": "1323564139302711297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "致 庆丰帝 近平 习\n  想来您也已经快要七十三岁了，和我的祖辈一般的年龄，你刚执政时我只觉得你面貌丑陋，但在我成长了十三年的今天，我早早认识到你是个表里如一的人。\n  这些年岁给了我一些微不足道的智慧，但看您好大喜功的表现，时光没有给您同样的恩惠。而衰老也没有被您的权力与财富打败。\n  特供食品，营养师，养尊处优的生活环境。还是周围人的阿谀奉承。执掌一国的政治，操弄国民的生死。想必给了您，我无法想象的体验。\n  但您听着，毛在他的末年死在一个可笑又可悲的境地，您也最好趁早停止做关于一百五十岁寿命的春秋大梦。如果阔达地面对人这一终极的命运，能在那时刻到来时，少些痛苦。\n  无论这背叛来自时间，还是您那个窃国政党的内部，那一日我也许仍在苦劳，但我一定会由衷地欢庆您的灭亡，如果有幸，我还能依仗这年轻的躯体，看到您父亲一同建立的这个党的灭亡。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060999488341455058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dayangelcp 致 庆丰帝 近平 习\n  想来您也已经快要七十三岁了，和我的祖辈一般的年龄，你刚执政时我只觉得你面貌丑陋，但在我成长了十三年的今天，我早早认识到你是个表里如一的人。\n  这些年岁给了我一些微不足道的智慧，但看您好大喜功的表现，时光没有给您同样的恩惠。而衰老也没有被您的权力与财富打败。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060999484197502976"
+          ]
+        },
+        "author_id": "1323564139302711297",
+        "conversation_id": "2060999488341455058",
+        "created_at": "2026-05-31T08:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060999488341455058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kBVqqVBam7",
+              "end": 83,
+              "expanded_url": "https://x.com/dayangelcp/status/2060999488341455058/photo/1",
+              "media_key": "3_2060999484197502976",
+              "start": 60,
+              "url": "https://t.co/kBVqqVBam7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060999488341455058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1333,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "既然已经“大翻译”运动了，既然都开始建巴别塔了。\n\n来，每个国家的人对你们的国家领导人说一句话。\n\n我看看你们有多猛。 https://t.co/kBVqqVBam7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意洵”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 380,
+          "like_count": 67146,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 2019
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-03T09:54:48.000Z",
+        "description": "写写字",
+        "id": "1323564139302711297",
+        "location": "火星",
+        "name": "李承鹏（大眼哥）",
+        "pinned_tweet_id": "2051993063388766318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041601894234386435/kz1FSTka_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492219,
+          "following_count": 958,
+          "like_count": 3805,
+          "listed_count": 1288,
+          "media_count": 244,
+          "tweet_count": 752
+        },
+        "username": "dayangelcp",
+        "verified": true
+      }
+    ]
+  }
+}
