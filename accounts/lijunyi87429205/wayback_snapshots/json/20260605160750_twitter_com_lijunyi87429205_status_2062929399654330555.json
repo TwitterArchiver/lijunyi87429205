@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2057475265702596766",
+    "created_at": "2026-06-05T16:07:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T17:07:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062929399654330555"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2062929399654330555",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057475265702596766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "稍微观察了一些“平均”例子，我其实是欲望偏低的类型？\n感觉自我审查让我过多的污名化自己的欲望了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2027,
+        "media_key": "3_2057475258463170560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2e2LraMAAmp_K.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2027,
+        "media_key": "3_2057475258480046080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2e2LvbsAAqPYz.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2057475265702596766",
+        "created_at": "2026-06-05T16:07:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T17:07:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062929399654330555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062929399654330555",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057475265702596766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "稍微观察了一些“平均”例子，我其实是欲望偏低的类型？\n感觉自我审查让我过多的污名化自己的欲望了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057475258463170560",
+            "3_2057475258480046080"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2057475265702596766",
+        "created_at": "2026-05-21T14:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T15:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057475265702596766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWr4Uy2n6c",
+              "end": 41,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2057475265702596766/photo/1",
+              "media_key": "3_2057475258463170560",
+              "start": 18,
+              "url": "https://t.co/rWr4Uy2n6c"
+            },
+            {
+              "display_url": "pic.x.com/rWr4Uy2n6c",
+              "end": 41,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2057475265702596766/photo/1",
+              "media_key": "3_2057475258480046080",
+              "start": 18,
+              "url": "https://t.co/rWr4Uy2n6c"
+            },
+            {
+              "display_url": "x.com/EntropyF73/sta…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/EntropyF73/status/2057336645293121703",
+              "start": 42,
+              "url": "https://t.co/7oPRfvVBOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057475265702596766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057336645293121703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我大概是这样，（气质表达有些不稳定 https://t.co/rWr4Uy2n6c https://t.co/7oPRfvVBOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 350,
+          "like_count": 67814,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2053
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

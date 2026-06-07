@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2062491951946199063",
+    "created_at": "2026-06-04T11:09:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:09:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062491951946199063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062491951946199063",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062488957707825455",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: “当记性好、忘性大达到致死的剂量，就像得了一种奇怪的健忘症：记得太多以至于甚么都不记得。那些口口声声要铭记历史的人，反而是忘历史忘得最狠、最彻底的人。”\n\n“认知塌陷就像山崩，并不是山涧掉落一块岩石那麽简单轻巧。认知坍缩最先就是从记住不…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 995,
+        "media_key": "3_2062477075844341762",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9j-RcWoAIrlqf.jpg",
+        "width": 1456
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2062491951946199063",
+        "created_at": "2026-06-04T11:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062491951946199063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062491951946199063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062488957707825455",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: “当记性好、忘性大达到致死的剂量，就像得了一种奇怪的健忘症：记得太多以至于甚么都不记得。那些口口声声要铭记历史的人，反而是忘历史忘得最狠、最彻底的人。”\n\n“认知塌陷就像山崩，并不是山涧掉落一块岩石那麽简单轻巧。认知坍缩最先就是从记住不…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062477075844341762"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "2062488957707825455",
+        "created_at": "2026-06-04T10:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:47:16.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062486335768732056",
+          "2062487084795932831",
+          "2062487623445217544",
+          "2062488957707825455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OfaAru2Gb",
+              "end": 163,
+              "expanded_url": "https://x.com/22HomoPoliticus/status/2062488957707825455/photo/1",
+              "media_key": "3_2062477075844341762",
+              "start": 140,
+              "url": "https://t.co/6OfaAru2Gb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062488957707825455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "“当记性好、忘性大达到致死的剂量，就像得了一种奇怪的健忘症：记得太多以至于甚么都不记得。那些口口声声要铭记历史的人，反而是忘历史忘得最狠、最彻底的人。”\n\n“认知塌陷就像山崩，并不是山涧掉落一块岩石那麽简单轻巧。认知坍缩最先就是从记住不该记住的事情、忘记不该忘记的事情开始的。”\n\n上面是从旧文《当记性好、忘性大达到致死的剂量》中，摘取的片段。\n\n以后六四纪念日，我依然会讲这样的话：有一种健忘症就是记性好、忘性大。年年喊纪念的人，到底记住了什么❓是记住了仇恨还是记住了教训❓又在哪些地方长了记性❓\n\n大家纪念六四运动这么多年，依然在内斗、依然在怨恨、依然在互相推卸责任，那我要说：你们就是得了记性好、忘性大的健忘症。\n\n六四运动不是可以随便拿来标榜你一个人无比道德高尚的旗帜，六四惨案没有任何虚荣可言。\n\n如果你纪念这么多年，记住的是恐惧、怨恨和历史阴霾，记住的是这也不可能、那也不可能，你忘了要改变自己来推动社会抗争继续前进，我看你还是不要假惺惺纪念六四事件比较好，因为你越是纪念就越是变成社会变革的阻力。\n\n你纪念这么多年还是没有长进，你还是不信任他人、还是不能跟他人合作、你还是背信弃义、你还是热衷于内斗、你还是油嘴滑舌地抬杠、你还是死性不改……我看你啥都没有记住。你这就是典型的记性好、忘性大！\n\n要努力改变自己来给社会变革创造条件❗不要把纪念变成一场有公共娱乐性质的行为艺术。把你自己变成能够引领社会变革的一代人，这才是最好的纪念，因为只有这样才是接过前人沾满鲜血的旗帜继续战斗。不然呢，要一辈子只靠悼念来标榜你自己接续了六四精神吗？\n\n六四一代老了，新生代还没起来，青黄不接才让人恐慌。不要以为你是不同政见者、你会喊反共口号、你也去驻外使领馆举牌子，你就想当然继承了六四遗产。\n\n你要改变自己，把你自己变成社会变革的一部分，让自己学会跟人合作，抑制自己身上的狂躁，逼迫自己去学习和研究社会变革经验，鞭策自己去参与你过去总说“不可能”的社会活动，鼓励你自己在社会低潮期成为他人可以依赖的榜样，把你自己变成鼓舞人心的力量而不是一剂又一剂的致幻剂……你有很多事情可以做，你完全可以克服健忘症。\n\n现在想想，这么多年你哪些地方因为纪念六四有了长进❓你还是浮躁，你还是用语粗鄙，你还是不耐烦，你还是急于求成，你还是只喜欢泄愤，你还是满脑子不切实际的幻想，你还是醉心于指责他人，你还是猜忌他人，你还是愤世嫉俗，你还是没有基本分辨能力，你还是没有基本思考能力，你还是对新思想免疫……\n\n我看你就是得了六四后遗症。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 252,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“当记性好、忘性大达到致死的剂量，就像得了一种奇怪的健忘症：记得太多以至于甚么都不记得。那些口口声声要铭记历史的人，反而是忘历史忘得最狠、最彻底的人。”\n\n“认知塌陷就像山崩，并不是山涧掉落一块岩石那麽简单轻巧。认知坍缩最先就是从记住不该记住的事情、忘记不该忘记的事情开始的。” https://t.co/6OfaAru2Gb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 347,
+          "like_count": 67562,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2037
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Political writer with a focus on Chinese politics and international relations. https://t.co/XJymduij5y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiuslee?r…",
+                "end": 102,
+                "expanded_url": "https://substack.com/@ignatiuslee?r=2i7su8&utm_medium=ios&utm_source=profile",
+                "start": 79,
+                "url": "https://t.co/XJymduij5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@mindalchemy20…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@mindalchemy2024?si=0kix-GDezYc1rLw0",
+                "start": 0,
+                "url": "https://t.co/UidYD998VN"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "location": "London",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "2060837502374621443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83526,
+          "following_count": 512,
+          "like_count": 115809,
+          "listed_count": 538,
+          "media_count": 7911,
+          "tweet_count": 24623
+        },
+        "url": "https://t.co/UidYD998VN",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}
