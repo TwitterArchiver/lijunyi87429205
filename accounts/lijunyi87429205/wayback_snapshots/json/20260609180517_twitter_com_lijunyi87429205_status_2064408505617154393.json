@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064046404901707776"
+      ],
+      "media_source_tweet_id": [
+        "2064046411587494332"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064408505617154393",
+    "created_at": "2026-06-09T18:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T19:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064408505617154393"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 14,
+          "tag": "backrooms"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1084391244774731776",
+          "start": 3,
+          "username": "CATTSICA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/amoQxYYNZj",
+          "end": 48,
+          "expanded_url": "https://x.com/CATTSICA/status/2064046411587494332/photo/1",
+          "media_key": "3_2064046404901707776",
+          "start": 25,
+          "url": "https://t.co/amoQxYYNZj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064408505617154393",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8429
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064046411587494332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CATTSICA: #backrooms https://t.co/amoQxYYNZj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2064046404901707776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKT3RPwWoAAxaDv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064046404901707776"
+          ],
+          "media_source_tweet_id": [
+            "2064046411587494332"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064408505617154393",
+        "created_at": "2026-06-09T18:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T19:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064408505617154393"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 14,
+              "tag": "backrooms"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1084391244774731776",
+              "start": 3,
+              "username": "CATTSICA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/amoQxYYNZj",
+              "end": 48,
+              "expanded_url": "https://x.com/CATTSICA/status/2064046411587494332/photo/1",
+              "media_key": "3_2064046404901707776",
+              "start": 25,
+              "url": "https://t.co/amoQxYYNZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064408505617154393",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8429
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064046411587494332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CATTSICA: #backrooms https://t.co/amoQxYYNZj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064046404901707776"
+          ]
+        },
+        "author_id": "1084391244774731776",
+        "conversation_id": "2064046411587494332",
+        "created_at": "2026-06-08T18:06:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064046411587494332"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "backrooms"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/amoQxYYNZj",
+              "end": 34,
+              "expanded_url": "https://x.com/CATTSICA/status/2064046411587494332/photo/1",
+              "media_key": "3_2064046404901707776",
+              "start": 11,
+              "url": "https://t.co/amoQxYYNZj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064046411587494332",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5116,
+          "impression_count": 427738,
+          "like_count": 86121,
+          "quote_count": 24,
+          "reply_count": 51,
+          "retweet_count": 8429
+        },
+        "reply_settings": "everyone",
+        "text": "#backrooms https://t.co/amoQxYYNZj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 356,
+          "like_count": 68712,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2095
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-13T10:06:34.000Z",
+        "description": "mainly drawing the vocaloids 💿 commissions open! reposts/icons okay with credit! 💌cattsica@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/CATTSICA",
+                "end": 23,
+                "expanded_url": "https://vgen.co/CATTSICA",
+                "start": 0,
+                "url": "https://t.co/2UBzzfxqMX"
+              }
+            ]
+          }
+        },
+        "id": "1084391244774731776",
+        "location": "21 // 🏴󠁧󠁢󠁥󠁮󠁧󠁿 IN 🇷🇴",
+        "name": "—𝙀𝙇𝙎𝙄𝙀 𝙍𝙊𝙎𝙀 ☆",
+        "pinned_tweet_id": "1962190202325143721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962173223023325184/tJbBLjwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6224,
+          "following_count": 447,
+          "like_count": 385591,
+          "listed_count": 20,
+          "media_count": 251,
+          "tweet_count": 4899
+        },
+        "url": "https://t.co/2UBzzfxqMX",
+        "username": "CATTSICA",
+        "verified": false
+      }
+    ]
+  }
+}

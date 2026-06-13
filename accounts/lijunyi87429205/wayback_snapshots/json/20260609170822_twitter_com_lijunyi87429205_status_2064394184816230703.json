@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063699589237280768"
+      ],
+      "media_source_tweet_id": [
+        "2063699595037978979"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064394184816230703",
+    "created_at": "2026-06-09T17:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064394184816230703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1618210676744376323",
+          "start": 3,
+          "username": "artandvault"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P6jIsaYlhB",
+          "end": 92,
+          "expanded_url": "https://x.com/artandvault/status/2063699595037978979/photo/1",
+          "media_key": "3_2063699589237280768",
+          "start": 69,
+          "url": "https://t.co/P6jIsaYlhB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064394184816230703",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 272
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063699595037978979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @artandvault: The Velvet, 2017\nby Serge Marshennikov @SergeMarshe https://t.co/P6jIsaYlhB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2063699589237280768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKO716ubkAAl026.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063699589237280768"
+          ],
+          "media_source_tweet_id": [
+            "2063699595037978979"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064394184816230703",
+        "created_at": "2026-06-09T17:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064394184816230703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1618210676744376323",
+              "start": 3,
+              "username": "artandvault"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6jIsaYlhB",
+              "end": 92,
+              "expanded_url": "https://x.com/artandvault/status/2063699595037978979/photo/1",
+              "media_key": "3_2063699589237280768",
+              "start": 69,
+              "url": "https://t.co/P6jIsaYlhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064394184816230703",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 272
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063699595037978979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @artandvault: The Velvet, 2017\nby Serge Marshennikov @SergeMarshe https://t.co/P6jIsaYlhB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063699589237280768"
+          ]
+        },
+        "author_id": "1618210676744376323",
+        "conversation_id": "2063699595037978979",
+        "created_at": "2026-06-07T19:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063699595037978979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6jIsaYlhB",
+              "end": 75,
+              "expanded_url": "https://x.com/artandvault/status/2063699595037978979/photo/1",
+              "media_key": "3_2063699589237280768",
+              "start": 52,
+              "url": "https://t.co/P6jIsaYlhB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063699595037978979",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 876,
+          "impression_count": 111576,
+          "like_count": 5301,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 272
+        },
+        "reply_settings": "everyone",
+        "text": "The Velvet, 2017\nby Serge Marshennikov @SergeMarshe https://t.co/P6jIsaYlhB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 356,
+          "like_count": 68707,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2093
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-25T11:35:03.000Z",
+        "description": "Curating digital art through exhibitions, conversations, and encounters. Founded by @FARRAHXYZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "FARRAHXYZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/artandvault",
+                "end": 23,
+                "expanded_url": "https://bio.site/artandvault",
+                "start": 0,
+                "url": "https://t.co/kCW1VPRKLT"
+              }
+            ]
+          }
+        },
+        "id": "1618210676744376323",
+        "location": "New York, NY",
+        "name": "ART&VAULT",
+        "pinned_tweet_id": "1887253558250160347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770253845794361344/Ojmrz4ZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6005,
+          "following_count": 0,
+          "like_count": 18420,
+          "listed_count": 32,
+          "media_count": 4002,
+          "tweet_count": 9903
+        },
+        "url": "https://t.co/kCW1VPRKLT",
+        "username": "artandvault",
+        "verified": true
+      }
+    ]
+  }
+}

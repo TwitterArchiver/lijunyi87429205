@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064385166676734161",
+    "created_at": "2026-06-09T17:22:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T18:22:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064397661911028033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863482901670895616",
+          "start": 0,
+          "username": "osborn_11s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064397661911028033",
+    "in_reply_to_user_id": "1863482901670895616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064395448924950992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osborn_11s 在教授感受到巨大的压力和社交受难时，他也会那样顶起下巴，如果情况继续恶化，大概真的这支不见天日，久经折磨的牙兵一定从那下巴冲出来，攻击讨厌的推销圣经的\n漂亮男人，然后把导演打一顿，抢走摄影师的镜头作为战争基地,会制造一场混乱的！😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064385166676734161",
+        "created_at": "2026-06-09T17:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064397661911028033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863482901670895616",
+              "start": 0,
+              "username": "osborn_11s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064397661911028033",
+        "in_reply_to_user_id": "1863482901670895616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064395448924950992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osborn_11s 在教授感受到巨大的压力和社交受难时，他也会那样顶起下巴，如果情况继续恶化，大概真的这支不见天日，久经折磨的牙兵一定从那下巴冲出来，攻击讨厌的推销圣经的\n漂亮男人，然后把导演打一顿，抢走摄影师的镜头作为战争基地,会制造一场混乱的！😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863482901670895616",
+        "conversation_id": "2064385166676734161",
+        "created_at": "2026-06-09T17:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T18:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064395448924950992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064395448924950992",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064392511448392175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 已经不敢直视教授下巴了，总感觉里面要有千军万马冲出来了、咬紧牙关啊ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 356,
+          "like_count": 68708,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2094
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T07:19:18.000Z",
+        "description": "上学中…┊摩羯座┊ ♀\n动漫/漫画/小说/动物/风景 /恐怖电影\n感情比较重且麻烦的性格，非常敏感，胡思乱想、负能量、如果不介意请和我做朋友吧！什么废话都可以！给我发私信的话绝对会认真回复的！(´･ω･`)」\n闲着无聊的人随便问点什么吧～摸鱼的时候回复哦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/osborn_11s",
+                "end": 23,
+                "expanded_url": "https://ngl.link/osborn_11s",
+                "start": 0,
+                "url": "https://t.co/x32Q6DJj3g"
+              }
+            ]
+          }
+        },
+        "id": "1863482901670895616",
+        "name": "塩漬けの魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062058692858757120/EKCBJgO-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 114,
+          "like_count": 2695,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/x32Q6DJj3g",
+        "username": "osborn_11s",
+        "verified": false
+      }
+    ]
+  }
+}

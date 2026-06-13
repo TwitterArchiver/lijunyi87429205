@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2063265326129934787",
+    "created_at": "2026-06-06T15:14:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:14:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063278264328831181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1440268407249649668",
+          "start": 0,
+          "username": "sjshb57"
+        },
+        {
+          "end": 20,
+          "id": "1720585683184857088",
+          "start": 9,
+          "username": "xiaoqi3377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063278264328831181",
+    "in_reply_to_user_id": "1440268407249649668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063274415086096577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjshb57 @xiaoqi3377 我算是见识到我的话能造成多少歧义了www\n这里是说“大部分人做出的事情，对某些人来说，理解是想做就能做到的事情。”\n但原谅或者迎合与否，是另外的考量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2063265326129934787",
+        "created_at": "2026-06-06T15:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063278264328831181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1440268407249649668",
+              "start": 0,
+              "username": "sjshb57"
+            },
+            {
+              "end": 20,
+              "id": "1720585683184857088",
+              "start": 9,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063278264328831181",
+        "in_reply_to_user_id": "1440268407249649668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063274415086096577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjshb57 @xiaoqi3377 我算是见识到我的话能造成多少歧义了www\n这里是说“大部分人做出的事情，对某些人来说，理解是想做就能做到的事情。”\n但原谅或者迎合与否，是另外的考量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440268407249649668",
+        "conversation_id": "2063265326129934787",
+        "created_at": "2026-06-06T14:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063274415086096577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            },
+            {
+              "end": 28,
+              "id": "1720585683184857088",
+              "start": 17,
+              "username": "xiaoqi3377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063274415086096577",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063269100890259875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 @xiaoqi3377 感性推动意识，这是奇迹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 351,
+          "like_count": 68165,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2066
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-21T10:55:42.000Z",
+        "description": "被困在玻璃罐中的千纸鹤，真的可能自由吗？\n - 「全员永生计划」进行中 |  \n组织：https://t.co/zQUuHV5jgl | 互联网时光机 | 另一个我 @她",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/TwitterArchiver",
+                "end": 66,
+                "expanded_url": "http://github.com/TwitterArchiver",
+                "start": 43,
+                "url": "https://t.co/zQUuHV5jgl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/sjshb57",
+                "end": 23,
+                "expanded_url": "https://github.com/sjshb57",
+                "start": 0,
+                "url": "https://t.co/exd5BvIRMs"
+              }
+            ]
+          }
+        },
+        "id": "1440268407249649668",
+        "location": "🌏🌐",
+        "name": "拜託",
+        "pinned_tweet_id": "2060661685862736139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043709113801318400/w2Ah0L0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 470,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/exd5BvIRMs",
+        "username": "sjshb57",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-03T23:36:21.000Z",
+        "description": "我所感受的是你的悲傷嗎？",
+        "id": "1720585683184857088",
+        "name": "第七滴眼淚",
+        "pinned_tweet_id": "2062763291303453151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062763877038010368/JX_ZdX_v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 165,
+          "like_count": 618,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 420
+        },
+        "username": "xiaoqi3377",
+        "verified": false
+      }
+    ]
+  }
+}

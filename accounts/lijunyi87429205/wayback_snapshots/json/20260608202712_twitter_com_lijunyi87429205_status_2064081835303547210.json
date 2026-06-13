@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2061419809607393685",
+    "created_at": "2026-06-08T20:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T21:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064081835303547210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511020407213621253",
+          "start": 0,
+          "username": "JCLZJ1892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064081835303547210",
+    "in_reply_to_user_id": "1511020407213621253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063879661868949659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCLZJ1892 谢谢你🙏🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2061419809607393685",
+        "created_at": "2026-06-08T20:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T21:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064081835303547210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511020407213621253",
+              "start": 0,
+              "username": "JCLZJ1892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064081835303547210",
+        "in_reply_to_user_id": "1511020407213621253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063879661868949659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCLZJ1892 谢谢你🙏🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511020407213621253",
+        "conversation_id": "2061419809607393685",
+        "created_at": "2026-06-08T07:03:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T08:03:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063879661868949659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063879661868949659",
+        "in_reply_to_user_id": "1511020407213621253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063879191863627984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 店员会有那个推销68块钱券的指标，严格意义上你确实可以无限续期，但是那个店员没给你讲清楚他确实人不咋滴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 351,
+          "like_count": 68399,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2074
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-04T16:38:43.000Z",
+        "description": "安乐遂显得丑陋，痛苦显得轻浮。",
+        "id": "1511020407213621253",
+        "name": "威士忌浊米酒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823173361108652032/6cEShRoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 295,
+          "like_count": 2183,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 51
+        },
+        "username": "JCLZJ1892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064297942530371732",
+    "created_at": "2026-06-09T14:59:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T15:59:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064361743099568622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        },
+        {
+          "end": 25,
+          "id": "1397850509323554817",
+          "start": 12,
+          "username": "noaayoyaoaya"
+        },
+        {
+          "end": 42,
+          "id": "2035882965671215104",
+          "start": 26,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064361743099568622",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064297942530371732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 @noaayoyaoaya @amber_medusozoa 羡慕羡慕🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064297917142171648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKXcBL3WgAAoJmC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064297942530371732",
+        "created_at": "2026-06-09T14:59:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064361743099568622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            },
+            {
+              "end": 25,
+              "id": "1397850509323554817",
+              "start": 12,
+              "username": "noaayoyaoaya"
+            },
+            {
+              "end": 42,
+              "id": "2035882965671215104",
+              "start": 26,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064361743099568622",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064297942530371732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 @noaayoyaoaya @amber_medusozoa 羡慕羡慕🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064297917142171648"
+          ]
+        },
+        "author_id": "1108737084301307904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2064297942530371732",
+        "created_at": "2026-06-09T10:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T11:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064297942530371732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KDfVafUH6O",
+              "end": 40,
+              "expanded_url": "https://x.com/EntropyF73/status/2064297942530371732/photo/1",
+              "media_key": "3_2064297917142171648",
+              "start": 17,
+              "url": "https://t.co/KDfVafUH6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064297942530371732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 909,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天的面基打卡，见到了两位姐姐🥰 https://t.co/KDfVafUH6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 353,
+          "like_count": 68640,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2086
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 836,
+          "following_count": 1222,
+          "like_count": 31449,
+          "listed_count": 2,
+          "media_count": 320,
+          "tweet_count": 3019
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由\n小号 @noaayoyaoaya1\n🪼@amber_medusozoa\n🐱@kirimarainfelis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "noaayoyaoaya1"
+              },
+              {
+                "end": 43,
+                "start": 27,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "kirimarainfelis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 23,
+                "expanded_url": "http://t.me/+Hp2U0Rck9wU5OGY0",
+                "start": 0,
+                "url": "https://t.co/aEspHWqhXk"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21446,
+          "following_count": 864,
+          "like_count": 10764,
+          "listed_count": 32,
+          "media_count": 126,
+          "tweet_count": 5318
+        },
+        "url": "https://t.co/aEspHWqhXk",
+        "username": "noaayoyaoaya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya ⚜️@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 32,
+                "start": 18,
+                "username": "irisdesombres"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 trt",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5663,
+          "following_count": 977,
+          "like_count": 4620,
+          "listed_count": 10,
+          "media_count": 144,
+          "tweet_count": 2226
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

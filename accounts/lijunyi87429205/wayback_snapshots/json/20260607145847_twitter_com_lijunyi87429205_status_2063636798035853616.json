@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2063635054283407456",
+    "created_at": "2026-06-07T14:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T15:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063636798035853616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1733217384050384896",
+          "start": 0,
+          "username": "KK_Paqu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063636798035853616",
+    "in_reply_to_user_id": "1733217384050384896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063635054283407456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KK_Paqu 为什么总是好人寻求自我终结呢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063635039796269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOBIpUbEAAvw8s.jpg",
+        "width": 1062
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2063635054283407456",
+        "created_at": "2026-06-07T14:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063636798035853616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1733217384050384896",
+              "start": 0,
+              "username": "KK_Paqu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063636798035853616",
+        "in_reply_to_user_id": "1733217384050384896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063635054283407456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KK_Paqu 为什么总是好人寻求自我终结呢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063635039796269056"
+          ]
+        },
+        "author_id": "1733217384050384896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063635054283407456",
+        "created_at": "2026-06-07T14:51:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:51:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063635054283407456"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eHFhDShlQX",
+              "end": 103,
+              "expanded_url": "https://x.com/KK_Paqu/status/2063635054283407456/photo/1",
+              "media_key": "3_2063635039796269056",
+              "start": 80,
+              "url": "https://t.co/eHFhDShlQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063635054283407456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实我还资助过一个妹妹 她没有户口和母亲跑了父亲丢下长期家暴…盐制肉鸦用生活费勉强撑起了她的小家 和她的小爱好 我也干了 只是这样看到幸福很开心 以后看不到了 https://t.co/eHFhDShlQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 351,
+          "like_count": 68395,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2070
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-08T20:10:25.000Z",
+        "description": "Oktopus-Typ-Seite. Kein Sozialkram, draußen bleiben! Bock auf meine Army-Maske? Zeig's dir, aber zahle Provision! Cool, oder?@482xxnay说让我学中文！\nthey 随你喜欢 oc 游戏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "482xxnay"
+              }
+            ]
+          }
+        },
+        "id": "1733217384050384896",
+        "location": "Tyrol, AUT",
+        "name": "盐和肉鸦都被制了3.0",
+        "pinned_tweet_id": "1733249302708064727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063212011329323008/2BGj_Fsb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 161,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 325
+        },
+        "username": "KK_Paqu",
+        "verified": false
+      }
+    ]
+  }
+}
