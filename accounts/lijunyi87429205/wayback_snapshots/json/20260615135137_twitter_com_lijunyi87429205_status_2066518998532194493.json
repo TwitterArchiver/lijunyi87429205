@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2066113825318027264"
+      ],
+      "media_source_tweet_id": [
+        "2066114753421025547"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066518998532194493",
+    "created_at": "2026-06-15T13:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066518998532194493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1287977244023914496",
+          "start": 3,
+          "username": "birdman46049238"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gp3fNVlkk1",
+          "end": 55,
+          "expanded_url": "https://x.com/birdman46049238/status/2066114753421025547/photo/1",
+          "media_key": "16_2066113825318027264",
+          "start": 32,
+          "url": "https://t.co/Gp3fNVlkk1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066518998532194493",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3199
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066114753421025547",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @birdman46049238: FOX Spin!🦊 https://t.co/Gp3fNVlkk1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "16_2066113825318027264",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HKxPk8-awAAzv_4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HKxPk8-awAAzv_4.mp4"
+          }
+        ],
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066113825318027264"
+          ],
+          "media_source_tweet_id": [
+            "2066114753421025547"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066518998532194493",
+        "created_at": "2026-06-15T13:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066518998532194493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1287977244023914496",
+              "start": 3,
+              "username": "birdman46049238"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp3fNVlkk1",
+              "end": 55,
+              "expanded_url": "https://x.com/birdman46049238/status/2066114753421025547/photo/1",
+              "media_key": "16_2066113825318027264",
+              "start": 32,
+              "url": "https://t.co/Gp3fNVlkk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066518998532194493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3199
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066114753421025547",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @birdman46049238: FOX Spin!🦊 https://t.co/Gp3fNVlkk1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2066113825318027264"
+          ]
+        },
+        "author_id": "1287977244023914496",
+        "conversation_id": "2066114753421025547",
+        "created_at": "2026-06-14T11:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066114753421025547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gp3fNVlkk1",
+              "end": 34,
+              "expanded_url": "https://x.com/birdman46049238/status/2066114753421025547/photo/1",
+              "media_key": "16_2066113825318027264",
+              "start": 11,
+              "url": "https://t.co/Gp3fNVlkk1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066114753421025547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3090,
+          "impression_count": 365572,
+          "like_count": 30049,
+          "quote_count": 16,
+          "reply_count": 63,
+          "retweet_count": 3199
+        },
+        "reply_settings": "everyone",
+        "text": "FOX Spin!🦊 https://t.co/Gp3fNVlkk1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 355,
+          "like_count": 69349,
+          "listed_count": 7,
+          "media_count": 44,
+          "tweet_count": 2120
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-28T05:05:22.000Z",
+        "description": "ご連絡はDMかmailにお願いします\ncommission→https://t.co/6LXHtBNfI9\nhttps://t.co/wtS8AVjwUc\nhttps://t.co/nd3Fw5RL0y\n✉:birdtokitsune@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@birdman460492…",
+                "end": 53,
+                "expanded_url": "https://skeb.jp/@birdman46049238",
+                "start": 30,
+                "url": "https://t.co/6LXHtBNfI9"
+              },
+              {
+                "display_url": "patreon.com/birdman342",
+                "end": 77,
+                "expanded_url": "https://www.patreon.com/birdman342",
+                "start": 54,
+                "url": "https://t.co/wtS8AVjwUc"
+              },
+              {
+                "display_url": "birdman.fanbox.cc",
+                "end": 101,
+                "expanded_url": "https://birdman.fanbox.cc/",
+                "start": 78,
+                "url": "https://t.co/nd3Fw5RL0y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/birdman",
+                "end": 23,
+                "expanded_url": "https://potofu.me/birdman",
+                "start": 0,
+                "url": "https://t.co/dZLVEgOGxW"
+              }
+            ]
+          }
+        },
+        "id": "1287977244023914496",
+        "location": "pixel",
+        "name": "birdman🦊",
+        "pinned_tweet_id": "1908844083969413303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642141882447986693/SdCLuLpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248392,
+          "following_count": 533,
+          "like_count": 17653,
+          "listed_count": 1320,
+          "media_count": 552,
+          "tweet_count": 4663
+        },
+        "url": "https://t.co/dZLVEgOGxW",
+        "username": "birdman46049238",
+        "verified": true
+      }
+    ]
+  }
+}

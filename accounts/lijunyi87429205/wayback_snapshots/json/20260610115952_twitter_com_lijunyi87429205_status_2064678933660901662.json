@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062624400365744129"
+      ],
+      "media_source_tweet_id": [
+        "2062625622414053586"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064678933660901662",
+    "created_at": "2026-06-10T11:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T12:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064678933660901662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1085338453665996800",
+          "start": 3,
+          "username": "MasayukiTsuda2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GcPYIA6oMq",
+          "end": 104,
+          "expanded_url": "https://x.com/MasayukiTsuda2/status/2062625622414053586/video/1",
+          "media_key": "13_2062624400365744129",
+          "start": 81,
+          "url": "https://t.co/GcPYIA6oMq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064678933660901662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1905
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062625622414053586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @MasayukiTsuda2: エミューが飼育員に積極的に体を擦り寄せて愛情を示している光景 📹warrawong_wildlife_sanctuary https://t.co/GcPYIA6oMq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59800,
+        "height": 1080,
+        "media_key": "13_2062624400365744129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062624400365744129/img/NvwGBkCMuTMrvMX_.jpg",
+        "public_metrics": {
+          "view_count": 1036820
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/480x270/StFmJPEIcIG9LMhS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/1920x1080/hDipylCIiscWIXP2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/pl/Vn7C92GlqsJGjio-.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/640x360/pwvbx8dKLmJzngmp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/1280x720/Ei85Jgn_p0juxH16.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 59800,
+        "height": 1080,
+        "media_key": "13_2062624400365744129",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062624400365744129/img/NvwGBkCMuTMrvMX_.jpg",
+        "public_metrics": {
+          "view_count": 1036823
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/480x270/StFmJPEIcIG9LMhS.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/1920x1080/hDipylCIiscWIXP2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/pl/Vn7C92GlqsJGjio-.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/640x360/pwvbx8dKLmJzngmp.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062624400365744129/vid/avc1/1280x720/Ei85Jgn_p0juxH16.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062624400365744129"
+          ],
+          "media_source_tweet_id": [
+            "2062625622414053586"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064678933660901662",
+        "created_at": "2026-06-10T11:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T12:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064678933660901662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1085338453665996800",
+              "start": 3,
+              "username": "MasayukiTsuda2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcPYIA6oMq",
+              "end": 104,
+              "expanded_url": "https://x.com/MasayukiTsuda2/status/2062625622414053586/video/1",
+              "media_key": "13_2062624400365744129",
+              "start": 81,
+              "url": "https://t.co/GcPYIA6oMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064678933660901662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1905
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062625622414053586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @MasayukiTsuda2: エミューが飼育員に積極的に体を擦り寄せて愛情を示している光景 📹warrawong_wildlife_sanctuary https://t.co/GcPYIA6oMq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062624400365744129"
+          ]
+        },
+        "author_id": "1085338453665996800",
+        "conversation_id": "2062625622414053586",
+        "created_at": "2026-06-04T20:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T21:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062625622414053586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GcPYIA6oMq",
+              "end": 84,
+              "expanded_url": "https://x.com/MasayukiTsuda2/status/2062625622414053586/video/1",
+              "media_key": "13_2062624400365744129",
+              "start": 61,
+              "url": "https://t.co/GcPYIA6oMq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062625622414053586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3187,
+          "impression_count": 2036853,
+          "like_count": 24460,
+          "quote_count": 213,
+          "reply_count": 2,
+          "retweet_count": 1905
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "エミューが飼育員に積極的に体を擦り寄せて愛情を示している光景 📹warrawong_wildlife_sanctuary https://t.co/GcPYIA6oMq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 357,
+          "like_count": 68822,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2103
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-16T00:50:26.000Z",
+        "description": "津田雅之。比較文学研究者。『批評家クルティウスのヨーロッパ精神』。共著に、 Pluralité des cultures 、Roman mystique、La Grande Guerre vue de Méditerranée 、Littératures et arts du vide など。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "osaka-u.academia.edu/MasayukiTsuda",
+                "end": 23,
+                "expanded_url": "https://osaka-u.academia.edu/MasayukiTsuda",
+                "start": 0,
+                "url": "https://t.co/cbPgV1KkFJ"
+              }
+            ]
+          }
+        },
+        "id": "1085338453665996800",
+        "location": "Japan",
+        "name": "Masayuki Tsuda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1085342087162126336/TLfZ4-IC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124009,
+          "following_count": 983,
+          "like_count": 27441,
+          "listed_count": 984,
+          "media_count": 5763,
+          "tweet_count": 7502
+        },
+        "url": "https://t.co/cbPgV1KkFJ",
+        "username": "MasayukiTsuda2",
+        "verified": true
+      }
+    ]
+  }
+}

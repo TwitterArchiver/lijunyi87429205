@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2064635031004569654",
+    "created_at": "2026-06-10T09:21:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064639159680242130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2046530162536357888",
+          "start": 0,
+          "username": "yueyechunxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064639159680242130",
+    "in_reply_to_user_id": "2046530162536357888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064635031004569654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yueyechunxue 把善良和为他人考虑说成奇怪，才是有些怪吧www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064635015074639872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcOm3hbcAADlq_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2064635031004569654",
+        "created_at": "2026-06-10T09:21:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064639159680242130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2046530162536357888",
+              "start": 0,
+              "username": "yueyechunxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064639159680242130",
+        "in_reply_to_user_id": "2046530162536357888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064635031004569654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yueyechunxue 把善良和为他人考虑说成奇怪，才是有些怪吧www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064635015074639872"
+          ]
+        },
+        "author_id": "2046530162536357888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064635031004569654",
+        "created_at": "2026-06-10T09:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064635031004569654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXqC1elKEL",
+              "end": 129,
+              "expanded_url": "https://x.com/yueyechunxue/status/2064635031004569654/photo/1",
+              "media_key": "3_2064635015074639872",
+              "start": 106,
+              "url": "https://t.co/bXqC1elKEL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064635031004569654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天晚上心里突然很不舒服，于是零点多出门找了个烧烤大排档喝酒，吃了一些烧烤两瓶啤酒，然后因为一天没吃饭是空腹胃特别不舒服，于是在店里的厕所吐了，为了不给店家添麻烦我还蹲着用卫生纸把蹲便器擦干净了😇感觉自己好奇怪 https://t.co/bXqC1elKEL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 356,
+          "like_count": 68782,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2100
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-21T10:04:01.000Z",
+        "description": "这里是春雪狐哦，一只奇怪的狐狸，风俗药娘\n🚪70",
+        "id": "2046530162536357888",
+        "location": "Sendai-shi Miyagino, Miyagi",
+        "name": "春雪狐🌸",
+        "pinned_tweet_id": "2064053449856352356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053086582694100992/QOGXOuaO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 96,
+          "like_count": 769,
+          "listed_count": 4,
+          "media_count": 111,
+          "tweet_count": 1053
+        },
+        "username": "yueyechunxue",
+        "verified": true
+      }
+    ]
+  }
+}

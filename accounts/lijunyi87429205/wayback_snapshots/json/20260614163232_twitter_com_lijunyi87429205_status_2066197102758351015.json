@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2066197102758351015",
+    "created_at": "2026-06-14T16:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066197102758351015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2066197102758351015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "独自一个人放下所有情绪的时候，浮现的总是类似于“怀念”的感受？\n  但又不是某个具体的人，硬要描述的话，类似。\n  “亡者对生者的眷恋”吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2066197102758351015",
+        "created_at": "2026-06-14T16:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066197102758351015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066197102758351015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "独自一个人放下所有情绪的时候，浮现的总是类似于“怀念”的感受？\n  但又不是某个具体的人，硬要描述的话，类似。\n  “亡者对生者的眷恋”吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 354,
+          "like_count": 69253,
+          "listed_count": 7,
+          "media_count": 44,
+          "tweet_count": 2117
+        },
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}

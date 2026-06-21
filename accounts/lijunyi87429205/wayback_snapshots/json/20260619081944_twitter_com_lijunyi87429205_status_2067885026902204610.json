@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2067885026902204610",
+    "created_at": "2026-06-19T08:19:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T09:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067885026902204610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067885026902204610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我非常喜欢攻壳机动队之类的赛博朋克作品,但它们的其中仿生人或高度赛博格化的人。\n  往往在面对战斗时,在这些作品中的表现过于鲁莽。\n\n  作为具有防弹能力或者极强运动能力的特种单位，刺杀渗透，然后迅速撤离之类的才是最适合的工作？\n\n  他们如果让他们顶着轻武器甚至重武武器的射击，用极高的损伤。换来解决消除目标的话，这样的维修成本会非常吓人吧。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我非常喜欢攻壳机动队之类的赛博朋克作品,但它们的其中仿生人或高度赛博格化的人。\n  往往在面对战斗时,在这些作品中的表现过于鲁莽。\n\n  作为具有防弹能力或者极强运动能力的特种单位，刺杀渗透，然后迅速撤离之类的才是最适合的工作？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2067885026902204610",
+        "created_at": "2026-06-19T08:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T09:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067885026902204610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067885026902204610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我非常喜欢攻壳机动队之类的赛博朋克作品,但它们的其中仿生人或高度赛博格化的人。\n  往往在面对战斗时,在这些作品中的表现过于鲁莽。\n\n  作为具有防弹能力或者极强运动能力的特种单位，刺杀渗透，然后迅速撤离之类的才是最适合的工作？\n\n  他们如果让他们顶着轻武器甚至重武武器的射击，用极高的损伤。换来解决消除目标的话，这样的维修成本会非常吓人吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我非常喜欢攻壳机动队之类的赛博朋克作品,但它们的其中仿生人或高度赛博格化的人。\n  往往在面对战斗时,在这些作品中的表现过于鲁莽。\n\n  作为具有防弹能力或者极强运动能力的特种单位，刺杀渗透，然后迅速撤离之类的才是最适合的工作？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 358,
+          "like_count": 70030,
+          "listed_count": 7,
+          "media_count": 42,
+          "tweet_count": 2129
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      }
+    ]
+  }
+}
