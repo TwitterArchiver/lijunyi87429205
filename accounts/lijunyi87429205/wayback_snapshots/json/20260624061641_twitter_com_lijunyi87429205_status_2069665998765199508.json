@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2069661716930347052",
+    "created_at": "2026-06-24T06:16:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:16:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069665998765199508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1620506107306479617",
+          "start": 0,
+          "username": "Cheese_Ghostfox"
+        },
+        {
+          "end": 26,
+          "id": "1601893417549967360",
+          "start": 17,
+          "username": "AcboxLiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069665998765199508",
+    "in_reply_to_user_id": "1620506107306479617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069661716930347052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cheese_Ghostfox @AcboxLiu dq是对的（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069661708587761664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjqW8GaAAAsIqt.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2069661716930347052",
+        "created_at": "2026-06-24T06:16:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069665998765199508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1620506107306479617",
+              "start": 0,
+              "username": "Cheese_Ghostfox"
+            },
+            {
+              "end": 26,
+              "id": "1601893417549967360",
+              "start": 17,
+              "username": "AcboxLiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069665998765199508",
+        "in_reply_to_user_id": "1620506107306479617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069661716930347052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cheese_Ghostfox @AcboxLiu dq是对的（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069661708587761664"
+          ]
+        },
+        "author_id": "1620506107306479617",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069661716930347052",
+        "created_at": "2026-06-24T05:59:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:59:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069661716930347052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1601893417549967360",
+              "start": 0,
+              "username": "AcboxLiu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/A9Xt8H3SKE",
+              "end": 105,
+              "expanded_url": "https://x.com/Cheese_Ghostfox/status/2069661716930347052/photo/1",
+              "media_key": "3_2069661708587761664",
+              "start": 82,
+              "url": "https://t.co/A9Xt8H3SKE"
+            },
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2065402583800520820",
+              "start": 106,
+              "url": "https://t.co/PaISOOtuAv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069661716930347052",
+        "in_reply_to_user_id": "1601893417549967360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065402583800520820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acboxliu\nflag回收喵!\n狐觉得dq这款味道来说的确与野人先生相近，但是冰淇淋本身略微发水，而且开心果酱的味道会更发苦一点\n可以给到顶级，8/10喵🤓 https://t.co/A9Xt8H3SKE https://t.co/PaISOOtuAv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 357,
+          "like_count": 70893,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2154
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531,
+          "following_count": 1517,
+          "like_count": 21394,
+          "listed_count": 7,
+          "media_count": 775,
+          "tweet_count": 6751
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-11T10:55:41.000Z",
+        "description": "/ 📦神秘纸箱 / 💖现实中是一个很可爱的人\n/ https://t.co/hUTrNHa19i\n/ Co-founder of https://t.co/gLiVpv8l1t https://t.co/PSLnUgusnm\n/ 🐱家里有小猫和大猫 @Dustella_Chan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 125,
+                "username": "Dustella_Chan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/sheepbox8646",
+                "end": 48,
+                "expanded_url": "http://github.com/sheepbox8646",
+                "start": 25,
+                "url": "https://t.co/hUTrNHa19i"
+              },
+              {
+                "display_url": "memoh.ai",
+                "end": 88,
+                "expanded_url": "http://memoh.ai",
+                "start": 65,
+                "url": "https://t.co/gLiVpv8l1t"
+              },
+              {
+                "display_url": "felinic.ai",
+                "end": 112,
+                "expanded_url": "http://felinic.ai",
+                "start": 89,
+                "url": "https://t.co/PSLnUgusnm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/acboxawa",
+                "end": 23,
+                "expanded_url": "http://t.me/acboxawa",
+                "start": 0,
+                "url": "https://t.co/ItS4Ve8jNM"
+              }
+            ]
+          }
+        },
+        "id": "1601893417549967360",
+        "location": "上海/深圳",
+        "name": "📦Acbox",
+        "pinned_tweet_id": "2039222526803636555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038245960967741441/70mSKMEU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12303,
+          "following_count": 2973,
+          "like_count": 3442,
+          "listed_count": 64,
+          "media_count": 1115,
+          "tweet_count": 6320
+        },
+        "url": "https://t.co/ItS4Ve8jNM",
+        "username": "AcboxLiu",
+        "verified": true
+      }
+    ]
+  }
+}

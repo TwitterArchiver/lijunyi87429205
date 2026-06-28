@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2069331128071459248",
+    "created_at": "2026-06-23T08:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T09:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069331598429053384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "731067782440181760",
+          "start": 0,
+          "username": "warorinte"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069331598429053384",
+    "in_reply_to_user_id": "731067782440181760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069331128071459248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@warorinte 一位奶牛娘正在吃牛肉汉堡…好吧。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2069331124237803521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLe9sZbaoAExIEs.jpg",
+        "width": 1797
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2069331128071459248",
+        "created_at": "2026-06-23T08:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069331598429053384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "731067782440181760",
+              "start": 0,
+              "username": "warorinte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069331598429053384",
+        "in_reply_to_user_id": "731067782440181760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069331128071459248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@warorinte 一位奶牛娘正在吃牛肉汉堡…好吧。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069331124237803521"
+          ]
+        },
+        "author_id": "731067782440181760",
+        "conversation_id": "2069331128071459248",
+        "created_at": "2026-06-23T08:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T09:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069331128071459248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oM6VDJFGli",
+              "end": 34,
+              "expanded_url": "https://x.com/warorinte/status/2069331128071459248/photo/1",
+              "media_key": "3_2069331124237803521",
+              "start": 11,
+              "url": "https://t.co/oM6VDJFGli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069331128071459248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ショクザイパーティ！ https://t.co/oM6VDJFGli"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 357,
+          "like_count": 70735,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2151
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-13T10:25:16.000Z",
+        "description": "つくったものまとめHPつくった！\nhttps://t.co/vC7iYwSWnS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amime.pupu.jp",
+                "end": 40,
+                "expanded_url": "https://amime.pupu.jp",
+                "start": 17,
+                "url": "https://t.co/vC7iYwSWnS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amimepu.com",
+                "end": 23,
+                "expanded_url": "http://amimepu.com",
+                "start": 0,
+                "url": "https://t.co/MX53Pr3vYU"
+              }
+            ]
+          }
+        },
+        "id": "731067782440181760",
+        "location": "TOKYOとヨコハマ！のビトウィーン",
+        "name": "KUROYAMA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856400743202467841/OT9jRFpx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8290,
+          "following_count": 655,
+          "like_count": 34228,
+          "listed_count": 36,
+          "media_count": 107,
+          "tweet_count": 496
+        },
+        "url": "https://t.co/MX53Pr3vYU",
+        "username": "warorinte",
+        "verified": true
+      }
+    ]
+  }
+}

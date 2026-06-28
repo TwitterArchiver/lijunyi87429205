@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2069470719277477935",
+    "created_at": "2026-06-24T03:39:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069626402870342132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1160407069494796294",
+          "start": 0,
+          "username": "Dermeval_"
+        },
+        {
+          "end": 20,
+          "id": "1854611923850899461",
+          "start": 11,
+          "username": "Acczzz99"
+        },
+        {
+          "end": 33,
+          "id": "2041460821159526400",
+          "start": 21,
+          "username": "blucheck444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069626402870342132",
+    "in_reply_to_user_id": "1160407069494796294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "第一个“意”代表我的名字，“之意”代表我的我的表达。\n  结合起来“意之意”是一种对我这个账号的描述。\n  “「意」的意志”\n  在中文里它同时可以延伸出几个词组。\n  我喜欢一些玩弄文字含义的把戏，您是第一位问起这个的\n\nO primeiro caractere, “意” (Yì), representa o meu nome. Já “之意” significa a minha expressão ou aquilo que desejo transmitir.\n\nJuntos, “意之意” funcionam como uma descrição desta conta:\n\n“A vontade de Yi” ou “o significado de Yi”.\n\nEm chinês, essa expressão também permite várias interpretações e jogos de palavras ao mesmo tempo.\n\nEu gosto desse tipo de brincadeira com significados e camadas da linguagem.\n\nAliás, você é a primeira pessoa que me perguntou sobre isso."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069611066003161311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dermeval_ @Acczzz99 @blucheck444 第一个“意”代表我的名字，“之意”代表我的我的表达。\n  结合起来“意之意”是一种对我这个账号的描述。\n  “「意」的意志”\n  在中文里它同时可以延伸出几个词组。\n  我喜欢一些玩弄文字含义的把戏，您是第一位问起这个的\n\nO primeiro caractere, “意” (Yì), representa o meu nome. Já “之意” significa a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2069470719277477935",
+        "created_at": "2026-06-24T03:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069626402870342132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1160407069494796294",
+              "start": 0,
+              "username": "Dermeval_"
+            },
+            {
+              "end": 20,
+              "id": "1854611923850899461",
+              "start": 11,
+              "username": "Acczzz99"
+            },
+            {
+              "end": 33,
+              "id": "2041460821159526400",
+              "start": 21,
+              "username": "blucheck444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069626402870342132",
+        "in_reply_to_user_id": "1160407069494796294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "第一个“意”代表我的名字，“之意”代表我的我的表达。\n  结合起来“意之意”是一种对我这个账号的描述。\n  “「意」的意志”\n  在中文里它同时可以延伸出几个词组。\n  我喜欢一些玩弄文字含义的把戏，您是第一位问起这个的\n\nO primeiro caractere, “意” (Yì), representa o meu nome. Já “之意” significa a minha expressão ou aquilo que desejo transmitir.\n\nJuntos, “意之意” funcionam como uma descrição desta conta:\n\n“A vontade de Yi” ou “o significado de Yi”.\n\nEm chinês, essa expressão também permite várias interpretações e jogos de palavras ao mesmo tempo.\n\nEu gosto desse tipo de brincadeira com significados e camadas da linguagem.\n\nAliás, você é a primeira pessoa que me perguntou sobre isso."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069611066003161311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dermeval_ @Acczzz99 @blucheck444 第一个“意”代表我的名字，“之意”代表我的我的表达。\n  结合起来“意之意”是一种对我这个账号的描述。\n  “「意」的意志”\n  在中文里它同时可以延伸出几个词组。\n  我喜欢一些玩弄文字含义的把戏，您是第一位问起这个的\n\nO primeiro caractere, “意” (Yì), representa o meu nome. Já “之意” significa a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1160407069494796294",
+        "conversation_id": "2069470719277477935",
+        "created_at": "2026-06-24T02:38:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069611066003161311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            },
+            {
+              "end": 26,
+              "id": "1854611923850899461",
+              "start": 17,
+              "username": "Acczzz99"
+            },
+            {
+              "end": 39,
+              "id": "2041460821159526400",
+              "start": 27,
+              "username": "blucheck444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069611066003161311",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069607156819849400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 @Acczzz99 @blucheck444 Seu nome de usuário é \"significado\"?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 357,
+          "like_count": 70867,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2153
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-11T04:26:19.000Z",
+        "description": "",
+        "id": "1160407069494796294",
+        "name": "Уэсли む",
+        "pinned_tweet_id": "1312642236383985664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069610406742560768/XpCb0oe0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 85,
+          "like_count": 14069,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 4602
+        },
+        "url": "",
+        "username": "Dermeval_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-07T19:50:27.000Z",
+        "description": "",
+        "id": "1854611923850899461",
+        "name": "Guilherme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037005814737608704/h_EED540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Acczzz99",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T10:19:40.000Z",
+        "description": "😇",
+        "id": "2041460821159526400",
+        "name": "체크2",
+        "pinned_tweet_id": "2066901614141886913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066362137765912576/DaSTiPDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 413,
+          "like_count": 4172,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2188
+        },
+        "url": "",
+        "username": "blucheck444",
+        "verified": true
+      }
+    ]
+  }
+}

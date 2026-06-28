@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2068038167392084218",
+    "created_at": "2026-06-21T12:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068665652802633787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680390281777278977",
+          "start": 0,
+          "username": "josana3xluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068665652802633787",
+    "in_reply_to_user_id": "1680390281777278977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068038167392084218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@josana3xluv 怎么就辱女了？\n又不是只能女性可以做几把套子（暴论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2068038167392084218",
+        "created_at": "2026-06-21T12:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068665652802633787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680390281777278977",
+              "start": 0,
+              "username": "josana3xluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068665652802633787",
+        "in_reply_to_user_id": "1680390281777278977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068038167392084218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@josana3xluv 怎么就辱女了？\n又不是只能女性可以做几把套子（暴论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680390281777278977",
+        "conversation_id": "2068038167392084218",
+        "created_at": "2026-06-19T18:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T19:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068038167392084218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2068038167392084218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 241,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像“几把套子”这种词说实话，用着特别宣泄特别爽，感觉比较极端的辱女词都有这个效果，就是破禁忌的快感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 358,
+          "like_count": 70412,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2138
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-16T01:34:17.000Z",
+        "description": "=josana    \n义乌旗帜厂流水线女工\n可以找我借雌激素",
+        "id": "1680390281777278977",
+        "name": "朝三爱",
+        "pinned_tweet_id": "2025987675036242394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004819359747760128/VH93gJwE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 1811,
+          "like_count": 4943,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1184
+        },
+        "url": "",
+        "username": "josana3xluv",
+        "verified": false
+      }
+    ]
+  }
+}

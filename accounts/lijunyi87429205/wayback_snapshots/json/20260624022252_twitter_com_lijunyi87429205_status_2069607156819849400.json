@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2069470719277477935",
+    "created_at": "2026-06-24T02:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T03:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069607156819849400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1854611923850899461",
+          "start": 0,
+          "username": "Acczzz99"
+        },
+        {
+          "end": 22,
+          "id": "2041460821159526400",
+          "start": 10,
+          "username": "blucheck444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069607156819849400",
+    "in_reply_to_user_id": "1854611923850899461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069579673730732096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acczzz99 @blucheck444 但无论在哪个国家，总是愚蠢的人会更积极地去争论自己一无所知的事物……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2069470719277477935",
+        "created_at": "2026-06-24T02:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T03:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069607156819849400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1854611923850899461",
+              "start": 0,
+              "username": "Acczzz99"
+            },
+            {
+              "end": 22,
+              "id": "2041460821159526400",
+              "start": 10,
+              "username": "blucheck444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069607156819849400",
+        "in_reply_to_user_id": "1854611923850899461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069579673730732096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acczzz99 @blucheck444 但无论在哪个国家，总是愚蠢的人会更积极地去争论自己一无所知的事物……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854611923850899461",
+        "conversation_id": "2069470719277477935",
+        "created_at": "2026-06-24T00:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069579673730732096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2041460821159526400",
+              "start": 0,
+              "username": "blucheck444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069579673730732096",
+        "in_reply_to_user_id": "2041460821159526400",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1355,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069470719277477935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blucheck444 Essa é uma minoria de brasileiros com o cérebro corroído por agendas políticas. Eles tentam impor uma visão de mundo a outras culturas, enganam a si próprios e, em meio a essa carência desesperada por validação, deixam de enxergar os problemas que realmente afetam o próprio país"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 357,
+          "like_count": 70862,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2152
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-07T19:50:27.000Z",
+        "description": "",
+        "id": "1854611923850899461",
+        "name": "Guilherme",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037005814737608704/h_EED540_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 15,
+          "like_count": 671,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 184
+        },
+        "url": "",
+        "username": "Acczzz99",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T10:19:40.000Z",
+        "description": "😇",
+        "id": "2041460821159526400",
+        "name": "체크2",
+        "pinned_tweet_id": "2066901614141886913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066362137765912576/DaSTiPDN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 413,
+          "like_count": 4165,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2185
+        },
+        "url": "",
+        "username": "blucheck444",
+        "verified": true
+      }
+    ]
+  }
+}

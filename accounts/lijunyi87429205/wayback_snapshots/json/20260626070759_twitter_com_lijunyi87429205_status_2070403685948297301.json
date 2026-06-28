@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2069870414655062198",
+    "created_at": "2026-06-26T07:07:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:07:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070403685948297301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "48257296",
+          "start": 0,
+          "username": "fyfyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070403685948297301",
+    "in_reply_to_user_id": "48257296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069870414655062198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fyfyland 您是如此脆弱，才需要假象中的盟友来避免精神崩溃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1355,
+        "media_key": "3_2069870401430446080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmoKdhbYAAeMBL.jpg",
+        "width": 904
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2069870414655062198",
+        "created_at": "2026-06-26T07:07:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070403685948297301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "48257296",
+              "start": 0,
+              "username": "fyfyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070403685948297301",
+        "in_reply_to_user_id": "48257296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069870414655062198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fyfyland 您是如此脆弱，才需要假象中的盟友来避免精神崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069870401430446080"
+          ]
+        },
+        "author_id": "48257296",
+        "conversation_id": "2069870414655062198",
+        "created_at": "2026-06-24T19:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T20:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069870414655062198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSx5EHKhzk",
+              "end": 116,
+              "expanded_url": "https://x.com/fyfyland/status/2069870414655062198/photo/1",
+              "media_key": "3_2069870401430446080",
+              "start": 93,
+              "url": "https://t.co/KSx5EHKhzk"
+            },
+            {
+              "display_url": "x.com/bettercallyuni…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/bettercallyuni/status/2069792716469227634",
+              "start": 117,
+              "url": "https://t.co/385nK0MOSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069870414655062198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 374235,
+          "like_count": 31,
+          "quote_count": 72,
+          "reply_count": 20,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069792716469227634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "South Korean VS the world\nIt’s funny how Koreans suddenly took the world by storm overnight. https://t.co/KSx5EHKhzk https://t.co/385nK0MOSO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 358,
+          "like_count": 71061,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2158
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-18T05:25:26.000Z",
+        "description": "TV Director/Producer/Planet Walker/PUBGer",
+        "id": "48257296",
+        "location": "West Hollywood, CA",
+        "name": "Dylan.X’s Guide to the Galaxy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941975469064351744/XELMUNWq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 972,
+          "like_count": 31499,
+          "listed_count": 10,
+          "media_count": 480,
+          "tweet_count": 2184
+        },
+        "url": "",
+        "username": "fyfyland",
+        "verified": false
+      }
+    ]
+  }
+}
