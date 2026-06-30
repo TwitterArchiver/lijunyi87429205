@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2071122792897266013",
+    "created_at": "2026-06-28T13:07:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:07:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071218884829696155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071218884829696155",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071122792897266013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 人脑总是想出最简单的解决方式吧，这是本能，不是过错，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2071122792897266013",
+        "created_at": "2026-06-28T13:07:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:07:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071218884829696155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071218884829696155",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071122792897266013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 人脑总是想出最简单的解决方式吧，这是本能，不是过错，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2071122792897266013",
+        "created_at": "2026-06-28T06:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071122792897266013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071122792897266013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的很坏，很坏，很坏。\n我总想着讨厌的人可不可以死光光呢...其实比起死光光，我只是更想要确定从此不会和讨厌的人相见吧，要完全断绝这种可能哦，所以才会想让对方死掉(T^T)\n因为我只想要让对方死掉，但并不在意对方是否发生坏事，也不想虐杀他们...不过...总觉得怪怪的这样，因为就算对方死掉，做过的坏事也不会消失...坏事已经犯下，就总是留有痕迹，不会消失了。\n除非自我灭绝...这样才是根除历史的唯一解，想下去的话是这种结论。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很坏，很坏，很坏。\n我总想着讨厌的人可不可以死光光呢...其实比起死光光，我只是更想要确定从此不会和讨厌的人相见吧，要完全断绝这种可能哦，所以才会想让对方死掉(T^T)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 363,
+          "like_count": 71289,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2170
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "Kvr208833T66ARunZ4d1",
+        "pinned_tweet_id": "2068996709448061005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068525248845352960/NfGeD-H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 316,
+          "like_count": 19460,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}

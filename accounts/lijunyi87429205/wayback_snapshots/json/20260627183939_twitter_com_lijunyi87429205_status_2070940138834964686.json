@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2070937108894855343",
+    "created_at": "2026-06-27T18:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T19:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070940138834964686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070940138834964686",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070937108894855343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink 等到叶经理做白皮生意的时候，请给我颁一个荣誉希腊人的身份让我能继续有机会购买（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2070937108894855343",
+        "created_at": "2026-06-27T18:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070940138834964686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070940138834964686",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070937108894855343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink 等到叶经理做白皮生意的时候，请给我颁一个荣誉希腊人的身份让我能继续有机会购买（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2070937108894855343",
+        "created_at": "2026-06-27T18:27:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T19:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070937108894855343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ourakus3n1n/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/ourakus3n1n/status/2070828928047161528",
+              "start": 7,
+              "url": "https://t.co/D15GlTOICi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070937108894855343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070828928047161528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的梦想（） https://t.co/D15GlTOICi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 359,
+          "like_count": 71198,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "打电竞刷题就喝無極電競能量",
+        "id": "1124790071314587648",
+        "location": "和田地区！",
+        "name": "☯️🧬無極电竞能量",
+        "pinned_tweet_id": "2070228611668623717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066224286881427456/d1iNxUPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 142,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 782
+        },
+        "url": "",
+        "username": "LanwujiDrink",
+        "verified": true
+      }
+    ]
+  }
+}

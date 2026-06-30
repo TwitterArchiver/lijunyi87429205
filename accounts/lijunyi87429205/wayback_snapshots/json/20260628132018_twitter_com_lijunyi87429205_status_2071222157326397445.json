@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2070890091229348074",
+    "created_at": "2026-06-28T13:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T14:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071222157326397445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071222157326397445",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070890919713243471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 那个最早给兽皮靴子加上硬底的家伙大概能回答这个问题……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2070890091229348074",
+        "created_at": "2026-06-28T13:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T14:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071222157326397445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071222157326397445",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070890919713243471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 那个最早给兽皮靴子加上硬底的家伙大概能回答这个问题……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2070890091229348074",
+        "created_at": "2026-06-27T15:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070890919713243471"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070890919713243471",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070890091229348074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "袜子和鞋的边界在哪里..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 363,
+          "like_count": 71289,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "Kvr208833T66ARunZ4d1",
+        "pinned_tweet_id": "2068996709448061005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068525248845352960/NfGeD-H1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 316,
+          "like_count": 19497,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 219
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": false
+      }
+    ]
+  }
+}
