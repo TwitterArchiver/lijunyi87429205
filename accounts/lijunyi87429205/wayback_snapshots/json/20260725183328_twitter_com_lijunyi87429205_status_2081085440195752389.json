@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2081085440195752389",
+    "created_at": "2026-07-25T18:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T19:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081085440195752389"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2081085440195752389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Five fifty five\n五点五十五分\nFive fifty five\n五点五十五分\nA cinq heures cinquante-cinq\n在五点五十五分\nAnte meridiem\n的清晨\nToo late to end it now\n现在结束已经太晚\nToo early to start again\n重新开始却又为时过早\n——《5：55》"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2081085440195752389",
+        "created_at": "2026-07-25T18:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081085440195752389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081085440195752389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Five fifty five\n五点五十五分\nFive fifty five\n五点五十五分\nA cinq heures cinquante-cinq\n在五点五十五分\nAnte meridiem\n的清晨\nToo late to end it now\n现在结束已经太晚\nToo early to start again\n重新开始却又为时过早\n——《5：55》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 370,
+          "like_count": 72891,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2242
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      }
+    ]
+  }
+}

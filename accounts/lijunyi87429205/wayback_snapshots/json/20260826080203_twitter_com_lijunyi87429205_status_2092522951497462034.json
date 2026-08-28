@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2047701634009186304"
+      ],
+      "media_source_tweet_id": [
+        "2047701680071082352"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2092522951497462034",
+    "created_at": "2026-08-26T08:02:03.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T09:02:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092522951497462034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2427971374",
+          "start": 3,
+          "username": "KiwisBurntToast"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q3DV56OT6C",
+          "end": 61,
+          "expanded_url": "https://x.com/KiwisBurntToast/status/2047701680071082352/video/1",
+          "media_key": "13_2047701634009186304",
+          "start": 38,
+          "url": "https://t.co/Q3DV56OT6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092522951497462034",
+    "lang": "ro",
+    "media_metadata": [
+      {
+        "media_key": "13_2047701634009186304"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047701680071082352",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiwisBurntToast: Jucika on a date https://t.co/Q3DV56OT6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22012,
+        "height": 1080,
+        "media_key": "13_2047701634009186304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047701634009186304/img/ks2w0ZKL51JHnFzN.jpg",
+        "public_metrics": {
+          "view_count": 121295
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047701634009186304/vid/avc1/320x320/FPpk2khokcrXkr1Z.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047701634009186304/vid/avc1/540x540/HUt1bATtl8XRWbNK.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047701634009186304/vid/avc1/720x720/BkKlgAPz0Nnmq7KY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047701634009186304/pl/2EA2J0nui2bcCA-_.m3u8?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047701634009186304"
+          ],
+          "media_source_tweet_id": [
+            "2047701680071082352"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2092522951497462034",
+        "created_at": "2026-08-26T08:02:03.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092522951497462034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2427971374",
+              "start": 3,
+              "username": "KiwisBurntToast"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3DV56OT6C",
+              "end": 61,
+              "expanded_url": "https://x.com/KiwisBurntToast/status/2047701680071082352/video/1",
+              "media_key": "13_2047701634009186304",
+              "start": 38,
+              "url": "https://t.co/Q3DV56OT6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092522951497462034",
+        "lang": "ro",
+        "media_metadata": [
+          {
+            "media_key": "13_2047701634009186304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047701680071082352",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KiwisBurntToast: Jucika on a date https://t.co/Q3DV56OT6C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047701634009186304"
+          ]
+        },
+        "author_id": "2427971374",
+        "conversation_id": "2047701680071082352",
+        "created_at": "2026-04-24T15:38:19.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-24T16:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047701680071082352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q3DV56OT6C",
+              "end": 40,
+              "expanded_url": "https://x.com/KiwisBurntToast/status/2047701680071082352/video/1",
+              "media_key": "13_2047701634009186304",
+              "start": 17,
+              "url": "https://t.co/Q3DV56OT6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047701680071082352",
+        "lang": "ro",
+        "media_metadata": [
+          {
+            "media_key": "13_2047701634009186304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4168,
+          "impression_count": 344567,
+          "like_count": 28072,
+          "quote_count": 82,
+          "reply_count": 77,
+          "retweet_count": 3357
+        },
+        "reply_settings": "everyone",
+        "text": "Jucika on a date https://t.co/Q3DV56OT6C"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2092522951497462034",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 372,
+          "like_count": 74889,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2333
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-03-22T00:42:35.000Z",
+        "description": "26 year old animator/cartoonist currently making Jucika",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KiwisBurntToast",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KiwisBurntToast",
+                "start": 0,
+                "url": "https://t.co/jLm1rtNdHR"
+              }
+            ]
+          }
+        },
+        "id": "2427971374",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092481436892680362",
+        "name": "Keegan the Animator",
+        "pinned_tweet_id": "2047701680071082352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2427971374/1766998437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1695920186992611328/VIB5g9j5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39392,
+          "following_count": 1326,
+          "like_count": 53234,
+          "listed_count": 93,
+          "media_count": 359,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/jLm1rtNdHR",
+        "username": "KiwisBurntToast",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

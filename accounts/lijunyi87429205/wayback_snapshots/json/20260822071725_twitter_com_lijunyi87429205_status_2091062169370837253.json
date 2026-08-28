@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2090026323616125284",
+    "created_at": "2026-08-22T07:17:25.000Z",
+    "display_text_range": [
+      14,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T08:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091062169370837253"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1940622242381262848",
+          "start": 0,
+          "username": "Sayuki_Inoue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091062169370837253",
+    "in_reply_to_user_id": "1940622242381262848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090026323616125284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sayuki_Inoue 象牙有差不多三分之一长度在大象的脸里面，象牙短的大象这个比例还会更高…\n  况且大象也不会配合盗猎者不是吗，大部分时候都会是直接射杀。然后挖脸…\n  反盗猎组织的人有时救助了麻醉，或者人工繁育放归的大象，就会锯掉一部分象牙，降低被偷猎的概率。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2090026323616125284",
+        "created_at": "2026-08-22T07:17:25.000Z",
+        "display_text_range": [
+          14,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091062169370837253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1940622242381262848",
+              "start": 0,
+              "username": "Sayuki_Inoue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091062169370837253",
+        "in_reply_to_user_id": "1940622242381262848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090026323616125284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sayuki_Inoue 象牙有差不多三分之一长度在大象的脸里面，象牙短的大象这个比例还会更高…\n  况且大象也不会配合盗猎者不是吗，大部分时候都会是直接射杀。然后挖脸…\n  反盗猎组织的人有时救助了麻醉，或者人工繁育放归的大象，就会锯掉一部分象牙，降低被偷猎的概率。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940622242381262848",
+        "conversation_id": "2090026323616125284",
+        "created_at": "2026-08-19T10:41:21.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090026323616125284"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090026323616125284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我知道我们人类是很看重象牙的，但是为什么要猎大象？为什么不是直接给他锯下来？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2091062169370837253",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 372,
+          "like_count": 74567,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2314
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-03T04:03:08.000Z",
+        "description": "Graduated from Shanghai Polytechnic University in Information Management and Information Systems. Currently working as a Global Content Specialist.",
+        "id": "1940622242381262848",
+        "is_identity_verified": false,
+        "location": "Shenzhen, China",
+        "most_recent_tweet_id": "2091060743630455067",
+        "name": "井上 彩結樹 Inoue Sayuki",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029202626315993095/w12DBvYF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 187,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 2225
+        },
+        "url": "",
+        "username": "Sayuki_Inoue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

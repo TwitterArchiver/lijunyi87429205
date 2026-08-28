@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2086666270112633145",
+    "created_at": "2026-08-10T04:09:41.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T05:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086666270112633145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1807910824918634496",
+          "start": 3,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086666270112633145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086553326926418431",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suanrongyouyuxu: 《简中LGBTQ群体生存指南》\n\nLGBTQ科普系列第七期。我准备为这个系列收尾了，所以我就来尝试谈谈最基础也是最重要的问题，就是身为简中环境的LGBTQ群体，应该怎么做？\n我将分几个部分来说。\n\n自我保护\n\n保护自己是最优先的事项。蜘…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2086666270112633145",
+        "created_at": "2026-08-10T04:09:41.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T05:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086666270112633145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1807910824918634496",
+              "start": 3,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086666270112633145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086553326926418431",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suanrongyouyuxu: 《简中LGBTQ群体生存指南》\n\nLGBTQ科普系列第七期。我准备为这个系列收尾了，所以我就来尝试谈谈最基础也是最重要的问题，就是身为简中环境的LGBTQ群体，应该怎么做？\n我将分几个部分来说。\n\n自我保护\n\n保护自己是最优先的事项。蜘…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2086553326926418431",
+        "created_at": "2026-08-09T20:40:54.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086553326926418431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suanrongyouyux…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/suanrongyouyuxu/status/2079832718209319284",
+              "start": 158,
+              "url": "https://t.co/nQWvSFqorE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086553326926418431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "《简中LGBTQ群体生存指南》\n\nLGBTQ科普系列第七期。我准备为这个系列收尾了，所以我就来尝试谈谈最基础也是最重要的问题，就是身为简中环境的LGBTQ群体，应该怎么做？\n我将分几个部分来说。\n\n自我保护\n\n保护自己是最优先的事项。蜘蛛侠里有一句经典的台词：帮助一个人，就是帮助所有人（When you help someone, you help everyone）。\n这里面的someone，当然也包括你自己——如果你是一个LGBTQ，那么你好好的生活这件事本身就是在告诉大家，LGBTQ可以生活得很好。这就是为LGBTQ群体做贡献。\n不要怀疑。你的生存本身就是值得的。\n\n1.出柜是权利，不是义务\n\n在缺乏保护和包容的环境里，出柜是一个风险选择。你有权在任何人面前选择沉默，你没有对任何人出柜的责任，不管对方是谁。\n我知道很多人会想着proud，觉得隐瞒是怯懦的表现。并不是这样的。proud很好，但保护自己一定是最优先的事项。面对持刀歹徒最正确的做法就是拔腿就跑——这并不可耻。\n\n简中圈出柜有可能会面对诸多糟糕的情景。家庭出柜有可能会遭到经济断供、情感暴力，甚至送进扭转机构。在校园和职场中有可能会面临霸凌、边缘化等等情况。\n出柜是不可逆的，说出去的话无法收回。\n\n如果你对后果有任何方面的顾虑，你永远可以告诉自己，你没必要这么做。\n\n2. 信息安全\n\n保护信息的目的是防止被动出柜。相比主动出柜，被动出柜的后果往往更难以预料。\n\n社交账号分离。现实社交和LGBTQ社交最好不要完全重合。\n\n注意手机云同步、共享相册、家庭账号等容易忽略的地方。\n\n谨慎使用实名平台。\n\n不在无保护的熟人圈子、工作群或公开社交平台留下暗示性极强的痕迹。\n\n收好可能暴露身份的物品。\n\n注意朋友圈、共同好友等社交关联。\n\n总结的话就是，身份信息是一种资源，由你决定什么时候、告诉谁。\n\n3. 人际安全\n\n很多人以为最大的风险来自陌生人。但其实很多时候来自熟人。\n\n不要把信任建立得太快。刚进一个群，刚认识一个朋友，不要太快把秘密告诉对方。\n一个支持LGBTQ的人，不一定值得托付秘密。价值观相近也不等于可靠。\n\n4. 经济独立\n\n这是核心。LGBTQ群体的很多困境，表面上是身份问题，实际上是资源问题。\n\n经济独立意味着很多很基础的东西。\n可以决定住在哪里，决定和谁生活，可以拒绝交换条件。\n\n资源越少，一个人越容易被别人替自己做决定；资源越多，一个人越能够承担自己选择的后果，也更有能力按照自己的意愿生活。\n\nLGBTQ群体只是更早、更频繁地遇到这个问题。所以经济独立才更加重要。\n但这条原则其实适用于所有希望掌控人生的人。\n\n5.空间隔离\n\n在做得到的情况下，尽量远离可能会对你造成伤害的人和事。\n前往更具包容性的大城市是一个好方法，可以远离不友善的熟人。如果你对海外有兴趣或者有向往，也不失为一个努力的方向。\n\n不过海外并非天堂，不同国家对待LGBTQ的态度也有所不同，事先要有一些了解。除此之外，在缺乏家庭支持的情况下去海外发展有诸多困难，生活习惯上也会有很多不适和不便。随着世界右转，很多国家的移民政策都有收紧的趋势。\n所以量力而行。不要在没有退路的情况下轻易尝试。要建立正确的期望。\n\n如果这些都暂时做不到，那么仅仅是搬出去住也是有意义的。不过这就需要有经济上的要求。离开对你有伤害的环境，对身心的好处是非常显而易见的。\n\n对于还没有办法离开的人来说，你要知道这是一个努力的方向。实际上推特上就有很多现成的正面例子，通过自身努力摆脱了原生家庭束缚。很多人说出来大家应该都认识，我就不举例子了，大家自行认领。\n\n（1/6）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1676,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079832718209319284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《简中LGBTQ群体生存指南》\n\nLGBTQ科普系列第七期。我准备为这个系列收尾了，所以我就来尝试谈谈最基础也是最重要的问题，就是身为简中环境的LGBTQ群体，应该怎么做？\n我将分几个部分来说。\n\n自我保护\n\n保护自己是最优先的事项。蜘蛛侠里有一句经典的台词：帮助一个人，就是帮助所有人（When you help https://t.co/nQWvSFqorE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2086666270112633145",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 372,
+          "like_count": 73820,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2283
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n情感驱动价值取向，但使用理性作为工具。\n有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086558247344132481",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2062141354331738282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807910824918634496/1729795632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6535,
+          "following_count": 230,
+          "like_count": 8754,
+          "listed_count": 47,
+          "media_count": 389,
+          "tweet_count": 5004
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

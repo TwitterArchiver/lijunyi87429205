@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2087703726823702849",
+    "created_at": "2026-08-13T03:16:28.000Z",
+    "display_text_range": [
+      12,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T04:16:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087740040084603128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1535701819812462600",
+          "start": 0,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087740040084603128",
+    "in_reply_to_user_id": "1535701819812462600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087703726823702849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kenntnis22 这是可视便利化模型，请少传播误导性信息吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45400,
+        "height": 900,
+        "media_key": "13_2087703698713534464",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2087703698713534464/img/TFmX1yz44CfRfJpm.jpg",
+        "public_metrics": {
+          "view_count": 576
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087703698713534464/vid/avc1/320x400/naGfZpf1gEwMmV6I.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087703698713534464/vid/avc1/480x600/6UFWknq-ZUJgh7CJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2087703698713534464/vid/avc1/720x900/65Fs_AwMw2wMBzfJ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2087703698713534464/pl/8ChkHJigYZ6UPtiY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2087703726823702849",
+        "created_at": "2026-08-13T03:16:28.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T04:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087740040084603128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087740040084603128",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087703726823702849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 这是可视便利化模型，请少传播误导性信息吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2087703698713534464"
+          ]
+        },
+        "author_id": "1535701819812462600",
+        "conversation_id": "2087703726823702849",
+        "created_at": "2026-08-13T00:52:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T01:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087703726823702849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uRjPIRHMmF",
+              "end": 36,
+              "expanded_url": "https://x.com/Kenntnis22/status/2087703726823702849/video/1",
+              "media_key": "13_2087703698713534464",
+              "start": 13,
+              "url": "https://t.co/uRjPIRHMmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087703726823702849",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2087703698713534464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1093,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不能接受，地球丑成这样😓 https://t.co/uRjPIRHMmF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2087740040084603128",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 373,
+          "like_count": 73989,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2286
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "is_identity_verified": false,
+        "location": "London",
+        "most_recent_tweet_id": "2087703726823702849",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2084286937188233338",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1535701819812462600/1772313541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57905,
+          "following_count": 451,
+          "like_count": 65366,
+          "listed_count": 289,
+          "media_count": 14505,
+          "tweet_count": 22020
+        },
+        "url": "",
+        "username": "Kenntnis22",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2075763297601946064",
+    "created_at": "2026-07-11T14:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075946276873769259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614561395969761282",
+          "start": 0,
+          "username": "Wharrlay"
+        },
+        {
+          "end": 19,
+          "id": "563779049",
+          "start": 10,
+          "username": "orangwf8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075946276873769259",
+    "in_reply_to_user_id": "1614561395969761282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075918284415738160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wharrlay @orangwf8 那是简中汉字，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2075763297601946064",
+        "created_at": "2026-07-11T14:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075946276873769259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614561395969761282",
+              "start": 0,
+              "username": "Wharrlay"
+            },
+            {
+              "end": 19,
+              "id": "563779049",
+              "start": 10,
+              "username": "orangwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075946276873769259",
+        "in_reply_to_user_id": "1614561395969761282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075918284415738160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wharrlay @orangwf8 那是简中汉字，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614561395969761282",
+        "conversation_id": "2075763297601946064",
+        "created_at": "2026-07-11T12:21:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075918284415738160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "563779049",
+              "start": 0,
+              "username": "orangwf8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075918284415738160",
+        "in_reply_to_user_id": "563779049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8822,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075917777186271520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangwf8 Perhaps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 365,
+          "like_count": 72065,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2200
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-15T09:54:03.000Z",
+        "description": "📍Lagos Based || Global Presence\nPhysical Educator •  Professional Swimming Coach • Lifesaver • NAqF & World Aquatics Certified • Whatever it takes!💪🏾",
+        "id": "1614561395969761282",
+        "location": "Top Spot",
+        "name": "one of one",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058630203820171264/FgJOQq06_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 1290,
+          "like_count": 9562,
+          "listed_count": 3,
+          "media_count": 1784,
+          "tweet_count": 24924
+        },
+        "url": "",
+        "username": "Wharrlay",
+        "verified": true
+      },
+      {
+        "created_at": "2012-04-26T14:46:02.000Z",
+        "description": "動物園の狭い檻の中から人間社会を観察する限界中年オランウータンです（画像はwikipediaクリエイティブコモンズを加工したもので本人の画像ではありません）。",
+        "id": "563779049",
+        "location": "東京 台東区 上野公園9-85",
+        "name": "ornghtn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009443203733409792/vC-uCzMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 224,
+          "like_count": 5325,
+          "listed_count": 8,
+          "media_count": 358,
+          "tweet_count": 28872
+        },
+        "url": "",
+        "username": "orangwf8",
+        "verified": false
+      }
+    ]
+  }
+}

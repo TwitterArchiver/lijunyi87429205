@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2078464227086672197",
+    "created_at": "2026-07-18T13:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T14:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078466840783892693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078466840783892693",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078464227086672197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 几乎都是在靠文化差异互相欺诈/戏耍/装腔作势/往往没什么深度，基本就是互吹尬聊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078464227086672197].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078464227086672197",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078464227086672197"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2078464227086672197",
+        "created_at": "2026-07-18T13:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078466840783892693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078466840783892693",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078464227086672197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 几乎都是在靠文化差异互相欺诈/戏耍/装腔作势/往往没什么深度，基本就是互吹尬聊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 366,
+          "like_count": 72417,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2225
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜想哭就对了你生来就是流眼泪的｜别让我充满恨｜单机玩推，投射社交期待在我身上我会有压力",
+        "id": "1787086493636521984",
+        "location": "under ur skin",
+        "name": "在你的脉搏中起舞",
+        "pinned_tweet_id": "2069707187488989359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941563908235395072/yxW678I__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2963,
+          "following_count": 109,
+          "like_count": 4964,
+          "listed_count": 3,
+          "media_count": 79,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "Lucifers6x",
+        "verified": false
+      }
+    ]
+  }
+}

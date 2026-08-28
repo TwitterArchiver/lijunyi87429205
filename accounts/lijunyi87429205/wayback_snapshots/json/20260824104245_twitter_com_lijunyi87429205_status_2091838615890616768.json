@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2091492304490242241",
+    "created_at": "2026-08-24T10:42:45.000Z",
+    "display_text_range": [
+      12,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T11:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091838615890616768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1595415869689044992",
+          "start": 0,
+          "username": "luolingchy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091838615890616768",
+    "in_reply_to_user_id": "1595415869689044992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091805323283837170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luolingchy 非常好的香香搭配👍，被机器人入侵是 每个twitter儿的宿命（悲）\n  实际上已经习惯这些牛皮癣了，毕竟国内以前到处都是，但是会影响看朋友的回复，还是很讨厌。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2091492304490242241",
+        "created_at": "2026-08-24T10:42:45.000Z",
+        "display_text_range": [
+          12,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T11:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091838615890616768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1595415869689044992",
+              "start": 0,
+              "username": "luolingchy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091838615890616768",
+        "in_reply_to_user_id": "1595415869689044992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091805323283837170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luolingchy 非常好的香香搭配👍，被机器人入侵是 每个twitter儿的宿命（悲）\n  实际上已经习惯这些牛皮癣了，毕竟国内以前到处都是，但是会影响看朋友的回复，还是很讨厌。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595415869689044992",
+        "conversation_id": "2091492304490242241",
+        "created_at": "2026-08-24T08:30:27.000Z",
+        "display_text_range": [
+          17,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091805323283837170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091805323283837170",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091492304490242241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 平时我不喜欢吃葱但是卷烤鸭时候加点葱丝是真的美味😋 还有你评论区怎么也被机器人入侵了喂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2091838615890616768",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 372,
+          "like_count": 74660,
+          "listed_count": 7,
+          "media_count": 46,
+          "tweet_count": 2321
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-23T13:56:16.000Z",
+        "description": "",
+        "id": "1595415869689044992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091805323283837170",
+        "name": "洛灵",
+        "pinned_tweet_id": "1931320068136452163",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920311707546644480/0Ve3MZpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 63,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "luolingchy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

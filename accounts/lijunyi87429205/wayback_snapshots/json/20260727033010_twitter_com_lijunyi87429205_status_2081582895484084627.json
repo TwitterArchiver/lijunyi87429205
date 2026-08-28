@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2081574215661326404",
+    "created_at": "2026-07-27T03:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081582895484084627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831671299057623040",
+          "start": 0,
+          "username": "afuai377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081582895484084627",
+    "in_reply_to_user_id": "1831671299057623040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081574215661326404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@afuai377 干，我又被推特下麦了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2081574215661326404",
+        "created_at": "2026-07-27T03:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081582895484084627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831671299057623040",
+              "start": 0,
+              "username": "afuai377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081582895484084627",
+        "in_reply_to_user_id": "1831671299057623040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081574215661326404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@afuai377 干，我又被推特下麦了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831671299057623040",
+        "conversation_id": "2081574215661326404",
+        "created_at": "2026-07-27T02:55:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:55:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081574215661326404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ふ愛’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1oKMv…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1oKMvvZEovzGQ",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: miss all guys",
+              "unwound_url": "https://twitter.com/i/spaces/1oKMvvZEovzGQ/peek",
+              "url": "https://t.co/lSZJsUVvj1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081574215661326404",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lSZJsUVvj1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 369,
+          "like_count": 73002,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2247
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T12:30:55.000Z",
+        "description": "✮同成分互fo @fuaiy_37 防炸號\n\n@kana40427 狗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 8,
+                "username": "fuaiy_37"
+              },
+              {
+                "end": 33,
+                "start": 23,
+                "username": "kana40427"
+              }
+            ]
+          }
+        },
+        "id": "1831671299057623040",
+        "location": "地獄",
+        "name": "ふ愛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079993882834874368/HxLAdcNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8882,
+          "following_count": 245,
+          "like_count": 5880,
+          "listed_count": 8,
+          "media_count": 168,
+          "tweet_count": 749
+        },
+        "url": "",
+        "username": "afuai377",
+        "verified": false
+      }
+    ]
+  }
+}

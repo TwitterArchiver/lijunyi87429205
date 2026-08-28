@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091851152292012032"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2091851238711369748",
+    "created_at": "2026-08-24T11:32:54.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T12:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091851238711369748"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKd9vBXqpz",
+          "end": 33,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2091851238711369748/video/1",
+          "media_key": "13_2091851152292012032",
+          "start": 10,
+          "url": "https://t.co/CKd9vBXqpz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091851238711369748",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091851152292012032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "服务员，但不务正业 https://t.co/CKd9vBXqpz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18200,
+        "height": 1920,
+        "media_key": "13_2091851152292012032",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091851152292012032/img/lNrP7fQGnykKotSV.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091851152292012032/pl/YnpgA7bWfsvXh3e2.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091851152292012032/vid/avc1/720x1280/REMpVAapFZzr7hgP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091851152292012032/vid/avc1/1080x1920/Fz7ifUF8nFu7SOm2.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091851152292012032/vid/avc1/320x568/A8kbGOYqKbcr6xSG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091851152292012032/vid/avc1/480x852/idhetc8S9p4j0w6d.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091851152292012032"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2091851238711369748",
+        "created_at": "2026-08-24T11:32:54.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T12:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091851238711369748"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKd9vBXqpz",
+              "end": 33,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2091851238711369748/video/1",
+              "media_key": "13_2091851152292012032",
+              "start": 10,
+              "url": "https://t.co/CKd9vBXqpz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091851238711369748",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091851152292012032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "服务员，但不务正业 https://t.co/CKd9vBXqpz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2091851238711369748",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 372,
+          "like_count": 74664,
+          "listed_count": 7,
+          "media_count": 47,
+          "tweet_count": 2323
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2088235407750439076",
+    "created_at": "2026-08-15T04:50:14.000Z",
+    "display_text_range": [
+      16,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T05:50:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088488414559732052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565591413282476033",
+          "start": 0,
+          "username": "sakanadesu0449"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088488414559732052",
+    "in_reply_to_user_id": "1565591413282476033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088470728048050303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sakanadesu0449 这个错误的盈利激励导向让骗子更容易赚钱，如果仍然可以依靠蒙骗攫取暴利，大部分“从业人员”就不会真的想认真治病，或者讲解正确理论。至少不会只是出售可以治病的药物。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2088235407750439076",
+        "created_at": "2026-08-15T04:50:14.000Z",
+        "display_text_range": [
+          16,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:50:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088488414559732052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565591413282476033",
+              "start": 0,
+              "username": "sakanadesu0449"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088488414559732052",
+        "in_reply_to_user_id": "1565591413282476033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088470728048050303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sakanadesu0449 这个错误的盈利激励导向让骗子更容易赚钱，如果仍然可以依靠蒙骗攫取暴利，大部分“从业人员”就不会真的想认真治病，或者讲解正确理论。至少不会只是出售可以治病的药物。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565591413282476033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2088235407750439076",
+        "created_at": "2026-08-15T03:39:58.000Z",
+        "display_text_range": [
+          17,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T04:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088470728048050303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088470728048050303",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088235407750439076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 如果“风湿寒热邪”能简单地向大众解释正确的医学和健康理论，我觉得在这一点上，保留传统医学也是有利的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2088488414559732052",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 372,
+          "like_count": 74147,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2295
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T06:44:26.000Z",
+        "description": "誰より太陽を嫌うあたしはシーラカンス      \n比任何人都讨厌太阳的我是空棘鱼",
+        "id": "1565591413282476033",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088470728048050303",
+        "name": "魚",
+        "pinned_tweet_id": "2039984023238545866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565591413282476033/1724876178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779263333759385600/G6OBkG5X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 2454,
+          "like_count": 21319,
+          "listed_count": 6,
+          "media_count": 3044,
+          "tweet_count": 22513
+        },
+        "url": "",
+        "username": "sakanadesu0449",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

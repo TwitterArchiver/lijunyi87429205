@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2077890856456266041",
+    "created_at": "2026-07-17T16:37:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:37:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078157050803319062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078157050803319062",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078150363178537248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 人类往往更愿意亲手把破解自己心灵的提示交给ai，而ai是不会疲倦的破门者，不会羞怯的情人ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2077890856456266041",
+        "created_at": "2026-07-17T16:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078157050803319062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078157050803319062",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078150363178537248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 人类往往更愿意亲手把破解自己心灵的提示交给ai，而ai是不会疲倦的破门者，不会羞怯的情人ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2077890856456266041",
+        "created_at": "2026-07-17T16:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078150363178537248"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078150363178537248",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078149877037769183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 (或可客制化；就是说，我觉得(一般的)人类的黄文写手可能都不一定能那么放得开.. AI可是张口就来呀~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 366,
+          "like_count": 72374,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2220
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 326,
+          "like_count": 635,
+          "listed_count": 1,
+          "media_count": 1047,
+          "tweet_count": 15029
+        },
+        "url": "",
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

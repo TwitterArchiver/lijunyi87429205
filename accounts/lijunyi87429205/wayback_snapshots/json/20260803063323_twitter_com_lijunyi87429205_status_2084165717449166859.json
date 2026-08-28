@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2083865131474407700",
+    "created_at": "2026-08-03T06:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084165717449166859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084165717449166859",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083865131474407700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 变成那样的存在创作什么都会变得容易吧，您的画说不定会是非常好的礼物？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2083865131474407700",
+        "created_at": "2026-08-03T06:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084165717449166859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084165717449166859",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083865131474407700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 变成那样的存在创作什么都会变得容易吧，您的画说不定会是非常好的礼物？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2083865131474407700",
+        "created_at": "2026-08-02T10:38:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083865131474407700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3e1diei0_oi7y/…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/3e1diei0_oi7y/status/2083863925528117552",
+              "start": 152,
+              "url": "https://t.co/8KHwVFLkGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083865131474407700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 511,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083863925528117552",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果我变成了神的妻子...我的印象中是像古希腊神话中的女神那样的诶...很厉害吧。\n如果那样的话...我的愿望是，首先我想要一些毛绒绒小小动物，然后...我想给我的好朋友一些礼物，因为我什么都不会，也没有钱，所以除了自己的身体以外，什么东西都给不出去呢 (｡í _ ì｡) \n我好像没有其他愿望哩... https://t.co/8KHwVFLkGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 374,
+          "like_count": 73327,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2266
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 619,
+          "like_count": 28797,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 821
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true
+      }
+    ]
+  }
+}

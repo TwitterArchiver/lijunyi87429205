@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084347219604340736"
+      ],
+      "media_source_tweet_id": [
+        "2084347388022370439"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1425519484371046403",
+          "name": "Disney characters"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1431268697679622144",
+          "name": "Disney princess"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10037284711",
+          "name": "Disney"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      }
+    ],
+    "conversation_id": "2086899051589730397",
+    "created_at": "2026-08-10T19:34:41.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T20:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086899051589730397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "874341552432324608",
+          "start": 3,
+          "username": "natalie_corsair"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyY4bJExmN",
+          "end": 80,
+          "expanded_url": "https://x.com/natalie_corsair/status/2084347388022370439/photo/1",
+          "media_key": "16_2084347219604340736",
+          "start": 57,
+          "url": "https://t.co/EyY4bJExmN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086899051589730397",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2084347219604340736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2014
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084347388022370439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natalie_corsair: A different kind of disney princess https://t.co/EyY4bJExmN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "16_2084347219604340736",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO0WwL0XAAAx9ak.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO0WwL0XAAAx9ak.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084347219604340736"
+          ]
+        },
+        "author_id": "874341552432324608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1425519484371046403",
+              "name": "Disney characters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431268697679622144",
+              "name": "Disney princess"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2084347388022370439",
+        "created_at": "2026-08-03T18:35:17.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084347388022370439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyY4bJExmN",
+              "end": 59,
+              "expanded_url": "https://x.com/natalie_corsair/status/2084347388022370439/photo/1",
+              "media_key": "16_2084347219604340736",
+              "start": 36,
+              "url": "https://t.co/EyY4bJExmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084347388022370439",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2084347219604340736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4149,
+          "impression_count": 218068,
+          "like_count": 23938,
+          "quote_count": 15,
+          "reply_count": 117,
+          "retweet_count": 2014
+        },
+        "reply_settings": "everyone",
+        "text": "A different kind of disney princess https://t.co/EyY4bJExmN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084347219604340736"
+          ],
+          "media_source_tweet_id": [
+            "2084347388022370439"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1425519484371046403",
+              "name": "Disney characters"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1431268697679622144",
+              "name": "Disney princess"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10037284711",
+              "name": "Disney"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2086899051589730397",
+        "created_at": "2026-08-10T19:34:41.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086899051589730397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "874341552432324608",
+              "start": 3,
+              "username": "natalie_corsair"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyY4bJExmN",
+              "end": 80,
+              "expanded_url": "https://x.com/natalie_corsair/status/2084347388022370439/photo/1",
+              "media_key": "16_2084347219604340736",
+              "start": 57,
+              "url": "https://t.co/EyY4bJExmN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086899051589730397",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2084347219604340736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2014
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084347388022370439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natalie_corsair: A different kind of disney princess https://t.co/EyY4bJExmN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2086899051589730397",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 373,
+          "like_count": 73843,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2284
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-12T19:04:05.000Z",
+        "description": "Macabre art/monster women/harpy and nerd comics;\n💍@Limelon\n\nhttps://t.co/1IuBAHBF7h\n\nCommissions are taken through Рatreon",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 50,
+                "username": "Limelon"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/nataliedecorsa…",
+                "end": 83,
+                "expanded_url": "http://linktr.ee/nataliedecorsair",
+                "start": 60,
+                "url": "https://t.co/1IuBAHBF7h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/ndc1992",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/ndc1992",
+                "start": 0,
+                "url": "https://t.co/q7md8uCzp7"
+              }
+            ]
+          }
+        },
+        "id": "874341552432324608",
+        "is_identity_verified": false,
+        "location": "linktr.ee/nataliedecorsair",
+        "most_recent_tweet_id": "2086856667279335645",
+        "name": "Natalie de Corsair 🐸",
+        "pinned_tweet_id": "1430216247837351936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/874341552432324608/1707430190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377994316220612625/J4FF1vQs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118758,
+          "following_count": 422,
+          "like_count": 8133,
+          "listed_count": 545,
+          "media_count": 1383,
+          "tweet_count": 7744
+        },
+        "url": "https://t.co/q7md8uCzp7",
+        "username": "natalie_corsair",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

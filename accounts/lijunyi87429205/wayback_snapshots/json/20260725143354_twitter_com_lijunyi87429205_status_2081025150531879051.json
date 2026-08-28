@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2081020136727957931",
+    "created_at": "2026-07-25T14:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081025150531879051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025193723693596676",
+          "start": 0,
+          "username": "miaomeow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081025150531879051",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081024409637367929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 原来如此，谢谢🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2081020136727957931",
+        "created_at": "2026-07-25T14:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081025150531879051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025193723693596676",
+              "start": 0,
+              "username": "miaomeow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081025150531879051",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081024409637367929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 原来如此，谢谢🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2081020136727957931",
+        "created_at": "2026-07-25T14:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081024409637367929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081024409637367929",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081024228040835252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 待过一个月，默认中老年人讲话方言或者带口音，年轻人好一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 366,
+          "like_count": 72869,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2238
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "在这个夏天里，胸中的某样东西坏掉了，破碎的裂痕能否修复回来？",
+        "id": "2025193723693596676",
+        "name": "碎夏",
+        "pinned_tweet_id": "2049523575439360190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 25,
+          "like_count": 784,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 295
+        },
+        "url": "",
+        "username": "miaomeow_cat",
+        "verified": false
+      }
+    ]
+  }
+}

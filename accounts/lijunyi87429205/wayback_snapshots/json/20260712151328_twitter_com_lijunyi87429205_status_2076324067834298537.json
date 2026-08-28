@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2076106529409995178",
+    "created_at": "2026-07-12T15:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T16:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076324067834298537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2015207927590891520",
+          "start": 0,
+          "username": "chenpapro"
+        },
+        {
+          "end": 19,
+          "id": "1989627094834536449",
+          "start": 11,
+          "username": "suwen40"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076324067834298537",
+    "in_reply_to_user_id": "2015207927590891520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076204687414702223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chenpapro @suwen40 这两个问题平行存在，并不冲突，一边把女性作为难再生的“资源”一边存在类似纵容诬告或“女性低智，应得宽容”的道德标准，结构是邪恶的，不公的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2076106529409995178",
+        "created_at": "2026-07-12T15:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T16:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076324067834298537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2015207927590891520",
+              "start": 0,
+              "username": "chenpapro"
+            },
+            {
+              "end": 19,
+              "id": "1989627094834536449",
+              "start": 11,
+              "username": "suwen40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076324067834298537",
+        "in_reply_to_user_id": "2015207927590891520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076204687414702223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chenpapro @suwen40 这两个问题平行存在，并不冲突，一边把女性作为难再生的“资源”一边存在类似纵容诬告或“女性低智，应得宽容”的道德标准，结构是邪恶的，不公的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015207927590891520",
+        "conversation_id": "2076106529409995178",
+        "created_at": "2026-07-12T07:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T08:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076204687414702223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1989627094834536449",
+              "start": 0,
+              "username": "suwen40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076204687414702223",
+        "in_reply_to_user_id": "1989627094834536449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2180,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076195435157364865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suwen40 你应该是女的吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "意之意",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 367,
+          "like_count": 72169,
+          "listed_count": 7,
+          "media_count": 43,
+          "tweet_count": 2205
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T23:40:09.000Z",
+        "description": "维护男性权益\n反对极端女权",
+        "id": "2015207927590891520",
+        "name": "陈哥Pro",
+        "pinned_tweet_id": "2076106529409995178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029197876170244096/1ffnWFCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7460,
+          "following_count": 812,
+          "like_count": 233,
+          "listed_count": 20,
+          "media_count": 1338,
+          "tweet_count": 3436
+        },
+        "url": "",
+        "username": "chenpapro",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T09:30:58.000Z",
+        "description": "",
+        "id": "1989627094834536449",
+        "name": "jiangseng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020411828271030272/v4nAErQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 52,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 949
+        },
+        "url": "",
+        "username": "suwen40",
+        "verified": false
+      }
+    ]
+  }
+}

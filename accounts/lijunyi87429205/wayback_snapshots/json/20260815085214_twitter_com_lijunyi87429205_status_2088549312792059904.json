@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088305810413604864"
+      ],
+      "media_source_tweet_id": [
+        "2088306082527527220"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1337196393832669184",
+          "name": "Disco Elysium"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337196393832669184",
+          "name": "Disco Elysium"
+        }
+      }
+    ],
+    "conversation_id": "2088549312792059904",
+    "created_at": "2026-08-15T08:52:14.000Z",
+    "display_text_range": [
+      0,
+      86
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T09:52:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088549312792059904"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "zbrush"
+        },
+        {
+          "end": 48,
+          "start": 41,
+          "tag": "sculpt"
+        },
+        {
+          "end": 62,
+          "start": 49,
+          "tag": "discoelysium"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853823374482624512",
+          "start": 3,
+          "username": "sergeyvpop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jxpvA3JUV9",
+          "end": 86,
+          "expanded_url": "https://x.com/sergeyvpop/status/2088306082527527220/photo/1",
+          "media_key": "3_2088305810413604864",
+          "start": 63,
+          "url": "https://t.co/jxpvA3JUV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088549312792059904",
+    "lang": "nl",
+    "media_metadata": [
+      {
+        "media_key": "3_2088305810413604864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088306082527527220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sergeyvpop: Klaasje Amandou \n#zbrush #sculpt #discoelysium https://t.co/jxpvA3JUV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2088305810413604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsnEfwWUAAFJ1p.jpg",
+        "width": 2108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088305810413604864"
+          ],
+          "media_source_tweet_id": [
+            "2088306082527527220"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          }
+        ],
+        "conversation_id": "2088549312792059904",
+        "created_at": "2026-08-15T08:52:14.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088549312792059904"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "zbrush"
+            },
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "sculpt"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "discoelysium"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853823374482624512",
+              "start": 3,
+              "username": "sergeyvpop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxpvA3JUV9",
+              "end": 86,
+              "expanded_url": "https://x.com/sergeyvpop/status/2088306082527527220/photo/1",
+              "media_key": "3_2088305810413604864",
+              "start": 63,
+              "url": "https://t.co/jxpvA3JUV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088549312792059904",
+        "lang": "nl",
+        "media_metadata": [
+          {
+            "media_key": "3_2088305810413604864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088306082527527220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sergeyvpop: Klaasje Amandou \n#zbrush #sculpt #discoelysium https://t.co/jxpvA3JUV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088305810413604864"
+          ]
+        },
+        "author_id": "1853823374482624512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          }
+        ],
+        "conversation_id": "2088306082527527220",
+        "created_at": "2026-08-14T16:45:43.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T17:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088306082527527220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "zbrush"
+            },
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "sculpt"
+            },
+            {
+              "end": 46,
+              "start": 33,
+              "tag": "discoelysium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxpvA3JUV9",
+              "end": 70,
+              "expanded_url": "https://x.com/sergeyvpop/status/2088306082527527220/photo/1",
+              "media_key": "3_2088305810413604864",
+              "start": 47,
+              "url": "https://t.co/jxpvA3JUV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088306082527527220",
+        "lang": "nl",
+        "media_metadata": [
+          {
+            "media_key": "3_2088305810413604864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 2085,
+          "like_count": 123,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Klaasje Amandou \n#zbrush #sculpt #discoelysium https://t.co/jxpvA3JUV9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "生理男性 酒神崇拜/ 非专业作者，创作：诗 悲喜剧 短篇小说 / 可以用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧/",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2088549312792059904",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 206,
+          "following_count": 373,
+          "like_count": 74196,
+          "listed_count": 7,
+          "media_count": 45,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T15:35:23.000Z",
+        "description": "3D Character Artist at Tsume Art \n🎨artstation - https://t.co/Ubyi20VJLH\n📷inst - https://t.co/rsQdukL4L2",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "artstation.com/sefiew",
+                "end": 71,
+                "expanded_url": "https://www.artstation.com/sefiew",
+                "start": 48,
+                "url": "https://t.co/Ubyi20VJLH"
+              },
+              {
+                "display_url": "instagram.com/hitodenashi_3d/",
+                "end": 103,
+                "expanded_url": "https://www.instagram.com/hitodenashi_3d/",
+                "start": 80,
+                "url": "https://t.co/rsQdukL4L2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "artstation.com/sefiew",
+                "end": 23,
+                "expanded_url": "https://www.artstation.com/sefiew",
+                "start": 0,
+                "url": "https://t.co/Ubyi20VJLH"
+              }
+            ]
+          }
+        },
+        "id": "1853823374482624512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088306082527527220",
+        "name": "Sergey Chernigin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853823374482624512/1745140417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896138918833102848/J7Gd3Xb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 76,
+          "like_count": 916,
+          "listed_count": 13,
+          "media_count": 33,
+          "tweet_count": 83
+        },
+        "url": "https://t.co/Ubyi20VJLH",
+        "username": "sergeyvpop",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
