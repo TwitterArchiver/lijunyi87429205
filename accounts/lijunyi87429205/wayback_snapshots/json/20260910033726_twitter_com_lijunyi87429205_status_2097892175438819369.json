@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2097659976613564587",
+    "created_at": "2026-09-10T03:37:26.000Z",
+    "display_text_range": [
+      9,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T04:37:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097892175438819369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1670458419986464768",
+          "start": 0,
+          "username": "nn66676"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097892175438819369",
+    "in_reply_to_user_id": "1670458419986464768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097659976613564587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nn66676 这种账号的伪人感还挺容易分辨的www\n\n  （有部分甚至还有没删干净的莫名其妙外国贴"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2376,
+        "media_key": "3_2097659942811693056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRximqbbcAAU4Xk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2097659951942631424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxinMcagAAsxV3.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2097659959895101441",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxinqEbkAELTP_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2097659968480755712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxioKDaQAAXyBR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2097659976613564587",
+        "created_at": "2026-09-10T03:37:26.000Z",
+        "display_text_range": [
+          9,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T04:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097892175438819369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1670458419986464768",
+              "start": 0,
+              "username": "nn66676"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097892175438819369",
+        "in_reply_to_user_id": "1670458419986464768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097659976613564587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nn66676 这种账号的伪人感还挺容易分辨的www\n\n  （有部分甚至还有没删干净的莫名其妙外国贴"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097659942811693056",
+            "3_2097659951942631424",
+            "3_2097659959895101441",
+            "3_2097659968480755712"
+          ]
+        },
+        "author_id": "1670458419986464768",
+        "conversation_id": "2097659976613564587",
+        "created_at": "2026-09-09T12:14:45.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097659976613564587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mwzb2pgp8M",
+              "end": 167,
+              "expanded_url": "https://x.com/nn66676/status/2097659976613564587/photo/1",
+              "media_key": "3_2097659942811693056",
+              "start": 144,
+              "url": "https://t.co/Mwzb2pgp8M"
+            },
+            {
+              "display_url": "pic.x.com/Mwzb2pgp8M",
+              "end": 167,
+              "expanded_url": "https://x.com/nn66676/status/2097659976613564587/photo/1",
+              "media_key": "3_2097659951942631424",
+              "start": 144,
+              "url": "https://t.co/Mwzb2pgp8M"
+            },
+            {
+              "display_url": "pic.x.com/Mwzb2pgp8M",
+              "end": 167,
+              "expanded_url": "https://x.com/nn66676/status/2097659976613564587/photo/1",
+              "media_key": "3_2097659959895101441",
+              "start": 144,
+              "url": "https://t.co/Mwzb2pgp8M"
+            },
+            {
+              "display_url": "pic.x.com/Mwzb2pgp8M",
+              "end": 167,
+              "expanded_url": "https://x.com/nn66676/status/2097659976613564587/photo/1",
+              "media_key": "3_2097659968480755712",
+              "start": 144,
+              "url": "https://t.co/Mwzb2pgp8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097659976613564587",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097659942811693056"
+          },
+          {
+            "media_key": "3_2097659951942631424"
+          },
+          {
+            "media_key": "3_2097659959895101441"
+          },
+          {
+            "media_key": "3_2097659968480755712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 8436,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "你是否经常在推上刷到一个“mtf”展示自己胸长到了多大，然后在评论区把你引流到一个微信或者QQ号\n？\n我今天抱着怀疑的态度加了其中一个QQ ，发现他的产品与宣传图高度不一致 ，并且产品不存在宣传图上所显示公司的官网上\n\n具体请看以下聊天内容⬇️（伪造的产品宣传图和产品包装照发在评论区） https://t.co/Mwzb2pgp8M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2097892175438819369",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 375,
+          "like_count": 76464,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2386
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-06-18T15:50:22.000Z",
+        "description": "一个被讨厌的人 喜欢一切和太空有关的东西\n168cm42kg\n接线下 ✨门槛50",
+        "id": "1670458419986464768",
+        "is_identity_verified": false,
+        "location": "昆明/门槛50",
+        "most_recent_tweet_id": "2097677459080741153",
+        "name": "嗯嗯🀄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670458419986464768/1717741393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806979035916029952/VFgFUc0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 700,
+          "like_count": 7331,
+          "listed_count": 4,
+          "media_count": 953,
+          "tweet_count": 5531
+        },
+        "url": "",
+        "username": "nn66676",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

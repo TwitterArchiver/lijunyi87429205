@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2094092808873525754",
+    "created_at": "2026-08-30T16:08:37.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094094953232359918"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094094953232359918",
+    "in_reply_to_user_id": "1498354035854053377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094092808873525754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "破败又留有一点旧日奢侈的痕迹www很有我落魄贵族的味道，呵呵（胡言乱语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2094092808873525754",
+        "created_at": "2026-08-30T16:08:37.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094094953232359918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094094953232359918",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094092808873525754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "破败又留有一点旧日奢侈的痕迹www很有我落魄贵族的味道，呵呵（胡言乱语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2094092808873525754",
+        "created_at": "2026-08-30T16:00:06.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094092808873525754"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094092808873525754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "合租的地方公共区挺脏的，男人似乎都不太懂厨房清洁？弄得我打扫也不是不打扫也不是…我的卫生标准啊…\n  唯一的好处是我的房间挺大的，有浴缸…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2094094953232359918",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 375,
+          "like_count": 75345,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

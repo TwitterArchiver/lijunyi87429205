@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099413506554769409",
+        "3_2099413515102769152",
+        "3_2099413523130695680",
+        "3_2099413549563224064"
+      ],
+      "media_source_tweet_id": [
+        "2099413625270333564",
+        "2099413625270333564",
+        "2099413625270333564",
+        "2099413625270333564"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2099478212061565417",
+    "created_at": "2026-09-14T12:39:46.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:39:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099478212061565417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "864429793542103040",
+          "start": 3,
+          "username": "iskusstvo_shop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O12f5Dx0hx",
+          "end": 66,
+          "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+          "media_key": "3_2099413506554769409",
+          "start": 43,
+          "url": "https://t.co/O12f5Dx0hx"
+        },
+        {
+          "display_url": "pic.x.com/O12f5Dx0hx",
+          "end": 66,
+          "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+          "media_key": "3_2099413515102769152",
+          "start": 43,
+          "url": "https://t.co/O12f5Dx0hx"
+        },
+        {
+          "display_url": "pic.x.com/O12f5Dx0hx",
+          "end": 66,
+          "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+          "media_key": "3_2099413523130695680",
+          "start": 43,
+          "url": "https://t.co/O12f5Dx0hx"
+        },
+        {
+          "display_url": "pic.x.com/O12f5Dx0hx",
+          "end": 66,
+          "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+          "media_key": "3_2099413549563224064",
+          "start": 43,
+          "url": "https://t.co/O12f5Dx0hx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099478212061565417",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099413506554769409"
+      },
+      {
+        "media_key": "3_2099413515102769152"
+      },
+      {
+        "media_key": "3_2099413523130695680"
+      },
+      {
+        "media_key": "3_2099413549563224064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099413625270333564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iskusstvo_shop: ビアズリーの新刊本の中で最も美しい一冊……。 https://t.co/O12f5Dx0hx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_2099413506554769409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKddgbasAEVVEk.jpg",
+        "width": 880
+      },
+      {
+        "height": 2024,
+        "media_key": "3_2099413515102769152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKdeARa0AAxTkM.jpg",
+        "width": 2024
+      },
+      {
+        "height": 2024,
+        "media_key": "3_2099413523130695680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKdeeLbQAA0BnA.jpg",
+        "width": 2024
+      },
+      {
+        "height": 2024,
+        "media_key": "3_2099413549563224064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSKdgApboAAKAe7.jpg",
+        "width": 2024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099413506554769409",
+            "3_2099413515102769152",
+            "3_2099413523130695680",
+            "3_2099413549563224064"
+          ],
+          "media_source_tweet_id": [
+            "2099413625270333564",
+            "2099413625270333564",
+            "2099413625270333564",
+            "2099413625270333564"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2099478212061565417",
+        "created_at": "2026-09-14T12:39:46.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:39:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099478212061565417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "864429793542103040",
+              "start": 3,
+              "username": "iskusstvo_shop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 66,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413506554769409",
+              "start": 43,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 66,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413515102769152",
+              "start": 43,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 66,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413523130695680",
+              "start": 43,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 66,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413549563224064",
+              "start": 43,
+              "url": "https://t.co/O12f5Dx0hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099478212061565417",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099413506554769409"
+          },
+          {
+            "media_key": "3_2099413515102769152"
+          },
+          {
+            "media_key": "3_2099413523130695680"
+          },
+          {
+            "media_key": "3_2099413549563224064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099413625270333564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iskusstvo_shop: ビアズリーの新刊本の中で最も美しい一冊……。 https://t.co/O12f5Dx0hx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099413506554769409",
+            "3_2099413515102769152",
+            "3_2099413523130695680",
+            "3_2099413549563224064"
+          ]
+        },
+        "author_id": "864429793542103040",
+        "conversation_id": "2099413625270333564",
+        "created_at": "2026-09-14T08:23:08.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T09:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099413625270333564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 46,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413506554769409",
+              "start": 23,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 46,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413515102769152",
+              "start": 23,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 46,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413523130695680",
+              "start": 23,
+              "url": "https://t.co/O12f5Dx0hx"
+            },
+            {
+              "display_url": "pic.x.com/O12f5Dx0hx",
+              "end": 46,
+              "expanded_url": "https://x.com/iskusstvo_shop/status/2099413625270333564/photo/1",
+              "media_key": "3_2099413549563224064",
+              "start": 23,
+              "url": "https://t.co/O12f5Dx0hx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099413625270333564",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099413506554769409"
+          },
+          {
+            "media_key": "3_2099413515102769152"
+          },
+          {
+            "media_key": "3_2099413523130695680"
+          },
+          {
+            "media_key": "3_2099413549563224064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 11877,
+          "like_count": 205,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "ビアズリーの新刊本の中で最も美しい一冊……。 https://t.co/O12f5Dx0hx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2099478212061565417",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 378,
+          "like_count": 76886,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2413
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-16T10:38:17.000Z",
+        "description": "海外の美術書を専門に取り扱うオンライン書店Iskusstvo（イスクーストバ）です。 Online artbook store based in Tokyo. 「耽美なる絵画とモノ（@Estetism_jp)」の運営主。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 91,
+                "username": "Estetism_jp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iskusstvo-jp.com",
+                "end": 23,
+                "expanded_url": "http://iskusstvo-jp.com/",
+                "start": 0,
+                "url": "https://t.co/B80b5Kb0Zj"
+              }
+            ]
+          }
+        },
+        "id": "864429793542103040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099419657136636336",
+        "name": "Art Book Iskusstvo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/864429793542103040/1782807805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724692364160352256/nSnpwXLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66565,
+          "following_count": 190,
+          "like_count": 3008,
+          "listed_count": 764,
+          "media_count": 17119,
+          "tweet_count": 37246
+        },
+        "url": "https://t.co/B80b5Kb0Zj",
+        "username": "iskusstvo_shop",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

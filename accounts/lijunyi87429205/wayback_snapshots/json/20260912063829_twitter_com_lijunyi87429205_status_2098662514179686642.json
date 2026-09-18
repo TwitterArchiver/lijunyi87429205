@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098654161978204647",
+    "created_at": "2026-09-12T06:38:29.000Z",
+    "display_text_range": [
+      9,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T07:38:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098662514179686642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040872171602694144",
+          "start": 0,
+          "username": "Joehxc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098662514179686642",
+    "in_reply_to_user_id": "2040872171602694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098654161978204647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joehxc0 认真是指对关系吗？大概要做什么算是“认真”呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098654161978204647",
+        "created_at": "2026-09-12T06:38:29.000Z",
+        "display_text_range": [
+          9,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:38:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098662514179686642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040872171602694144",
+              "start": 0,
+              "username": "Joehxc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098662514179686642",
+        "in_reply_to_user_id": "2040872171602694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098654161978204647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joehxc0 认真是指对关系吗？大概要做什么算是“认真”呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040872171602694144",
+        "conversation_id": "2098654161978204647",
+        "created_at": "2026-09-12T06:05:17.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T07:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098654161978204647"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098654161978204647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操啊每次我认真所有认真的其他人都不认真 反过来也是一样 怎么看都差不多吧\n能不能他妈撞死我啊有没有什么泥头车之类的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098662514179686642",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 378,
+          "like_count": 76687,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2400
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T19:20:41.000Z",
+        "description": "游牧部落边缘人 永远年轻爱猫男 泛性恋这一块\n我会散烟给你如果你看到烟就要死了还是别fo我 如果你很应激总在推特挂人也别fo我 大伙生来就该爱来爱去操来操去的让自己脑子舒服点 道德标兵和小明星还是他妈离我远点吧\n随时DM任何人除非你明确说过不闲聊 被骂被挂只会block 争吵很没意义所以我不反驳",
+        "id": "2040872171602694144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098655764982460586",
+        "name": "Joe",
+        "pinned_tweet_id": "2050290259775390162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040872171602694144/1775724293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094495107466870784/H6nO87dF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 664,
+          "like_count": 3735,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 729
+        },
+        "url": "",
+        "username": "Joehxc0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098769162936238432",
+    "created_at": "2026-09-12T17:32:51.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098827190741967114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098827190741967114",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098769162936238432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 最近，难道，不是很顺利吗www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098769162936238432",
+        "created_at": "2026-09-12T17:32:51.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098827190741967114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098827190741967114",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098769162936238432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 最近，难道，不是很顺利吗www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "conversation_id": "2098769162936238432",
+        "created_at": "2026-09-12T13:42:16.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098769162936238432"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098769162936238432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我刚吃饭闪回我准备自杀那天晚上，我在想我生前最后一顿吃的是麦当劳的麦麦脆汁鸡薯条可乐套餐，我那天晚上，我一边哭一边吃，眼泪拌麦当劳，好吃，下辈子当海鸥了还吃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098827190741967114",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 379,
+          "like_count": 76758,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2407
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜想哭就对了你生来就是流眼泪的｜别让我充满恨｜做好随时准备自杀的状态才能轻松地活着｜单机玩推，投射社交期待在我身上我会有压力",
+        "id": "1787086493636521984",
+        "is_identity_verified": false,
+        "location": "under ur skin",
+        "most_recent_tweet_id": "2098769162936238432",
+        "name": "在你的脉搏中起舞",
+        "pinned_tweet_id": "2069707187488989359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787086493636521984/1786946433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088442494208118784/GIcTlV36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2959,
+          "following_count": 115,
+          "like_count": 5096,
+          "listed_count": 3,
+          "media_count": 87,
+          "tweet_count": 2548
+        },
+        "url": "",
+        "username": "Lucifers6x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

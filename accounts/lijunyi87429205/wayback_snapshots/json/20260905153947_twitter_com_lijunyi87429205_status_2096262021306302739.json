@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2096159582124929087",
+    "created_at": "2026-09-05T15:39:47.000Z",
+    "display_text_range": [
+      31,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T16:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096262021306302739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        },
+        {
+          "end": 30,
+          "id": "1272405078683430913",
+          "start": 14,
+          "username": "PaitangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096262021306302739",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096159582124929087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink @PaitangOfficial 哦呀？降价了吗，如果保存稳定性没有变化的话，很划算喔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2096159582124929087",
+        "created_at": "2026-09-05T15:39:47.000Z",
+        "display_text_range": [
+          31,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096262021306302739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 30,
+              "id": "1272405078683430913",
+              "start": 14,
+              "username": "PaitangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096262021306302739",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096159582124929087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @PaitangOfficial 哦呀？降价了吗，如果保存稳定性没有变化的话，很划算喔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1124790071314587648",
+        "conversation_id": "2096159582124929087",
+        "created_at": "2026-09-05T08:52:43.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096159582124929087"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096159582124929087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3005,
+          "like_count": 46,
+          "quote_count": 0,
+          "reply_count": 53,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "🌵盆栽营养液\n\n80mg/78.4RMB\n\n评论即可享受"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2096262021306302739",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 375,
+          "like_count": 76018,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2376
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096255355433222535",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 98,
+          "like_count": 3525,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 1936
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-15T05:46:41.000Z",
+        "description": "“朝聞道，夕死可矣”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/paitangcuzhi",
+                "end": 23,
+                "expanded_url": "https://t.me/paitangcuzhi",
+                "start": 0,
+                "url": "https://t.co/63hRAw3Gej"
+              }
+            ]
+          }
+        },
+        "id": "1272405078683430913",
+        "is_identity_verified": false,
+        "location": "下ネタ〇 |病み垢|不登校|",
+        "most_recent_tweet_id": "2055933321780306341",
+        "name": "☯️🧬無極",
+        "pinned_tweet_id": "2036443725711417459",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1272405078683430913/1756738238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985270408904376320/SHUUETVl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9753,
+          "following_count": 521,
+          "like_count": 8380,
+          "listed_count": 25,
+          "media_count": 1597,
+          "tweet_count": 14271
+        },
+        "url": "https://t.co/63hRAw3Gej",
+        "username": "PaitangOfficial",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

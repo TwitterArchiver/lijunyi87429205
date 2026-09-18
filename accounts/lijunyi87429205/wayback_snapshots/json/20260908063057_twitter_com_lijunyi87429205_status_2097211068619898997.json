@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2096956072410144836",
+    "created_at": "2026-09-08T06:30:57.000Z",
+    "display_text_range": [
+      10,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:30:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097211068619898997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1447499448649601025",
+          "start": 0,
+          "username": "LVTGW666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097211068619898997",
+    "in_reply_to_user_id": "1447499448649601025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096956072410144836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LVTGW666 旧社会契约和道德默识全面崩溃，规则奖励极端利己主义，自然就会这样。\n  互害到所有人是所有人的敌人后，潮流自然就会反转，亦或者灭亡www"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1163,
+        "media_key": "3_2096956059592364032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRnibRGbEAAi7Zb.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2096956072410144836",
+        "created_at": "2026-09-08T06:30:57.000Z",
+        "display_text_range": [
+          10,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097211068619898997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1447499448649601025",
+              "start": 0,
+              "username": "LVTGW666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097211068619898997",
+        "in_reply_to_user_id": "1447499448649601025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096956072410144836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LVTGW666 旧社会契约和道德默识全面崩溃，规则奖励极端利己主义，自然就会这样。\n  互害到所有人是所有人的敌人后，潮流自然就会反转，亦或者灭亡www"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096956059592364032"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "2096956072410144836",
+        "created_at": "2026-09-07T13:37:41.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:37:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096956072410144836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xKvLQKvH6U",
+              "end": 96,
+              "expanded_url": "https://x.com/LVTGW666/status/2096956072410144836/photo/1",
+              "media_key": "3_2096956059592364032",
+              "start": 73,
+              "url": "https://t.co/xKvLQKvH6U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096956072410144836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096956059592364032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 31490,
+          "like_count": 494,
+          "quote_count": 8,
+          "reply_count": 82,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "说实话，我是真的佩服这种新时代的神之价值重估的，又是拒绝白嫖羞耻，又是拒绝出轨羞耻，可以说这帮逼也是在现代性、价值相对主义的影响下，走的愈发邪乎 https://t.co/xKvLQKvH6U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2097211068619898997",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 374,
+          "like_count": 76400,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2380
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "is_identity_verified": true,
+        "location": "Yokohama-shi Kanagawa",
+        "most_recent_tweet_id": "2097067404606267536",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2096771631482085721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1447499448649601025/1634922805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75611,
+          "following_count": 1025,
+          "like_count": 15601,
+          "listed_count": 313,
+          "media_count": 6434,
+          "tweet_count": 14413
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

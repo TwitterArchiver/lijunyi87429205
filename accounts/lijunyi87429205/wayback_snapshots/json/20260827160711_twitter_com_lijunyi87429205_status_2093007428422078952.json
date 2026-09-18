@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2092934563630903347",
+    "created_at": "2026-08-27T16:07:11.000Z",
+    "display_text_range": [
+      14,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T17:07:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093007428422078952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2025193723693596676",
+          "start": 0,
+          "username": "miaomeow_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093007428422078952",
+    "in_reply_to_user_id": "2025193723693596676",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092938868609945608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaomeow_cat 两者之间只有一根不可见的细绳相连，紧绷，颤抖，发出骨骼摩擦的声音。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2092934563630903347",
+        "created_at": "2026-08-27T16:07:11.000Z",
+        "display_text_range": [
+          14,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093007428422078952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2025193723693596676",
+              "start": 0,
+              "username": "miaomeow_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093007428422078952",
+        "in_reply_to_user_id": "2025193723693596676",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092938868609945608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaomeow_cat 两者之间只有一根不可见的细绳相连，紧绷，颤抖，发出骨骼摩擦的声音。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025193723693596676",
+        "conversation_id": "2092934563630903347",
+        "created_at": "2026-08-27T11:34:45.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092938868609945608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092938868609945608",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092934563630903347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 内在与外显，宛如天与地的隔阂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2093007428422078952",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 373,
+          "like_count": 75033,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2340
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-21T13:00:03.000Z",
+        "description": "在这个夏天里，胸中的某样东西坏掉了，破碎的裂痕能否修复回来？",
+        "id": "2025193723693596676",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092938868609945608",
+        "name": "碎夏",
+        "pinned_tweet_id": "2049523575439360190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025193723693596676/1771678912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025194468119642116/D1KCuBeU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 26,
+          "like_count": 947,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "miaomeow_cat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

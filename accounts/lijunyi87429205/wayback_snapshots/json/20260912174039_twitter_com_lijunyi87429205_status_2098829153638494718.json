@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098764895437066552",
+    "created_at": "2026-09-12T17:40:39.000Z",
+    "display_text_range": [
+      17,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098829153638494718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1807910824918634496",
+          "start": 0,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098829153638494718",
+    "in_reply_to_user_id": "1807910824918634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098764895437066552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suanrongyouyuxu 如果没有能够调整这种失衡的机制，那就会积累社会矛盾，怨恨。\n  有些政府选择以改变人类对“不公”的认知能力来掩盖矛盾。但它们实际上并不会消失www\n  （这样说话会不会有点像康米"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098764895437066552",
+        "created_at": "2026-09-12T17:40:39.000Z",
+        "display_text_range": [
+          17,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829153638494718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098829153638494718",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098764895437066552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 如果没有能够调整这种失衡的机制，那就会积累社会矛盾，怨恨。\n  有些政府选择以改变人类对“不公”的认知能力来掩盖矛盾。但它们实际上并不会消失www\n  （这样说话会不会有点像康米"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807910824918634496",
+        "conversation_id": "2098764895437066552",
+        "created_at": "2026-09-12T13:25:18.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098764895437066552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098764895437066552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我觉得很多人没有意识到一件事情，就是权利和责任是对等的。当权利扩张的时候，责任也必然要跟着扩张。权利扩张如果不伴随责任结构的调整，就会产生制度上的失衡。\n\n这句话是什么意思？\n\n我用一个比较通俗的例子来解释。假设你有一条宠物蛇，法律本来规定宠物蛇不能带出门遛弯。但现在法律改了，你可以像遛狗一样牵着你的宠物蛇出门了。那么你就需要为所有合理范围内宠物蛇出门所造成的伤害负责——包括它咬人、咬别的宠物，有人因为害怕蛇而造成的惊慌等等。\n\n因为权利扩大了，本来蛇不能遛弯，现在可以了。与此同时你的责任也扩大了，你必须保证你的蛇在外面不能伤人。如果光扩大权利而不扩大责任，就变成了蛇能出门，出了事也不必负责。这当然是荒谬的。\n\n这个道理放小孩身上也是一样的。除了生存权等与生俱来的权利之外，越小的小孩权利越小。小孩的权利和责任是典型的渐进式的。学龄前的儿童只能在高度受限的范围内做决策。他不能独自决定去哪里——否则会跑到马路中间或者钻到车子底下；他没有权利选择拒绝去医院或拒绝吃药，因为他不知道也无法承担拒绝的后果。而随着小孩长大，权利和责任也会一并逐渐增加。\n\n这个道理放在女权上也是完全一样的。在传统性别秩序下，女性被排除在多数公共权利之外。这个我之前在系列里写过，早期女性甚至不能独立在银行开户，职业选择也高度受限。与此同时很多责任也是免除的，比如女性没有经济供养的义务，没有公共问责等等。\n女权运动扩大了女性权利，女性有更大的职业空间和经济自主性，但责任也是同步扩大的。比如传统性别秩序下女性原本不承担养家责任，但经济自主之后就需要挑起一部分原本由男性承担的责任。\n\n那什么是不对等？女性上班取得收入之后，下班回来之后家务一样不少，还得全部自己做，这相当于承担了双份责任。男性供养家庭的负担小了，责任减少但权利不变，该不做家务还是不做家务，这叫不对等。\n\n反过来女性取得经济自主之后自己赚钱自己花，但供养家庭这件事完全不负责，而男的一个养两个，这也是不对等。\n\n因为权利扩大了，责任就要重新分配。很多人光想着提高权利，从来没想过要负起责任，这只会源源不断地制造新的不对等。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1167,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得很多人没有意识到一件事情，就是权利和责任是对等的。当权利扩张的时候，责任也必然要跟着扩张。权利扩张如果不伴随责任结构的调整，就会产生制度上的失衡。\n\n这句话是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098829153638494718",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 379,
+          "like_count": 76767,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2408
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n情感驱动价值取向，但使用理性作为工具。\n有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098818134664675486",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2093002142126596209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807910824918634496/1729795632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 255,
+          "like_count": 9285,
+          "listed_count": 51,
+          "media_count": 403,
+          "tweet_count": 5381
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098764895437066552",
+    "created_at": "2026-09-12T17:42:28.000Z",
+    "display_text_range": [
+      33,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098829611232792835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1781207661922701313",
+          "start": 0,
+          "username": "KashabaiSilver"
+        },
+        {
+          "end": 32,
+          "id": "1807910824918634496",
+          "start": 16,
+          "username": "suanrongyouyuxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098829611232792835",
+    "in_reply_to_user_id": "1781207661922701313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098766367432524282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KashabaiSilver @suanrongyouyuxu 人类的道德认知和法条出现或抹除并不完全同轨吧，如果长时间不被认可，“暴政”就出现了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098764895437066552",
+        "created_at": "2026-09-12T17:42:28.000Z",
+        "display_text_range": [
+          33,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098829611232792835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1781207661922701313",
+              "start": 0,
+              "username": "KashabaiSilver"
+            },
+            {
+              "end": 32,
+              "id": "1807910824918634496",
+              "start": 16,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098829611232792835",
+        "in_reply_to_user_id": "1781207661922701313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098766367432524282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KashabaiSilver @suanrongyouyuxu 人类的道德认知和法条出现或抹除并不完全同轨吧，如果长时间不被认可，“暴政”就出现了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781207661922701313",
+        "conversation_id": "2098764895437066552",
+        "created_at": "2026-09-12T13:31:09.000Z",
+        "display_text_range": [
+          17,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T14:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098766367432524282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1807910824918634496",
+              "start": 0,
+              "username": "suanrongyouyuxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098766367432524282",
+        "in_reply_to_user_id": "1807910824918634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098764895437066552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suanrongyouyuxu 虽然我不应该对宣传推纠正，但我还是感到好困扰…🫪\n\n你举的这些例子，当事人的权利和责任一直都是没有消失的、只是我们出于各种原因对其进行了限制（无论是务实的还是荒谬的）\n\n而当你解除了这种限制了以后，当事人才会仿佛突然出现对应的权利和需要做的事情、但这从一开始就存在"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098829611232792835",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 379,
+          "like_count": 76768,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2409
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-19T06:27:21.000Z",
+        "description": "This story is mine, and this moment is mine, \nCan I steal your pain and shed it away?（《Continued Story》）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintaureliaev…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintaureliaevergarden",
+                "start": 0,
+                "url": "https://t.co/G1S4F934aJ"
+              }
+            ]
+          }
+        },
+        "id": "1781207661922701313",
+        "is_identity_verified": false,
+        "location": "Malaysia",
+        "most_recent_tweet_id": "2098823914785009963",
+        "name": "圣奥伦莉丝•伊芙加登/Saint Aurelia Evergarden（mtf，lesbian）",
+        "pinned_tweet_id": "2083025521923985454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781207661922701313/1749023105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980793192005632/ygaC_zoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 747,
+          "following_count": 175,
+          "like_count": 155827,
+          "listed_count": 1,
+          "media_count": 6478,
+          "tweet_count": 82642
+        },
+        "url": "https://t.co/G1S4F934aJ",
+        "username": "KashabaiSilver",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-01T22:55:21.000Z",
+        "description": "简中舆论观察者。\n观察/记录/拆解/分析关于民粹、性别与公共讨论的结构性问题。\n情感驱动价值取向，但使用理性作为工具。\n有时也记录生活，发一些生活里的感悟和荒诞余兴。",
+        "id": "1807910824918634496",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098818134664675486",
+        "name": "蒜蓉鱿鱼须",
+        "pinned_tweet_id": "2093002142126596209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807910824918634496/1729795632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879574101750059008/DyN1I1bV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6843,
+          "following_count": 255,
+          "like_count": 9285,
+          "listed_count": 51,
+          "media_count": 403,
+          "tweet_count": 5381
+        },
+        "url": "",
+        "username": "suanrongyouyuxu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2094235932421689460",
+    "created_at": "2026-08-31T07:54:31.000Z",
+    "display_text_range": [
+      12,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T08:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094332995708801116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2013514430798274562",
+          "start": 0,
+          "username": "lynlabella"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094332995708801116",
+    "in_reply_to_user_id": "2013514430798274562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094310240150036953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynlabella 这样，好稳定的心态，我一直有很严重的生存焦虑来着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2094235932421689460",
+        "created_at": "2026-08-31T07:54:31.000Z",
+        "display_text_range": [
+          12,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T08:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094332995708801116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013514430798274562",
+              "start": 0,
+              "username": "lynlabella"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094332995708801116",
+        "in_reply_to_user_id": "2013514430798274562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094310240150036953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynlabella 这样，好稳定的心态，我一直有很严重的生存焦虑来着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013514430798274562",
+        "conversation_id": "2094235932421689460",
+        "created_at": "2026-08-31T06:24:06.000Z",
+        "display_text_range": [
+          17,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094310240150036953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1498354035854053377",
+              "start": 0,
+              "username": "lijunyi87429205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094310240150036953",
+        "in_reply_to_user_id": "1498354035854053377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094268001474547931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lijunyi87429205 不用hh  我现在只是纯粹看乐子🧑🏿‍🎤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2094332995708801116",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 376,
+          "like_count": 75422,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2357
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-20T07:30:54.000Z",
+        "description": "当黄玫瑰再次盛开，请别一支到我的胸前。",
+        "id": "2013514430798274562",
+        "is_identity_verified": false,
+        "location": "楼上楼",
+        "most_recent_tweet_id": "2094310240150036953",
+        "name": "ALin",
+        "pinned_tweet_id": "2013519257850515831",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013514430798274562/1779088535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093985762413002752/qsOkqdce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "lynlabella",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

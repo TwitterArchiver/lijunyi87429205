@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2096545544235839961",
+    "created_at": "2026-09-06T10:26:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T11:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096545544235839961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096545544235839961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096523810014908799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: “开头那一幕本人真实经历过，哭得我喘不上气来，鼻子流血”\n\n9月5日，抖音有账号发布AI短片《千禧幻觉》，配文称“这是一个架空的魔幻世界”，暗讽中国诸多社会问题并引发网络热议。\n\n视频以女孩被强迫剪发开场，随后出现的镜头包括：… http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50503,
+        "height": 1024,
+        "media_key": "13_2096226223492112384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096226223492112384/img/LE3mTdtNCRE4b_Gg.jpg",
+        "public_metrics": {
+          "view_count": 23398
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096226223492112384/vid/avc1/320x568/F9V3Y-iWTwIIUVHh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096226223492112384/vid/avc1/480x852/yTE9yT1D8_KGtxCj.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096226223492112384/vid/avc1/576x1024/WJjriBSvFJB3cpo_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096226223492112384/pl/qn_O-XTYbf4lvcLu.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2096545544235839961",
+        "created_at": "2026-09-06T10:26:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T11:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096545544235839961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096545544235839961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096523810014908799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: “开头那一幕本人真实经历过，哭得我喘不上气来，鼻子流血”\n\n9月5日，抖音有账号发布AI短片《千禧幻觉》，配文称“这是一个架空的魔幻世界”，暗讽中国诸多社会问题并引发网络热议。\n\n视频以女孩被强迫剪发开场，随后出现的镜头包括：… http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096226223492112384"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096523810014908799",
+        "created_at": "2026-09-06T09:00:02.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096523810014908799"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DGERk1hfA",
+              "end": 137,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2096523810014908799/video/1",
+              "media_key": "13_2096226223492112384",
+              "start": 114,
+              "url": "https://t.co/5DGERk1hfA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096523810014908799",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2096226223492112384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "“开头那一幕本人真实经历过，哭得我喘不上气来，鼻子流血”\n\n9月5日，抖音有账号发布AI短片《千禧幻觉》，配文称“这是一个架空的魔幻世界”，暗讽中国诸多社会问题并引发网络热议。\n\n视频以女孩被强迫剪发开场，随后出现的镜头包括：\n\n学生在跑步机上埋头学习，操场上跑步的、骑摩托车的跟开跑车和开飞机的赛跑，众人攀爬高墙抢一个办公桌、但有人空降到座椅上等等。\n\n该片以诸多荒诞场景，暗讽学校教育缺乏人性、学业负担过大（或教育内卷）、不公平竞争、官员腐败、婚姻压力、房地产问题、医疗问题等等。\n\n网友评论：\n“至今不知道头发对学习的影响在哪里”\n“这个视频艺术成分很高啊”\n“这根本就不是AI生成的”\n“好诡异，好魔幻，好眩晕，好痛苦”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 39128,
+          "like_count": 559,
+          "quote_count": 3,
+          "reply_count": 33,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "“开头那一幕本人真实经历过，哭得我喘不上气来，鼻子流血”\n\n9月5日，抖音有账号发布AI短片《千禧幻觉》，配文称“这是一个架空的魔幻世界”，暗讽中国诸多社会问题并引发网络热议。\n\n视频以女孩被强迫剪发开场，随后出现的镜头包括： https://t.co/5DGERk1hfA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2096545544235839961",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 374,
+          "like_count": 76182,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2377
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2096538902081531922",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2261433,
+          "following_count": 1082,
+          "like_count": 10446,
+          "listed_count": 8891,
+          "media_count": 53324,
+          "tweet_count": 60652
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

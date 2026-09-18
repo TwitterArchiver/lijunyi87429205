@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098404232433164312",
+    "created_at": "2026-09-11T16:57:34.000Z",
+    "display_text_range": [
+      9,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T17:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098455926424625589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1743531573478363136",
+          "start": 0,
+          "username": "chionli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098455926424625589",
+    "in_reply_to_user_id": "1743531573478363136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098404232433164312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chionli 没有听过c的声音呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098404232433164312",
+        "created_at": "2026-09-11T16:57:34.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T17:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098455926424625589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1743531573478363136",
+              "start": 0,
+              "username": "chionli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098455926424625589",
+        "in_reply_to_user_id": "1743531573478363136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098404232433164312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chionli 没有听过c的声音呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1743531573478363136",
+        "conversation_id": "2098404232433164312",
+        "created_at": "2026-09-11T13:32:10.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T14:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098404232433164312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chionli/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/chionli/status/2098386258657792177",
+              "start": 13,
+              "url": "https://t.co/h3GbPtIBi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098404232433164312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098386258657792177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的聲音當然是無法掩蓋的 https://t.co/h3GbPtIBi6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098455926424625589",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 378,
+          "like_count": 76607,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2392
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-06T07:15:08.000Z",
+        "description": "Owner: @akaeltn\nwas/were\nfate or destiny\n\nBut we still love you\nWe will be together that never apart.\n❤️🥰🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 7,
+                "username": "akaeltn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/chionli",
+                "end": 23,
+                "expanded_url": "https://t.me/chionli",
+                "start": 0,
+                "url": "https://t.co/q7N3KVTFn9"
+              }
+            ]
+          }
+        },
+        "id": "1743531573478363136",
+        "is_identity_verified": false,
+        "location": "molecular orbital",
+        "most_recent_tweet_id": "2098404232433164312",
+        "name": "a.n.c.",
+        "pinned_tweet_id": "2080690109800976433",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1743531573478363136/1742291664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051629062096142336/HijGL79K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 307,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2795
+        },
+        "url": "https://t.co/q7N3KVTFn9",
+        "username": "chionli",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

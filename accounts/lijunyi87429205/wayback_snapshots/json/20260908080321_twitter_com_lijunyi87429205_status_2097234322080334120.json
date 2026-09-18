@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2081183365600821674",
+    "created_at": "2026-09-08T08:03:21.000Z",
+    "display_text_range": [
+      14,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097234322080334120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1781621357014286336",
+          "start": 0,
+          "username": "0rbital_obit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097234322080334120",
+    "in_reply_to_user_id": "1781621357014286336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081183365600821674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0rbital_obit 敌对一切挑战的，赶走一切欲求的，羞辱一切谄媚的，轻蔑一切友好的。\n  人类怎么可以那么愚蠢，我们真的可以做点什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2081183247698907136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHZIx-WUAAp1Ac.jpg",
+        "width": 460
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2081183247581458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHZIxiWMAAxN90.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2081183365600821674",
+        "created_at": "2026-09-08T08:03:21.000Z",
+        "display_text_range": [
+          14,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097234322080334120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781621357014286336",
+              "start": 0,
+              "username": "0rbital_obit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097234322080334120",
+        "in_reply_to_user_id": "1781621357014286336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081183365600821674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0rbital_obit 敌对一切挑战的，赶走一切欲求的，羞辱一切谄媚的，轻蔑一切友好的。\n  人类怎么可以那么愚蠢，我们真的可以做点什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081183247698907136",
+            "3_2081183247581458432"
+          ]
+        },
+        "author_id": "1781621357014286336",
+        "conversation_id": "2081183365600821674",
+        "created_at": "2026-07-26T01:02:35.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081183365600821674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Y69zBM7fy",
+              "end": 84,
+              "expanded_url": "https://x.com/0rbital_obit/status/2081183365600821674/photo/1",
+              "media_key": "3_2081183247698907136",
+              "start": 61,
+              "url": "https://t.co/5Y69zBM7fy"
+            },
+            {
+              "display_url": "pic.x.com/5Y69zBM7fy",
+              "end": 84,
+              "expanded_url": "https://x.com/0rbital_obit/status/2081183365600821674/photo/1",
+              "media_key": "3_2081183247581458432",
+              "start": 61,
+              "url": "https://t.co/5Y69zBM7fy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081183365600821674",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2081183247698907136"
+          },
+          {
+            "media_key": "3_2081183247581458432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "邓煜获奖的舆论到了大家最不想看见的地步\ntrigger warning：radical feminism content https://t.co/5Y69zBM7fy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2097234322080334120",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 374,
+          "like_count": 76421,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2382
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-20T09:50:18.000Z",
+        "description": "一只小蜥蜴 ｜ 阴角 ｜半癫 半疯 半自理 半死 ｜ 极小的ego｜ 我知道你们这些stalker在看着我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fuckingmachine.com",
+                "end": 23,
+                "expanded_url": "http://www.fuckingmachine.com",
+                "start": 0,
+                "url": "https://t.co/o9LlaXBHau"
+              }
+            ]
+          }
+        },
+        "id": "1781621357014286336",
+        "is_identity_verified": false,
+        "location": "6:4",
+        "most_recent_tweet_id": "2096725166810116185",
+        "name": "日落龙舌兰🏳️‍⚧️🏴 🚷",
+        "pinned_tweet_id": "1863190982533013988",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781621357014286336/1748869975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909003286356561920/DQozY5IH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 377,
+          "like_count": 1713,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1173
+        },
+        "url": "https://t.co/o9LlaXBHau",
+        "username": "0rbital_obit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

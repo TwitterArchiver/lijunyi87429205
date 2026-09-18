@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2098281864926794070",
+    "created_at": "2026-09-12T07:59:35.000Z",
+    "display_text_range": [
+      9,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T08:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098682924292014329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2096847118581551104",
+          "start": 0,
+          "username": "3YeEzzZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098682924292014329",
+    "in_reply_to_user_id": "2096847118581551104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098281864926794070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3YeEzzZ 远离他们生活下去吧…恶是无法消除的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2098281864926794070",
+        "created_at": "2026-09-12T07:59:35.000Z",
+        "display_text_range": [
+          9,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098682924292014329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2096847118581551104",
+              "start": 0,
+              "username": "3YeEzzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098682924292014329",
+        "in_reply_to_user_id": "2096847118581551104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098281864926794070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3YeEzzZ 远离他们生活下去吧…恶是无法消除的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096847118581551104",
+        "conversation_id": "2098281864926794070",
+        "created_at": "2026-09-11T05:25:55.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T06:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098281864926794070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098281864926794070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "好难受...坐立不安又想吐...喘不上气来，吸进去的气体好像黄油凝固在肚子里一样。\n好想要能够立刻失去意识的方法。\n只要自杀过一次就总会想着自杀的事，何况我做了四次。\n我没办法停止厌恶。我要怎么才能停止厌恶，结束我的痛苦。\n恨你们...霸凌者，白痴，装腔作势的人。\n好恨你们。你们只是做了糟糕的事，甩甩手把我抛之脑后，过着和平的生活，什么后果都没有付出。\n如果我死了绝对会变成怨灵的。这样也好呢。\n难以呼吸，好难受，就好像没有呼吸一样。\n好痛苦...立刻就想服毒自杀。\n恨你们啊。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 841,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好难受...坐立不安又想吐...喘不上气来，吸进去的气体好像黄油凝固在肚子里一样。\n好想要能够立刻失去意识的方法。\n只要自杀过一次就总会想着自杀的事，何况我做了四次。\n我没办法停止厌恶。我要怎么才能停止厌恶，结束我的痛苦。\n恨你们...霸凌者，白痴，装腔作势的人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2098682924292014329",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 379,
+          "like_count": 76710,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2402
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-07T06:25:56.000Z",
+        "description": "愛，愛，愛",
+        "id": "2096847118581551104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098664523456827898",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2097118095290904850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096847118581551104/1788762411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096847486854082560/BvWdGIBS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 260,
+          "like_count": 1904,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "3YeEzzZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

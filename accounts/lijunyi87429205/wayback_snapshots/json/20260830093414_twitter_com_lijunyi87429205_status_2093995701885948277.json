@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2093988616087175385",
+    "created_at": "2026-08-30T09:34:14.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093995701885948277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1904731881817735168",
+          "start": 0,
+          "username": "3e1diei0_oi7y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093995701885948277",
+    "in_reply_to_user_id": "1904731881817735168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093988616087175385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3e1diei0_oi7y 兔兔暂时先让讨厌的东西远离生活怎么样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2093988616087175385",
+        "created_at": "2026-08-30T09:34:14.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093995701885948277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1904731881817735168",
+              "start": 0,
+              "username": "3e1diei0_oi7y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093995701885948277",
+        "in_reply_to_user_id": "1904731881817735168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093988616087175385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3e1diei0_oi7y 兔兔暂时先让讨厌的东西远离生活怎么样？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1904731881817735168",
+        "conversation_id": "2093988616087175385",
+        "created_at": "2026-08-30T09:06:05.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093988616087175385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093988616087175385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呜哇...我最近总在推推上精神崩溃，这样的话很糟糕了啦～不喜欢我的人会说，呜哈哈哈，你看那个人，平时虽然做出是一副好开心的样子，但是，但其实是一个惨兮兮的人。\n我好想尽情地侮辱共产党玩，可是我觉得这样子的话我就没办法轻松去做嘛...因为大家会说，就是因为你惨兮兮的，所以你才会侮辱共产党，噗噗～\n唔姆...这倒也没错啦，哼哼...\n我好迷糊啊——！这样不行的，我要振作起来才是...可是我的脑袋又好昏喔。天气太热了啦...天上太阳红呀红彤彤～心中的太阳是毛泽东～♪♫"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜哇...我最近总在推推上精神崩溃，这样的话很糟糕了啦～不喜欢我的人会说，呜哈哈哈，你看那个人，平时虽然做出是一副好开心的样子，但是，但其实是一个惨兮兮的人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2093995701885948277",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 374,
+          "like_count": 75228,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2343
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-26T03:07:31.000Z",
+        "description": "愛，愛，愛",
+        "id": "1904731881817735168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093993931050787076",
+        "name": "L4crim_0se9v",
+        "pinned_tweet_id": "2074083499922047374",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1904731881817735168/1784026484",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076981039357128705/hmY4LgMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 758,
+          "like_count": 38285,
+          "listed_count": 0,
+          "media_count": 249,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "3e1diei0_oi7y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
