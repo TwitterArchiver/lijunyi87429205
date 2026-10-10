@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102240550783229952"
+      ],
+      "media_source_tweet_id": [
+        "2102240655053660294"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2107231839257760136",
+    "created_at": "2026-10-05T22:09:55.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T23:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107231839257760136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1565303488254357505",
+          "start": 3,
+          "username": "ColumbiaHector"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tOkGGrlLYt",
+          "end": 128,
+          "expanded_url": "https://x.com/ColumbiaHector/status/2102240655053660294/photo/1",
+          "media_key": "3_2102240550783229952",
+          "start": 105,
+          "url": "https://t.co/tOkGGrlLYt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107231839257760136",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102240550783229952"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102240655053660294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ColumbiaHector: Macbeth.Randor\nKEEP CALM AND CARRY ON!\n泥泞行程中来上一杯午后的红茶\n疲惫的机械师麦克白.兰铎提醒您“无论何时，保持冷静继续前行” https://t.co/tOkGGrlLYt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3456,
+        "media_key": "3_2102240550783229952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyopI3bIAAdfZs.jpg",
+        "width": 2500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102240550783229952"
+          ],
+          "media_source_tweet_id": [
+            "2102240655053660294"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2107231839257760136",
+        "created_at": "2026-10-05T22:09:55.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107231839257760136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1565303488254357505",
+              "start": 3,
+              "username": "ColumbiaHector"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOkGGrlLYt",
+              "end": 128,
+              "expanded_url": "https://x.com/ColumbiaHector/status/2102240655053660294/photo/1",
+              "media_key": "3_2102240550783229952",
+              "start": 105,
+              "url": "https://t.co/tOkGGrlLYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107231839257760136",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102240550783229952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102240655053660294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ColumbiaHector: Macbeth.Randor\nKEEP CALM AND CARRY ON!\n泥泞行程中来上一杯午后的红茶\n疲惫的机械师麦克白.兰铎提醒您“无论何时，保持冷静继续前行” https://t.co/tOkGGrlLYt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102240550783229952"
+          ]
+        },
+        "author_id": "1565303488254357505",
+        "conversation_id": "2102240655053660294",
+        "created_at": "2026-09-22T03:36:44.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102240655053660294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tOkGGrlLYt",
+              "end": 108,
+              "expanded_url": "https://x.com/ColumbiaHector/status/2102240655053660294/photo/1",
+              "media_key": "3_2102240550783229952",
+              "start": 85,
+              "url": "https://t.co/tOkGGrlLYt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102240655053660294",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102240550783229952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 414,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Macbeth.Randor\nKEEP CALM AND CARRY ON!\n泥泞行程中来上一杯午后的红茶\n疲惫的机械师麦克白.兰铎提醒您“无论何时，保持冷静继续前行” https://t.co/tOkGGrlLYt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2107231839257760136",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 384,
+          "like_count": 78318,
+          "listed_count": 7,
+          "media_count": 50,
+          "tweet_count": 2454
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-01T11:40:15.000Z",
+        "description": "感谢你喜欢我的作品",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/83013938",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/83013938",
+                "start": 0,
+                "url": "https://t.co/W8PHKfqfi5"
+              }
+            ]
+          }
+        },
+        "id": "1565303488254357505",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102593130436722959",
+        "name": "HectorColumbia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565303488254357505/1790303707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739133135194091520/wn-dY8Ir_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 10,
+          "like_count": 17,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/W8PHKfqfi5",
+        "username": "ColumbiaHector",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

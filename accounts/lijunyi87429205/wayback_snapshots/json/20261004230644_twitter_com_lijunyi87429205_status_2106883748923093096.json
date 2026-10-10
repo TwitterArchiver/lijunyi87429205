@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2106875102122180804",
+    "created_at": "2026-10-04T23:06:44.000Z",
+    "display_text_range": [
+      14,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T00:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106883748923093096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1300828282061877249",
+          "start": 0,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106883748923093096",
+    "in_reply_to_user_id": "1300828282061877249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106875102122180804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HANLIANYI331 与其说是汽车，不如说是超越人体的承载能力与力量吧，钢铁受智慧或意志的驱使，行善或者作恶。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 366,
+        "media_key": "16_2106874969942822912",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT0fn1makAABqUp.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT0fn1makAABqUp.mp4"
+          }
+        ],
+        "width": 532
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106875034757447680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0frnDbQAA1NQa.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106875052964954112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0fsq4bwAAtC9X.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2106875084824875008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT0fuhkbkAAbKjU.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2106875102122180804",
+        "created_at": "2026-10-04T23:06:44.000Z",
+        "display_text_range": [
+          14,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T00:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106883748923093096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1300828282061877249",
+              "start": 0,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106883748923093096",
+        "in_reply_to_user_id": "1300828282061877249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106875102122180804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANLIANYI331 与其说是汽车，不如说是超越人体的承载能力与力量吧，钢铁受智慧或意志的驱使，行善或者作恶。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106874969942822912",
+            "3_2106875034757447680",
+            "3_2106875052964954112",
+            "3_2106875084824875008"
+          ]
+        },
+        "author_id": "1300828282061877249",
+        "conversation_id": "2106875102122180804",
+        "created_at": "2026-10-04T22:32:22.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T23:09:16.000Z",
+          "edits_remaining": 1,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106869287290130767",
+          "2106869971917922646",
+          "2106870495941648853",
+          "2106873129608102322",
+          "2106875102122180804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gs9QHaSNqe",
+              "end": 129,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2106875102122180804/photo/1",
+              "media_key": "16_2106874969942822912",
+              "start": 106,
+              "url": "https://t.co/gs9QHaSNqe"
+            },
+            {
+              "display_url": "pic.x.com/gs9QHaSNqe",
+              "end": 129,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2106875102122180804/photo/1",
+              "media_key": "3_2106875034757447680",
+              "start": 106,
+              "url": "https://t.co/gs9QHaSNqe"
+            },
+            {
+              "display_url": "pic.x.com/gs9QHaSNqe",
+              "end": 129,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2106875102122180804/photo/1",
+              "media_key": "3_2106875052964954112",
+              "start": 106,
+              "url": "https://t.co/gs9QHaSNqe"
+            },
+            {
+              "display_url": "pic.x.com/gs9QHaSNqe",
+              "end": 129,
+              "expanded_url": "https://x.com/HANLIANYI331/status/2106875102122180804/photo/1",
+              "media_key": "3_2106875084824875008",
+              "start": 106,
+              "url": "https://t.co/gs9QHaSNqe"
+            },
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2042363765644312959",
+              "start": 130,
+              "url": "https://t.co/wsGlxxit5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106875102122180804",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2106874969942822912"
+          },
+          {
+            "media_key": "3_2106875034757447680"
+          },
+          {
+            "media_key": "3_2106875052964954112"
+          },
+          {
+            "media_key": "3_2106875084824875008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "我最早意识到汽车的重要性，是在十多年前\n\n一个十四岁的偏远地区女孩，初中读完后就被禁止继续读书，在被殴打和监禁后，强行许配给一个同村的男性，然后由这个男性强奸她，并让她在长期监禁下给这个男性生孩子，直到孩子出生\n\n派出所管不了，隔着几十公里，警车都上不去，而且整片山区都这样，当地文化就这样，15岁就生第三个，第四个娃的比比皆是\n\n外地的不敢管，语言都不通，生怕被山民打死，本地的早习惯了\n\n当年我邮寄到她学校的给她的智能手机被抢走，她在留下求救信息后，就彻底失联\n\n而她的地址，是鸟不拉屎的偏远地区\n\n离昆明市区300公里，离楚雄市区150公里，离最近的县60公里，连最近的她上学的学校和附近的派出所都要30公里，快递都送不进去，3g信号都时断时续\n\n离深圳1700多公里，这个数字哪怕十多年过去了，我都还记得\n\n我和我当年的女友和她认识的几个朋友一起去的，一共两辆车，一个普通的SUV，一个硬派越野车\n\n先到了派出所扯皮，后来最后一段路SUV上不去了，越野上去的。\n\n抢到人以后，所有人都以为女孩在越野车上，但其实已经跟着SUV走了\n\n到最终，即使村民不断的尝试破坏和拦截越野车，但还是失败了，越野车强行带着车损走远了\n\n不会有任何的出租车司机，网约车司机愿意沾染这些烂事的，给再多的钱都有可能跑单\n\n如果不是当年把事闹大了，警察都不想管，一个月几千的工资谁愿意招惹仇恨？\n\n不怕被一群穷山恶水的刁民围堵报复？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 680,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042363765644312959",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我最早意识到汽车的重要性，是在十多年前\n\n一个十四岁的偏远地区女孩，初中读完后就被禁止继续读书，在被殴打和监禁后，强行许配给一个同村的男性，然后由这个男性强奸她，并让她在长期监禁下给这个男性生孩子，直到孩子出生 https://t.co/gs9QHaSNqe https://t.co/wsGlxxit5N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2106883748923093096",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 382,
+          "like_count": 78266,
+          "listed_count": 7,
+          "media_count": 50,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "跨性别女性｜01年｜艺术学本科毕业、法学在读｜约十年危机干预和救助经历，曾为此散尽了个人的所有青春和财富\n\n我会记录十几年来的跨性别女性社群的生存境况，她们又是如何燃尽生命帮助其他人的。还有我自己的见闻和救助经历，如果想了解，可以查看我的很多早期的历史推文\n\n如果想和我互相关注，可以转发我的推文，我会关注转我推文的人",
+        "id": "1300828282061877249",
+        "is_identity_verified": true,
+        "location": "涟漪危机干预小组",
+        "most_recent_tweet_id": "2106875102122180804",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1300828282061877249/1683794048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43183,
+          "following_count": 4523,
+          "like_count": 2645,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 3376
+        },
+        "url": "",
+        "username": "HANLIANYI331",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

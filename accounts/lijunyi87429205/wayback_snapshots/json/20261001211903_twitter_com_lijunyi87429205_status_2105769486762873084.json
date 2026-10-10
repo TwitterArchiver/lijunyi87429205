@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2105752189885121004",
+    "created_at": "2026-10-01T21:19:03.000Z",
+    "display_text_range": [
+      14,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T22:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105769486762873084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1773041626581221376",
+          "start": 0,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105769486762873084",
+    "in_reply_to_user_id": "1773041626581221376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105752189885121004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nikikiki8964 可能差异变得过于巨大，就像顺直无法理解少数群体一样了？\n\n  不是所有人都能保持包容的www这是祸乱之源"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2105752189885121004",
+        "created_at": "2026-10-01T21:19:03.000Z",
+        "display_text_range": [
+          14,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105769486762873084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1773041626581221376",
+              "start": 0,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105769486762873084",
+        "in_reply_to_user_id": "1773041626581221376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105752189885121004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nikikiki8964 可能差异变得过于巨大，就像顺直无法理解少数群体一样了？\n\n  不是所有人都能保持包容的www这是祸乱之源"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2105752189885121004",
+        "created_at": "2026-10-01T20:10:19.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T21:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105752189885121004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105752189885121004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现我在确定自己说无浪漫无性恋出柜三四年以后，现在已经对顺直浪漫有性恋有点感到不适ptsd了，哪怕想想他们是怎么生活怎么社交怎么恋爱的都让我很烦躁很烦躁，不知道这是怎么了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2105769486762873084",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 384,
+          "like_count": 78102,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 2444
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "这是我随便讲讲的个人想法储存站｜尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "is_identity_verified": false,
+        "location": "匿名提问箱→",
+        "most_recent_tweet_id": "2105767127429046329",
+        "name": "Cackatoo",
+        "pinned_tweet_id": "2034228273673302354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1773041626581221376/1775496734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041207178724601856/0X4_SzOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 74,
+          "like_count": 120845,
+          "listed_count": 7,
+          "media_count": 64,
+          "tweet_count": 397
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

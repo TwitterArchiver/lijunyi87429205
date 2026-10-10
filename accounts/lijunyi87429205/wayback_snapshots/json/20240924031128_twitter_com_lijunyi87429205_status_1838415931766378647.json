@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1837798765115125760"
+      ],
+      "media_source_tweet_id": [
+        "1837798770823569559"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "1838415931766378647",
+    "created_at": "2024-09-24T03:11:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T04:11:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838415931766378647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1509939466101825542",
+          "start": 3,
+          "username": "22HomoPoliticus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p01eqjgdlj",
+          "end": 60,
+          "expanded_url": "https://twitter.com/22HomoPoliticus/status/1837798770823569559/photo/1",
+          "media_key": "3_1837798765115125760",
+          "start": 37,
+          "url": "https://t.co/P01EQjgdlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838415931766378647",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1837798770823569559",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @22HomoPoliticus: 这个是比较经典的社会主义笑话了 https://t.co/P01EQjgdlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_1837798765115125760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GYEsPWNWsAA4Iua.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837798765115125760"
+          ],
+          "media_source_tweet_id": [
+            "1837798770823569559"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "1838415931766378647",
+        "created_at": "2024-09-24T03:11:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T04:11:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838415931766378647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1509939466101825542",
+              "start": 3,
+              "username": "22HomoPoliticus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p01eqjgdlj",
+              "end": 60,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1837798770823569559/photo/1",
+              "media_key": "3_1837798765115125760",
+              "start": 37,
+              "url": "https://t.co/P01EQjgdlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838415931766378647",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837798770823569559",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @22HomoPoliticus: 这个是比较经典的社会主义笑话了 https://t.co/P01EQjgdlJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1837798765115125760"
+          ]
+        },
+        "author_id": "1509939466101825542",
+        "conversation_id": "1837798770823569559",
+        "created_at": "2024-09-22T10:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T11:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837798770823569559"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p01eqjgdlj",
+              "end": 39,
+              "expanded_url": "https://twitter.com/22HomoPoliticus/status/1837798770823569559/photo/1",
+              "media_key": "3_1837798765115125760",
+              "start": 16,
+              "url": "https://t.co/P01EQjgdlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1837798770823569559",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 288294,
+          "like_count": 1074,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "这个是比较经典的社会主义笑话了 https://t.co/P01EQjgdlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "业余作者 英语不好 ex madman",
+        "id": "1498354035854053377",
+        "location": "Elysium",
+        "name": "铜与蜡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 278,
+          "like_count": 13842,
+          "listed_count": 43,
+          "tweet_count": 418
+        },
+        "username": "lijunyi87429205",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-01T17:03:35.000Z",
+        "description": "Politics and International Relations. 本推订阅服务（点击右上角👆）会分享一些国际关系前沿学术著作、社会科学科普著作、深度社会评论、文学艺术评论、哲学笔记以及Substack专栏文章精彩内容等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@ignatiusdhlee",
+                "end": 23,
+                "expanded_url": "https://substack.com/@ignatiusdhlee",
+                "start": 0,
+                "url": "https://t.co/5siZDDccNb"
+              }
+            ]
+          }
+        },
+        "id": "1509939466101825542",
+        "name": "Ignatius Lee",
+        "pinned_tweet_id": "1832466968101974289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1560217467301072897/TcXnsnlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72285,
+          "following_count": 433,
+          "like_count": 82505,
+          "listed_count": 443,
+          "tweet_count": 21003
+        },
+        "url": "https://t.co/5siZDDccNb",
+        "username": "22HomoPoliticus",
+        "verified": true
+      }
+    ]
+  }
+}

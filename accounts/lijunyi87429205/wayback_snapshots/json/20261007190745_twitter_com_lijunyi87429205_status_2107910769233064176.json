@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2107787709402202266",
+    "created_at": "2026-10-07T19:07:45.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T20:07:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107910769233064176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1787086493636521984",
+          "start": 0,
+          "username": "Lucifers6x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107910769233064176",
+    "in_reply_to_user_id": "1787086493636521984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107787709402202266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lucifers6x 小理课堂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2107787709402202266",
+        "created_at": "2026-10-07T19:07:45.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T20:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107910769233064176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1787086493636521984",
+              "start": 0,
+              "username": "Lucifers6x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107910769233064176",
+        "in_reply_to_user_id": "1787086493636521984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107787709402202266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lucifers6x 小理课堂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787086493636521984",
+        "conversation_id": "2107787709402202266",
+        "created_at": "2026-10-07T10:58:45.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:58:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107787709402202266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107787709402202266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长得好看？或者是说做受欢迎的人最累的是会被灌注期待和被迫承担别人想被回应的焦虑。\n完全不是什么回避型这种事情，而是被恶意想象成一个因为每天在和一堆人聊所以才没回消息，这样的没质感的人，无数次的因为这种事情火大。\n如果要回击的话，这种人自己就是一个没质感的人吧^ ^"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2107910769233064176",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 385,
+          "like_count": 78437,
+          "listed_count": 7,
+          "media_count": 50,
+          "tweet_count": 2457
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-05T11:46:45.000Z",
+        "description": "｜这不公平的命指使我来的｜人生理想是干一休二十｜现在的理想是捡到一条十万的项链然后卖掉｜想哭就对了你生来就是流眼泪的｜别让我充满恨｜做好随时准备自杀的状态才能轻松地活着｜单机玩推，投射社交期待在我身上我会有压力",
+        "id": "1787086493636521984",
+        "is_identity_verified": false,
+        "location": "under ur skin",
+        "most_recent_tweet_id": "2107793332206530567",
+        "name": "在你的脉搏中起舞",
+        "pinned_tweet_id": "2069707187488989359",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1787086493636521984/1786946433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088442494208118784/GIcTlV36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 112,
+          "like_count": 5068,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 2578
+        },
+        "url": "",
+        "username": "Lucifers6x",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

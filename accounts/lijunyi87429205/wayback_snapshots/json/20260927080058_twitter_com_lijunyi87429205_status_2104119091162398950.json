@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2103485316615320001",
+    "created_at": "2026-09-27T08:00:58.000Z",
+    "display_text_range": [
+      25,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104119091162398950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1912519627802046467",
+          "start": 0,
+          "username": "tomorichizuki"
+        },
+        {
+          "end": 24,
+          "id": "1734992918312800257",
+          "start": 15,
+          "username": "xs_sanso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104119091162398950",
+    "in_reply_to_user_id": "1912519627802046467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103809544107315213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tomorichizuki @xs_sanso 就我个人而言…反而是降低了焦虑程度，欲望水平下降也少了一些麻烦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2103485316615320001",
+        "created_at": "2026-09-27T08:00:58.000Z",
+        "display_text_range": [
+          25,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104119091162398950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1912519627802046467",
+              "start": 0,
+              "username": "tomorichizuki"
+            },
+            {
+              "end": 24,
+              "id": "1734992918312800257",
+              "start": 15,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104119091162398950",
+        "in_reply_to_user_id": "1912519627802046467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103809544107315213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tomorichizuki @xs_sanso 就我个人而言…反而是降低了焦虑程度，欲望水平下降也少了一些麻烦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912519627802046467",
+        "conversation_id": "2103485316615320001",
+        "created_at": "2026-09-26T11:30:56.000Z",
+        "display_text_range": [
+          10,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103809544107315213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1734992918312800257",
+              "start": 0,
+              "username": "xs_sanso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103809544107315213",
+        "in_reply_to_user_id": "1734992918312800257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2679,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103485316615320001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xs_sanso 我都说了外源性激素这玩意除非病理治疗否则都会直接导致人生物节律混乱和激素失调的，外源性激素使用本身就是精神疾病导致的进一步堕落罢了，这对人精神还是身体都不可能存在任何好处"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2104119091162398950",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 380,
+          "like_count": 77793,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2438
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-16T14:53:17.000Z",
+        "description": "空の彼方僕しか何もいない",
+        "id": "1912519627802046467",
+        "is_identity_verified": false,
+        "location": "暁",
+        "most_recent_tweet_id": "2104078016750170359",
+        "name": "予空以月☯️予月以星⚙️機械修会審判官",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1912519627802046467/1779290601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998371974096273408/-TM6tP7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 368,
+          "like_count": 8790,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 4953
+        },
+        "url": "",
+        "username": "tomorichizuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T17:45:28.000Z",
+        "description": "我有精神病 负能量很多 随机碎碎念 没有其他号 匿名提问箱:https://t.co/IQtQodTr01",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xs_sanso",
+                "end": 53,
+                "expanded_url": "https://ngl.link/xs_sanso",
+                "start": 30,
+                "url": "https://t.co/IQtQodTr01"
+              }
+            ]
+          }
+        },
+        "id": "1734992918312800257",
+        "is_identity_verified": false,
+        "location": "离你1.14km",
+        "most_recent_tweet_id": "2104006653658198437",
+        "name": "かがみ_鏡",
+        "pinned_tweet_id": "2056801038179647753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734992918312800257/1788799783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076320963172651008/VYm1cPit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 41,
+          "like_count": 1876,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 2119
+        },
+        "url": "",
+        "username": "xs_sanso",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

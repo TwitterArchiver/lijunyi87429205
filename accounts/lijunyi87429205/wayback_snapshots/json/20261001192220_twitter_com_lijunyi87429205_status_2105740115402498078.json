@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105740106783137792"
+      ]
+    },
+    "author_id": "1498354035854053377",
+    "conversation_id": "2105740115402498078",
+    "created_at": "2026-10-01T19:22:20.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105740115402498078"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9xN5Vty4cv",
+          "end": 69,
+          "expanded_url": "https://x.com/lijunyi87429205/status/2105740115402498078/photo/1",
+          "media_key": "3_2105740106783137792",
+          "start": 46,
+          "url": "https://t.co/9xN5Vty4cv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105740115402498078",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105740106783137792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一整个夏天的结算肤色，超深，接下来会一年比一年浅色。\n  （仍然是为了方便社会接受度的短发 https://t.co/9xN5Vty4cv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105740106783137792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTkXeG4aIAA14Sq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105740106783137792"
+          ]
+        },
+        "author_id": "1498354035854053377",
+        "conversation_id": "2105740115402498078",
+        "created_at": "2026-10-01T19:22:20.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105740115402498078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9xN5Vty4cv",
+              "end": 69,
+              "expanded_url": "https://x.com/lijunyi87429205/status/2105740115402498078/photo/1",
+              "media_key": "3_2105740106783137792",
+              "start": 46,
+              "url": "https://t.co/9xN5Vty4cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105740115402498078",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105740106783137792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一整个夏天的结算肤色，超深，接下来会一年比一年浅色。\n  （仍然是为了方便社会接受度的短发 https://t.co/9xN5Vty4cv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2105740115402498078",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 384,
+          "like_count": 78088,
+          "listed_count": 7,
+          "media_count": 49,
+          "tweet_count": 2443
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

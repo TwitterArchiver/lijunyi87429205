@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1498354035854053377",
+    "conversation_id": "2102431067152220221",
+    "created_at": "2026-09-22T16:54:24.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:54:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102441395827216657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2040872171602694144",
+          "start": 0,
+          "username": "Joehxc0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102441395827216657",
+    "in_reply_to_user_id": "2040872171602694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102431067152220221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Joehxc0 推特压爆画质了，要不要分四张发？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2102431057958326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1V6HZa0AAJeO-.jpg",
+        "width": 148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498354035854053377",
+        "conversation_id": "2102431067152220221",
+        "created_at": "2026-09-22T16:54:24.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:54:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102441395827216657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2040872171602694144",
+              "start": 0,
+              "username": "Joehxc0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102441395827216657",
+        "in_reply_to_user_id": "2040872171602694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102431067152220221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joehxc0 推特压爆画质了，要不要分四张发？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102431057958326272"
+          ]
+        },
+        "author_id": "2040872171602694144",
+        "conversation_id": "2102431067152220221",
+        "created_at": "2026-09-22T16:13:22.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102431067152220221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ehvYKNEgbm",
+              "end": 28,
+              "expanded_url": "https://x.com/Joehxc0/status/2102431067152220221/photo/1",
+              "media_key": "3_2102431057958326272",
+              "start": 5,
+              "url": "https://t.co/ehvYKNEgbm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102431067152220221",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102431057958326272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "送别诗。 https://t.co/ehvYKNEgbm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-02-28T17:47:35.000Z",
+        "description": "non-binary/生理男性/非专业作者\n创作：诗 悲喜剧 短篇小说 / \n可以对我用您觉得任何合适的指代，但如果把我当作朋友，请用“意”这个名字吧",
+        "id": "1498354035854053377",
+        "is_identity_verified": false,
+        "location": "Elysium",
+        "most_recent_tweet_id": "2102441395827216657",
+        "name": "意之意",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1498354035854053377/1753640222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583077390455971840/VFX6dQZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 374,
+          "like_count": 77354,
+          "listed_count": 7,
+          "media_count": 48,
+          "tweet_count": 2416
+        },
+        "url": "",
+        "username": "lijunyi87429205",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T19:20:41.000Z",
+        "description": "我在假装认真思考我自己的事情\n提问箱：https://t.co/N6UtVnhlyW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jo50873",
+                "end": 42,
+                "expanded_url": "https://ngl.link/jo50873",
+                "start": 19,
+                "url": "https://t.co/N6UtVnhlyW"
+              }
+            ]
+          }
+        },
+        "id": "2040872171602694144",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102431067152220221",
+        "name": "Joe",
+        "pinned_tweet_id": "2050290259775390162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040872171602694144/1775724293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101545634222465024/bdMFKhkH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 807,
+          "like_count": 4928,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 789
+        },
+        "url": "",
+        "username": "Joehxc0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
